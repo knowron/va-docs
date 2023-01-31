@@ -1,6 +1,6 @@
 # Welcome to ASMPT
 
-Hello! My name is Arturo, I am the Co-Founder and CPO of [**ASMPT**](https://www.knowron.com/). 
+Hello! My name is Arturo, I am the Co-Founder and CPO of [**K‎N‎O‎W‎R‎O‎N**](https://www.knowron.com/). 
 
 We make organizational knowledge easily accessible for everyone.
 <p align="center"><img src="https://uploads-ssl.webflow.com/5fb7dee20da971151ba8dd09/5fc63de6ce2996845e34e182_arturo.png" width="200"></p>
