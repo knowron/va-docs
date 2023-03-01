@@ -9,6 +9,8 @@ replace_pairs = [
     ("Control Suite", "Virtual Assist Web")
     ]
 
+ignore = [".github", "site", ".git"]
+
 exceptions = [""]
 
 def replace(filename):
@@ -38,11 +40,20 @@ def undo_replace(filename):
         file.write(filedata)
 
 
+def should_be_ignored(filepath):
+    path_components = os.path.normpath(filepath).split(os.path.sep)
+    for element_to_be_ignored in ignore:
+        if element_to_be_ignored in path_components:
+            return True
+    return False
+
+
 if __name__ == "__main__":
     
     for path, subdirs, files in os.walk(root):
         for name in files:
             full_filepath = os.path.join(path, name)
             filename, file_extension = os.path.splitext(full_filepath)
-            if file_extension == ".md":
+            if file_extension == ".md" and not should_be_ignored(path):
+                print("Processing " +filename + "...")
                 replace(full_filepath)
