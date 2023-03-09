@@ -2,11 +2,20 @@ import os
 root = ".."
 
 replace_pairs = [
-    ("KNOWRON", "ASMPT"), 
-    ("Knowron", "ASMPT"), 
+    ("KNOWRON Assistant", "ASMPT Virtual Assist"), 
+    ("Native Assistant", "Virtual Assist App"), 
     ("Assistant", "Virtual Assist App"), 
     ("Assistent", "Virtual Assist App"), 
-    ("Control Suite", "Virtual Assist Web")
+    ("Control Suite", "Virtual Assist Web"),
+    ("Knowron", "ASMPT Virtual Assist"),
+    ("KNOWRON", "ASMPT Virtual Assist"),
+
+    # Images
+    ("imgur.com/EAaxESg", "imgur.com/mL7XYMH"), # Banner image,
+
+    # Links
+    ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
+    ("https://docs.knowron.com", "https://va-docs.knowron.com")
     ]
 
 ignore = [".github", "site", ".git"]
@@ -47,13 +56,15 @@ def should_be_ignored(filepath):
             return True
     return False
 
-
-if __name__ == "__main__":
-    
+def localize():
     for path, subdirs, files in os.walk(root):
         for name in files:
             full_filepath = os.path.join(path, name)
             filename, file_extension = os.path.splitext(full_filepath)
-            if file_extension == ".md" and not should_be_ignored(path):
+            if (file_extension == ".md" or file_extension=="yml") and not should_be_ignored(path):
                 print("Processing " +filename + "...")
                 replace(full_filepath)
+
+
+if __name__ == "__main__":
+    localize()
