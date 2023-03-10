@@ -7,8 +7,7 @@ def sync():
     destination_path ="../docs"
     if os.path.isdir(original_path) and os.path.isdir(destination_path):
         shutil.copytree(original_path, destination_path, dirs_exist_ok=True)
-    # shututil.copytree()
-
+    
 if __name__ == "__main__":
     sync()
     localize()

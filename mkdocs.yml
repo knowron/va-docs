@@ -1,4 +1,4 @@
-site_name: Virtual Assist Docs
+site_name: ASMPT Virtual Assist
 theme:
   name: material
   language: en
@@ -18,8 +18,10 @@ theme:
   features:
     - navigation.indexes
     - navigation.sections
+    - toc.follow
 plugins:
   - search
+  - glightbox
   - i18n:
       default_language: en
       languages:
@@ -31,3 +33,29 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - toc:
+      permalink: ⚓︎
+      permalink_title: Permalink
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Introduction: "index.en.md"
+  - Quick Start Guides:
+      - "Virtual Assist App (Mobile)": "Getting Started/quick-start-guide-assistant.md"
+      - "Virtual Assist Web (Web)": "Getting Started/quick-start-guide-cs.md"
+      - "Virtual Assist Web (Web) Admins" : "Getting Started/quick-start-guide-cs-admins.en.md"
+      - "Virtual Assist Web (Web) Editors" : "Getting Started/quick-start-guide-cs-editors.en.md"
+  - Features:
+      - "Features/search.md"
+      - "Features/documents.md"
+      - "Features/troubleshooting.md"
+  - Admin:
+      - Security and Access:
+          - "Admin Documentation/Security and Access/product_access_groups.md"
+          - "Admin Documentation/Security and Access/roles_and_permissions.md"
+          - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
+  - About ASMPT Virtual Assist:
+      - "About ASMPT Virtual Assist/faq.md"
