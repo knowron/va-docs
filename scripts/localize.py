@@ -9,6 +9,12 @@ replace_pairs = [
     ("Control Suite", "Virtual Assist Web"),
     ("Knowron", "ASMPT Virtual Assist"),
     ("KNOWRON", "ASMPT Virtual Assist"),
+    ("what-is-knowron", "what-is-virtual-assist"),
+
+    # Misc text
+    ("Epsilon Series", "SIPLACE SX Series"),
+    ("mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0A Ich habe keinen Zugriff auf dem System. Schalten Sie mich bitte frei. %0D%0A%0D%0ADanke!", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
+    ("mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0AI am unable to access the system. Please provide support.%0D%0A%0D%0AThank you!", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
 
     # Images
     ("imgur.com/EAaxESg", "imgur.com/mL7XYMH"), # Banner image,
@@ -17,11 +23,20 @@ replace_pairs = [
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
     ("https://docs.knowron.com", "https://va-docs.knowron.com"),
     ("https://suite.knowron.com", "https://virtualassist.smt.asmpt.com/"),
+    ("https://www.knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
+    ("suite.knowron.com", "virtualassist.smt.asmpt.com"),
+    ("<arturo@knowron.com>", "[us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)"),
+
+    ("https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron", "https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant"),
+    ("https://apps.apple.com/en-us/app/knowron-assistant/id1585382448", "https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842"),
+    ("https://apps.apple.com/at/app/knowron-assistant/id1585382448", "https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842"),
+
     # YML config
     ("site_name: KNOWRON", "site_name: Virtual Assist Docs"),
     ("primary: deep orange", "primary: red"),
     ("accent: indigo", "accent: orange"),
-    ("<arturo@knowron.com>", "[us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)"),
+    
+    
     ]
 
 ignore = [".github", "site", ".git"]
