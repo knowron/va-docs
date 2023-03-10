@@ -2,9 +2,9 @@
 
 !!! tip "Need more options? Talk to us!"
 
-    ASMPT's system is designed for maximum modularity for enterprise customers. If you need other roles or a different set of permissions, please let us know - simply contact <arturo@knowron.com>.
+    ASMPT Virtual Assist's system is designed for maximum modularity for enterprise customers. If you need other roles or a different set of permissions, please let us know - simply contact [us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist).
 
-ASMPT allows you to choose what features and what access each individual user gets. Some users, such as younger colleagues, will be mostly **consuming** information, while more experienced ones will be **creating and curating** a lot of it.
+ASMPT Virtual Assist allows you to choose what features and what access each individual user gets. Some users, such as younger colleagues, will be mostly **consuming** information, while more experienced ones will be **creating and curating** a lot of it.
 
 Every user has a **role**. This role determines what actions they can take and even what features they have access to. Users can currently have one of three roles: 
 
@@ -58,7 +58,7 @@ Editors are **not** entitled to change global settings, or invite other colleagu
 
 ### Viewer
 
-Admins are **normal users**. They are the bulk of ASMPT's user base. They are often service engineer and field technicians that need access to information fast. They don't always have the time or the expertise to create or change content, so they are not allowed to.
+Viewers are **normal users**. They are the bulk of ASMPT Virtual Assist's user base. They are often service engineer and field technicians that need access to information fast. They don't always have the time or the expertise to create or change content, so they are not allowed to.
 
 They can see all **content units** (tutorials, troubleshooting, documents and product lines) as well as, of course, search.
 

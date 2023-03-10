@@ -2,9 +2,9 @@
 
 !!! tip "Brauchen Sie mehr Optionen? Sprechen Sie mit uns!"
 
-    Das System von ASMPT ist auf maximale Modularität für Unternehmenskunden ausgelegt. Wenn Sie andere Rollen oder einen anderen Satz von Berechtigungen benötigen, lassen Sie es uns wissen - kontaktieren Sie uns einfach <arturo@knowron.com>.
+    Das System von ASMPT Virtual Assist ist auf maximale Modularität für Unternehmenskunden ausgelegt. Wenn Sie andere Rollen oder einen anderen Satz von Berechtigungen benötigen, lassen Sie es uns wissen - kontaktieren Sie uns einfach [us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist).
 
-Mit ASMPT können Sie wählen, welche Funktionen und welchen Zugriff jeder einzelne Benutzer erhält. Einige Benutzer, wie z.B. jüngere Kollegen, werden hauptsächlich Informationen **konsumieren**, während erfahrenere Benutzer viel davon **erstellen und kuratieren**.
+Mit ASMPT Virtual Assist können Sie wählen, welche Funktionen und welchen Zugriff jeder einzelne Benutzer erhält. Einige Benutzer, wie z.B. jüngere Kollegen, werden hauptsächlich Informationen **konsumieren**, während erfahrenere Benutzer viel davon **erstellen und kuratieren**.
 
 Jeder Benutzer hat eine **Rolle**. Diese Rolle bestimmt, welche Aktionen sie durchführen können und sogar auf welche Funktionen sie Zugriff haben. Benutzer können derzeit eine von drei Rollen haben: 
 
@@ -56,7 +56,7 @@ Redakteure sind **nicht** berechtigt, globale Einstellungen zu ändern oder ande
 
 ### Betrachter
 
-Admins sind **normale Benutzer**. Sie machen den Großteil der ASMPT Nutzer aus. Sie sind oft Service-Ingenieure und Außendiensttechniker, die schnell auf Informationen zugreifen müssen. Sie haben nicht immer die Zeit oder das Fachwissen, um Inhalte zu erstellen oder zu ändern, daher ist es ihnen nicht erlaubt.
+Admins sind **normale Benutzer**. Sie machen den Großteil der ASMPT Virtual Assist Nutzer aus. Sie sind oft Service-Ingenieure und Außendiensttechniker, die schnell auf Informationen zugreifen müssen. Sie haben nicht immer die Zeit oder das Fachwissen, um Inhalte zu erstellen oder zu ändern, daher ist es ihnen nicht erlaubt.
 
 Sie können alle **Inhaltseinheiten** (Anleitungen, Fehlersuche, Dokumente und Produktlinien) sehen und natürlich auch suchen.
 

@@ -1,6 +1,6 @@
 # Late December Product Update
 
-## ASMPT Virtual Assist App
+## ASMPT Virtual Assist Virtual Assist App
 
 ### v1.1.7 - Tags now loaded dynamically
 
@@ -17,7 +17,7 @@
   <figcaption>Privacy policy upload</figcaption>
 </figure>
 
-- **New**: Editors can now select an article template before writing a new article. Templates lower the barrier for creating structured information for your colleagues. Talk to ASMPT in order to create templates for your organization!
+- **New**: Editors can now select an article template before writing a new article. Templates lower the barrier for creating structured information for your colleagues. Talk to ASMPT Virtual Assist in order to create templates for your organization!
 
 <figure markdown>
   ![Article templates](https://mcusercontent.com/798b65fe808f1a67db54e6d18/images/f53016ae-4a9e-59df-86c4-55eb015d1b58.gif){ width="100%", align="center" }

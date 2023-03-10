@@ -1,6 +1,6 @@
 # Update-Index
 
-Hallo! Auf dieser Seite versuchen wir, Sie über alle neuen Funktionen und Änderungen im ASMPT Virtual Assist App und in der Virtual Assist Web auf dem Laufenden zu halten.
+Hallo! Auf dieser Seite versuchen wir, Sie über alle neuen Funktionen und Änderungen im ASMPT Virtual Assist und in der Virtual Assist Web auf dem Laufenden zu halten.
 
 Besuchen Sie die Unterseiten, um mehr zu erfahren!
 

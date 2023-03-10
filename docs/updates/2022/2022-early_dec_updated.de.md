@@ -1,11 +1,11 @@
 # Anfang Dezember Produkt-Update
 
-Hallo zusammen! Hier bei ASMPT haben wir an einer Reihe von Funktionen und Verbesserungen gearbeitet, von denen wir glauben, dass sie Ihr Leben und das Ihrer Kollegen einfacher machen werden!
+Hallo zusammen! Hier bei ASMPT Virtual Assist haben wir an einer Reihe von Funktionen und Verbesserungen gearbeitet, von denen wir glauben, dass sie Ihr Leben und das Ihrer Kollegen einfacher machen werden!
 
 Hier ist ein Überblick: 
 
-## ASMPT Virtual Assist App
-> Wie immer können Sie den ASMPT Virtual Assist App im [Apple App Store](https://apps.apple.com/at/app/knowron-assistant/id1585382448 "ASMPT Virtual Assist App im App Store") oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron "ASMPT Virtual Assist App bei Google Play") herunterladen.
+## ASMPT Virtual Assist Virtual Assist App
+> Wie immer können Sie den ASMPT Virtual Assist im [Apple App Store](https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842 "ASMPT Virtual Assist im App Store") oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant "ASMPT Virtual Assist bei Google Play") herunterladen.
 
 ### v1.1.5 - Benutzer können jetzt Dokumente und Bilder einfacher lesen
 - **Neu**: Sie können Dokumente jetzt im Querformat lesen. Dadurch haben Sie mehr Platz zum Heranzoomen und Betrachten von kleinem Text oder schwer lesbaren Diagrammen.
@@ -26,24 +26,20 @@ Hier ist ein Überblick:
 
 - **Verbesserung**: Wenn es nur eine Produktlinie zur Auswahl gibt, wird diese standardmäßig ausgewählt.
 
-### v1.1.4 - Externe Benutzer können jetzt auf das ASMPT System zugreifen
+### v1.1.4 - Externe Benutzer können jetzt auf das ASMPT Virtual Assist System zugreifen
 
-- **Neu**: Administratoren können nun externen Benutzern Zugang zu ihrer Dokumentation und ihrem Wissen gewähren, während sie gleichzeitig entscheiden können, was innerhalb der Organisation verwaltet werden soll! Kontaktieren Sie ASMPT für weitere Details.
+- **Neu**: Administratoren können nun externen Benutzern Zugang zu ihrer Dokumentation und ihrem Wissen gewähren, während sie gleichzeitig entscheiden können, was innerhalb der Organisation verwaltet werden soll! Kontaktieren Sie ASMPT Virtual Assist für weitere Details.
 
 - **Verbesserung**: Der Bildschirm Dokumente filtert jetzt nach Dokumententiteln und paginiert das Ergebnis.
 
 - **Verbesserung**: Die Auswahl eines Produkts wurde vereinfacht, um Fragen zu stellen. Es wurde sichergestellt, dass alle Bildschirmelemente ohne Scrollen auf dem QR-Code-Scan-Bildschirm sichtbar sind.
 
 ## Virtual Assist Web
-> Sie können die [ASMPT Virtual Assist Web] (https://suite.knowron.com/ "ASMPT Virtual Assist Web") in jedem Browser aufrufen.
+> Sie können die [ASMPT Virtual Assist Virtual Assist Web] (https://virtualassist.smt.asmpt.com// "ASMPT Virtual Assist Virtual Assist Web") in jedem Browser aufrufen.
 
-### v0.3.0 - Externe Benutzer können nun auf das ASMPT System zugreifen
-- **Neu**: Sie können jetzt ganze Organisationen einladen, um Zugang zu einem Teil des Wissens zu erhalten, das sie in ASMPT eingepflegt haben. Dies ist besonders nützlich für Kunden und Auftragnehmer, die Ihre Einrichtungen oder Maschinen nutzen! Admins und Redakteure können entscheiden, welche Inhalte sie mit externen Nutzern teilen. Fragen Sie uns danach, damit wir es gemeinsam einrichten können!
+### v0.3.0 - Externe Benutzer können nun auf das ASMPT Virtual Assist System zugreifen
+- **Neu**: Sie können jetzt ganze Organisationen einladen, um Zugang zu einem Teil des Wissens zu erhalten, das sie in ASMPT Virtual Assist eingepflegt haben. Dies ist besonders nützlich für Kunden und Auftragnehmer, die Ihre Einrichtungen oder Maschinen nutzen! Admins und Redakteure können entscheiden, welche Inhalte sie mit externen Nutzern teilen. Fragen Sie uns danach, damit wir es gemeinsam einrichten können!
 
 - **Neu**: Benutzer können jetzt den neuen Anmeldebildschirm verwenden, um ihre Passwörter zurückzusetzen. 
 
 - **Verbesserung**: Die Benutzer können jetzt in der Benutzer- und Dokumentenübersicht suchen, um die gesuchte Person oder das gesuchte Dokument schneller zu finden.
-
-## Lassen Sie uns wissen, was Sie denken!
-
-Sie können mich jederzeit unter [arturo@knowron.com](mailto:arturo@knowron.com "Give us some feedback!") erreichen.

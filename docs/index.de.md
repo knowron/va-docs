@@ -1,28 +1,40 @@
-# Willkommen bei ASMPT
+# Einführung
 
-Hallo! Mein Name ist Arturo, ich bin der Mitbegründer und CPO von [**K‎N‎O‎W‎R‎O‎N**](https://www.knowron.com/). 
+#### Willkommen bei ASMPT Virtual Assist
 
-Wir machen organisatorisches Wissen für jeden leicht zugänglich.
-<p align="center"><img src="https://uploads-ssl.webflow.com/5fb7dee20da971151ba8dd09/5fc63de6ce2996845e34e182_arturo.png" width="200"></p>
+<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
+
+ASMPT Virtual Assist ist der persönliche Virtual Assist App für mobile Arbeitskräfte. **Wir machen organisatorisches Wissen durch eine einfache Suchoberfläche leicht zugänglich.** Das bedeutet, dass Sie nicht mehr an 4 oder 5 verschiedenen Stellen nach den Informationen für Ihre Arbeit suchen müssen, sondern nur noch ASMPT Virtual Assist brauchen.
+
+ASMPT Virtual Assist ist auf Ihrem Telefon und im Internet verfügbar.
 
 !!! note
 
     Unsere Dokumentation ist auch auf Englisch verfügbar!
     <p align="center">
-    [English documentation 🇬🇧](https://docs.knowron.com/en){ .md-button .md-button--primary }
+    [English documentation 🇬🇧](https://va-docs.knowron.com/en){ .md-button .md-button--primary }
     </p>
-    
 
+## Warum sollten Sie ASMPT Virtual Assist nutzen?
 
-Der **ASMPT-Virtual Assist App** ist ein neues, auf natürlicher Sprachverarbeitung basierendes System, das Ihnen schneller als je zuvor Zugang zu den Informationen über Ihre Anlage oder Maschine verschafft.
+**Single Source of Truth für Ihre Serviceorganisation**
 
-Die folgenden Seiten geben Ihnen einen Überblick über die Möglichkeiten des Systems. Diese Seite wird regelmäßig aktualisiert, insbesondere wenn neue Funktionen hinzugefügt werden.
+Steht die Montageanleitung dieser Maschine im Servicehandbuch oder im Benutzerhandbuch, das Sie ausgedruckt haben? Oder stand sie in der Schulungsdokumentation auf Sharepoint?
 
-Unsere Ziele mit dieser Anwendung sind:
+Mit ASMPT Virtual Assist gibt es keine Fragen mehr - finden Sie alles an einem Ort.
 
-- Sie effizienter zu machen, sowohl innerhalb als auch außerhalb des Unternehmens.
-- Das mühsame Nachschlagen von Informationen, wie es in Dienstleistungsunternehmen üblich ist, entfällt.
-- Kunden zu befähigen, Fragen an das System zu stellen, anstatt die Support-Hotline zu überlasten.
-- Halten Sie Ihre Zeit frei für die Arbeit, die am wichtigsten ist!
+**Blitzschneller Zugriff auf Ihre Informationen**
 
-Sie können mich jederzeit unter <arturo@knowron.com> erreichen, wenn Sie mehr wissen wollen oder Unterstützung benötigen. Wir sprechen uns bald!
+Nehmen Sie Ihr Telefon, stellen Sie eine Frage mit Ihren eigenen Worten und erhalten Sie die richtige Antwort. Alles in nur 5 Sekunden. ASMPT Virtual Assist macht Ihre Zeit frei, für die Arbeit, die am wichtigsten ist.
+
+**ASMPT Virtual Assist beantwortet Ihre Fragen**
+
+Wann immer es möglich ist, versuchen wir, exakte Antworten auf Ihre Fragen zu formulieren, damit Sie nicht in umfangreichen Dokumentationen nachschlagen müssen - unsere KI erledigt das für Sie.
+
+**Tutorials und Fehlerbehebung für Ihre Entlastung**
+
+Sie sind ein Experte auf Ihrem Gebiet, aber ein wenig Hilfe ist immer gut. Befolgen Sie Schritt-für-Schritt-Anleitungen mit Bildern und Videos, um sicherzustellen, dass Wartungs- und Reparaturprozesse ein Kinderspiel sind.
+
+**Ihre Fragen erreichen immer die richtige Person**
+
+Sollten Sie einmal kein Ergebnis erhalten, das Ihnen bei Ihrer Arbeit weiterhilft, lassen Sie es Ihre Kollegen wissen. ASMPT Virtual Assist wird es an sie weiterleiten. Die Zuständigen in der technischen Dokumentation oder im First-Level-Support Bescheid werden die Wissenslücke für Sie füllen.

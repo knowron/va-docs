@@ -1,6 +1,6 @@
 # Produkt-Update Ende Januar
 
-## ASMPT Virtual Assist App
+## ASMPT Virtual Assist Virtual Assist App
 
 ### v1.1.8 - Zugang beantragen, Feedback geben und Bugs beseitigen
 - **Neu**: Wenn Benutzer noch keinen Zugang zur Anwendung haben, können sie einfach über den Anmeldebildschirm Zugang beantragen. Die entsprechende E-Mail wird dann an die richtige Person weitergeleitet, um den Zugang zu ermöglichen.

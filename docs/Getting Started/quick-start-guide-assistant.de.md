@@ -1,35 +1,34 @@
-# Kurzanleitung für den ASMPT Virtual Assist App
+# Kurzanleitung für den Virtual Assist App (Mobile)
 
-Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **ASMPT Virtual Assist App** zu benutzen. Wenn Sie mehr über ASMPT erfahren möchten, lesen Sie ["Was ist ASMPT?"](what-is-knowron.md) Wenn Sie Fragen haben oder Unterstützung benötigen, [wenden Sie sich bitte direkt an uns](mailto:arturo@knowron.com)!
+Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **ASMPT Virtual Assist** zu benutzen. Wenn Sie mehr über ASMPT Virtual Assist erfahren möchten, lesen Sie ["Was ist ASMPT Virtual Assist?"](what-is-virtual-assist.md) Wenn Sie Fragen haben oder Unterstützung benötigen, [wenden Sie sich bitte direkt an uns](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
-<p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 
 ---
 
-## Schritt 1. Herunterladen des ASMPT Virtual Assist Apps
+## Schritt 1. Herunterladen des ASMPT Virtual Assists
 
-Der ASMPT Virtual Assist App ist sowohl für Android- als auch für Apple-Geräte in den jeweiligen App-Stores verfügbar. Der Download ist kostenlos. Klicken Sie einfach auf die unten stehenden Links oder scannen Sie sie mit Ihrem Smartphone.
+Der ASMPT Virtual Assist Virtual Assist App ist sowohl für Android- als auch für Apple-Geräte in den jeweiligen App-Stores verfügbar. Der Download ist kostenlos. Klicken Sie einfach auf die unten stehenden Links oder scannen Sie sie mit Ihrem Smartphone.
 
-| <p align="center">Google Play Store</p>      | <p align="center">Apple App Store</p>                       |
-| ----------- | ------------------------------------ |
-|    <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Herunterladen](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron){ .md-button }</p>    | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Herunterladen](https://apps.apple.com/en-us/app/knowron-assistant/id1585382448){ .md-button }</p>  |
-
+| <p align="center">Google Play Store</p>                                                                                                                                                 | <p align="center">Apple App Store</p>                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Herunterladen](https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant){ .md-button }</p> | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Herunterladen](https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842){ .md-button }</p> |
 
 Öffnen Sie nach dem Download die App.
 
-## Schritt 2. Sich in die ASMPT Virtual Assist Web einloggen
+## Schritt 2. Sich in die ASMPT Virtual Assist Virtual Assist Web einloggen
 
-Sobald Sie den ASMPT Virtual Assist App öffnen, sehen Sie den Login-Bildschirm (siehe unten).
+Sobald Sie den ASMPT Virtual Assist öffnen, sehen Sie den Login-Bildschirm (siehe unten).
 
-Sie brauchen nur Ihre E-Mail-Adresse und Ihr ASMPT-Passwort, um sich in das System einzuloggen. Ihre **E-Mail** ist normalerweise Ihre Arbeits-E-Mail. Ihr **Passwort** finden Sie in der E-Mail, die Sie erhalten haben, um Ihrer Organisation auf ASMPT beizutreten (siehe unten).
+Sie brauchen nur Ihre E-Mail-Adresse und Ihr ASMPT Virtual Assist-Passwort, um sich in das System einzuloggen. Ihre **E-Mail** ist normalerweise Ihre Arbeits-E-Mail. Ihr **Passwort** finden Sie in der E-Mail, die Sie erhalten haben, um Ihrer Organisation auf ASMPT Virtual Assist beizutreten (siehe unten).
 
 ??? info "Finden Sie Ihr Passwort oder Ihre E-Mail nicht?"
 
     <p align="center"><img src="https://i.imgur.com/gXh9xJt.png" width="100%"><figcaption>Hier finden Sie Ihr Passwort in der Einladungs-E-Mail.</figcaption></p>
 
-    Wenn Sie Ihr Passwort vergessen haben, können Sie es direkt auf [suite.knowron.com](https://suite.knowron.com) zurücksetzen. Klicken Sie einfach auf "Forgot password" und folgen Sie den Anweisungen auf dem Bildschirm.
+    Wenn Sie Ihr Passwort vergessen haben, können Sie es direkt auf [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com/) zurücksetzen. Klicken Sie einfach auf "Forgot password" und folgen Sie den Anweisungen auf dem Bildschirm.
 
-    Wenn Sie keine E-Mail erhalten haben, in der Sie zu ASMPT eingeladen werden, wenden Sie sich bitte an Ihre Kollegen, die damit arbeiten, oder [schreiben Sie uns an](mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0A Ich habe keinen Zugriff auf dem System. Schalten Sie mich bitte frei. %0D%0A%0D%0ADanke!).
+    Wenn Sie keine E-Mail erhalten haben, in der Sie zu ASMPT Virtual Assist eingeladen werden, wenden Sie sich bitte an Ihre Kollegen, die damit arbeiten, oder [schreiben Sie uns an](https://smt.asmpt.com/en/products/software-solutions/virtual-assist).
 
 Wenn Sie Ihre E-Mail und Ihr Passwort haben, geben Sie sie einfach ein und melden Sie sich an!
 
@@ -47,11 +46,11 @@ Nach der Anmeldung sehen Sie unseren Startbildschirm, auf dem Sie aufgefordert w
 
 Wenn Sie noch keine Seriennummer oder keinen Maschinen-QR-Code haben, können Sie auch direkt eine Produktlinie auswählen.
 
-**Produktlinien** stehen für die Maschinen, Anlagen oder Prozesse, die Ihr Unternehmen betreibt und mit denen Sie jeden Tag arbeiten. Produktlinien sind dazu da, dem ASMPT System einen Kontext zu geben - d.h. worüber stellen Sie Fragen?
+**Produktlinien** stehen für die Maschinen, Anlagen oder Prozesse, die Ihr Unternehmen betreibt und mit denen Sie jeden Tag arbeiten. Produktlinien sind dazu da, dem ASMPT Virtual Assist System einen Kontext zu geben - d.h. worüber stellen Sie Fragen?
 
 Bevor Sie fortfahren, müssen Sie die Produktlinie auswählen, die für Sie relevant ist. Sie können auf das Scan-Bild und dann auf das Produktfeld oben auf dem Bildschirm tippen. Alternativ können Sie auch direkt auf dem Startbildschirm auf Produkte tippen.
 
-Sie befinden sich nun auf dem Bildschirm "Produkte". Wählen Sie einfach eines aus der Liste aus, zum Beispiel: "Epsilon Series".
+Sie befinden sich nun auf dem Bildschirm "Produkte". Wählen Sie einfach eines aus der Liste aus, zum Beispiel: "SIPLACE SX Series".
 
 Sie können die untenstehenden Anweisungen befolgen.
 
@@ -61,9 +60,9 @@ Wenn Sie eine Seriennummer oder einen Maschinen-QR-Code haben, ist es einfacher.
 
 ??? info "Haben Sie bereits eine Seriennummer oder einen Maschinen-QR-Code?"
 
-    Wenn Sie bereits eine Seriennummer oder einen ASMPT QR-Code haben, bedeutet das, dass Ihre Organisation schon etwas länger mit ASMPT arbeitet. Das ist großartig! Alle Ihre Maschinendaten sollten nun für Sie verfügbar sein.
+    Wenn Sie bereits eine Seriennummer oder einen ASMPT Virtual Assist QR-Code haben, bedeutet das, dass Ihre Organisation schon etwas länger mit ASMPT Virtual Assist arbeitet. Das ist großartig! Alle Ihre Maschinendaten sollten nun für Sie verfügbar sein.
 
-    Tippen Sie zunächst auf das Scan-Bild. Anschließend können Sie die Seriennummer in das dafür vorgesehene Feld eingeben. Alternativ können Sie auch direkt einen ASMPT QR-Code scannen. Tippen Sie einfach auf das Kamerasymbol, um die Kamera zu aktivieren und richten Sie sie direkt auf den QR-Code. Die App sollte Ihr Gerät schnell identifizieren.
+    Tippen Sie zunächst auf das Scan-Bild. Anschließend können Sie die Seriennummer in das dafür vorgesehene Feld eingeben. Alternativ können Sie auch direkt einen ASMPT Virtual Assist QR-Code scannen. Tippen Sie einfach auf das Kamerasymbol, um die Kamera zu aktivieren und richten Sie sie direkt auf den QR-Code. Die App sollte Ihr Gerät schnell identifizieren.
 
     <p align="center"><img src="https://i.imgur.com/viecoHm.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
 
@@ -75,7 +74,7 @@ Sie haben nun Zugriff auf die gesamte Dokumentation für die von Ihnen gewählte
 
 Tippen Sie auf das Tastatursymbol am unteren Rand Ihres Bildschirms. Damit wird unser Virtual Assist Appen-Panel angezeigt, in das Sie eingeben können, was Sie wissen möchten. Sie können auch das Mikrofon-Symbol verwenden, um Ihre Frage direkt mit der Sprache zu stellen.
 
-Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. ASMPT durchsucht dann Ihre gesamte Wissensdatenbank und zeigt Ihnen die wichtigsten Ergebnisse an. Versuchen Sie `Was ist PLA?`.
+Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. ASMPT Virtual Assist durchsucht dann Ihre gesamte Wissensdatenbank und zeigt Ihnen die wichtigsten Ergebnisse an. Versuchen Sie `Was ist PLA?`.
 
 Die Ergebnisse sind unten dargestellt.
 
@@ -101,7 +100,7 @@ In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und v
 
 !!! tip "Durch das Stellen von Fragen erhalten Sie bessere Ergebnisse"
 
-    ASMPT nutzt modernstes NLP, um zu verstehen, wonach Sie suchen, und um Ihnen die relevantesten Ergebnisse zu liefern. Wenn Sie Ihre Anfrage als **Frage** formulieren, werden Sie **bessere Ergebnisse** erhalten.
+    ASMPT Virtual Assist nutzt modernstes NLP, um zu verstehen, wonach Sie suchen, und um Ihnen die relevantesten Ergebnisse zu liefern. Wenn Sie Ihre Anfrage als **Frage** formulieren, werden Sie **bessere Ergebnisse** erhalten.
 
     > Beispiel
 
@@ -111,7 +110,7 @@ In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und v
 
 ## Schritt 6. Feedback geben
 
-ASMPT kann nur besser werden, wenn Sie uns Feedback geben! Das Feedback wird für den Suchalgorithmus berücksichtigt und hilft sogar Ihren Kollegen, bessere Inhalte für alle in Ihrer Organisation zu erstellen.
+ASMPT Virtual Assist kann nur besser werden, wenn Sie uns Feedback geben! Das Feedback wird für den Suchalgorithmus berücksichtigt und hilft sogar Ihren Kollegen, bessere Inhalte für alle in Ihrer Organisation zu erstellen.
 
 Sie können Ihr Feedback auf zwei Arten abgeben:
 
@@ -122,11 +121,11 @@ Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit
 <p align="center"><img src="https://i.imgur.com/puislfv.gif
 " width="70%"></p>
 
-Ein "Daumen hoch" dauert weniger als eine Sekunde und lässt Ihre Kollegen wissen, dass dies auch für sie hilfreich sein wird, wenn sie eine ähnliche Frage haben. Der Algorithmus von ASMPT wird dies ebenfalls berücksichtigen: mehr "Daumen hoch"-Reaktionen bedeuten, dass dieses Ergebnis in Zukunft weiter oben in den Suchergebnissen erscheinen wird.
+Ein "Daumen hoch" dauert weniger als eine Sekunde und lässt Ihre Kollegen wissen, dass dies auch für sie hilfreich sein wird, wenn sie eine ähnliche Frage haben. Der Algorithmus von ASMPT Virtual Assist wird dies ebenfalls berücksichtigen: mehr "Daumen hoch"-Reaktionen bedeuten, dass dieses Ergebnis in Zukunft weiter oben in den Suchergebnissen erscheinen wird.
 
 ### Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.
 
-Es kann vorkommen, dass ASMPT keine passende Antwort findet - oder dass die Antwort leicht daneben liegt. Dies kann vor allem durch eine sehr breite Abfrage oder fehlende Daten geschehen.
+Es kann vorkommen, dass ASMPT Virtual Assist keine passende Antwort findet - oder dass die Antwort leicht daneben liegt. Dies kann vor allem durch eine sehr breite Abfrage oder fehlende Daten geschehen.
 
 Wenn Sie feststellen, dass die Suchergebnisse Ihnen nicht so weiterhelfen, wie Sie es brauchen, können Sie oben in den Suchergebnissen auf `Ergebnisse nicht hilfreich` klicken und uns mitteilen, was Sie erwartet haben (siehe unten).
 

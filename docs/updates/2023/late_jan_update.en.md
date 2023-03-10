@@ -1,6 +1,6 @@
 # Late January Product Update
 
-## ASMPT Virtual Assist App
+## ASMPT Virtual Assist Virtual Assist App
 
 ### v1.1.8 - Requesting access, giving feedback and squashing bugs
 - **New**: If users don't yet have access to the application, they can simply request access via the log in screen. The corresponding email will be forwarded to the correct person to give them access.
