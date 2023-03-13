@@ -18,6 +18,10 @@ replace_pairs = [
 
     # Images
     ("imgur.com/EAaxESg", "imgur.com/mL7XYMH"), # Banner image,
+    # QR code Android
+    ("https://i.imgur.com/2TxG0UL.jpg", "https://i.imgur.com/OpA9C58.png"),
+    # QR code iOS
+    ("https://i.imgur.com/9TNW7li.jpg", "https://i.imgur.com/hntAI1x.png"),
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),

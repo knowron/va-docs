@@ -12,7 +12,7 @@ The assistant is available for both Android and Apple devices in their respectiv
 
 | <p align="center">Google Play Store</p>                                                                                                                                            | <p align="center">Apple App Store</p>                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Download](https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant){ .md-button }</p> | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Download](https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842){ .md-button }</p> |
+| <p align="center"><img src="https://i.imgur.com/OpA9C58.png" width="75%">[Download](https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant){ .md-button }</p> | <p align="center"><img src="https://i.imgur.com/hntAI1x.png" width="75%">[Download](https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842){ .md-button }</p> |
 
 Once you've downloaded the app, simply open it.
 
