@@ -24,7 +24,7 @@ You only need your email and your ASMPT Virtual Assist password to log onto the 
 
 ??? info "Need help finding your password or invitation email?"
 
-    <p align="center"><img src="https://i.imgur.com/gXh9xJt.png" width="100%"><figcaption>This is where you find your password in the invitation email.</figcaption></p>
+    <p align="center"><img src="https://i.imgur.com/QKwIRJ3.png" width="100%"><figcaption>This is where you find your password in the invitation email.</figcaption></p>
 
     If you do not remember your password, you can reset it right on [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com/). Simply click on "Forgot Password" and follow the instructions on the screen.
 

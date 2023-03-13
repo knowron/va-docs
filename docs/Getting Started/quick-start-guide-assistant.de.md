@@ -24,7 +24,7 @@ Sie brauchen nur Ihre E-Mail-Adresse und Ihr ASMPT Virtual Assist-Passwort, um s
 
 ??? info "Finden Sie Ihr Passwort oder Ihre E-Mail nicht?"
 
-    <p align="center"><img src="https://i.imgur.com/gXh9xJt.png" width="100%"><figcaption>Hier finden Sie Ihr Passwort in der Einladungs-E-Mail.</figcaption></p>
+    <p align="center"><img src="https://i.imgur.com/QKwIRJ3.png" width="100%"><figcaption>Hier finden Sie Ihr Passwort in der Einladungs-E-Mail.</figcaption></p>
 
     Wenn Sie Ihr Passwort vergessen haben, können Sie es direkt auf [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com/) zurücksetzen. Klicken Sie einfach auf "Forgot password" und folgen Sie den Anweisungen auf dem Bildschirm.
 

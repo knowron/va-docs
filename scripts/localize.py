@@ -22,6 +22,8 @@ replace_pairs = [
     ("https://i.imgur.com/2TxG0UL.jpg", "https://i.imgur.com/OpA9C58.png"),
     # QR code iOS
     ("https://i.imgur.com/9TNW7li.jpg", "https://i.imgur.com/hntAI1x.png"),
+    # Where to find your password
+    ("https://i.imgur.com/gXh9xJt.png", "https://i.imgur.com/QKwIRJ3.png"),
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
