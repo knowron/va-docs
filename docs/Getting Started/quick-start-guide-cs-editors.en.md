@@ -1,6 +1,6 @@
 # Quick Start Guide for Editors of the ASMPT Virtual Assist Virtual Assist Web
 
-This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you want to know more about ASMPT Virtual Assist, see ["What is ASMPT Virtual Assist?"](what-is-virtual-assist.md) If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
+This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 

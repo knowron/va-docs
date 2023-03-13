@@ -1,6 +1,6 @@
 # Kurzanleitung für den Virtual Assist App (Mobile)
 
-Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **ASMPT Virtual Assist** zu benutzen. Wenn Sie mehr über ASMPT Virtual Assist erfahren möchten, lesen Sie ["Was ist ASMPT Virtual Assist?"](what-is-virtual-assist.md) Wenn Sie Fragen haben oder Unterstützung benötigen, [wenden Sie sich bitte direkt an uns](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
+Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **ASMPT Virtual Assist** zu benutzen. Wenn Sie Fragen haben oder Unterstützung benötigen, [wenden Sie sich bitte direkt an uns](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 

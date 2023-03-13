@@ -1,6 +1,6 @@
 # Quick Start Guide for Admins of the ASMPT Virtual Assist Virtual Assist Web
 
-This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you want to know more about ASMPT Virtual Assist, see ["What is ASMPT Virtual Assist?"](what-is-virtual-assist.md) If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
+This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 
@@ -33,11 +33,15 @@ By clicking on the :pencil2: icon on the product line, the dialog pops up again 
 <p align="center"><img src="https://i.imgur.com/vD2crVQ.gif" width="90%"></p>
 
 
+---
+## <span style="color:#FA6E3F">**Charts** </span>
 
 
----
-<span style="color:#FA6E3F">**Charts** </span>
----
+Charts allows you, as an Admin, to have an overview of where and by how many users ASMPT Virtual Assist has been used. This will allow you to see the crucial business value of the product. 
+
+<p align="center"><img src="https://i.imgur.com/0Y2lGyr.png" width="70%"></p>
+
+You can check the **Number of online machines**, the **Number of answered questions**, and a graph indicating the **Weekly active users**. Additionally, for better visualization, we provide you with a map that shows you the location of the **active machines**.
 
 ---
 ## <span style="color:#FA6E3F">**Tutorials** </span> 

@@ -1,6 +1,6 @@
 # Kurzanleitung: Virtual Assist Web (Web)
 
-Diese Seite führt Sie durch alles, was Sie wissen müssen, um die **Virtual Assist Web** zu benutzen. Wenn Sie mehr über ASMPT Virtual Assist erfahren möchten, lesen Sie ["Was ist ASMPT Virtual Assist?"](what-is-virtual-assist.md) Wenn Sie Fragen haben oder Unterstützung benötigen, [kontaktieren Sie uns bitte direkt](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
+Diese Seite führt Sie durch alles, was Sie wissen müssen, um die **Virtual Assist Web** zu benutzen. Wenn Sie Fragen haben oder Unterstützung benötigen, [kontaktieren Sie uns bitte direkt](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 
