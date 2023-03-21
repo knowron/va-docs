@@ -19,9 +19,9 @@ replace_pairs = [
     # Images
     ("imgur.com/EAaxESg", "imgur.com/mL7XYMH"), # Banner image,
     # QR code Android
-    ("https://i.imgur.com/OpA9C58.png", "https://i.imgur.com/nBCQpRk.png"),
+    ("https://i.imgur.com/2TxG0UL.jpg", "https://i.imgur.com/nBCQpRk.png"),
     # QR code iOS
-    ("https://i.imgur.com/hntAI1x.png", "https://i.imgur.com/iB8uRxb.png"),
+    ("https://i.imgur.com/9TNW7li.jpg", "https://i.imgur.com/iB8uRxb.png"),
     # Where to find your password
     ("https://i.imgur.com/gXh9xJt.png", "https://i.imgur.com/QKwIRJ3.png"),
 
