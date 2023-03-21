@@ -27,7 +27,7 @@ replace_pairs = [
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
-    ("https://docs.knowron.com", "https://va-docs.knowron.com"),
+    ("https://docs.knowron.com", "https://docs.virtualassist.smt.asmpt.com"),
     ("https://suite.knowron.com", "https://virtualassist.smt.asmpt.com/"),
     ("https://www.knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
     ("suite.knowron.com", "virtualassist.smt.asmpt.com"),
@@ -103,7 +103,7 @@ def post_process():
     cname_path = '../docs/CNAME'
     if os.path.isfile(cname_path):
         with open(cname_path, 'w') as file:
-            file.writelines("va-docs.knowron.com")
+            file.writelines("docs.virtualassist.smt.asmpt.com")
 
     # Icons
     shutil.copyfile("../docs/icon-asmpt.png", ("../docs/icon.png"))
