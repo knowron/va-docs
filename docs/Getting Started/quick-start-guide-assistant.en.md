@@ -33,7 +33,7 @@ You only need your email and your ASMPT Virtual Assist password to log onto the 
 After you have your email and password, simply type them in and log in!
 
 <p align="center">
-    <img src="https://i.imgur.com/FPz6Zsw.gif" width="400">
+    <img src="https://i.imgur.com/BLv8UFT.gif" width="400">
 </p>
 
 Note you how you can request access if you have not yet received access to the application by your organization.
@@ -54,7 +54,7 @@ You will be in the products screen now. Simply select one from the list below, f
 
 You can follow the instructions illustrated below.
 
-<p align="center"><img src="https://i.imgur.com/FNQueGy.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/GMsrFUC.png" width="100%"></p>
 
 If you have a serial number or a machine QR code, things are easier. See below.
 
@@ -64,7 +64,7 @@ If you have a serial number or a machine QR code, things are easier. See below.
 
     First, tap on the scan image. Next, you can type the serial number on the field provided. Alternatively, you can scan a ASMPT Virtual Assist QR code directly. Simply tap on the camera icon to enable the camera and point it right at the QR code. The app should identify your machine quickly.
 
-    <p align="center"><img src="https://i.imgur.com/pocHR5l.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
+    <p align="center"><img src="https://i.imgur.com/Yif9Xoc.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
 
 ---
 
@@ -74,11 +74,11 @@ You now have access to the entire documentation for the product line you have se
 
 Tap on the keyboard icon at the bottom of your screen. That will pull up our Virtual Assist App panel, on which you can type in what you want to know. You can also use the microphone icon to ask your question directly using your voice.
 
-Now all you have to do is ask what you want to know. ASMPT Virtual Assist will then go through your entire knowledge base and show you the most relevant results. Try `What is PLA?`.
+Now all you have to do is ask what you want to know. ASMPT Virtual Assist will then go through your entire knowledge base and show you the most relevant results. Try `What is the torque for a CPP head?`.
 
 The results are illustrated below.
 
-<p align="center"><img src="https://i.imgur.com/1G2skdh.gif
+<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif
 " width="300"></p>
 
 ---
@@ -87,7 +87,7 @@ The results are illustrated below.
 
 Whenever we can, we will show you answers straight from your documentation. If you want to delve deeper, you can use filters and other features, available on the **Search Screen**. Tap on "See more Results" on the Virtual Assist App Panel or select the "Search" icon from the homescreen.
 
-<p align="center"><img src="https://i.imgur.com/X4GKmM7.gif
+<p align="center"><img src="https://i.imgur.com/HOBy2VG.gif
 " width="300"></p>
 
 We can show you results from the following resources:
@@ -104,7 +104,7 @@ In the future, we will also be able to show you results from your machine's logb
 
     > Example
 
-    Instead of `printer humidity`, ask `"In what humidity can the printer be used?"`
+    Instead of `DP drive CP 20 P2`, ask `"How do I replace the DP drive on a CP 20 P2?"`
 
 ---
 
@@ -118,7 +118,7 @@ You can give feedback in one of two ways:
 
 If you found a result that helped you, you can give it a thumbs-up (see below).
 
-<p align="center"><img src="https://i.imgur.com/puislfv.gif
+<p align="center"><img src="https://i.imgur.com/ycSgnra.gif
 " width="70%"></p>
 
 A thumbs-up takes less than a second and it lets your colleagues know that this will be helpful to them too if they face a similar question. ASMPT Virtual Assist's algorithm will also take it into account: more thumbs-up reactions mean that this result will appear higher in search results in the future.
@@ -129,7 +129,7 @@ Sometimes, ASMPT Virtual Assist will not find a suitable answer - or the answer 
 
 If you find that the search results are not helping you in the way that you need, you can click on `Results not helpful` at the top of the search results and give us details on what you were expecting (see below).
 
-<p align="center"><img src="https://i.imgur.com/9rXj4j9.gif
+<p align="center"><img src="https://i.imgur.com/nTcK9ed.gif
 " width="70%"></p>
 
 Your colleagues with an editor role, mostly from first-level support or hotline duty will act on your feedback and make sure that the information you need is available to you and your colleagues.

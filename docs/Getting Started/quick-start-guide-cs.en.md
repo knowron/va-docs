@@ -54,7 +54,7 @@ You now have access to the entire documentation for the product line you have se
 
 Now all you have to do is ask what you want to know. Type in the search bar and press enter. ASMPT Virtual Assist will then go through your entire knowledge base and show you the most relevant results.
 
-Below is a sample search interaction for the question `In what humidity can the printer be used?`
+Below is a sample search interaction for the question `How do I replace the DP drive on a CP 20 P2?`
 
 <p align="center"><img src="https://imgur.com/a1M9jUN.gif
 " width="70%"></p>
@@ -73,7 +73,7 @@ In the future, we will also be able to show you results from your machine's logb
 
     > Example
 
-    Instead of `printer humidity`, ask `In what humidity can the printer be used?`
+    Instead of `DP drive CP 20 P2`, ask `How do I replace the DP drive on a CP 20 P2?`
 
 ---
 

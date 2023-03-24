@@ -33,7 +33,7 @@ Sie brauchen nur Ihre E-Mail-Adresse und Ihr ASMPT Virtual Assist-Passwort, um s
 Wenn Sie Ihre E-Mail und Ihr Passwort haben, geben Sie sie einfach ein und melden Sie sich an!
 
 <p align="center">
-    <img src="https://i.imgur.com/FPz6Zsw.gif" width="400">
+    <img src="https://i.imgur.com/BLv8UFT.gif" width="400">
 </p>
 
 Beachten Sie, wie Sie den Zugang anfordern können, wenn Sie noch keinen Zugang zur Anwendung durch Ihre Organisation erhalten haben.
@@ -78,7 +78,7 @@ Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. ASMPT Virtual Assi
 
 Die Ergebnisse sind unten dargestellt.
 
-<p align="center"><img src="https://i.imgur.com/1G2skdh.gif
+<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif
 " width="300"></p>
 
 ---
@@ -87,7 +87,7 @@ Die Ergebnisse sind unten dargestellt.
 
 Wenn möglich, zeigen wir Ihnen Antworten direkt aus Ihrer Dokumentation. Wenn Sie tiefer eintauchen möchten, können Sie Filter und andere Funktionen verwenden, die auf der **Suchseite** verfügbar sind. Tippen Sie auf "Mehr Ergebnisse sehen" im Virtual Assist Appen-Panel oder wählen Sie das Symbol "Suchen" auf dem Startbildschirm.
 
-<p align="center"><img src="https://i.imgur.com/X4GKmM7.gif
+<p align="center"><img src="https://i.imgur.com/HOBy2VG.gif
 " width="300"></p>
 
 Wir können Ihnen Ergebnisse aus den folgenden Quellen zeigen:
@@ -118,7 +118,7 @@ Sie können Ihr Feedback auf zwei Arten abgeben:
 
 Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit einem Daumen hoch bewerten (siehe unten).
 
-<p align="center"><img src="https://i.imgur.com/puislfv.gif
+<p align="center"><img src="https://i.imgur.com/ycSgnra.gif
 " width="70%"></p>
 
 Ein "Daumen hoch" dauert weniger als eine Sekunde und lässt Ihre Kollegen wissen, dass dies auch für sie hilfreich sein wird, wenn sie eine ähnliche Frage haben. Der Algorithmus von ASMPT Virtual Assist wird dies ebenfalls berücksichtigen: mehr "Daumen hoch"-Reaktionen bedeuten, dass dieses Ergebnis in Zukunft weiter oben in den Suchergebnissen erscheinen wird.
@@ -129,7 +129,7 @@ Es kann vorkommen, dass ASMPT Virtual Assist keine passende Antwort findet - ode
 
 Wenn Sie feststellen, dass die Suchergebnisse Ihnen nicht so weiterhelfen, wie Sie es brauchen, können Sie oben in den Suchergebnissen auf `Ergebnisse nicht hilfreich` klicken und uns mitteilen, was Sie erwartet haben (siehe unten).
 
-<p align="center"><img src="https://i.imgur.com/9rXj4j9.gif
+<p align="center"><img src="https://i.imgur.com/nTcK9ed.gif
 " width="70%"></p>
 
 Ihre Kollegen mit Editor-Rolle, meist aus dem First-Level-Support oder dem Hotlinedienst, werden auf Ihr Feedback reagieren und dafür sorgen, dass die von Ihnen benötigten Informationen für Sie und Ihre Kollegen verfügbar sind.

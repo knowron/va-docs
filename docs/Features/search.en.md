@@ -37,7 +37,7 @@ A verified result indicates that this particular answer to the search query you 
 
 ### **Extracted Answer** 
 
-Extracted answers are your responses to your query, formulated as a question with a clear, direct answer. As seen below, asking, `What is PLA?` gives the direct definition of PLA in bold text for better visualization. 
+Extracted answers are your responses to your query, formulated as a question with a clear, direct answer. As seen below, asking, `What is the torque for a CPP head?` gives the direct definition of PLA in bold text for better visualization. 
 
 ![Extracted Answer](https://i.imgur.com/GEniWOM.png) 
 

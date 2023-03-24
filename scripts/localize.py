@@ -19,11 +19,28 @@ replace_pairs = [
     # Images
     ("imgur.com/EAaxESg", "imgur.com/mL7XYMH"), # Banner image,
     # QR code Android
-    ("https://i.imgur.com/2TxG0UL.jpg", "https://i.imgur.com/nBCQpRk.png"),
+    ("https://i.imgur.com/OpA9C58.png", "https://i.imgur.com/nBCQpRk.png"),
     # QR code iOS
-    ("https://i.imgur.com/9TNW7li.jpg", "https://i.imgur.com/iB8uRxb.png"),
+    ("https://i.imgur.com/hntAI1x.png", "https://i.imgur.com/iB8uRxb.png"),
     # Where to find your password
     ("https://i.imgur.com/gXh9xJt.png", "https://i.imgur.com/QKwIRJ3.png"),
+    # Log in screen native assistant
+    ("https://i.imgur.com/FPz6Zsw.gif","https://i.imgur.com/BLv8UFT.gif"),
+    # Select a product line
+    ("https://i.imgur.com/FNQueGy.png", "https://i.imgur.com/GMsrFUC.png"),
+    # Scan a QR code
+    ("https://i.imgur.com/pocHR5l.png", "https://i.imgur.com/Yif9Xoc.png"),
+    # Type in a question
+    ("https://i.imgur.com/1G2skdh.gif", "https://i.imgur.com/XUkQLiO.gif"),
+    ("What is PLA", "What is the torque for a CPP head"),
+    # Use the search screen
+    ("https://i.imgur.com/X4GKmM7.gif", "https://i.imgur.com/HOBy2VG.gif"),
+    ("printer humidity", "DP drive CP 20 P2"),
+    ("In what humidity can the printer be used?", "How do I replace the DP drive on a CP 20 P2?"),
+    # Feedback text
+    ("https://i.imgur.com/9rXj4j9.gif", "https://i.imgur.com/nTcK9ed.gif"),
+    # Feedback upvote
+    ("https://i.imgur.com/puislfv.gif", "https://i.imgur.com/ycSgnra.gif"),
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
