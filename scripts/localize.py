@@ -35,12 +35,28 @@ replace_pairs = [
     ("What is PLA", "What is the torque for a CPP head"),
     # Use the search screen
     ("https://i.imgur.com/X4GKmM7.gif", "https://i.imgur.com/HOBy2VG.gif"),
+    ("Bauplatte Lebensdauer", "DP drive CP 20 P2"),
     ("printer humidity", "DP drive CP 20 P2"),
     ("In what humidity can the printer be used?", "How do I replace the DP drive on a CP 20 P2?"),
+    ("Wie lange ist die Lebensdauer der Bauplatte?", "How do I replace the DP drive on a CP 20 P2?"),
     # Feedback text
     ("https://i.imgur.com/9rXj4j9.gif", "https://i.imgur.com/nTcK9ed.gif"),
     # Feedback upvote
     ("https://i.imgur.com/puislfv.gif", "https://i.imgur.com/ycSgnra.gif"),
+    # Log in screen
+    ("https://i.imgur.com/h3OoieE.png", "https://i.imgur.com/5I1HipS.png"),
+    # Select a product line
+    ("https://i.imgur.com/TfkKWZ3.gif", "https://i.imgur.com/wJy7OjB.gif"),
+    # Upvote
+    ("https://imgur.com/t2tkFxe.gif","https://i.imgur.com/6k68K3K.gif"),
+    # Text feedback CS
+    ("https://i.imgur.com/i44sdhx.gif","https://i.imgur.com/6Nzj6Kc.gif"),
+    # Ask a question CS EN
+    ("https://i.imgur.com/a1M9jUN.gif","https://i.imgur.com/CeziNWT.gif"),
+    # Ask a question CS DE
+    ("https://i.imgur.com/HI3nVYq.gif","https://i.imgur.com/CeziNWT.gif"),
+
+
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),

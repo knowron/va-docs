@@ -104,7 +104,7 @@ In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und v
 
     > Beispiel
 
-    Anstatt `Bauplatte Lebensdauer` zu suchen, fragen Sie `Wie lange ist die Lebensdauer der Bauplatte?`
+    Anstatt `DP drive CP 20 P2` zu suchen, fragen Sie `How do I replace the DP drive on a CP 20 P2?`
 
 ---
 

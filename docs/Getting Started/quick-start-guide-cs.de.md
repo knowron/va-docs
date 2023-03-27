@@ -25,7 +25,7 @@ Sie brauchen nur Ihre E-Mail und Ihr ASMPT Virtual Assist-Passwort, um sich in d
 Wenn Sie Ihre E-Mail und Ihr Passwort haben, geben Sie sie einfach ein und melden Sie sich an!
 
 <p align="center">
-    <img src="https://i.imgur.com/h3OoieE.png" width="70%">
+    <img src="https://i.imgur.com/5I1HipS.png" width="70%">
 </p>
 
 ---
@@ -36,27 +36,20 @@ Sobald Sie eingeloggt sind, sehen Sie eine Übersicht über die Produktlinien, d
 
 **Produktlinien** stehen für die Maschinen, Anlagen oder Prozesse, die Ihr Unternehmen betreibt und mit denen Sie jeden Tag arbeiten. Produktlinien sind dazu da, dem ASMPT Virtual Assist System einen Kontext zu geben - d.h. worüber stellen Sie Fragen?
 
-Bevor Sie fortfahren, müssen Sie die Produktlinie auswählen, die für Sie relevant ist. Klicken Sie einfach darauf, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird geöffnet.
+Bevor Sie fortfahren, müssen Sie die Produktlinie auswählen, die für Sie relevant ist. Klicken Sie einfach darauf, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird geöffnet und Sie gelangen zur Suchseite.
 
-<p align="center"><img src="https://i.imgur.com/TfkKWZ3.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/wJy7OjB.gif" width="100%"></p>
 
----
-
-## Schritt 3. Suchseite aufrufen
-
-Sie haben nun Zugriff auf die gesamte Dokumentation für die von Ihnen gewählte Produktlinie. Als nächstes müssen Sie eine Frage stellen. Um die **Suchseite** aufzurufen, wählen Sie einfach "Suchen" im Menü auf der linken Seite des Bildschirms (siehe unten).
-
-<p align="center"><img src="https://i.imgur.com/Rtijifl.gif" width="100%"></p>
 
 ---
 
-## Schritt 4. Eine Frage stellen
+## Schritt 3. Eine Frage stellen
 
 Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. Tippen Sie in die Suchleiste und drücken Sie die Eingabetaste. ASMPT Virtual Assist durchsucht dann Ihre gesamte Wissensdatenbank und zeigt Ihnen die relevantesten Ergebnisse an.
 
-Nachfolgend finden Sie ein Beispiel für eine Suchinteraktion für die Frage `Wie lange ist die Lebensdauer der Bauplatte?`
+Nachfolgend finden Sie ein Beispiel für eine Suchinteraktion für die Frage `How do I replace the DP drive on a CP 20 P2?`
 
-<p align="center"><img src="https://i.imgur.com/HI3nVYq.gif
+<p align="center"><img src="https://i.imgur.com/CeziNWT.gif
 " width="70%"></p>
 
 Wir können Ihnen Ergebnisse aus den folgenden Quellen zeigen:
@@ -73,7 +66,7 @@ In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und v
 
     > Beispiel
 
-    Anstatt `Bauplatte Lebensdauer` zu suchen, fragen Sie `Wie lange ist die Lebensdauer der Bauplatte?`
+    Anstatt `DP drive CP 20 P2` zu suchen, fragen Sie `How do I replace the DP drive on a CP 20 P2?`
 
 ---
 
@@ -87,7 +80,7 @@ Sie können Ihr Feedback auf zwei Arten abgeben:
 
 Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit einem Daumen hoch bewerten (siehe unten).
 
-<p align="center"><img src="https://imgur.com/t2tkFxe.gif
+<p align="center"><img src="https://i.imgur.com/6k68K3K.gif
 " width="70%"></p>
 
 Ein "Daumen hoch" dauert weniger als eine Sekunde und lässt Ihre Kollegen wissen, dass dies auch für sie hilfreich sein wird, wenn sie eine ähnliche Frage haben. Der Algorithmus von ASMPT Virtual Assist wird dies ebenfalls berücksichtigen: mehr "Daumen hoch"-Reaktionen bedeuten, dass dieses Ergebnis in Zukunft weiter oben in den Suchergebnissen erscheinen wird.
@@ -98,7 +91,7 @@ Es kann vorkommen, dass ASMPT Virtual Assist keine passende Antwort findet - ode
 
 Wenn Sie feststellen, dass die Suchergebnisse Ihnen nicht so weiterhelfen, wie Sie es brauchen, können Sie oben in den Suchergebnissen auf "ERGEBNISSE NICHT HILFREICH" klicken und uns mitteilen, was Sie erwartet haben (siehe unten).
 
-<p align="center"><img src="https://i.imgur.com/i44sdhx.gif
+<p align="center"><img src="https://i.imgur.com/6Nzj6Kc.gif
 " width="70%"></p>
 
 Ihre Kollegen mit Editor-Rolle, meist aus dem First-Level-Support oder dem Hotlinedienst, werden auf Ihr Feedback reagieren und dafür sorgen, dass die von Ihnen benötigten Informationen für Sie und Ihre Kollegen verfügbar sind.

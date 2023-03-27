@@ -25,7 +25,7 @@ You only need your email and your ASMPT Virtual Assist password to log onto the 
 After you have your email and password, simply type them in and log in!
 
 <p align="center">
-    <img src="https://i.imgur.com/h3OoieE.png" width="70%">
+    <img src="https://i.imgur.com/5I1HipS.png" width="70%">
 </p>
 
 ---
@@ -36,27 +36,19 @@ Once logged in, you will see an overview of the product lines that your colleagu
 
 **Product lines** represent the machines, plants or processes your organization supports which you work with every day. Product lines are there to give the ASMPT Virtual Assist system context - i.e. what are you asking questions about?
 
-Before you continue, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl.
+Before you continue, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen.
 
-<p align="center"><img src="https://i.imgur.com/TfkKWZ3.gif" width="100%"></p>
-
----
-
-## Step 3. Go to the search screen
-
-You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question. To access the **Search screen**, simply select "Search" on the menu to the left of the screen (see below).
-
-<p align="center"><img src="https://i.imgur.com/Rtijifl.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/wJy7OjB.gif" width="100%"></p>
 
 ---
 
-## Step 4. Ask a question
+## Step 3. Ask a question
 
 Now all you have to do is ask what you want to know. Type in the search bar and press enter. ASMPT Virtual Assist will then go through your entire knowledge base and show you the most relevant results.
 
 Below is a sample search interaction for the question `How do I replace the DP drive on a CP 20 P2?`
 
-<p align="center"><img src="https://imgur.com/a1M9jUN.gif
+<p align="center"><img src="https://i.imgur.com/CeziNWT.gif
 " width="70%"></p>
 
 We can show you results from the following resources:
@@ -87,7 +79,7 @@ You can give feedback in one of two ways:
 
 If you found a result that helped you, you can give it a thumbs-up (see below).
 
-<p align="center"><img src="https://imgur.com/t2tkFxe.gif
+<p align="center"><img src="https://i.imgur.com/6k68K3K.gif
 " width="70%"></p>
 
 A thumbs-up takes less than a second and it lets your colleagues know that this will be helpful to them too if they face a similar question. ASMPT Virtual Assist's algorithm will also take it into account: more thumbs-up reactions mean that this result will appear higher in search results in the future.
@@ -98,7 +90,7 @@ Sometimes, ASMPT Virtual Assist will not find a suitable answer - or the answer 
 
 If you find that the search results are not helping you in the way that you need, you can click on `RESULTS NOT HELPFUL` at the top of the search results and give us details on what you were expecting (see below).
 
-<p align="center"><img src="https://i.imgur.com/i44sdhx.gif
+<p align="center"><img src="https://i.imgur.com/6Nzj6Kc.gif
 " width="70%"></p>
 
 Your colleagues with an editor role, mostly from first-level support or hotline duty will act on your feedback and make sure that the information you need is available to you and your colleagues.
