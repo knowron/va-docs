@@ -16,6 +16,14 @@ ASMPT Virtual Assist is available on your phone and on the web.
     [Dokumentation auf Deutsch 🇩🇪](https://va-docs.knowron.com/de){ .md-button .md-button--primary }
     </p>
 
+
+## Get Started
+
+We have prepared quick start guides for the Virtual Assist App and the Virtual Assist Web to get you started in seconds.
+
+[Virtual Assist App](./Getting%20Started/quick-start-guide-assistant.en.md){ .md-button .md-button--primary } 
+[Virtual Assist Web](./Getting%20Started/quick-start-guide-cs.en.md){ .md-button .md-button--primary }
+
 ## Why should you use ASMPT Virtual Assist?
 
 **A single source of truth for your service organization**

@@ -4,9 +4,9 @@
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 
-ASMPT Virtual Assist ist der persönliche Virtual Assist App für mobile Arbeitskräfte. **Wir machen organisatorisches Wissen durch eine einfache Suchoberfläche leicht zugänglich.** Das bedeutet, dass Sie nicht mehr an 4 oder 5 verschiedenen Stellen nach den Informationen für Ihre Arbeit suchen müssen, sondern nur noch ASMPT Virtual Assist brauchen.
+ASMPT Virtual Assist ist der persönliche Virtual Assist App für mobile Arbeitskräfte. **Wir machen das Wissen ihrer ganzen Organisation durch eine einfache Suchoberfläche leicht zugänglich.** Das bedeutet, dass Sie nicht mehr an 4 oder 5 verschiedenen Stellen nach den Informationen für Ihre Arbeit suchen müssen, sondern nur noch ASMPT Virtual Assist brauchen.
 
-ASMPT Virtual Assist ist auf Ihrem Telefon und im Internet verfügbar.
+ASMPT Virtual Assist ist auf [Ihrem Handy](./Getting%20Started/quick-start-guide-assistant.de.md) und im [Internet](./Getting%20Started/quick-start-guide-cs.de.md) verfügbar.
 
 !!! note
 
@@ -14,6 +14,13 @@ ASMPT Virtual Assist ist auf Ihrem Telefon und im Internet verfügbar.
     <p align="center">
     [English documentation 🇬🇧](https://va-docs.knowron.com/en){ .md-button .md-button--primary }
     </p>
+
+## Gleich Starten
+
+Wir haben Kurzanleitungen für den Virtual Assist App und die Virtual Assist Web vorbereitet, damit Sie in Sekundenschnelle loslegen können.
+
+[Virtual Assist App](./Getting%20Started/quick-start-guide-assistant.de.md){ .md-button .md-button--primary } 
+[Virtual Assist Web](./Getting%20Started/quick-start-guide-cs.de.md){ .md-button .md-button--primary }
 
 ## Warum sollten Sie ASMPT Virtual Assist nutzen?
 
