@@ -58,7 +58,28 @@ replace_pairs = [
     #### Documents
     # Documents metadata
     ("https://i.imgur.com/YwcPATo.png","https://i.imgur.com/0sLjcSS.png"),
-    
+    # Tags
+    ("https://i.imgur.com/AzOobeD.png"," https://i.imgur.com/0qLxYwh.png"),
+    # Add Tags
+    ("https://i.imgur.com/riFMvsH.jpg","https://i.imgur.com/DRUKkNT.jpg"),
+  
+    #### Search 
+    # Search Bar 
+    ("https://i.imgur.com/2LytyUp.png","https://i.imgur.com/OOZAis6.png"),
+    # Result List
+    ("https://i.imgur.com/JaUJWFH.png","https://i.imgur.com/kzz0K42.png"),
+    # Translated Results
+    ("https://i.imgur.com/SpsQqvY.png","https://i.imgur.com/9cot8He.png"),
+    # Verified Result
+    ("https://i.imgur.com/ox2ah0e.png","https://i.imgur.com/nSmpzuN.png"),
+    # Extracted Result
+    ("https://i.imgur.com/GEniWOM.png","https://i.imgur.com/tmxJAt8.png"),
+    # Extracted Result bad example
+    ("https://i.imgur.com/7x0FpbV.png","https://i.imgur.com/MwO9gOF.png"),
+    # Results not helpful
+    ("https://i.imgur.com/UFzgbTV.png","https://i.imgur.com/mlk423q.jpg"),
+    # Feedback Box
+    ("https://i.imgur.com/XDwSOdu.png","https://i.imgur.com/V1t3eeb.png"),
 
 
 
