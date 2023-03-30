@@ -55,6 +55,10 @@ replace_pairs = [
     ("https://i.imgur.com/a1M9jUN.gif","https://i.imgur.com/CeziNWT.gif"),
     # Ask a question CS DE
     ("https://i.imgur.com/HI3nVYq.gif","https://i.imgur.com/CeziNWT.gif"),
+    #### Documents
+    # Documents metadata
+    ("https://i.imgur.com/YwcPATo.png","https://i.imgur.com/0sLjcSS.png"),
+    
 
 
 
