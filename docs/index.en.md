@@ -13,7 +13,7 @@ ASMPT Virtual Assist is available on your phone and on the web.
     Our documentation is also available in German!
 
     <p align="center">
-    [Dokumentation auf Deutsch 🇩🇪](https://va-docs.knowron.com/de){ .md-button .md-button--primary }
+    [Dokumentation auf Deutsch 🇩🇪](https://docs.virtualassist.smt.asmpt.com/de){ .md-button .md-button--primary }
     </p>
 
 

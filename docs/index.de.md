@@ -12,7 +12,7 @@ ASMPT Virtual Assist ist auf [Ihrem Handy](./Getting%20Started/quick-start-guide
 
     Unsere Dokumentation ist auch auf Englisch verfügbar!
     <p align="center">
-    [English documentation 🇬🇧](https://va-docs.knowron.com/en){ .md-button .md-button--primary }
+    [English documentation 🇬🇧](https://docs.virtualassist.smt.asmpt.com/en){ .md-button .md-button--primary }
     </p>
 
 ## Gleich Starten
