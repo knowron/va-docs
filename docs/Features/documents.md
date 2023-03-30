@@ -11,7 +11,7 @@ The uploaded documents represent a significant part of the knowledge base for th
 
 Clicking on **Upload** prompts a dialog where you can edit the Document's title, change the visibility or add tags. 
 
-![Documents](https://i.imgur.com/YwcPATo.png)
+![Documents](https://i.imgur.com/0sLjcSS.png)
 
 ### **Title**
 
