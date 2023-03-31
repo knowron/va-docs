@@ -1,4 +1,4 @@
-# Fehlerdiagnose
+# <span style="color:#FA6E3F"> Fehlerdiagnose </span> 
 
 ## Was ist Fehlerdiagnose?
 Die Fehlerdiagnose führt Sie durch eine Reihe einfacher Fragen, die Sie leicht beantworten können, so dass Sie systematisch herausfinden können, welches Problem an Ihrer Maschine oder in Ihrem Prozess auftritt. 

@@ -1,4 +1,4 @@
-# Search
+# <span style="color:#FA6E3F"> Search </span> 
 The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of **documents**, **tutorials**, and **articles**, so we can get you the most valuable result for your query.
 
 
@@ -77,7 +77,7 @@ Tags can help you filter for specific types of documents, such as Service or Use
 ![Tags](https://i.imgur.com/KjkplBs.png)
 
 
-#### 2.  **Language**: 
+#### 2.  **Language** 
 
 You can filter based on the existing languages supported by your organization. The Language that is selected by default is the Language of your system. 
 

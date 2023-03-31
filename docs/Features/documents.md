@@ -1,6 +1,6 @@
-# Documents
+# <span style="color:#FA6E3F"> Documents </span> 
 
-The uploaded documents represent a significant part of the knowledge base for the selected product line. 
+Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor, you can upload one single document or an entire file.
 
 ![Documents Diagram](https://i.imgur.com/eJN4itO.png)
 
@@ -57,8 +57,6 @@ There are three Statuses a document can have:
 | <span style="color:darkgreen">**EXTRACTED**</span>  | The document(s) are currently being uploaded     |
 |  <span style="color:red">**FAILED**</span>  | The documents have failed to upload        |
 
-
-‚
 
 
 
