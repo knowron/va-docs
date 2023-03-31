@@ -2,7 +2,7 @@
 The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of **documents**, **tutorials**, and **articles**, so we can get you the most valuable result for your query.
 
 
-![Search Bar](https://i.imgur.com/2LytyUp.png)
+![Search Bar](https://i.imgur.com/OOZAis6.png)
 
 
 !!! tip "Improve your results"
@@ -10,7 +10,7 @@ The search function allows you to ask questions about an entire product line or 
 
 The results lists of your answer to the query is displayed based on the recency of the uploaded documents with the **Verified Answer** or  on top. Results of a search query are marked with tags indicating the original language of the content, as well as from where was the answer extracted: **documents**, **tutorials** or **articles**. 
 
-![Results List](https://i.imgur.com/JaUJWFH.png)
+![Results List](https://i.imgur.com/kzz0K42.png)
 
 
 Formulating your query as a question implies adding more details to your query and prompts the algorithm to retrieve the most relevant answer to your question from the knowledge base of that specific product line or a particular machine.
@@ -22,7 +22,7 @@ The results of your query are prioritized by relevancy and then recency. That is
 
 !!! information "**Translated Results** "
       The automated translation will be indicated by the following tag and banner:
-      <p align="center"><img src="https://i.imgur.com/SpsQqvY.png" width="100%"></p>
+      <p align="center"><img src="https://i.imgur.com/9cot8He.png" width="100%"></p>
 
 
 Results of a search query are marked with tags indicating the original language of the content, as well as from where the answer was extracted: **documents**, **tutorials**, or **articles**.
@@ -33,20 +33,20 @@ Results of a search query are marked with tags indicating the original language 
 
 A verified result indicates that this particular answer to the search query you performed has been marked by an Admin or Editor from your organization as being correct.
 
-![Verified Answer](https://i.imgur.com/ox2ah0e.png) 
+![Verified Answer](https://i.imgur.com/nSmpzuN.png) 
 
 ### **Extracted Answer** 
 
 Extracted answers are your responses to your query, formulated as a question with a clear, direct answer. As seen below, asking, `What is the torque for a CPP head?` gives the direct definition of PLA in bold text for better visualization. 
 
-![Extracted Answer](https://i.imgur.com/GEniWOM.png) 
+![Extracted Answer](https://i.imgur.com/tmxJAt8.png) 
 
 
 Only searching for 'PLA' for example, will not yield the same results as this particular query is not that specific. 
 
 !!! tip "Search: PLA"
       The results of the query `PLA` are broader, as PLA is mentioned in several documents and articles. Therefore the definition of PLA is not shown as an (extracted) answer. 
-      <p align="center"><img src="https://i.imgur.com/7x0FpbV.png" width="100%"></p>
+      <p align="center"><img src="https://i.imgur.com/MwO9gOF.png" width="100%"></p>
 
 
 --- 
@@ -54,11 +54,11 @@ Only searching for 'PLA' for example, will not yield the same results as this pa
 
 We take your feedback seriously. If you think the results you received for a specific query are not correct or helpful, we invite you to offer us feedback through the Results not helpful channel.
 
-![Results not helpful](https://i.imgur.com/UFzgbTV.png)
+![Results not helpful](https://i.imgur.com/mlk423q.jpg)
 
 Clicking on **Results not helpful** prompts a window where you can add your thoughts about the results to your query and how we can improve them.
 
-![Feedback box](https://i.imgur.com/XDwSOdu.png)
+![Feedback box](https://i.imgur.com/V1t3eeb.png)
 
 Our team will get back to you as soon as possible with a solution.
 

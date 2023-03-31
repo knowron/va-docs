@@ -35,11 +35,11 @@ Setting the Documents' visibility to **Private** would restrict access to users 
 
 Tags can be created by typing in the name of the tag you wish to create in the Tags bar from the `Edit Metadata` dialog.
 
-![Tags](https://i.imgur.com/AzOobeD.png)
+![Tags]( https://i.imgur.com/0qLxYwh.png)
 
 If a tag already exists, either previously created by you or your collegues it will be displyed in the list and can be selected and added to the document's tags. 
 
-![Add tag](https://i.imgur.com/riFMvsH.jpg)
+![Add tag](https://i.imgur.com/DRUKkNT.jpg)
 
 
 !!! important
