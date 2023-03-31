@@ -4,7 +4,7 @@ theme:
   language: en
   palette:
     primary: red
-    accent: orange
+    accent: red
   logo: logo.png
   favicon: icon.png
   extra:

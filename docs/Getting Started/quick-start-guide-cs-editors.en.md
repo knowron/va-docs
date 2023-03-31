@@ -6,7 +6,7 @@ This page will guide you through all you need to know to start using the **ASMPT
 
 ---
 
-## <span style="color:#FA6E3F">**Product Line** </span> 
+## <span style="color:#ac3229">**Product Line** </span> 
 
 Once logged in, you will see an overview of the product lines that your main organization has added or your fellow admin or editor colleagues.
 
@@ -38,7 +38,7 @@ Now you simply have to click on the desired product and the context menu on the 
 <p align="center"><img src="https://i.imgur.com/Ol2mcSm.gif" width="100%"></p>
 
 ---
-## <span style="color:#FA6E3F">**Tutorials** </span> 
+## <span style="color:#ac3229">**Tutorials** </span> 
 
 **Tutorials** provide an instinctive method of delivering process knowledge regarding a product or product line. They can be used to guide customers through a process or to provide your employees with a step-by-step guide on how to perform a task.
 
@@ -60,7 +60,7 @@ As an Editor, you can create a tutorial by clicking on the `Create` button which
 
 ---
 
-## <span style="color:#FA6E3F">**Documents** </span> 
+## <span style="color:#ac3229">**Documents** </span> 
 
 Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor, you can upload one single document or an entire file.
 
@@ -78,7 +78,7 @@ When uploading a single document, you are prompted to edit the document's metada
 
 --- 
 
-## <span style="color:#FA6E3F">**Articles** </span> 
+## <span style="color:#ac3229">**Articles** </span> 
 
 Articles allow you, editors, to create free-form content. While Tutorials are structured and have a specific purpose to their own, Articles allow you to write anything from a frequently asked question to a problem-solution piece for commonly encountered issues. Articles can be linked to any other content in the knowledge base.
 

@@ -1,4 +1,4 @@
-# <span style="color:#FA6E3F"> Search </span> 
+# <span style="color:#ac3229"> Search </span> 
 The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of **documents**, **tutorials**, and **articles**, so we can get you the most valuable result for your query.
 
 

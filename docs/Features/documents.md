@@ -1,4 +1,4 @@
-# <span style="color:#FA6E3F"> Documents </span> 
+# <span style="color:#ac3229"> Documents </span> 
 
 Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor, you can upload one single document or an entire file.
 

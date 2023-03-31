@@ -6,7 +6,7 @@ This page will guide you through all you need to know to start using the **ASMPT
 
 ---
 
-## <span style="color:#FA6E3F">**Product Line** </span> 
+## <span style="color:#ac3229">**Product Line** </span> 
 
 Once logged in, you will see an overview of the product lines that your main organization has added or your fellow admin or editor colleagues.
 
@@ -34,7 +34,7 @@ By clicking on the :pencil2: icon on the product line, the dialog pops up again 
 
 
 ---
-## <span style="color:#FA6E3F">**Charts** </span>
+## <span style="color:#ac3229">**Charts** </span>
 
 
 Charts allows you, as an Admin, to have an overview of where and by how many users ASMPT Virtual Assist has been used. This will allow you to see the crucial business value of the product. 
@@ -44,7 +44,7 @@ Charts allows you, as an Admin, to have an overview of where and by how many use
 You can check the **Number of online machines**, the **Number of answered questions**, and a graph indicating the **Weekly active users**. Additionally, for better visualization, we provide you with a map that shows you the location of the **active machines**.
 
 ---
-## <span style="color:#FA6E3F">**Tutorials** </span> 
+## <span style="color:#ac3229">**Tutorials** </span> 
 
 **Tutorials** provide an instinctive method of delivering process knowledge regarding a product or product line. They can be used to guide customers through a process or to provide your employees with a step-by-step guide on how to perform a task.
 
@@ -66,7 +66,7 @@ As an Admin, you can create a tutorial by clicking on the `Create` button which 
      If you want to know more about how to create or edit a Tutorial, as well as about changing the visibility, click here.
 ---
 
-## <span style="color:#FA6E3F">**Documents** </span> 
+## <span style="color:#ac3229">**Documents** </span> 
 
 Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Admin, you can upload one single document or an entire file.
 
@@ -84,7 +84,7 @@ When uploading a single document, you are prompted to edit the document's metada
 
 --- 
 
-## <span style="color:#FA6E3F">**Articles** </span> 
+## <span style="color:#ac3229">**Articles** </span> 
 
 Articles allow you, admins, to create free-form content. While Tutorials are structured and have a specific purpose to their own, Articles allow you to write anything from a frequently asked question to a problem-solution piece for commonly encountered issues. Articles can be linked to any other content in the knowledge base.
 
@@ -97,7 +97,7 @@ Articles allow you, admins, to create free-form content. While Tutorials are str
 
 ---
 
-##  <span style="color:#FA6E3F">**User Management** <span>  
+##  <span style="color:#ac3229">**User Management** <span>  
 
 
 As an admin, you can invite users to the platform and assign or edit their roles. All you have to do is go to the Admin Panel and select User Management.

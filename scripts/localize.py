@@ -77,7 +77,8 @@ replace_pairs = [
     # YML config
     ("site_name: KNOWRON", "site_name: Virtual Assist Docs"),
     ("primary: deep orange", "primary: red"),
-    ("accent: indigo", "accent: orange"),
+    ("accent: indigo", "accent: red"),
+    ("FA6E3F", "ac3229"),
     
     
     ]

@@ -1,4 +1,4 @@
-# <span style="color:#FA6E3F"> Troubleshooting </span> 
+# <span style="color:#ac3229"> Troubleshooting </span> 
 
 ## What is troubleshooting
 Troubleshooting leads you through a series of simple questions that you can easily answer, so that you can systematically find what problem your machine or process is facing. 
