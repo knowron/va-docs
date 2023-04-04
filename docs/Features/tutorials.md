@@ -4,11 +4,11 @@
 
 
 !!! warning 
-       Tutorials just like product lines are dependent on your organization. That means that you see the tutorials outside your organsiation although not edit or create them.
+       Tutorials just like product lines are dependent on your organization. That means that you see the tutorials outside your organization although not edit or create them.
 
-Users with the Admin or Editor role can **create**, **edit**, or **delete** tutorials inside their organisation, as well as set them as published or unpublished and change their visibility. 
+Users with the Admin or Editor role can **create**, **edit**, or **delete** tutorials inside their organization, as well as set them as published or unpublished and change their visibility. 
 
-<p align="center"><img src="https://i.imgur.com/AK6J9OL.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/hOZdtZt.gif" width="100%"></p>
 
 
 ## **A step by step guide on how to create a tutorial**
@@ -18,14 +18,14 @@ Users with the Admin or Editor role can **create**, **edit**, or **delete** tuto
 
 You can create a tutorial by clicking on the `Create` button which will prompt you to the `Tutorial Editor` page.
 
-<p align="center"><img src="https://i.imgur.com/8z30N8T.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/CNlZKs7.gif" width="100%"></p>
 ---
 
 ### Step 2. Add a Tutorial Title and an image
 
 We require all tutorial titles to be included in your content. While images are not mandatory, we highly recommend that you include one that accurately represents the content of your tutorial. Adding an image will make your tutorial more visually appealing and help it stand out.
 
-<p align="center"><img src="https://i.imgur.com/Et7I6sR.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/tUWAEi5.gif" width="100%"></p>
 
 ### Step 3. Add Steps to the tutorial 
 
@@ -35,14 +35,23 @@ To add steps to your tutorial, start by breaking down the task into small, manag
 
 Once you've written out the steps, consider adding images or videos to go along with each one. This will help users visualize what they need to do at each step and provide additional clarity and context. You can add images or videos by clicking the image placeholder for each step and selecting the appropriate file.
 
-<p align="center"><img src="https://i.imgur.com/6DLmhxW.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/sKlSbTO.gif" width="100%"></p>
 
-### Step 4. Change visibility and Publish 
+### Step 4. Auto-translate your content
+
+We aim to provide you with the convenience of automatically translating your content into the supported languages of your organization. With this feature, you can save time on translating your entries and effortlessly share documents with your team.
+
+After you have added content in one language, the auto-translate feature will be activated. You can then easily trigger it by clicking on the `Auto-translate` button, which will translate the originally created content into the language of your preference. Although the translated content cannot be removed automatically, you can still edit it afterward to ensure accuracy and relevance.
+
+<p align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-dbef59154e.gif" width="100%"></p>
+
+
+### Step 5. Change visibility and Publish 
 
 Almost done! Now if you want to change the visibility of the Tutorial, you can choose between Private and Public. The Public setting will allow users from outside your organization to **view** the tutorials, while the Private setting makes the tutorial visible only to users in your organization.
 
 
 If your Tutorial is ready to be shared with your colleagues just toggle the `Publish` button and click on `Save`. If you still want to tweak some changes or it is just not finished, simply click on the `Save` button and your Tutorial will be saved as a draft. 
 
-<p align="center"><img src="https://i.imgur.com/Uccurnr.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/u973bwk.gif" width="100%"></p>
 

@@ -11,14 +11,14 @@ As an user with the **Admin** or **Editor** role you can create, edit or delete 
 
 To create an Article, all you have to do is click on the `Create an article` button and the Articles dialog will be prompted open. 
 
-<p align="center"><img src="https://i.imgur.com/69qg47i.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/CKh9kQt.gif" width="100%"></p>
 
 We offer two options for creating your content. You can either use our pre-made template, called the Error/Solution Template, or create your own content from scratch.
 
 Our `Error/Solution Template` is designed to simplify the process of creating error documentation. It includes different sections for specifying the machine type and error number, and it also provides an inbuilt editor that allows you to easily create tables, lists, and more.
 
 
-<p align="center"><img src="https://i.imgur.com/vAC4MTV.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/jOw0Nrm.gif" width="80%"></p>
 
 
 
@@ -30,7 +30,6 @@ Our `Error/Solution Template` is designed to simplify the process of creating er
 
 In the `ACTIONS` pannel, you can choose to either edit :pencil2: or delete :wastebasket: Artciles created by you or users in your organisaiton. 
 
-<p align="center"><img src="https://i.imgur.com/trkKEyG.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/WI1kkMd.png" width="100%"></p>
 
        
-

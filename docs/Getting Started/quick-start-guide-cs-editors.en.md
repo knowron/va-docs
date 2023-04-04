@@ -48,7 +48,7 @@ Now you simply have to click on the desired product and the context menu on the 
 
 Inside your organization, you can **create**, **edit**, or **delete** tutorials, as well as set them as published or unpublished and change their visibility. 
 
-<p align="center"><img src="https://i.imgur.com/AK6J9OL.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/hOZdtZt.gif" width="100%"></p>
 
 
 As an Editor, you can create a tutorial by clicking on the `Create` button which will prompt you to the `Tutorial Editor` page. Here you can add steps and images as well as change the visibility of the tutorial. In order to reach a wider audience, tutorials allow you to add content in other languages.
@@ -82,7 +82,7 @@ When uploading a single document, you are prompted to edit the document's metada
 
 Articles allow you, editors, to create free-form content. While Tutorials are structured and have a specific purpose to their own, Articles allow you to write anything from a frequently asked question to a problem-solution piece for commonly encountered issues. Articles can be linked to any other content in the knowledge base.
 
-<p align="center"><img src="https://i.imgur.com/69qg47i.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/CKh9kQt.gif" width="100%"></p>
 
 
 

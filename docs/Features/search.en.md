@@ -27,7 +27,7 @@ The results of your query are prioritized by relevancy and then recency. That is
 
 Results of a search query are marked with tags indicating the original language of the content, as well as from where the answer was extracted: **documents**, **tutorials**, or **articles**.
 
-![Diagramm](https://i.imgur.com/CD1u49W.png)
+![Diagramm](https://i.imgur.com/H8XwRuL.jpg)
 
 ### **Verified results** 
 
@@ -74,7 +74,7 @@ You can add tags to documents when uploading a new document or by editing an alr
 
 Tags can help you filter for specific types of documents, such as Service or User Manuals, and narrow the search to be as accurate as possible.
 
-![Tags](https://i.imgur.com/KjkplBs.png)
+![Tags](https://i.imgur.com/BsIkF62.png)
 
 
 #### 2.  **Language** 
@@ -85,14 +85,14 @@ Selecting the tag “All Languages“ will provide results in all languages that
 
 
 
-![Language Filter](https://i.imgur.com/AyujrBQ.png)
+![Language Filter](https://i.imgur.com/3sEgfAg.png)
 
 
 #### 3. **Time**
 
 Additionally, you can filter the documents based on the **date of creation** of the documents. These filters can be especially useful if you search for the newest version of a Software document.
 
-![Time Filter](https://i.imgur.com/kJlRr1E.png)
+![Time Filter](https://i.imgur.com/xCrBnEh.png)
 
 
 

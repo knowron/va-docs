@@ -2,7 +2,7 @@
 
 Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor, you can upload one single document or an entire file.
 
-![Documents Diagram](https://i.imgur.com/eJN4itO.png)
+![Documents Diagram](https://i.imgur.com/Eh8enbE.png)
 
 
 !!! tip 
@@ -18,7 +18,7 @@ Clicking on **Upload** prompts a dialog where you can edit the Document's title,
 You can edit the document's **Title**, which will be displayed in the search results, although the original **File name** will also be shown in the Documents table. 
 
 
-![Title](https://i.imgur.com/2v3uLe4.png)
+![Table](https://i.imgur.com/1L7TQe4.png)
 
 ### **Date created**
 

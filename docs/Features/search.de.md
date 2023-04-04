@@ -69,7 +69,7 @@ Du kannst Tags zu Dokumenten hinzufügen, wenn du ein neues Dokument hochlädst 
 
 Tags können dir helfen, nach bestimmten Arten von Dokumenten wie Service- oder Benutzerhandbüchern zu filtern und die Suche so genau wie möglich einzugrenzen.
 
-![Tags](https://i.imgur.com/KjkplBs.png)
+![Tags](https://i.imgur.com/BsIkF62.png)
 
 ### **2. Sprache**
 
