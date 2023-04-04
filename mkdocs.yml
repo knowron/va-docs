@@ -51,7 +51,7 @@ nav:
   - Features:
       - "Features/search.md"
       - "Features/documents.md"
-      - "Features/troubleshooting.md"
+
       - "Features/articles.md"
       - "Features/tutorials.md"
       - "Features/adminpanel.md"

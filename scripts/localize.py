@@ -100,6 +100,7 @@ replace_pairs = [
     ("primary: deep orange", "primary: red"),
     ("accent: indigo", "accent: red"),
     ("FA6E3F", "ac3229"),
+    ("      - \"Features/troubleshooting.md\"", ""),
     
     
     ]
@@ -158,16 +159,20 @@ def localize():
     post_process()
 
 def post_process():
+    print("Post Processing...")
     # CNAME
     cname_path = '../docs/CNAME'
+    print("Creating CNAME file...")
     if os.path.isfile(cname_path):
         with open(cname_path, 'w') as file:
             file.writelines("docs.virtualassist.smt.asmpt.com")
 
+    print("Copying images...")
     # Icons
     shutil.copyfile("../docs/icon-asmpt.png", ("../docs/icon.png"))
     shutil.copyfile("../docs/logo-asmpt.png", ("../docs/logo.png"))
 
+    print("Copying yml file...")
     # yml file
     shutil.copyfile("../../docs/mkdocs.yml", "../mkdocs.yml")
     replace("../mkdocs.yml")
