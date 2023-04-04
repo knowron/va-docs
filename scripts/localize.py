@@ -229,7 +229,7 @@ def post_process():
 
     print("Copying yml file...")
     # yml file
-    shutil.copyfile("../../docs/mkdocs.yml", "../mkdocs.yml")
+    shutil.copyfile("../../knowron-docs/mkdocs.yml", "../mkdocs.yml")
     replace("../mkdocs.yml")
 
 
