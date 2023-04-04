@@ -55,9 +55,17 @@ replace_pairs = [
     ("https://i.imgur.com/a1M9jUN.gif","https://i.imgur.com/CeziNWT.gif"),
     # Ask a question CS DE
     ("https://i.imgur.com/HI3nVYq.gif","https://i.imgur.com/CeziNWT.gif"),
+
+
+
     #### Documents
+
+    # Documents diagramm
+    ("https://i.imgur.com/eJN4itO.png","https://i.imgur.com/Eh8enbE.png"),
     # Documents metadata
     ("https://i.imgur.com/YwcPATo.png","https://i.imgur.com/0sLjcSS.png"),
+    # Documents Table
+    ("https://i.imgur.com/2v3uLe4.png","https://i.imgur.com/1L7TQe4.png"),
     # Tags
     ("https://i.imgur.com/AzOobeD.png"," https://i.imgur.com/0qLxYwh.png"),
     # Add Tags
@@ -70,6 +78,8 @@ replace_pairs = [
     ("https://i.imgur.com/JaUJWFH.png","https://i.imgur.com/kzz0K42.png"),
     # Translated Results
     ("https://i.imgur.com/SpsQqvY.png","https://i.imgur.com/9cot8He.png"),
+    # Diagramm
+    ("https://i.imgur.com/CD1u49W.png","https://i.imgur.com/H8XwRuL.jpg"),
     # Verified Result
     ("https://i.imgur.com/ox2ah0e.png","https://i.imgur.com/nSmpzuN.png"),
     # Extracted Result
@@ -80,8 +90,53 @@ replace_pairs = [
     ("https://i.imgur.com/UFzgbTV.png","https://i.imgur.com/mlk423q.jpg"),
     # Feedback Box
     ("https://i.imgur.com/XDwSOdu.png","https://i.imgur.com/V1t3eeb.png"),
+    # Filters: Tags
+    ("https://i.imgur.com/KjkplBs.png","https://i.imgur.com/BsIkF62.png"),
+    # Filters: Languages
+    ("https://i.imgur.com/AyujrBQ.png","https://i.imgur.com/3sEgfAg.png"),
+    # Filters: Time
+    ("https://i.imgur.com/kJlRr1E.png","https://i.imgur.com/xCrBnEh.png"),
 
 
+    ### Articles
+
+    # Create Article Gif
+    ("https://i.imgur.com/69qg47i.gif","https://i.imgur.com/CKh9kQt.gif"),
+    # Create Article Template Gif
+    ("https://i.imgur.com/vAC4MTV.gif","https://i.imgur.com/jOw0Nrm.gif"),
+    # Articles Tables
+    ("https://i.imgur.com/trkKEyG.png","https://i.imgur.com/WI1kkMd.png"),
+
+    ### Admin Panel 
+
+    # Upload Privacy Policy
+    ("https://i.imgur.com/4Auw9bG.gif","https://i.imgur.com/H02gNPV.gif"),
+
+
+    ### Tutorials
+
+    # Open Tutorial 
+    ("https://i.imgur.com/AK6J9OL.gif","https://i.imgur.com/hOZdtZt.gif"),
+    # Step 1
+    ("https://i.imgur.com/8z30N8T.gif","https://i.imgur.com/CNlZKs7.gif"),
+    # Step 2
+    ("https://i.imgur.com/Et7I6sR.gif","https://i.imgur.com/tUWAEi5.gif"),
+    # Step 3
+    ("https://i.imgur.com/6DLmhxW.gif","https://i.imgur.com/sKlSbTO.gif"),
+    # Step 4
+    ("https://i.imgur.com/Uccurnr.gif","https://i.imgur.com/u973bwk.gif"),
+
+    ### Search Feedback
+    
+    # Unhandeled Queries
+    ("https://i.imgur.com/SWkD48q.png","https://i.imgur.com/5DUGtVl.png"),
+    # Add Q&A Pair
+    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/3jA0hVP.gif"),
+    # search for linked answer
+    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/AuRTL1g.gif"),
+    # Verfied Answers
+    ("https://i.imgur.com/OYdgaLy.png","https://i.imgur.com/uiEp79s.png"),  
+    
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
