@@ -1,4 +1,4 @@
-# <span style="color:#ac3229"> Tutorials </span> 
+#  Tutorials
 
 **Tutorials** provide an instinctive method of delivering process knowledge regarding a product or product line. They can be used to guide customers through a process or to provide your employees with a step-by-step guide on how to perform a task.
 
@@ -43,7 +43,7 @@ We aim to provide you with the convenience of automatically translating your con
 
 After you have added content in one language, the auto-translate feature will be activated. You can then easily trigger it by clicking on the `Auto-translate` button, which will translate the originally created content into the language of your preference. Although the translated content cannot be removed automatically, you can still edit it afterward to ensure accuracy and relevance.
 
-<p align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-dbef59154e.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/jkm8nCe.gif" width="100%"></p>
 
 
 ### Step 5. Change visibility and Publish 

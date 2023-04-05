@@ -1,4 +1,4 @@
-# <span style="color:#ac3229"> Search Feedback </span> 
+# Search Feedback
 
 We value your search experience, and that's why we have a Search Feedback feature. This feature allows users with the Admin and Editor roles to answer any open questions users may have regarding a specific search query. Additionally, if an user has provided negative feedback on the quality of answers and search results, it will be visible in the Search Feedback table. We use this information to improve the search results and ensure that your search experience is always satisfactory.
 

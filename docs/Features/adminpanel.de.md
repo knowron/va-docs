@@ -1,4 +1,4 @@
-# <span style="color:#ac3229"> Admin Panel </span> 
+# Admin Panel
 
 ### **Datenschutzbestimmung**
 

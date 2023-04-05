@@ -124,6 +124,8 @@ replace_pairs = [
     # Step 3
     ("https://i.imgur.com/6DLmhxW.gif","https://i.imgur.com/sKlSbTO.gif"),
     # Step 4
+    ("https://i.imgur.com/7WBpvpM.gif","https://i.imgur.com/jkm8nCe.gif"),
+    # Step 5
     ("https://i.imgur.com/Uccurnr.gif","https://i.imgur.com/u973bwk.gif"),
 
     ### Search Feedback
