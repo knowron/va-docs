@@ -6,7 +6,7 @@ Our Search History feature offers valuable insights into your users' behavior an
 
 ----
 
-![SearchHistory](https://i.imgur.com/YIicfhA.png)
+![SearchHistory](https://i.imgur.com/beYneUV.png)
 
 ---
 

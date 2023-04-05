@@ -138,6 +138,13 @@ replace_pairs = [
     ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/AuRTL1g.gif"),
     # Verfied Answers
     ("https://i.imgur.com/OYdgaLy.png","https://i.imgur.com/uiEp79s.png"),  
+
+
+    # Search History
+    ("https://i.imgur.com/YIicfhA.png","https://i.imgur.com/beYneUV.png"),  
+    
+
+    
     
 
     # Links
