@@ -158,6 +158,9 @@ replace_pairs = [
     ("accent: indigo", "accent: red"),
     ("FA6E3F", "ac3229"),
     ("      - \"Features/troubleshooting.md\"", ""),
+    ("      - \"Features/machineinventory.md\"", ""),
+    ("      - \"Features/partsinventory.md\"", ""),
+    ("      - \"Features/charts.md\"", ""),
     
     
     ]
