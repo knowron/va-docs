@@ -48,7 +48,7 @@ Now you simply have to click on the desired product and the context menu on the 
 
 Inside your organization, you can **create**, **edit**, or **delete** tutorials, as well as set them as published or unpublished and change their visibility. 
 
-<p align="center"><img src="https://i.imgur.com/hOZdtZt.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/AK6J9OL.gif" width="100%"></p>
 
 
 As an Editor, you can create a tutorial by clicking on the `Create` button which will prompt you to the `Tutorial Editor` page. Here you can add steps and images as well as change the visibility of the tutorial. In order to reach a wider audience, tutorials allow you to add content in other languages.

@@ -54,7 +54,7 @@ You can check the **Number of online machines**, the **Number of answered questi
 
 Inside your organization, you can **create**, **edit**, or **delete** tutorials, as well as set them as published or unpublished and change their visibility. 
 
-<p align="center"><img src="https://i.imgur.com/hOZdtZt.gif" width="90%"></p>
+<p align="center"><img src="https://i.imgur.com/AK6J9OL.gif" width="90%"></p>
 
 
 As an Admin, you can create a tutorial by clicking on the `Create` button which will prompt you to the `Tutorial Editor` page. Here you can add steps and images as well as change the visibility of the tutorial. In order to reach a wider audience, tutorials allow you to add content in other languages.

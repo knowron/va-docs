@@ -58,92 +58,193 @@ replace_pairs = [
 
 
 
-    #### Documents
+    #######################  Documents ################### 
 
-    # Documents diagramm
+    # Documents diagramm EN
     ("https://i.imgur.com/eJN4itO.png","https://i.imgur.com/Eh8enbE.png"),
-    # Documents metadata
+    # Documents diagramm DE
+    ("https://i.imgur.com/eJN4itO.png","https://i.imgur.com/Eh8enbE.png"),
+
+
+    # Documents metadata EN
     ("https://i.imgur.com/YwcPATo.png","https://i.imgur.com/0sLjcSS.png"),
-    # Documents Table
+     # Documents metadata DE
+    ("https://i.imgur.com/e6GPx1M.png","https://i.imgur.com/0sLjcSS.png"),
+
+    # Documents Table EN
     ("https://i.imgur.com/2v3uLe4.png","https://i.imgur.com/1L7TQe4.png"),
-    # Tags
+    # Documents Table DE
+    ("https://i.imgur.com/u6dcPtx.png","https://i.imgur.com/1L7TQe4.png"),
+
+    # Tags EN
     ("https://i.imgur.com/AzOobeD.png"," https://i.imgur.com/0qLxYwh.png"),
-    # Add Tags
+    # Tags DE
+    ("https://i.imgur.com/2wkw8Ji.png"," https://i.imgur.com/0qLxYwh.png"),
+
+    # Add Tags EN
     ("https://i.imgur.com/riFMvsH.jpg","https://i.imgur.com/DRUKkNT.jpg"),
+     # Add Tags DE
+    ("https://i.imgur.com/vpODjpY.png","https://i.imgur.com/DRUKkNT.jpg"),
   
-    #### Search 
-    # Search Bar 
+    #######################  Search ################### 
+
+
+    # Search Bar EN
     ("https://i.imgur.com/2LytyUp.png","https://i.imgur.com/OOZAis6.png"),
-    # Result List
+    # Search Bar DE
+    ("https://i.imgur.com/xxvTMvj.png","https://i.imgur.com/OOZAis6.png"),
+
+    # Result List EN
     ("https://i.imgur.com/JaUJWFH.png","https://i.imgur.com/kzz0K42.png"),
-    # Translated Results
+    # Result List DE
+    ("https://i.imgur.com/s8gV87t.png","https://i.imgur.com/kzz0K42.png"),
+
+    # Translated Results EN
     ("https://i.imgur.com/SpsQqvY.png","https://i.imgur.com/9cot8He.png"),
-    # Diagramm
+    # Translated Results DE
+    ("https://i.imgur.com/zHCgKRk.png","https://i.imgur.com/9cot8He.png"),
+
+    # Diagramm EN
     ("https://i.imgur.com/CD1u49W.png","https://i.imgur.com/H8XwRuL.jpg"),
-    # Verified Result
+     # Diagramm DE
+    ("https://i.imgur.com/GX03OLZ.png","https://i.imgur.com/H8XwRuL.jpg"),
+
+    # Verified Result EN
     ("https://i.imgur.com/ox2ah0e.png","https://i.imgur.com/nSmpzuN.png"),
-    # Extracted Result
+    # Verified Result DE
+    ("hhttps://i.imgur.com/6mAYrsA.png","https://i.imgur.com/nSmpzuN.png"),
+
+    # Extracted Result EN
     ("https://i.imgur.com/GEniWOM.png","https://i.imgur.com/tmxJAt8.png"),
-    # Extracted Result bad example
+    # Extracted Result DE
+    ("https://i.imgur.com/rI0oAWW.png","https://i.imgur.com/tmxJAt8.png"),
+
+    # Extracted Result bad example EN
     ("https://i.imgur.com/7x0FpbV.png","https://i.imgur.com/MwO9gOF.png"),
-    # Results not helpful
+    # Extracted Result bad example DE
+    ("https://i.imgur.com/7x0FpbV.png", "https://i.imgur.com/MwO9gOF.png"),
+
+    # Results not helpful EN
     ("https://i.imgur.com/UFzgbTV.png","https://i.imgur.com/mlk423q.jpg"),
-    # Feedback Box
+    # Results not helpful
+    ("https://i.imgur.com/icwXGkg.png","https://i.imgur.com/mlk423q.jpg"),
+
+    # Feedback Box EN
     ("https://i.imgur.com/XDwSOdu.png","https://i.imgur.com/V1t3eeb.png"),
-    # Filters: Tags
+    # Feedback Box DE
+    ("https://i.imgur.com/q52nK3B.png","https://i.imgur.com/V1t3eeb.png"),
+
+    # Filters: Tags EN
     ("https://i.imgur.com/KjkplBs.png","https://i.imgur.com/BsIkF62.png"),
-    # Filters: Languages
+     # Filters: Tags DE
+    ("https://i.imgur.com/KjkplBs.png","https://i.imgur.com/BsIkF62.png"),
+
+    # Filters: Languages EN
     ("https://i.imgur.com/AyujrBQ.png","https://i.imgur.com/3sEgfAg.png"),
+    # Filters: Languages DE
+    ("https://i.imgur.com/cKzeomC.png","https://i.imgur.com/3sEgfAg.png"),
+
     # Filters: Time
     ("https://i.imgur.com/kJlRr1E.png","https://i.imgur.com/xCrBnEh.png"),
+    # Filters: Time
+    ("https://i.imgur.com/H0ImR2T.png","https://i.imgur.com/xCrBnEh.png"),
 
 
-    ### Articles
+    ######################  Articles ################### 
 
-    # Create Article Gif
+    # Create Article Gif EN
     ("https://i.imgur.com/69qg47i.gif","https://i.imgur.com/CKh9kQt.gif"),
-    # Create Article Template Gif
+    # Create Article Gif DE
+    ("https://i.imgur.com/KXYPIj5.gif","https://i.imgur.com/CKh9kQt.gif"),
+
+    # Create Article Template Gif EN
     ("https://i.imgur.com/vAC4MTV.gif","https://i.imgur.com/jOw0Nrm.gif"),
-    # Articles Tables
+     # Create Article Template Gif DE
+    ("https://i.imgur.com/UvmaB2H.gif","https://i.imgur.com/jOw0Nrm.gif"),
+
+    # Articles Tables EN
     ("https://i.imgur.com/trkKEyG.png","https://i.imgur.com/WI1kkMd.png"),
 
-    ### Admin Panel 
+    ######################  Admin Panel ################### 
 
-    # Upload Privacy Policy
+    # Upload Privacy Policy EN
     ("https://i.imgur.com/4Auw9bG.gif","https://i.imgur.com/H02gNPV.gif"),
+    # Upload Privacy Policy DE
+    ("https://i.imgur.com/EZyvUYZ.gif","https://i.imgur.com/H02gNPV.gif"),
 
+    # User management EN
+    ("https://i.imgur.com/4Auw9bG.gif",""),
+     # User management EN
+    ("https://i.imgur.com/ZT9Q1u1.gif",""),
 
-    ### Tutorials
+    ################### Tutorials ################### 
 
-    # Open Tutorial 
-    ("https://i.imgur.com/AK6J9OL.gif","https://i.imgur.com/hOZdtZt.gif"),
-    # Step 1
+    # Step 1 EN
     ("https://i.imgur.com/8z30N8T.gif","https://i.imgur.com/CNlZKs7.gif"),
-    # Step 2
+    # Step 1 DE
+    ("https://i.imgur.com/lj6pLuA.gif","https://i.imgur.com/CNlZKs7.gif"),
+
+    
+    # Step 2 EN
     ("https://i.imgur.com/Et7I6sR.gif","https://i.imgur.com/tUWAEi5.gif"),
-    # Step 3
+    # Step 2 DE
+    ("https://i.imgur.com/7dhtHdB.gif","https://i.imgur.com/tUWAEi5.gif"),
+
+
+    # Step 3 EN
     ("https://i.imgur.com/6DLmhxW.gif","https://i.imgur.com/sKlSbTO.gif"),
-    # Step 4
+    # Step 3 DE
+    ("https://i.imgur.com/Pw0bbz0.gif","https://i.imgur.com/sKlSbTO.gif"),
+
+
+    # Step 4 EN
     ("https://i.imgur.com/7WBpvpM.gif","https://i.imgur.com/jkm8nCe.gif"),
-    # Step 5
+    # Step 4 DE
+    ("https://i.imgur.com/1ah1Wud.gif","https://i.imgur.com/jkm8nCe.gif"),
+
+    # Step 5 EN
     ("https://i.imgur.com/Uccurnr.gif","https://i.imgur.com/u973bwk.gif"),
+    # Step 5 DE
+    ("https://i.imgur.com/dYfNNNS.gif","https://i.imgur.com/u973bwk.gif"),
 
-    ### Search Feedback
+    ######################  Search Feedback ################### 
     
-    # Unhandeled Queries
+    # Unhandeled Queries EN
     ("https://i.imgur.com/SWkD48q.png","https://i.imgur.com/5DUGtVl.png"),
-    # Add Q&A Pair
-    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/3jA0hVP.gif"),
-    # search for linked answer
+    # Unhandeled Queries DE
+    ("https://i.imgur.com/fkfZjWu.png","https://i.imgur.com/5DUGtVl.png"),
+
+    # Add Q&A Pair EN
+    ("https://i.imgur.com/cpQNxYC.gif","https://i.imgur.com/3jA0hVP.gif"),
+    # Add Q&A Pair DE
+    ("https://i.imgur.com/cpQNxYC.gif","https://i.imgur.com/3jA0hVP.gif"),
+
+    # Search for linked answer EN
     ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/AuRTL1g.gif"),
-    # Verfied Answers
+    # Search for linked answer DE
+    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/AuRTL1g.gif"),
+  
+  
+    # Verfied Answers EN
     ("https://i.imgur.com/OYdgaLy.png","https://i.imgur.com/uiEp79s.png"),  
+    # Verfied Answers DE
+    ("https://i.imgur.com/4F7bpDZ.png","https://i.imgur.com/uiEp79s.png"),  
 
-    # Search History
+
+    ######################  Search History EN ################### 
     ("https://i.imgur.com/YIicfhA.png","https://i.imgur.com/beYneUV.png"),  
+    # Search History DE
+    ("https://i.imgur.com/WZaX47J.png","https://i.imgur.com/beYneUV.png"),  
     
 
-    
+    ###########################  Native Assitant ################### 
+
+    # Support screen
+
+    # E-mail Assitance
+    ("https://i.imgur.com/3QiM3Bi.gif","https://i.imgur.com/vM0OIZG.gif"),
+    # Connect with reginal support 
+    ("https://i.imgur.com/UhnaGSk.gif","https://i.imgur.com/ryXRHA1.gif"),
     
 
     # Links

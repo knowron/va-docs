@@ -5,7 +5,7 @@
 Unsere Suchverlaufsfunktion bietet wertvolle Einblicke in das Verhalten und die Bedürfnisse Ihrer Nutzer, indem sie alle Fragen anzeigt, die innerhalb Ihrer Organisation gestellt wurden. Durch die Nutzung dieser Informationen können Sie die Probleme Ihrer Nutzer besser verstehen und Ihre Wissensdatenbank durch die Erstellung von Inhalten verbessern, wo diese fehlen. Mit dieser Funktion können Sie Ihr Produkt ständig verbessern und die bestmögliche Benutzererfahrung bieten.
 
 ---
-![Suchverlauf](https://i.imgur.com/WZaX47J.png)
+![Suchverlauf](https://i.imgur.com/beYneUV.png)
 
 ---
 

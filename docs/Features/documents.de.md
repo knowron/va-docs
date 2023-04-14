@@ -12,14 +12,14 @@ Die hochgeladenen Dokumente stellen einen signifikanten Teil der Wissensbasis f�
 
 Wenn Sie auf **Upload** klicken, wird ein Dialogfeld angezeigt, in dem Sie den Titel des Dokuments bearbeiten, die Sichtbarkeit ändern oder Tags hinzufügen können.
 
-![Documents](https://i.imgur.com/e6GPx1M.png)
+![DocumentsMetadata](https://i.imgur.com/0sLjcSS.png)
 
 ### **Title**
 
 Sie können den **Titel** des Dokuments bearbeiten, der in den Suchergebnissen angezeigt wird, obwohl der ursprüngliche **Dateiname** auch in der Dokumententabelle angezeigt wird. 
 
 
-![Title](https://i.imgur.com/u6dcPtx.png)
+![DocsTable](https://i.imgur.com/1L7TQe4.png)
 
 ### **Erstellungsdatum**
 
@@ -36,11 +36,11 @@ Die Einstellung der Sichtbarkeit eines Dokuments auf **Privat** beschränkt den 
 
 Tags können erstellt werden, indem Sie den Namen des Tags, den Sie erstellen möchten, in die Tag-Leiste des Dialogfelds `Metadaten bearbeiten` eingeben.
 
-![Tags](https://i.imgur.com/2wkw8Ji.png)
+![Tags]( https://i.imgur.com/0qLxYwh.png)
 
 Wenn ein Tag bereits existiert, entweder zuvor von Ihnen oder Ihren Kollegen erstellt, wird es in der Liste angezeigt und kann ausgewählt und den Tags des Dokuments hinzugefügt werden.
 
-![Add tag](https://i.imgur.com/vpODjpY.png)
+![Add tag](https://i.imgur.com/DRUKkNT.jpg)
 
 
 !!! important
