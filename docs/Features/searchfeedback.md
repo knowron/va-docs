@@ -17,7 +17,7 @@ As an Admin or Editor, you have the ability to select the correct answer to a us
 
 Once you have linked your answer to the query asked by users, your answer will be shown as a Verified Answer in the search results.
 
-![Search for VA](https://i.imgur.com/AuRTL1g.gif)
+![Search for VA](https://i.imgur.com/dMRX0Ts.gif)
 
 !!! tip 
      Find out more about Verified Answers and Search Results [HERE][docs/Features/search.en.md]

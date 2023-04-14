@@ -220,9 +220,9 @@ replace_pairs = [
     ("https://i.imgur.com/cpQNxYC.gif","https://i.imgur.com/3jA0hVP.gif"),
 
     # Search for linked answer EN
-    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/AuRTL1g.gif"),
+    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/dMRX0Ts.gif"),
     # Search for linked answer DE
-    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/AuRTL1g.gif"),
+    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/dMRX0Ts.gif"),
   
   
     # Verfied Answers EN

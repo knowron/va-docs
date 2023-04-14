@@ -17,7 +17,7 @@ In der oberen linken Ecke des Dialogs sehen Sie die Frage, die der Benutzer gest
 
 Sobald Sie Ihre Antwort mit der von den Nutzern gestellten Frage verknüpft haben, wird Ihre Antwort als verifizierte Antwort in den Suchergebnissen angezeigt.
 
-![Search for VA](https://i.imgur.com/AuRTL1g.gif)
+![Search for VA](https://i.imgur.com/dMRX0Ts.gif)
 
 !!! tip 
      Erfahren Sie mehr über verifizierte Antworten und Suchergebnisse [HIER][docs/Features/search.en.md]
