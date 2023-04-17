@@ -280,6 +280,10 @@ replace_pairs = [
     ("      - \"Features/machineinventory.md\"", ""),
     ("      - \"Features/partsinventory.md\"", ""),
     ("      - \"Features/charts.md\"", ""),
+    ("      - \"Admin Documentation/subtenancy.md\"", ""),
+
+
+    
     
     
     ]
