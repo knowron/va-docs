@@ -63,7 +63,7 @@ replace_pairs = [
     # Documents diagramm EN
     ("https://i.imgur.com/eJN4itO.png","https://i.imgur.com/Eh8enbE.png"),
     # Documents diagramm DE
-    ("https://i.imgur.com/eJN4itO.png","https://i.imgur.com/Eh8enbE.png"),
+    ("https://i.imgur.com/hsCum0C.png","https://i.imgur.com/Eh8enbE.png"),
 
 
     # Documents metadata EN

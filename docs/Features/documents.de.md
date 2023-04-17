@@ -3,7 +3,7 @@
 
 Die hochgeladenen Dokumente stellen einen signifikanten Teil der Wissensbasis für die ausgewählte Produktlinie dar.
 
-![Documents Diagram](https://i.imgur.com/hsCum0C.png)
+![Documents Diagram](https://i.imgur.com/Eh8enbE.png)
 
 
 !!! tip 
