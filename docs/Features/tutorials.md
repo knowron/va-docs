@@ -8,9 +8,6 @@
 
 Users with the Admin or Editor role can **create**, **edit**, or **delete** tutorials inside their organization, as well as set them as published or unpublished and change their visibility. 
 
-<p align="center"><img src="https://i.imgur.com/AK6J9OL.gif" width="100%"></p>
-
-
 ## **A step by step guide on how to create a tutorial**
 
 ### Step 1. Click on the create button

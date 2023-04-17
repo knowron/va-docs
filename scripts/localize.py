@@ -239,13 +239,25 @@ replace_pairs = [
 
     ###########################  Native Assitant ################### 
 
-    # Support screen
+    ########### Support screen ###########
 
     # E-mail Assitance
     ("https://i.imgur.com/3QiM3Bi.gif","https://i.imgur.com/vM0OIZG.gif"),
     # Connect with reginal support 
     ("https://i.imgur.com/UhnaGSk.gif","https://i.imgur.com/ryXRHA1.gif"),
     
+    ########### Documents ###########
+
+    # Filters EN
+    ("https://i.imgur.com/i1cBJeH.gif","https://i.imgur.com/wM4LMgJ.gif"),
+    # Info button DE
+    ("https://i.imgur.com/i1cBJeH.gif","https://i.imgur.com/wM4LMgJ.gif"),
+
+    # Info button EN
+    ("https://i.imgur.com/x3sc8CF.gif","https://i.imgur.com/pWpga0K.gif"),
+     # Info button DE
+    ("https://i.imgur.com/x3sc8CF.gif","https://i.imgur.com/pWpga0K.gif"),
+
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),

@@ -58,11 +58,14 @@ nav:
 
       - "Features/adminpanel.md"
   - Virtual Assist App Features:
-
+      - "Features/troubleshooting_na.md"
       - "Features/supportscreen.md"
+      - "Features/documents_na.md"
 
   - Admin:
+      - "Admin Documentation/subtenancy.md"
       - Security and Access:
           - "Admin Documentation/Security and Access/product_access_groups.md"
           - "Admin Documentation/Security and Access/roles_and_permissions.md"
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
+       
