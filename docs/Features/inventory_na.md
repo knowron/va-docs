@@ -1,4 +1,4 @@
-## Inventory
+# Inventory
 
 The 'Inventory' function is meant to give you an overview of the machines you have downloaded, which you can always access when offline.
 
