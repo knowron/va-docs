@@ -259,6 +259,26 @@ replace_pairs = [
     ("https://i.imgur.com/x3sc8CF.gif","https://i.imgur.com/pWpga0K.gif"),
 
 
+    ############# Push notifications ###############
+
+    # Give permissions EN
+    ("https://i.imgur.com/47aAXlh.jpg","https://i.imgur.com/mjbLm7O.jpg"),
+    ############Give permissions EN#############
+    ("https://i.imgur.com/47aAXlh.jpg","https://i.imgur.com/mjbLm7O.jpg"),
+    
+    # See notification EN 
+    ("https://i.imgur.com/uLsA1EO.gif","https://i.imgur.com/ppbpLgc.gif"),
+     # See notification DE
+    ("https://i.imgur.com/uLsA1EO.gif","https://i.imgur.com/ppbpLgc.gif"),
+
+
+   ############ Machine Details ###############
+
+   # EN
+    ("https://i.imgur.com/KimphwK.gif","https://i.imgur.com/uSm7zhg.gif"),
+   # DE
+    ("https://i.imgur.com/KimphwK.gif","https://i.imgur.com/uSm7zhg.gif"),
+
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
     ("https://docs.knowron.com", "https://docs.virtualassist.smt.asmpt.com"),
@@ -281,6 +301,7 @@ replace_pairs = [
     ("      - \"Features/partsinventory.md\"", ""),
     ("      - \"Features/charts.md\"", ""),
     ("      - \"Admin Documentation/subtenancy.md\"", ""),
+    ("      - \"Feautures/inventory_na.md\"", ""),
 
 
     

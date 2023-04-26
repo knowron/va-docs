@@ -21,4 +21,4 @@ Here you can select the `Date created`, which represents the date the document w
 If you want to find out more information about a specific document, you can click on the info button. This will show you details about the document, such as its title, file name, and the date it was uploaded. You can also see any tags that have already been added to the document, which can help you find related documents more easily.
 If you want to read a document, all you have to do is click on it and it will automatically open on your screen.
 
-<p align="center"><img src="https://i.imgur.com/pWpga0K.gif" width="60%"></p>
+<p align="center"><img src="https://i.imgur.com/pWpga0K.gif" width="30%"></p>

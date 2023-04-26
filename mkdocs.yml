@@ -58,9 +58,11 @@ nav:
 
       - "Features/adminpanel.md"
   - Virtual Assist App Features:
+      - "Features/documents_na.md"
       - "Features/troubleshooting_na.md"
       - "Features/supportscreen.md"
-      - "Features/documents_na.md"
+      - "Features/pushnotifications.md"
+      - "Features/inventory_na.md"
 
   - Admin:
 

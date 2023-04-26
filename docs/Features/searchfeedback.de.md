@@ -22,11 +22,11 @@ Sobald Sie Ihre Antwort mit der von den Nutzern gestellten Frage verknüpft habe
 !!! tip 
      Erfahren Sie mehr über verifizierte Antworten und Suchergebnisse [HIER][docs/Features/search.en.md]
 
-Wenn Sie der Meinung sind, dass die vom Benutzer markierte Antwort richtig ist, können Sie die unbearbeitete Abfrage mit der Taste :wastebasket: neben jeder Abfrage löschen.
+Wenn Sie der Meinung sind, dass die vom Benutzer markierte Antwort doch nicht falsch ist, können Sie die unbearbeitete Frage mit der Taste :wastebasket: neben jeder Frage löschen.
 
 ### **Verifizierte Antworten**
 
-Im Abschnitt **Verifizierte Antworten** können Sie alle Anfragen einsehen, die von Administratoren oder Editoren bearbeitet wurden. Wenn Sie auf eine verifizierte Antwort stoßen, die Sie für falsch halten, oder wenn Sie sie aktualisieren möchten, können Sie Änderungen mit der Funktion :pencil2: vornehmen oder die Verknüpfung mit der Anfrage aufheben. Wir fördern die Zusammenarbeit zwischen unseren Teammitgliedern, um sicherzustellen, dass die Suchergebnisse immer aktuell und korrekt sind.
+Im Abschnitt **Verifizierte Antworten** können Sie alle Fragen einsehen, die von Administratoren oder Editoren bearbeitet wurden. Wenn Sie auf eine verifizierte Antwort stoßen, die Sie für falsch halten, oder wenn Sie sie aktualisieren möchten, können Sie Änderungen mit der Funktion :pencil2: vornehmen oder die Verknüpfung mit der Anfrage aufheben. Wir fördern die Zusammenarbeit zwischen unseren Teammitgliedern, um sicherzustellen, dass die Suchergebnisse immer aktuell und korrekt sind.
 
 
 ![SearchFeedbackTable2](https://i.imgur.com/uiEp79s.png)

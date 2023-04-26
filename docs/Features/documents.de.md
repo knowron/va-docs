@@ -7,7 +7,7 @@ Die hochgeladenen Dokumente stellen einen signifikanten Teil der Wissensbasis f�
 
 
 !!! tip 
-    Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden. Zusätzlich können Sie nach Ihren hochgeladenen Dokumenten anhand des Namens oder Titels suchen
+    Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden. Zusätzlich können Sie nach hochgeladenen Dokumenten anhand des Namens oder Titels suchen
 
 
 Wenn Sie auf **Upload** klicken, wird ein Dialogfeld angezeigt, in dem Sie den Titel des Dokuments bearbeiten, die Sichtbarkeit ändern oder Tags hinzufügen können.
@@ -16,7 +16,7 @@ Wenn Sie auf **Upload** klicken, wird ein Dialogfeld angezeigt, in dem Sie den T
 
 ### **Title**
 
-Sie können den **Titel** des Dokuments bearbeiten, der in den Suchergebnissen angezeigt wird, obwohl der ursprüngliche **Dateiname** auch in der Dokumententabelle angezeigt wird. 
+Sie können den **Titel** des Dokuments bearbeiten, der in den Suchergebnissen angezeigt wird, wobei der ursprüngliche **Dateiname** auch in der Dokumententabelle angezeigt wird. 
 
 
 ![DocsTable](https://i.imgur.com/1L7TQe4.png)

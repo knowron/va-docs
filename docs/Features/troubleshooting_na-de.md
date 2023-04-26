@@ -21,7 +21,7 @@ Sobald Sie [Ihre Produktlinie ausgewählt haben](../Getting%20Started/quick-star
 
 ## Durch einen Fehlerdiagnosenbaum gehen
 
-Nachdem Sie die Fehlerdiagnose aufgerufen haben, sehen Sie eine Reihe von Fragen, mit denen Sie versuchen, die genaue Art des Problems zu bestimmen, das Sie haben. Beantworten Sie sie einfach. Am Ende erhalten Sie eine Diagnose, die Ihnen erklärt, mit welchem Problem Sie konfrontiert sind.
+Nachdem Sie die Fehlerdiagnose aufgerufen haben, sehen Sie eine Reihe von Fragen. Mit der Hilfe dieser können Sie gegebenenfalls die genaue Art des Problems bestimmen. Beantworten Sie einfach eine Frage nach der anderen. Am Ende erhalten Sie eine Diagnose, die Ihnen erklärt, mit welchem Problem Sie konfrontiert sind.
 
 Die Diagnose gibt Ihnen in der Regel auch Hinweise darauf, was Sie zur Fehlerbehebung tun können. Dies kann geschehen in Form von:
 
@@ -34,9 +34,9 @@ Die Diagnose gibt Ihnen in der Regel auch Hinweise darauf, was Sie zur Fehlerbeh
     <img src="https://i.imgur.com/lMmR6Az.gif" width="300">
 </p>
 
-??? tip "Sie wollen zurück? Nach unten swipen!"
+??? tip "Sie wollen zurück? Einfach nach unten swipen!"
 
-    Sie können jederzeit zu früheren Fragen zurückkehren, indem Sie nach unten swipen, um die Frageliste einzublenden, und auf die Frage tippen, die Sie auf andere Weise beantworten möchten.
+    Sie können jederzeit zu früheren Fragen zurückkehren, indem Sie nach unten swipen, um die Frageliste einzublenden, und auf die Frage tippen, die Sie anders beantworten möchten.
 
     <p align="center">
         <img src="https://i.imgur.com/f06qRk0.gif" width="300">
