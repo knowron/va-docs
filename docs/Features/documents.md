@@ -26,7 +26,7 @@ Every document is marked by default with the date it has been uploaded to the sy
 
 ### **Visibility**
 
-Setting the Documents' visibility to **Private** would restrict access to users from your organization only. **Public** documents are visible to all users with access to the product line the documents belong to. 
+Setting the Documents' visibility to **Private** would make them visible to users from your organisation only. **Public** documents can be seen by anyone who has access to the product line they belong to.
 
 ![Add tag](https://i.imgur.com/i475uTD.png)
 

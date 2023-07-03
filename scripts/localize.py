@@ -263,6 +263,7 @@ replace_pairs = [
 
     # Give permissions EN
     ("https://i.imgur.com/47aAXlh.jpg","https://i.imgur.com/mjbLm7O.jpg"),
+    
     ############Give permissions EN#############
     ("https://i.imgur.com/47aAXlh.jpg","https://i.imgur.com/mjbLm7O.jpg"),
     
@@ -278,6 +279,28 @@ replace_pairs = [
     ("https://i.imgur.com/KimphwK.gif","https://i.imgur.com/uSm7zhg.gif"),
    # DE
     ("https://i.imgur.com/KimphwK.gif","https://i.imgur.com/uSm7zhg.gif"),
+
+
+
+   ############ AI Answewrs ###############
+
+   # Your query was asked too broadly and no answer can be formulated from the top results
+    ("https://i.imgur.com/P5dffZP.png","https://i.imgur.com/nBP5YAx.png"),
+    ("https://i.imgur.com/ng1mKcs.png","https://i.imgur.com/UCXLTSH.png"),
+
+   # The information you are looking for is not found in the documents provided
+    ("https://i.imgur.com/pVi2cKC.png","https://i.imgur.com/6Bdze1W.png"),
+
+    # The documentation might be using a different name for the topic that you are looking for
+
+    ("https://i.imgur.com/sxsfxsH.png","https://i.imgur.com/tMWmrTX.png"),
+    ("https://i.imgur.com/hjy43O3.png","https://i.imgur.com/L9Tq3B3.png"),
+
+    #You were looking for something that is in an image
+
+    ("https://i.imgur.com/sxsfxsH.png",""),
+
+
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
