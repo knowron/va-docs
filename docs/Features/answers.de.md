@@ -21,7 +21,7 @@ Die Formulierung der Abfrage als Frage und das Hinzufügen spezifischer Details 
 
 In einigen Fällen ist es möglich, dass nicht alle Dokumente, die mit einem bestimmten Produkt oder einer bestimmten Produktlinie zusammenhängen, von Ihrer Organisation hochgeladen wurden. Wenn Ihnen fehlende Dokumente auffallen, klicken Sie bitte auf den Button "Benachrichtigen", und wir stellen Ihnen die angeforderten Dokumente umgehend zur Verfügung.
 
-<p align="center"><img src="https://i.imgur.com/6Bdze1W.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/sWnOeQ5.png" width="100%"></p>
 
 Die Dokumentation verwendet möglicherweise einen anderen Namen für das Thema, nach dem Sie suchen
 In manchen Fällen kann es vorkommen, dass Sie nach einer Abkürzung suchen, die in der Wissensbasis für ein bestimmtes Produkt oder eine bestimmte Produktlinie nicht vorhanden ist. Dies wird im gegebenen Beispiel deutlich, wo die Suche nach der Abkürzung `What is the torque for a CPP head?` keine Ergebnisse liefert:
