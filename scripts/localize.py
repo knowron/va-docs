@@ -298,7 +298,7 @@ replace_pairs = [
 
     #You were looking for something that is in an image
 
-    ("https://i.imgur.com/sxsfxsH.png","https://i.imgur.com/Vn18LIp.png"),
+    ("https://i.imgur.com/A5UQTgy.png","https://i.imgur.com/Vn18LIp.png"),
 
 
 

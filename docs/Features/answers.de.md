@@ -36,6 +36,6 @@ Aber wenn Sie nach dem Wort selbst suchen `What is Polyactic acid?`, erhalten Si
 
 Unser derzeitiges System unterstützt keine Bilderkennung zur Extraktion von Text aus Bildern. Unsere Expertise liegt im Bereich der natürlichen Sprachverarbeitung und Aufgaben, die sich auf textbasierte Daten konzentrieren.
 
-<p align="center"><img src="https://i.imgur.com/A5UQTgy.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/Vn18LIp.png" width="100%"></p>
 
 Wie in diesem Beispiel zu sehen ist, führt die Antwort auf die Abfrage `What is included in the basic support plan?` zu einem Textausschnitt aus einem Bild. Da das System keinen Text in Bildern erkennen kann, wird für diese Abfrage keine generative Antwort bereitgestellt.
