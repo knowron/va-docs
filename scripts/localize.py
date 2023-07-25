@@ -304,6 +304,8 @@ replace_pairs = [
 
      ("https://i.imgur.com/wwHhhe3.gif","https://i.imgur.com/cHpbe5G.gif"),
      ("https://i.imgur.com/5Z71FC7.gif","https://i.imgur.com/6YBUY6z.gif"),
+     ("https://i.imgur.com/8x1JXJP.png","https://i.imgur.com/XhEc8pN.jpg"),
+
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),

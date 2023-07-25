@@ -36,7 +36,7 @@ This ensures only authorized individuals can participate in knowledge-sharing, p
 
  If you receive a link from a colleague and you don't have access to view it, the following screen will be displayed:
 
- <p align="center"><img src="https://i.imgur.com/8x1JXJP.png" width="40%"></p>
+ <p align="center"><img src="https://i.imgur.com/XhEc8pN.jpg" width="40%"></p>
 
 
 
