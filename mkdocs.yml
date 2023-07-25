@@ -43,6 +43,7 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - attr_list
   - toc:
       permalink: ⚓︎
       permalink_title: Permalink
@@ -59,6 +60,7 @@ nav:
       - "Virtual Assist App (Mobile)": "Getting Started/quick-start-guide-assistant.md"
       - "Virtual Assist Web (Web)": "Getting Started/quick-start-guide-cs.md"
       - "Features/answers.md"
+      - "Features/linksharing.md"
   - Virtual Assist Web Features:
 
       - "Features/searchhistory.md"

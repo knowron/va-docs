@@ -300,6 +300,15 @@ replace_pairs = [
 
     ("https://i.imgur.com/A5UQTgy.png","https://i.imgur.com/Vn18LIp.png"),
 
+    # Link Sharing 
+
+     ("https://i.imgur.com/wwHhhe3.gif","https://i.imgur.com/cHpbe5G.gif"),
+     ("https://i.imgur.com/5Z71FC7.gif","https://i.imgur.com/6YBUY6z.gif"),
+
+     
+
+   
+
 
 
     # Links
