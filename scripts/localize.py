@@ -305,12 +305,6 @@ replace_pairs = [
      ("https://i.imgur.com/wwHhhe3.gif","https://i.imgur.com/cHpbe5G.gif"),
      ("https://i.imgur.com/5Z71FC7.gif","https://i.imgur.com/6YBUY6z.gif"),
 
-     
-
-   
-
-
-
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
     ("https://docs.knowron.com", "https://docs.virtualassist.smt.asmpt.com"),
@@ -328,7 +322,7 @@ replace_pairs = [
     ("primary: deep orange", "primary: red"),
     ("accent: indigo", "accent: red"),
     ("FA6E3F", "ac3229"),
-    ("      - \"Features/troubleshooting.md\"", ""),
+    ("      - \"Features/troubleshooting_na.md\"", ""),
     ("      - \"Features/machineinventory.md\"", ""),
     ("      - \"Features/partsinventory.md\"", ""),
     ("      - \"Features/charts.md\"", ""),
