@@ -21,7 +21,7 @@ Our platform operates on a role-based access system, meaning that each team memb
 
 This ensures only authorized individuals can participate in knowledge-sharing, preventing unauthorized access. If you receive a link from a colleague and you don't have access to view it, the following screen will be displayed:
 
-<p align="center"><img src="https://i.imgur.com/5cCT2eY.png" width="90%"></p>
+<p align="center"><img src="https://i.imgur.com/ucvZ0bq.png" width="90%"></p>
 
 
 ## How to share a link on the Virtual Assist App?

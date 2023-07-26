@@ -18,4 +18,4 @@ Unsere Plattform arbeitet mit einem rollenbasierten Zugriffssystem, das bedeutet
 
 Dies gewährleistet, dass nur autorisierte Personen an der Wissensaustausch teilnehmen können und unbefugten Zugriff verhindert wird. Wenn Sie von einem Kollegen einen Link erhalten und keinen Zugriff haben, um ihn anzusehen, wird der folgende Bildschirm angezeigt:
 
-<p align="center"><img src="https://i.imgur.com/5cCT2eY.png" width="90%"></p>
+<p align="center"><img src="https://i.imgur.com/ucvZ0bq.png" width="90%"></p>
