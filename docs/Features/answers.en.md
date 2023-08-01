@@ -23,7 +23,7 @@ Formulating the query **as a question** and adding specific details will result 
 
 In some instances, it is possible that not all documents related to a specific product or product line have been uploaded by your organization. If you come across missing documents, please click on the `Notify` button, and we will promptly make the requested documents available for you.
  
- <p align="center"><img src="https://i.imgur.com/tF97eUG.png" width="100%"></p>
+ <p align="center"><img src="https://i.imgur.com/sWnOeQ5.png" width="100%"></p>
 
 
 #### The documentation might be using a different name for the topic that you are looking for

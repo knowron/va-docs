@@ -289,7 +289,7 @@ replace_pairs = [
     ("https://i.imgur.com/ng1mKcs.png","https://i.imgur.com/UCXLTSH.png"),
 
    # The information you are looking for is not found in the documents provided
-    ("https://i.imgur.com/pVi2cKC.png","https://i.imgur.com/sWnOeQ5.png"),
+    ("https://i.imgur.com/tF97eUG.png","https://i.imgur.com/sWnOeQ5.png"),
 
     # The documentation might be using a different name for the topic that you are looking for
 
@@ -300,7 +300,7 @@ replace_pairs = [
 
     ("https://i.imgur.com/A5UQTgy.png","https://i.imgur.com/Vn18LIp.png"),
 
-    # Link Sharing 
+    ############## Link Sharing ################
 
      ("https://i.imgur.com/wwHhhe3.gif","https://i.imgur.com/cHpbe5G.gif"),
      ("https://i.imgur.com/5Z71FC7.gif","https://i.imgur.com/6YBUY6z.gif"),
