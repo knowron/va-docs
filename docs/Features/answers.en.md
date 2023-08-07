@@ -25,17 +25,6 @@ In some instances, it is possible that not all documents related to a specific p
  
  <p align="center"><img src="https://i.imgur.com/sWnOeQ5.png" width="100%"></p>
 
-
-#### The documentation might be using a different name for the topic that you are looking for
-
-In some cases, it is possible that you may encounter a situation where you are searching for an abbreviation of a word that is not present in the knowledge base for a specific product or product line. This is evident in the provided example, where the search for the abbreviation `What is the torque for a CPP head?` does not yield any results:
-
- <p align="center"><img src="https://i.imgur.com/tMWmrTX.png" width="100%"></p>
-
- But when searching for the word itself `What is Polylactic acid?` the query yields in a generative answer:
-
- <p align="center"><img src="https://i.imgur.com/L9Tq3B3.png" width="100%"></p>
-
 #### You were looking for something that is in an image
 
 Our current system does not support image recognition for extracting text from images. Our expertise lies in natural language processing and tasks centered around textual data. 
@@ -43,6 +32,10 @@ Our current system does not support image recognition for extracting text from i
  <p align="center"><img src="https://i.imgur.com/Vn18LIp.png" width="100%"></p>
 
 As it can be seen in this example the answer to the query `What is included in the basic support plan?` leads to a piece of text from an image. Since the system cannot identify text in images, there is no generated answer provided for this query. 
+
+#### Exact match 
+
+"Exact match" is the process of finding results that exactly match the query enclosed within quotation marks (" "). When a search term is enclosed in quotes, the search engine will only return results that contain the exact word or phrase, without considering synonyms or variations. This will help you find specific and precise information, avoiding irrelevant or loosely related results.
 
 
 
