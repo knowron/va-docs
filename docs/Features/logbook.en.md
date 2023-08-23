@@ -9,7 +9,7 @@ First, scan the machine whose logbook you want to access. You can do this by sca
 
 You **cannot** access the logbook from a Product Line.
 
-<p align="center"><img src="https://i.imgur.com/BKE7IV9.gif" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/pAmAHTF.giff" width="30%"></p>
 
 !!! note
 
@@ -19,7 +19,7 @@ You **cannot** access the logbook from a Product Line.
 
 Simply tap on the "Add entry" :material-plus: button to add a new entry.
 
-<p align="center"><img src="https://i.imgur.com/3NQ9e9X.gif" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/PiIpt1F.gif" width="50%"></p>
 
 Be sure to add a title and a category, as well as describe the work that was done on the machine. You can also attach images or videos you have previously taken. A picture is worth more than a thousand words!
 
@@ -27,7 +27,7 @@ Be sure to add a title and a category, as well as describe the work that was don
 
 At any point, you can see all of the entries you and your colleagues have added for a specific machine. You can also see pictures and play the videos attached to them. 
 
-<p align="center"><img src="https://i.imgur.com/NETD64k.gif" width="50%"></p>
+<p align="center"><img src="" width="50%"></p>
 
 You can also use the filters to search for specific text or the date of the logbook entry to narrow things down.
 

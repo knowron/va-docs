@@ -177,6 +177,19 @@ replace_pairs = [
      # User management EN
     ("https://i.imgur.com/ZT9Q1u1.gif",""),
 
+
+
+    #################### Logbook ######################
+
+    # 
+    ("https://i.imgur.com/BKE7IV9.gi","https://i.imgur.com/pAmAHTF.gif"),
+    # 
+    ("https://i.imgur.com/3NQ9e9X.gif","https://i.imgur.com/PiIpt1F.gif"),
+    #
+    ("https://i.imgur.com/NETD64k.gif",""),
+
+
+
     ################### Tutorials ################### 
 
     # Step 1 EN

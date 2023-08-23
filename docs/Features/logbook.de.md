@@ -9,7 +9,7 @@ Scannen Sie zunächst die Maschine, auf deren Logbuch Sie zugreifen möchten. Si
 
 Sie können **nicht** über eine Produktlinie auf das Logbuch zugreifen.
 
-<p align="center"><img src="https://i.imgur.com/BKE7IV9.gif" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/pAmAHTF.giff" width="50%"></p>
 
 !!! Hinweis
 
@@ -19,7 +19,7 @@ Sie können **nicht** über eine Produktlinie auf das Logbuch zugreifen.
 
 Tippen Sie einfach auf die Schaltfläche "Eintrag hinzufügen" :material-plus:, um einen neuen Eintrag hinzuzufügen.
 
-<p align="center"><img src="https://i.imgur.com/3NQ9e9X.gif" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/PiIpt1F.gif" width="50%"></p>
 
 Fügen Sie einen Titel und eine Kategorie hinzu und beschreiben Sie die Arbeiten, die an der Maschine durchgeführt wurden. Sie können auch Bilder oder Videos anhängen, die Sie zuvor aufgenommen haben. Ein Bild sagt mehr als tausend Worte!
 
@@ -27,7 +27,7 @@ Fügen Sie einen Titel und eine Kategorie hinzu und beschreiben Sie die Arbeiten
 
 Sie können jederzeit alle Einträge einsehen, die Sie und Ihre Kollegen zu einer bestimmten Maschine hinzugefügt haben. Sie können auch Bilder sehen und die dazugehörigen Videos abspielen. 
 
-<p align="center"><img src="https://i.imgur.com/NETD64k.gif" width="50%"></p>
+<p align="center"><img src="" width="50%"></p>
 
 Sie können auch die Filter verwenden, um nach einem bestimmten Text oder dem Datum des Logbucheintrags zu suchen, um die Suche einzugrenzen.
 
