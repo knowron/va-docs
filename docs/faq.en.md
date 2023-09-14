@@ -44,6 +44,14 @@ ASMPT Virtual Assist is a software product optimized for natural language querie
 
 The system still supports keyword search, but asking detailed questions provides the most precise answers. If you have a specific document you want to download, you can use the documents screen to locate it. This feature enables you to easily access the information you need, without having to spend time searching for it.
 
+## Why is the content in my document not being read correctly by the system?
+
+At ASMPT Virtual Assist, our primary focus revolves around the utilization of Natural Language Processing (NLP) to comprehensively analyze documents. This involves working extensively with textual information, making **text-rich data our particular area of expertise**.
+
+Text-poor data, such as images, tables and circuit diagrams are more challenging to process. Read our [page on document upload guidelines](./Admin%20Documentation/documents_upload_guidelines.md) to learn more.
+
+Do not hesitate to reach out to our [sales and support team](mailto:asm-support.df@asmpt.com) to activate features such as **OCR** (optical character recognition), **table parsing** and other similar features, which are available as part of our premium packages.
+
 ## How do I change the language on the platform?
 
 There are two options you can use to change the language on our platform. For desktop, you can change the language of the complete platform in the product selection page, by selecting language option in the top right corner.

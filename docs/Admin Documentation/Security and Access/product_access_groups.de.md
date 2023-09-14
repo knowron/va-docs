@@ -1,7 +1,7 @@
 # Produktzugriffsgruppen
 
 !!! info "Diese Funktion ist standardmäßig nicht aktiviert"
-    Wenn Sie Produktzugriffsgruppen für Ihre Organisation ausprobieren möchten, wenden Sie sich bitte an arturo@knowron.com.
+    Wenn Sie Produktzugriffsgruppen für Ihre Organisation ausprobieren möchten, wenden Sie sich bitte an asm-support.df@asmpt.com.
 
 Service-Organisationen haben oft verschiedene Teams, die auf unterschiedliche Arten von Dokumenten zugreifen müssen. Der Vertrieb benötigt Preislisten und Produktbroschüren, Techniker vor Ort benötigen Serviceanleitungen und technische Bulletins, Inbetriebnahme-Teams benötigen Montageanleitungen usw.
 

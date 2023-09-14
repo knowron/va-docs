@@ -108,7 +108,7 @@ extra:
           link: https://www.linkedin.com/company/knowron/
           name: ASMPT Virtual Assist on LinkedIn
         - icon: fontawesome/solid/envelope
-          link: mailto:<ask@knowron.com>
+          link: mailto:<asm-support.df@asmpt.com>
   
   analytics:
       provider: google

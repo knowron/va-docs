@@ -321,13 +321,16 @@ replace_pairs = [
      ("https://i.imgur.com/5cCT2eY.png","https://i.imgur.com/ucvZ0bq.png"),
 
     # Links
+
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
     ("https://docs.knowron.com", "https://docs.virtualassist.smt.asmpt.com"),
     ("https://suite.knowron.com", "https://virtualassist.smt.asmpt.com/"),
     ("https://www.knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
     ("suite.knowron.com", "virtualassist.smt.asmpt.com"),
     ("<arturo@knowron.com>", "[us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)"),
-
+    ("ask@knowron.com", "asm-support.df@asmpt.com"),
+    ("arturo@knowron.com", "asm-support.df@asmpt.com"),
+    
     ("https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron", "https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant"),
     ("https://apps.apple.com/en-us/app/knowron-assistant/id1585382448", "https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842"),
     ("https://apps.apple.com/at/app/knowron-assistant/id1585382448", "https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842"),
