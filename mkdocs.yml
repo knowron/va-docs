@@ -33,19 +33,10 @@ plugins:
         gtag:
           - G-ZWQCQKMBGJ  
   - i18n:
-      docs_structure: suffix
-      fallback_to_default: true
+      default_language: en
       languages:
-        - build: true
-          default: true
-          locale: en
-          name: English
-        - build: true
-          default: false
-          locale: de
-          name: Deutsch
-      reconfigure_material: true
-      reconfigure_search: true
+        en: English
+        de: Deutsch
 markdown_extensions:
   - admonition
   - pymdownx.details
