@@ -1,11 +1,11 @@
-# <span style="color:#ac3229">Articles </span> 
+# Articles
 
 Articles allow you, editors and admins, to create free-form content. While Tutorials are structured and have a specific purpose to their own, Articles allow you to write anything from a frequently asked question to a problem-solution piece for commonly encountered issues. Articles can be linked to any other content in the knowledge base.
 
 ## What do create, edit or delete Articles?
 
 
-As an user with the **Admin** or **Editor** role you can create, edit or delete Asrticles.
+As an user with the **Admin** or **Editor** role you can create, edit or delete Articles.
 
 ### **Create**
 

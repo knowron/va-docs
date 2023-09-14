@@ -1,3 +1,5 @@
+# Artikel
+
 Artikel ermöglichen es Ihnen, als Administrator, Editor oder Nutzer, freie Inhalte zu erstellen. Während Tutorials strukturiert sind und einen spezifischen Zweck haben, können Sie mit Artikeln alles schreiben, von häufig gestellten Fragen bis hin zu Problemlösungen für häufig auftretende Probleme. Artikel können mit jedem anderen Inhalt in der Wissensdatenbank verlinkt werden.
 
 ## Was können Sie mit Artikeln machen?
@@ -20,3 +22,5 @@ Unsere `Fehler-/Lösungsvorlage` ist darauf ausgelegt, den Prozess der Erstellun
 ### **Bearbeiten oder Löschen**
 
 Im `AKTIONEN` Panel können Sie wählen, ob Sie von Ihnen oder Benutzern in Ihrer Organisation erstellte Artikel bearbeiten :pencil2: oder löschen :wastebasket:.
+
+<p align="center"><img src="https://i.imgur.com/WI1kkMd.png" width="100%"></p>

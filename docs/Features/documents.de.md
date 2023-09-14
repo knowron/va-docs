@@ -1,24 +1,25 @@
 # Dokumente
 
+
 Die hochgeladenen Dokumente stellen einen signifikanten Teil der Wissensbasis für die ausgewählte Produktlinie dar.
 
 ![Documents Diagram](https://i.imgur.com/hsCum0C.png)
 
 
 !!! tip 
-    Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden. Zusätzlich können Sie nach Ihren hochgeladenen Dokumenten anhand des Namens oder Titels suchen
+    Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden. Zusätzlich können Sie nach hochgeladenen Dokumenten anhand des Namens oder Titels suchen
 
 
 Wenn Sie auf **Upload** klicken, wird ein Dialogfeld angezeigt, in dem Sie den Titel des Dokuments bearbeiten, die Sichtbarkeit ändern oder Tags hinzufügen können.
 
-![Documents](https://i.imgur.com/e6GPx1M.png)
+![DocumentsMetadata](https://i.imgur.com/e6GPx1M.png)
 
 ### **Title**
 
-Sie können den **Titel** des Dokuments bearbeiten, der in den Suchergebnissen angezeigt wird, obwohl der ursprüngliche **Dateiname** auch in der Dokumententabelle angezeigt wird. 
+Sie können den **Titel** des Dokuments bearbeiten, der in den Suchergebnissen angezeigt wird, wobei der ursprüngliche **Dateiname** auch in der Dokumententabelle angezeigt wird. 
 
 
-![Title](https://i.imgur.com/u6dcPtx.png)
+![DocsTable](https://i.imgur.com/u6dcPtx.png)
 
 ### **Erstellungsdatum**
 

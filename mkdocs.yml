@@ -18,10 +18,20 @@ theme:
   features:
     - navigation.indexes
     - navigation.sections
-    - toc.follow
+    - toc.follow 
 plugins:
   - search
   - glightbox
+  - tags:
+      tags_extra_files:
+        compatibility.md:
+          - compat 
+        web.md:
+          - html
+          - js
+          - css    
+        gtag:
+          - G-ZWQCQKMBGJ  
   - i18n:
       default_language: en
       languages:
@@ -33,6 +43,7 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - attr_list
   - toc:
       permalink: ⚓︎
       permalink_title: Permalink
@@ -42,24 +53,67 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - Introduction: "index.en.md"
+  - Intro: "index.md"
+  - "FAQ": "faq.md"
+
   - Getting Started:
       - "Virtual Assist App (Mobile)": "Getting Started/quick-start-guide-assistant.md"
       - "Virtual Assist Web (Web)": "Getting Started/quick-start-guide-cs.md"
-      - "Virtual Assist Web (Web) Admins" : "Getting Started/quick-start-guide-cs-admins.en.md"
-      - "Virtual Assist Web (Web) Editors" : "Getting Started/quick-start-guide-cs-editors.en.md"
-  - Features:
+      - "Features/answers.md"
+      - "Features/linksharing.md"
+  - Virtual Assist Web Features:
+      - "Features/charts.md"
+      - "Features/searchhistory.md"
       - "Features/search.md"
-      - "Features/documents.md"
-
-      - "Features/articles.md"
       - "Features/tutorials.md"
-      - "Features/adminpanel.md"
+      - "Features/documents.md"
+      - "Features/articles.md"
+      - "Features/machineinventory.md"
       - "Features/searchfeedback.md"
+      - "Features/partsinventory.md"
+      - "Features/adminpanel.md"
+  - Virtual Assist App Features:
+      - "Features/documents_na.md"
+      - "Features/troubleshooting_na.md"
+      - "Features/logbook.md"
+      - "Features/supportscreen.md"
+      - "Features/pushnotifications.md"
+      - "Features/inventory_na.md"
   - Admin:
+      - "Admin Documentation/subtenancy.md"
       - Security and Access:
           - "Admin Documentation/Security and Access/product_access_groups.md"
           - "Admin Documentation/Security and Access/roles_and_permissions.md"
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
-  - About ASMPT Virtual Assist:
-      - "About/faq.md"
+copyright: Copyright &copy; 2023 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      Our website uses cookies, which are small text files, 
+      to distinguish you from other users and provide you 
+      with a good experience when you browse our website. 
+      You can allow all or manage them individually.
+      You can find further details of our cookies here:
+      <a href="https://smt.asmpt.com/en/products/software-solutions/virtual-assist/privacy-policy">Privacy policy</a>
+    actions:
+      - accept
+      - reject
+      - manage
+    cookies:
+      Imgur: Imgur
+    
+  social:
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/company/knowron/
+          name: ASMPT Virtual Assist on LinkedIn
+        - icon: fontawesome/solid/envelope
+          link: mailto:<asm-support.df@asmpt.com>
+  
+  analytics:
+      provider: google
+      property: G-ZWQCQKMBGJ
+
+
+
+

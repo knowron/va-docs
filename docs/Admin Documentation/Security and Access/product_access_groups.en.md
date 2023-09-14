@@ -1,7 +1,7 @@
 # Product Access Groups
 
 !!! info "This feature is not enabled by default"
-    If you want to try out product access groups for your organization, please reach out to [us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist).
+    If you want to try out product access groups for your organization, please reach out to <asm-support.df@asmpt.com>.
 
 Service organizations often have different teams which need to access different types of documents. Service sales will need price lists and product brochures, technicians on the field will need service manuals and technical bulletins, commissioning teams will need assembly instructions, etc.
 

@@ -1,6 +1,6 @@
 # Quick Start Guide for Admins of the ASMPT Virtual Assist Virtual Assist Web
 
-This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
+This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you need any questions or support, [please contact us directly](mailto:asm-support.df@asmpt.com)!
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 

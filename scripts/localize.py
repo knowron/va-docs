@@ -2,6 +2,8 @@ import os, shutil
 root = ".."
 
 replace_pairs = [
+    ("ask@knowron.com", "asm-support.df@asmpt.com"),
+    ("arturo@knowron.com", "asm-support.df@asmpt.com"),
     ("KNOWRON Assistant", "ASMPT Virtual Assist"), 
     ("Native Assistant", "Virtual Assist App"), 
     ("Assistant", "Virtual Assist App"), 
@@ -136,7 +138,19 @@ replace_pairs = [
     ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/AuRTL1g.gif"),
     # Verfied Answers
     ("https://i.imgur.com/OYdgaLy.png","https://i.imgur.com/uiEp79s.png"),  
-    
+    ("https://i.imgur.com/cpQNxYC.gif", "https://i.imgur.com/3jA0hVP.gif"),
+
+
+    ### Tutorials
+    ("https://i.imgur.com/lj6pLuA.gif", "https://i.imgur.com/CNlZKs7.gif"),
+    ("https://i.imgur.com/7dhtHdB.gif", "https://i.imgur.com/tUWAEi5.gif"),
+    ("https://i.imgur.com/Pw0bbz0.gif", "https://i.imgur.com/sKlSbTO.gif"),
+    ("https://i.imgur.com/1ah1Wud.gif", "https://i.imgur.com/jkm8nCe.gif"),
+    ("https://i.imgur.com/dYfNNNS.gif", "https://i.imgur.com/u973bwk.gif"),
+    ("https://i.imgur.com/7WBpvpM.gif", "https://i.imgur.com/jkm8nCe.gif"),
+
+    ### Admin Panel
+    ("https://i.imgur.com/EZyvUYZ.gif", "https://i.imgur.com/H02gNPV.gif"),
 
     # Links
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),

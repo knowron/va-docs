@@ -2,7 +2,7 @@
 
 !!! tip "Brauchen Sie mehr Optionen? Sprechen Sie mit uns!"
 
-    Das System von ASMPT Virtual Assist ist auf maximale Modularität für Unternehmenskunden ausgelegt. Wenn Sie andere Rollen oder einen anderen Satz von Berechtigungen benötigen, lassen Sie es uns wissen - kontaktieren Sie uns einfach [us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist).
+    Das System von ASMPT Virtual Assist ist auf maximale Modularität für Unternehmenskunden ausgelegt. Wenn Sie andere Rollen oder einen anderen Satz von Berechtigungen benötigen, lassen Sie es uns wissen - kontaktieren Sie uns einfach <asm-support.df@asmpt.com>.
 
 Mit ASMPT Virtual Assist können Sie wählen, welche Funktionen und welchen Zugriff jeder einzelne Benutzer erhält. Einige Benutzer, wie z.B. jüngere Kollegen, werden hauptsächlich Informationen **konsumieren**, während erfahrenere Benutzer viel davon **erstellen und kuratieren**.
 
