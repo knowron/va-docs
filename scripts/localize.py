@@ -186,7 +186,7 @@ replace_pairs = [
     # 
     ("https://i.imgur.com/3NQ9e9X.gif","https://i.imgur.com/PiIpt1F.gif"),
     #
-    ("https://i.imgur.com/NETD64k.gif",""),
+    ("https://i.imgur.com/NETD64k.gif","https://i.imgur.com/kHjpJQo.gif"),
 
 
 

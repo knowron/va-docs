@@ -27,7 +27,7 @@ Fügen Sie einen Titel und eine Kategorie hinzu und beschreiben Sie die Arbeiten
 
 Sie können jederzeit alle Einträge einsehen, die Sie und Ihre Kollegen zu einer bestimmten Maschine hinzugefügt haben. Sie können auch Bilder sehen und die dazugehörigen Videos abspielen. 
 
-<p align="center"><img src="" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/kHjpJQo.gif" width="50%"></p>
 
 Sie können auch die Filter verwenden, um nach einem bestimmten Text oder dem Datum des Logbucheintrags zu suchen, um die Suche einzugrenzen.
 

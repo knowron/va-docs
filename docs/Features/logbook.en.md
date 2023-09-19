@@ -27,7 +27,7 @@ Be sure to add a title and a category, as well as describe the work that was don
 
 At any point, you can see all of the entries you and your colleagues have added for a specific machine. You can also see pictures and play the videos attached to them. 
 
-<p align="center"><img src="" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/kHjpJQo.gif" width="50%"></p>
 
 You can also use the filters to search for specific text or the date of the logbook entry to narrow things down.
 

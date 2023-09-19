@@ -6,9 +6,4 @@ Visit the child pages to learn more!
 
 ## 2023
 
-- [Update for late January](2023/late_jan_update.md)
-
-## 2022
-
-- [Update for late December](2022/2022-late-dec-update.md)
-- [Update for early December](2022/2022-early_dec_updated.md)
+- [September Update](2023/september_update.md)
