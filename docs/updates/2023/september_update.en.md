@@ -2,9 +2,24 @@
 
 In the last months, we have introduced a number of updates designed to make you and your colleagues' lives much easier. They are based on your feedback, so please keep it coming!
 
-## Machine logbook now available!
+## Share documents easily with a **simple link**
 
-The [digital logbook](../../Features/logbook.md) serves as a historical record of a machine's lifecycle. Over time, it accumulates a wealth of knowledge, insights, and best practices shared by colleagues. Read all about it [here](../../Features/logbook.md).
+**[Link Sharing](../../Features/linksharing.md)** is a powerful tool designed to streamline communication and foster teamwork. It allows you to share valuable resources with their colleagues effortlessly.
+
+Look for the "Share" <img src="https://i.imgur.com/EMQaeuo.png" width="6%"></img> icon or option associated with the content you want to distribute.
+
+Click on "Copy Link" and distribute the link among your colleagues .
+
+<p align="center"><img src="https://i.imgur.com/cHpbe5G.gif" width="90%"></p>
+
+The update is also available and completely compatible with the Virtual Assist App!
+
+<p align="center"><img src="https://i.imgur.com/6YBUY6z.gif" width="40%"></p>
+
+
+## Store machine-specific information in the new **Machine logbook**
+
+The **[digital logbook](../../Features/logbook.md)** serves as a historical record of a machine's lifecycle. Over time, it accumulates a wealth of knowledge, insights, and best practices shared by colleagues. Read all about it [here](../../Features/logbook.md).
 
 <p align="center"><img src="https://i.imgur.com/kHjpJQo.gif" width="50%"></p>
 
