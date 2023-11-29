@@ -188,6 +188,15 @@ replace_pairs = [
     #
     ("https://i.imgur.com/NETD64k.gif","https://i.imgur.com/kHjpJQo.gif"),
 
+    
+    #################### Machine Inventory ######################
+
+    # Intro image
+    ("https://i.imgur.com/rTruWjI.gif", "https://i.imgur.com/9SFdtZC.gif"),
+    # Adding machines
+    ("https://i.imgur.com/7F9L59T.gif", "https://i.imgur.com/6D9GhLI.gif"),
+    # QR codes for the machine
+    ("https://i.imgur.com/s9BOpW8.gif", "https://i.imgur.com/PYTYa1F.gif"),
 
 
     ################### Tutorials ################### 
