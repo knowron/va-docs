@@ -1,4 +1,10 @@
 # Product Update December 2023
+
+!!! warning "This page is under construction"
+
+    This page is under construction.
+
+
 Welcome to our December update page! As always, this page is simply a summary of the features released from the [Virtual Assist Roadmap](https://trello.com/b/LqJL5UDm/virtual-assist-roadmap). You can always check the roadmap page for the most up-to-date information on the product.
 
 ---
