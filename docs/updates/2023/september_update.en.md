@@ -1,4 +1,4 @@
-# ASMPT Virtual Assist September Update
+# ASMPT Virtual Assist September Update 2023
 
 In the last months, we have introduced a number of updates designed to make you and your colleagues' lives much easier. They are based on your feedback, so please keep it coming!
 

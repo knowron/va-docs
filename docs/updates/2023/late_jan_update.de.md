@@ -1,4 +1,4 @@
-# Produkt-Update Ende Januar
+# Produkt-Update Ende Januar 2023
 
 ## ASMPT Virtual Assist Virtual Assist App
 

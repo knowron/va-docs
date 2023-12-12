@@ -1,4 +1,4 @@
-# Early December Product Update
+# Early December Product Update 2022
 
 Hello everybody! Here at ASMPT Virtual Assist we've been working on a couple of features and improvements we think will make your life and that of your colleagues easier!
 
