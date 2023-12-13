@@ -40,7 +40,7 @@ The **Search History** and **Feedback** screens have now been moved to be under 
 
 One of the main changes we have introduced is an all-new way to directly and simply answer users' questions.
 
-<p align="center"><video src="https://i.imgur.com/ODp7JsV.mp4" autoplay></p>
+<p align="center"><img src="https://i.imgur.com/H9UPPOK.gif" width="100%"></p>
 
 Whenever a user submits a feedback about the answer they have received or the search results in front of them, a new **feedback item** will be created. You can answer these feedback items (or unanswered questions, see above) with an **Expert Answer**. 
 
@@ -48,7 +48,7 @@ Expert answers are the best way to close gaps in your knowledge base. Think of t
 
 Expert answers behave much like articles: you can quickly write information and attach images or links to it. The expert answer will also show up on search like other sources, but it will be treated with priority for the query which it answered originally.
 
-<p align="center"><video src="https://i.imgur.com/RZEwcqF.mp4" autoplay></p>
+<p align="center"><img src="https://i.imgur.com/ZpPo2JN.gif" width="100%"></p>
 
 Expert answers can also contain sources, which refer the user to other articles or documents which might help them look up a specific value or data point. Please note that the public visibility of an expert answer might change based on the sources attached: expert answers with private sources are automatically private!
 
@@ -75,7 +75,8 @@ As part of this update, we have released a reworked tag system that is available
 
 Tags can be used to easily narrow down search results or relevant documents in the documents and articles screens. They now conform to existing data structures within ASMPT (e.g. Inspection vs. Printing) and will be immediately recognizable to most users. 
 
-<p align="center"><video src="https://i.imgur.com/q0DsYa7.mp4" autoplay></p>
+<p align="center"><img src="https://i.imgur.com/BtWiY46.gif" width="100%"></p>
+
 
 We will slowly continue to add content units to this system (e.g. expert answers) as time goes on. Previously, only documents could be tagged - we have now expanded that possibility to articles as well.
 
@@ -85,8 +86,7 @@ We will slowly continue to add content units to this system (e.g. expert answers
 
 We have now added a [Lightbox](https://en.wikipedia.org/wiki/Lightbox_(JavaScript)) component to the product, making it easier to zoom into small images appearing on e.g. articles.
 
-<p align="center"><video src="https://i.imgur.com/2YrO7HQ.mp4" autoplay></p>
-
+<p align="center"><img src="https://i.imgur.com/W4tb9c4.gif" width="100%"></p>
 
 ## Article drafts (available immediately)
 
@@ -94,7 +94,7 @@ Previously, articles could only be immediately published for everyone to see, ma
 
 Editors can now simply save an article as a draft. This means that it will not appear on search and it will only be visible for other editors who can also edit them.
 
-<p align="center"><video src="https://i.imgur.com/VQhiun4.mp4" autoplay></p>
+<p align="center"><img src="https://i.imgur.com/ajgErFN.gif" width="100%"></p>
 
 ## New user feedback collection for Control Suite (15.12.)
 
