@@ -1,4 +1,5 @@
 import os, shutil
+import re
 root = ".."
 
 replace_pairs = [
@@ -377,13 +378,21 @@ ignore = [".github", "site", ".git"]
 
 exceptions = [""]
 
+def remove_comments(input_string):
+    pattern = r'\[comment\]: KNOWRON-ONLY-START[\s\S]*?\[comment\]: KNOWRON-ONLY-END\n?'
+
+    result = re.sub(pattern, '', input_string)
+    return result
+
+
 def replace(filename):
     # Read in the file
     with open(filename, 'r') as file :
         filedata = file.read()
 
     # Replace the target string
-    new_filedata = replace_target_string_from_pairs(filedata, replace_pairs)
+    new_filedata = remove_comments(filedata)
+    new_filedata = replace_target_string_from_pairs(new_filedata, replace_pairs)
 
     # Write the file out again
     with open(filename, 'w') as file:
