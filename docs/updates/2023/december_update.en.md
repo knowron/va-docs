@@ -5,11 +5,11 @@
     This page is under construction.
 
 
-Welcome to our December update page! As always, this page is simply a summary of the features released from the [Virtual Assist Roadmap](https://trello.com/b/LqJL5UDm/virtual-assist-roadmap). You can always check the roadmap page for the most up-to-date information on the product.
 
 ---
 
 ## Insights Dashboard makes it easier to close knowledge gaps (available immediately)
+
 One of the main goals for this quarter was to make sure that editors and admins could understand how well their system was performing and were empowered to close the knowledge gaps in their organization.
 
 The **Insights Dashboard** is our way to do that. 
@@ -52,7 +52,7 @@ Expert answers behave much like articles: you can quickly write information and 
 
 Expert answers can also contain sources, which refer the user to other articles or documents which might help them look up a specific value or data point. Please note that the public visibility of an expert answer might change based on the sources attached: expert answers with private sources are automatically private!
 
-### Informing users
+## Informing users
 
 Whenever an editor answers a users' open feedback, Virtual Assist will automatically generate an email informing them that their query has been answered.
 
@@ -64,12 +64,12 @@ The Virtual Assist is now available in Chinese and in the People's Republic of C
 
 Users can upload Chinese documents, ask questions in Chinese and get answers in Chinese, even from documents that are not Chinese themselves.
 
-This update includes a full localization of the user interface of both the Control Suite and the Application.
+This update includes a full localization of the user interface of both the Virtual Assist Web and the Application.
 
 <p align="center"><img src="https://i.imgur.com/KTLQrHi.png"></p>
 
 
-## New tag system is now available for documents, articles and search (15.12.)
+## New tag system is now available for documents, articles and search (15 Dec)
 
 As part of this update, we have released a reworked tag system that is available across content units (currently documents, articles and search). 
 
@@ -96,15 +96,15 @@ Editors can now simply save an article as a draft. This means that it will not a
 
 <p align="center"><img src="https://i.imgur.com/ajgErFN.gif" width="100%"></p>
 
-## New user feedback collection for Control Suite (15.12.)
+## New user feedback collection for Virtual Assist Web (15 Dec)
 
-As part of our drive to make it easier for users to provide their feedback, we have reworked the feedback-collecting elements on Control Suite search. 
+As part of our drive to make it easier for users to provide their feedback, we have reworked the feedback-collecting elements on Virtual Assist Web search. 
 
 Users will now be able to select from among pre-defined categories for giving feedback on results which aren't helpful, instead of having to elaborate much. 
 
 Users can now also submit feedback (positive and negative) to extracted answers.
 
-## Multiple languages in articles (15.12.)
+## Multiple languages in articles (22 Dec)
 
 Previously, articles were only available in the language in which they were initially written. This led to single-language knowledge areas cut off to the rest. 
 

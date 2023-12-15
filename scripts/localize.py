@@ -322,6 +322,20 @@ replace_pairs = [
 
     ("https://i.imgur.com/A5UQTgy.png","https://i.imgur.com/Vn18LIp.png"),
 
+    ############## Insights Dashboard ##########
+
+    ("https://i.imgur.com/ro4PDcx.png", "https://i.imgur.com/Vo6AOmh.png"),
+    ("https://i.imgur.com/m48FwjW.gif", "https://i.imgur.com/H9UPPOK.gif"),
+    ("https://i.imgur.com/jKsjvL2.gif", "https://i.imgur.com/ZpPo2JN.gif"),
+    ("https://i.imgur.com/bgsj6OF.png", "https://i.imgur.com/YpC7INA.png"),
+    ("https://i.imgur.com/MxkHupO.png", "https://i.imgur.com/KTLQrHi.png"),
+    ("https://i.imgur.com/xPuCYPj.gif", "https://i.imgur.com/BtWiY46.gif"),
+    ("https://i.imgur.com/R3ZQZPM.png", "https://i.imgur.com/JRhv6o5.png"),
+    ("https://i.imgur.com/W25B2OT.gif", "https://i.imgur.com/W4tb9c4.gif"),
+    ("https://i.imgur.com/Dumfa1e.gif", "https://i.imgur.com/ajgErFN.gif"),
+    # ("xyz", "abc"),
+    # ("xyz", "abc"),
+
     ############## Link Sharing ################
 
      ("https://i.imgur.com/wwHhhe3.gif","https://i.imgur.com/cHpbe5G.gif"),
@@ -343,6 +357,7 @@ replace_pairs = [
     ("https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron", "https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant"),
     ("https://apps.apple.com/en-us/app/knowron-assistant/id1585382448", "https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842"),
     ("https://apps.apple.com/at/app/knowron-assistant/id1585382448", "https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842"),
+
 
     # YML config
     ("site_name: KNOWRON", "site_name: Virtual Assist Docs"),

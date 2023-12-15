@@ -1,4 +1,4 @@
-# Late December Product Update 2022
+# Late December Product Update
 
 ## ASMPT Virtual Assist Virtual Assist App
 

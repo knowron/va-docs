@@ -21,5 +21,3 @@ Fügen Sie einfach die gewünschten Maschinen einschließlich der Seriennummern 
 QR-Codes werden automatisch erstellt, sobald Sie Ihre Geräte angelegt haben. Nachdem Sie die Maschinen angelegt haben, klicken Sie einfach auf die Schaltfläche "Sehen" :material-eye-circle: im Maschineninventar, um den QR-Code zu sehen.
 
 Sie können auch eine .pdf-Datei mit dem Maschinennamen, dem Bild und dem QR-Code herunterladen, die Sie ausdrucken und neben der Maschine anbringen können.
-
-<p align="center"><img src="https://i.imgur.com/PYTYa1F.gif" width="100%"></p>

@@ -62,15 +62,12 @@ nav:
       - "Features/answers.md"
       - "Features/linksharing.md"
   - Virtual Assist Web Features:
-
-      - "Features/searchhistory.md"
+      - "Features/insights.md"
       - "Features/search.md"
       - "Features/tutorials.md"
       - "Features/documents.md"
       - "Features/articles.md"
 
-      - "Features/searchdashboard.md"
-      - "Features/searchfeedback.md"
 
       - "Features/adminpanel.md"
   - Virtual Assist App Features:
