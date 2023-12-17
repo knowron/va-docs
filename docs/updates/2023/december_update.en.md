@@ -1,12 +1,5 @@
 # Product Update December 2023
 
-!!! warning "This page is under construction"
-
-    This page is under construction.
-
-
-
----
 
 ## Insights Dashboard makes it easier to close knowledge gaps (available immediately)
 
