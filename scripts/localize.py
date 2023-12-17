@@ -342,6 +342,12 @@ replace_pairs = [
      ("https://i.imgur.com/5Z71FC7.gif","https://i.imgur.com/6YBUY6z.gif"),
      ("https://i.imgur.com/8x1JXJP.png","https://i.imgur.com/XhEc8pN.jpg"),
      ("https://i.imgur.com/5cCT2eY.png","https://i.imgur.com/ucvZ0bq.png"),
+     
+    ############### Insights ###########
+    ("https://i.imgur.com/ro4PDcx.png","https://i.imgur.com/Vo6AOmh.png"),
+    ("https://i.imgur.com/m48FwjW.gif","https://i.imgur.com/LbSI8kV.gif"),
+    ("https://i.imgur.com/jKsjvL2.gif","https://i.imgur.com/ZpPo2JN.gif"),
+  
 
     # Links
 
