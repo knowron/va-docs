@@ -153,18 +153,17 @@ replace_pairs = [
 
     ######################  Articles ################### 
 
-    # Create Article Gif EN
-    ("https://i.imgur.com/69qg47i.gif","https://i.imgur.com/CKh9kQt.gif"),
-    # Create Article Gif DE
-    ("https://i.imgur.com/KXYPIj5.gif","https://i.imgur.com/CKh9kQt.gif"),
+    # Create Article Gif
+    ("ttps://i.imgur.com/Q4M8Ufs.gif","https://i.imgur.com/1HSh18N.gif"),
 
-    # Create Article Template Gif EN
-    ("https://i.imgur.com/vAC4MTV.gif","https://i.imgur.com/jOw0Nrm.gif"),
-     # Create Article Template Gif DE
-    ("https://i.imgur.com/UvmaB2H.gif","https://i.imgur.com/jOw0Nrm.gif"),
+    # Create Article Template
+    ("",""),
 
-    # Articles Tables EN
-    ("https://i.imgur.com/trkKEyG.png","https://i.imgur.com/WI1kkMd.png"),
+    # Articles Table
+    ("https://i.imgur.com/Djfon62.png","https://i.imgur.com/bdKqUUW.png"),
+
+    # Share Articles
+    ("https://i.imgur.com/AVBDSLs.png","https://i.imgur.com/9jIfUot.png"),
 
     ######################  Admin Panel ################### 
 
@@ -230,34 +229,7 @@ replace_pairs = [
     # Step 5 DE
     ("https://i.imgur.com/dYfNNNS.gif","https://i.imgur.com/u973bwk.gif"),
 
-    ######################  Search Feedback ################### 
-    
-    # Unhandeled Queries EN
-    ("https://i.imgur.com/SWkD48q.png","https://i.imgur.com/5DUGtVl.png"),
-    # Unhandeled Queries DE
-    ("https://i.imgur.com/fkfZjWu.png","https://i.imgur.com/5DUGtVl.png"),
 
-    # Add Q&A Pair EN
-    ("https://i.imgur.com/cpQNxYC.gif","https://i.imgur.com/3jA0hVP.gif"),
-    # Add Q&A Pair DE
-    ("https://i.imgur.com/cpQNxYC.gif","https://i.imgur.com/3jA0hVP.gif"),
-
-    # Search for linked answer EN
-    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/dMRX0Ts.gif"),
-    # Search for linked answer DE
-    ("https://i.imgur.com/mwHXSAv.gif","https://i.imgur.com/dMRX0Ts.gif"),
-  
-  
-    # Verfied Answers EN
-    ("https://i.imgur.com/OYdgaLy.png","https://i.imgur.com/uiEp79s.png"),  
-    # Verfied Answers DE
-    ("https://i.imgur.com/4F7bpDZ.png","https://i.imgur.com/uiEp79s.png"),  
-
-
-    ######################  Search History EN ################### 
-    ("https://i.imgur.com/YIicfhA.png","https://i.imgur.com/beYneUV.png"),  
-    # Search History DE
-    ("https://i.imgur.com/WZaX47J.png","https://i.imgur.com/beYneUV.png"),  
     
 
     ###########################  Native Assitant ################### 
