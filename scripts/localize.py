@@ -64,8 +64,16 @@ replace_pairs = [
     # Documents page
     ("https://i.imgur.com/Y5GOTyu.png","https://i.imgur.com/QrtEaVR.png"),
 
-    # Documents metadata EN
-    ("https://i.imgur.com/YwcPATo.png","https://i.imgur.com/0sLjcSS.png"),
+    # Documents metadata
+    ("https://i.imgur.com/rl3dY4M.png","https://i.imgur.com/vUIttp8.png"),
+
+    # Docs Preview
+
+    ("https://i.imgur.com/h0sXFpE.gif",""),
+
+    # Share 
+
+    ("https://i.imgur.com/1ns9qVC.png","https://i.imgur.com/HDEov7H.png"),
 
     # Documents Title
     ("https://i.imgur.com/m28R6Pj.png","https://i.imgur.com/T792Jhy.png"),
