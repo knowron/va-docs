@@ -61,22 +61,15 @@ replace_pairs = [
 
     #######################  Documents ################### 
 
-    # Documents diagramm EN
-    ("https://i.imgur.com/eJN4itO.png","https://i.imgur.com/Eh8enbE.png"),
-    # Documents diagramm DE
-    ("https://i.imgur.com/hsCum0C.png","https://i.imgur.com/Eh8enbE.png"),
-
+    # Documents page
+    ("https://i.imgur.com/Y5GOTyu.png","https://i.imgur.com/QrtEaVR.png"),
 
     # Documents metadata EN
     ("https://i.imgur.com/YwcPATo.png","https://i.imgur.com/0sLjcSS.png"),
-     # Documents metadata DE
-    ("https://i.imgur.com/e6GPx1M.png","https://i.imgur.com/0sLjcSS.png"),
 
-    # Documents Table EN
-    ("https://i.imgur.com/2v3uLe4.png","https://i.imgur.com/1L7TQe4.png"),
-    # Documents Table DE
-    ("https://i.imgur.com/u6dcPtx.png","https://i.imgur.com/1L7TQe4.png"),
-
+    # Documents Title
+    ("https://i.imgur.com/m28R6Pj.png","https://i.imgur.com/T792Jhy.png"),
+   
     # Tags EN
     ("https://i.imgur.com/AzOobeD.png"," https://i.imgur.com/0qLxYwh.png"),
     # Tags DE
@@ -92,8 +85,7 @@ replace_pairs = [
 
     # Search Bar EN
     ("https://i.imgur.com/2LytyUp.png","https://i.imgur.com/OOZAis6.png"),
-    # Search Bar DE
-    ("https://i.imgur.com/xxvTMvj.png","https://i.imgur.com/OOZAis6.png"),
+   
 
     # Result List EN
     ("https://i.imgur.com/JaUJWFH.png","https://i.imgur.com/kzz0K42.png"),
@@ -348,6 +340,10 @@ replace_pairs = [
     ("https://i.imgur.com/ro4PDcx.png","https://i.imgur.com/Vo6AOmh.png"),
     ("https://i.imgur.com/m48FwjW.gif","https://i.imgur.com/LbSI8kV.gif"),
     ("https://i.imgur.com/jKsjvL2.gif","https://i.imgur.com/ZpPo2JN.gif"),
+    # History 
+    ("https://i.imgur.com/Xxu7oHp.png",""),
+
+
     # Links
 
     ("mailto:arturo@knowron.com", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
