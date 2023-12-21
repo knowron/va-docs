@@ -32,17 +32,19 @@ In the `ACTIONS` pannel, you can choose to preview, edit, delete and share artic
 
 This function simplifies article access by opening it in a sliding tab. This feature allows you to conveniently preview and read the article. 
 
-<p align="center"><img src="https://i.imgur.com/wwKD05L.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/TW6MyCM.gif" width="100%"></p>
 
 ### 2. Edit
 
 This function prompts a dialog where you can edit the Article's text, change the visibility and add tags.
 
-<p align="center"><img src="https://i.imgur.com/35m73X5.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/5ZTiBqo.png" width="100%"></p>
 
 ### 3. Delete
 
 This function removes the article from your system
+
+<p align="center"><img src="https://i.imgur.com/8fW8IPR.png" width="100%"></p>
 
 ### 4. Share
 
