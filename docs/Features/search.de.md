@@ -2,7 +2,7 @@
 
 Die Suchfunktion ermöglicht es Ihnen, Fragen zu einer gesamten Produktlinie oder einer bestimmten Maschine zu stellen. Fragen können sich auf alle von Ihnen oder anderen Benutzern erstellten oder hochgeladenen Inhalte beziehen. Diese Inhalte sind in Form von Dokumenten, Tutorials und Artikeln verfügbar, sodass wir Ihnen das wertvollste Ergebnis für Ihre Frage liefern können.
 
-![Search Bar](https://i.imgur.com/OOZAis6.png)
+![Search Bar](https://i.imgur.com/xxvTMvj.png)
 
 !!! tip "Verbessere deine Ergebnisse"
         Wenn Sie Ihre Frage als vollständigen Satz mit "?" am Ende formulieren, verbessern sich die Suchergebnisse im Vergleich zu einer einfachen Abfrage.

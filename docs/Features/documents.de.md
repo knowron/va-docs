@@ -1,65 +1,77 @@
 # Dokumente
 
+Dokumente, die sich auf Ihr Produkt oder Ihre Produktlinie beziehen, stellen eine der Inhaltskomponenten des Wissensspeichers des Produkts dar. Als Editor oder Administrator können Sie entweder eine einzelne Datei oder einen gesamten Ordner hochladen.
 
-Die hochgeladenen Dokumente stellen einen signifikanten Teil der Wissensbasis für die ausgewählte Produktlinie dar.
+![Diagramm der Dokumente](https://i.imgur.com/QrtEaVR.png)
 
-![Documents Diagram](https://i.imgur.com/Eh8enbE.png)
+!!! Tipp
+    Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden. Außerdem können Sie nach Ihren hochgeladenen Dokumenten basierend auf dem Namen oder Titel suchen.
 
+## Aktionen
 
-!!! tip 
-    Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden. Zusätzlich können Sie nach hochgeladenen Dokumenten anhand des Namens oder Titels suchen
+### 1. Vorschau
 
+Diese Funktion vereinfacht den Zugriff auf das Dokument, indem es in einem Schiebefenster geöffnet wird. Diese Funktion ermöglicht es Ihnen, das Dokument bequem zu überprüfen und zu lesen.
 
-Wenn Sie auf **Upload** klicken, wird ein Dialogfeld angezeigt, in dem Sie den Titel des Dokuments bearbeiten, die Sichtbarkeit ändern oder Tags hinzufügen können.
+<p align="center"><img src="" width="80%"></p>
 
-![DocumentsMetadata](https://i.imgur.com/0sLjcSS.png)
+### 2. Herunterladen
 
-### **Title**
+Diese Funktion ermöglicht es Ihnen, Dokumente direkt auf Ihren Geräten zu speichern.
 
-Sie können den **Titel** des Dokuments bearbeiten, der in den Suchergebnissen angezeigt wird, wobei der ursprüngliche **Dateiname** auch in der Dokumententabelle angezeigt wird. 
+### 3. Bearbeiten
 
+Diese Funktion öffnet einen Dialog, in dem Sie den Titel des Dokuments bearbeiten, die Sichtbarkeit ändern oder Tags hinzufügen können.
 
-![DocsTable](https://i.imgur.com/1L7TQe4.png)
+<p align="center"><img src="https://i.imgur.com/vUIttp8.png" width="80%"></p>
 
-### **Erstellungsdatum**
+#### **Titel**
 
-Jedes Dokument ist standardmäßig mit dem Datum markiert, an dem es in das System hochgeladen wurde. Sie können das Datum jedoch auch auf das tatsächliche Erstellungsdatum des Dokuments ändern.
+Sie können den Titel des Dokuments bearbeiten, der in den Suchergebnissen angezeigt wird, obwohl der ursprüngliche Dateiname auch in der Tabelle der Dokumente angezeigt wird.
 
-### **Sichtbarkeit**
+![Tabelle](https://i.imgur.com/T792Jhy.png)
 
-Die Einstellung der Sichtbarkeit eines Dokuments auf **Privat** beschränkt den Zugriff nur auf Benutzer Ihrer Organisation. **Öffentliche** Dokumente sind für alle Benutzer sichtbar, die Zugang zur Produktlinie haben, zu der die Dokumente gehören.
+#### **Erstellungsdatum**
 
-![Add tag](https://i.imgur.com/3Vqkh1h.png)
+Jedes Dokument ist standardmäßig mit dem Datum markiert, an dem es im System hochgeladen wurde. Sie können auch das Datum auf das tatsächliche Erstellungsdatum des Dokuments ändern.
 
+#### **Sichtbarkeit**
 
-### **Tags**
+Wenn die Sichtbarkeit der Dokumente auf **Privat** gesetzt ist, sind sie nur für Benutzer Ihrer Organisation sichtbar. **Öffentliche** Dokumente können von allen gesehen werden, die Zugriff auf die entsprechende Produktlinie haben.
 
-Tags können erstellt werden, indem Sie den Namen des Tags, den Sie erstellen möchten, in die Tag-Leiste des Dialogfelds `Metadaten bearbeiten` eingeben.
+![Tag hinzufügen](https://i.imgur.com/i475uTD.png)
+
+#### **Tags**
+
+Das Hinzufügen von Tags zu einem Dokument ist eine Möglichkeit, es mit relevanten Stichwörtern oder Phrasen zu kategorisieren oder zu kennzeichnen, die den Inhalt beschreiben. Tags erleichtern das Auffinden bestimmter Dokumente, indem sie die Suche anhand dieser Tags filtern. Editoren und Administratoren können Tags erstellen, indem sie den Namen des Tags, den Sie erstellen möchten, in die Tags-Leiste im Dialogfeld "Metadaten bearbeiten" eingeben.
 
 ![Tags]( https://i.imgur.com/0qLxYwh.png)
 
-Wenn ein Tag bereits existiert, entweder zuvor von Ihnen oder Ihren Kollegen erstellt, wird es in der Liste angezeigt und kann ausgewählt und den Tags des Dokuments hinzugefügt werden.
+Wenn ein Tag bereits existiert, entweder von Ihnen zuvor erstellt oder von Ihren Kollegen, wird er in der Liste angezeigt und kann ausgewählt und zu den Tags des Dokuments hinzugefügt werden.
 
-![Add tag](https://i.imgur.com/DRUKkNT.jpg)
+![Tag hinzufügen](https://i.imgur.com/DRUKkNT.jpg)
 
+Nachdem Tags zu Dokumenten hinzugefügt wurden, können Benutzer ihre Suchergebnisse filtern, indem sie einen oder mehrere Tags auswählen. Dies zeigt ihnen nur die Dokumente an, die den ausgewählten Tags entsprechen, was das Auffinden dessen, wonach sie suchen, erleichtert. Tags können auch verwendet werden, um ähnliche Dokumente zusammenzufassen und einen organisierteren und effizienteren Zugriff auf Informationen zu ermöglichen.
 
-!!! important
-        Sie können die Metadaten des Dokuments auch nach dem Hochladen bearbeiten. Klicken Sie einfach auf
-        Bearbeiten :pencil2: im Bereich **Aktionen** der Dokumententabelle.
+!!! Wichtig
+    Sie können die Metadaten des Dokuments auch nach dem Hochladen bearbeiten. Alles, was Sie tun müssen, ist auf die Schaltfläche "Bearbeiten" :pencil2: im Abschnitt "Aktionen" der Tabelle der Dokumente zu klicken.
+
 ---
 
-## **Status** 
+### 4. Löschen
 
-Es gibt drei Status, die ein Dokument haben kann:
+Diese Funktion entfernt das Dokument aus Ihrem System.
 
-|Status|Description| 
+### 5. Teilen
+
+Diese Funktion erleichtert die Zusammenarbeit, indem Sie Dokumente einfach mit Ihren Kollegen teilen können.
+
+## **Status**
+
+Ein Dokument kann drei Status haben:
+
+|Status|Beschreibung| 
 |:---|:---- | 
-| <span style="color:#818589">**PROCESSING**</span> |Das Dokument wurde hochgeladen und in die Wissensdatenbank extrahiert| 
-| <span style="color:darkgreen">**EXTRACTED**</span>  | Das Dokument wird derzeit hochgeladen    |
-|  <span style="color:red">**FAILED**</span>  | Die Dokumente wurden nicht hochgeladen     |
-
-
-‚
-
-
-
+| <span style="color:#818589">**VERARBEITUNG**</span> | Die Dokumente wurden hochgeladen und im Wissensspeicher extrahiert | 
+| <span style="color:darkgreen">**EXTRAHIERT**</span>  | Die Dokumente werden derzeit hochgeladen     |
+|  <span style="color:red">**FEHLER**</span>  | Die Dokumente konnten nicht hochgeladen werden        |

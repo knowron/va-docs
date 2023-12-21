@@ -8,18 +8,18 @@ Through interactive visualizations and detailed analytics, the Insights Dashboar
 
 <p align="center"><img src="https://i.imgur.com/Vo6AOmh.png" width="90%"></p>
 
-## What is the current status of my system?
+### What is the current status of my system?
 
 The main page of the dashboard answers this question by showing the percentage of questions answered, total searches and submitted user feedback.
 
-## How is my system progressing over time?
+### How is my system progressing over time?
 
 The two graphs in this section show you the percentage of questions answered, i.e. the questions for which a user sees a generated answer from our system. A higher number is often indicative of a system capable of serving users the information they need - we recommend targeting a benchmark of around 75%.
 
 Additionally, you can monitor the number of queries searched, or the number of individual questions submitted by users over the past weeks. These will fluctuate with time, but the higher the better. You'll also be able to see the change in these numbers over the last week.
 
 
-## How can I improve my system?
+### How can I improve my system?
 
 This table shows you the top unanswered questions in your knowledge base. You can affect this table by uploading new sources which answer the questions or directly writing an expert answer about it (see below).
 
@@ -28,21 +28,38 @@ This table shows you the top unanswered questions in your knowledge base. You ca
 
 We use a clustering algorithm to show you an amalgamation of differently phrased questions under the same query so that e.g. "How much does the component weigh?" and "Tell me the component weight" are counted in one go.
 
-## What are the frequently asked questions?
+### What are the frequently asked questions?
 
 Finally, the most frequently asked questions are shown. These can be an important barometer in understanding whether users are finding what they need, regardless of whether they are receiving a generated answer from our system or not.
 
 
 <p align="center"><img src="https://i.imgur.com/pVJYTkj.png" width="90%"></p>
 
-The Search History and Feedback screens have now been moved to be under the Insights Dashboard.
 
-# Expert Answers
+## **History**
+
+The search history feature provides an overview of all the searches conducted within the system and assess the effectiveness of the system's responses. This tool is particularly valuable as it grants access to both the queries made and the corresponding answers provided to the user, alongside any feedback provided.
+
+<p align="center"><img src="" width="100%"></p>
+
+In the `User Feedback` column, you can view the feedback given by the user for each answer. Additionally, the `User Comment` column includes any additional comments from the user, along with explanations or clarifications regarding their feedback.
+
+## **Feedback**
+
+The feedback feature helps editors to respond to user feedback and contribute expert answers for improved system performance. By selecting `Edit Answer,` users are  redirected to the [Expert Answers](#expert-answers) page, where they can create a response to the user's query.
+
+<p align="center"><img src="https://i.imgur.com/fkfaw8k.png" width="100%"></p>
+
+
+The editing page allows for inclusion of detailed answers and also facilitates the attachment of relevant sources such as [articles](articles), [documents](documents), and [tutorials](tutorials) to enhance the credibility of the response.
+
+The `Status` indicates whether an answer has been added to the user's feedback. 
+
+## **Expert Answers**
 
 Expert Answers: One of the main changes we have introduced is an all-new way to directly and simply answer users' questions.
 
-<p align="center"><img src="https://i.imgur.com/H9UPPOK.gif" width="80%"></p>
-
+<p align="center"><img src="https://i.imgur.com/I2XIxyR.gif" width="80%"></p>
 
 Whenever a user submits a feedback about the answer they have received or the search results in front of them, a new feedback item will be created. You can answer these feedback items (or unanswered questions, see above) with an Expert Answer.
 
