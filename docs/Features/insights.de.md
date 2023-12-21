@@ -6,12 +6,10 @@ Das Einblicke-Dashboard stellt sicher, dass Editoren und Administratoren versteh
 
 Durch interaktive Visualisierungen und detaillierte Analysen ermöglicht das Einblicke-Dashboard Editoren und Administratoren, die Auswirkungen ihrer Inhaltsstrategie zu sehen. Es hebt erfolgreiche Bereiche hervor, damit sie effektive Ansätze replizieren können, während es auch potenzielle Schwächen identifiziert, die zu Wissenslücken beitragen können.
 
-
 <p align="center"><img src="https://i.imgur.com/Vo6AOmh.png" width="70%"></p>
 
 
 ## Was ist der aktuelle Status meines Systems?
-
 
 Die Hauptseite des Dashboards beantwortet diese Frage, indem sie den Prozentsatz der beantworteten Fragen, die Gesamtzahl der Suchanfragen und das eingereichte Nutzerfeedback anzeigt.
 

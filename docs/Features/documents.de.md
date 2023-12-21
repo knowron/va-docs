@@ -68,8 +68,7 @@ Diese Funktion entfernt das Dokument aus Ihrem System.
 
 ### 5. Teilen
 
-Diese Funktion erleichtert die Zusammenarbeit, indem Sie Dokumente einfach mit Ihren Kollegen teilen können.
-
+Diese Funktion erleichtert die Zusammenarbeit, indem Sie Dokumente einfach mit Ihren Kollegen teilen können. Für weitere Informationen zu den Berechtigungen besuchen Sie [Link Sharing](linksharing).
 <p align="center"><img src="https://i.imgur.com/HDEov7H.png" width="80%"></p>
 
 ## **Status**

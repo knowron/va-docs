@@ -45,6 +45,6 @@ Diese Funktion entfernt den Artikel aus Ihrem System.
 
 ### 4. Teilen
 
-Diese Funktion erleichtert die Zusammenarbeit, indem Sie Artikel einfach mit Ihren Kollegen teilen können.
+Diese Funktion erleichtert die Zusammenarbeit, indem Sie Artikel einfach mit Ihren Kollegen teilen können. Für weitere Informationen zu den Berechtigungen besuchen Sie [Link Sharing](linksharing).
 
 <p align="center"><img src="https://i.imgur.com/9jIfUot.png" width="100%"></p>

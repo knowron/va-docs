@@ -1,17 +1,16 @@
-#  Search
-The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of **documents**, **tutorials**, and **articles**, so we can get you the most valuable result for your query.
+#  Search - UNDER CONSTRUCTION
 
+The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of [documents](documents), [tutorials](tutorials) or [articles](articles) so we can get you the most valuable result for your query.
 
-![Search Bar](https://i.imgur.com/OOZAis6.png)
+<p align="center"><img src="https://i.imgur.com/ceW9eZG.png" width="80%"></p>
 
 
 !!! tip "Improve your results"
       If you formulate your query as a question, the search results will improve compared to a simple query.
 
-The results lists of your answer to the query is displayed based on the recency of the uploaded documents with the **Verified Answer** or  on top. Results of a search query are marked with tags indicating the original language of the content, as well as from where was the answer extracted: **documents**, **tutorials** or **articles**. 
+The response generated is a stochastic outcome to your query, supported by the listed sources. This suggests that the answer to the same query may not consistently yield identical results.
 
-![Results List](https://i.imgur.com/kzz0K42.png)
-
+<p align="center"><img src="" width="80%"></p>
 
 Formulating your query as a question implies adding more details to your query and prompts the algorithm to retrieve the most relevant answer to your question from the knowledge base of that specific product line or a particular machine.
 
@@ -22,32 +21,35 @@ The results of your query are prioritized by relevancy and then recency. That is
 
 !!! information "**Translated Results** "
       The automated translation will be indicated by the following tag and banner:
-      <p align="center"><img src="https://i.imgur.com/9cot8He.png" width="100%"></p>
+      <p align="center"><img src="https://i.imgur.com/F48xlTa.png" width="80%"></p>
 
 
-Results of a search query are marked with tags indicating the original language of the content, as well as from where the answer was extracted: **documents**, **tutorials**, or **articles**.
+Results of a search query are marked with tags indicating the original language of the content, as well as from where was the answer extracted: [documents](documents),  [tutorials](tutorials) or [articles](articles).
 
-![Diagramm](https://i.imgur.com/H8XwRuL.jpg)
+## **Filters**
 
-### **Verified results** 
+Filters can help you narrow your search based on **tags**–depending on the selected machine or product line, **language**, or the **publication date** of the documents.
 
-A verified result indicates that this particular answer to the search query you performed has been marked by an Admin or Editor from your organization as being correct.
+#### 1.  **Language** 
 
-![Verified Answer](https://i.imgur.com/nSmpzuN.png) 
+You can filter based on the existing languages supported by your organization. The Language that is selected by default is the Language of your system. 
 
-### **Extracted Answer** 
+Selecting the tag “All Languages“ will provide results in all languages that are listed in the filter dropdown. Choosing only one Language will show you results in that Language and documents that have been translated from their original Language to your selected filter.
 
-Extracted answers are your responses to your query, formulated as a question with a clear, direct answer. As seen below, asking, `What is the torque for a CPP head?` gives the direct definition of PLA in bold text for better visualization. 
+<p align="center"><img src="" width="80%"></p>
 
-![Extracted Answer](https://i.imgur.com/tmxJAt8.png) 
+#### 2. **Publication date**
 
+Additionally, you can filter the documents based on the **publication date** of the documents. These filters can be especially useful if you search for the newest version of a Software document.
 
-Only searching for 'PLA' for example, will not yield the same results as this particular query is not that specific. 
+<p align="center"><img src="" width="80%"></p>
 
-!!! tip "Search: PLA"
-      The results of the query `PLA` are broader, as PLA is mentioned in several documents and articles. Therefore the definition of PLA is not shown as an (extracted) answer. 
-      <p align="center"><img src="https://i.imgur.com/MwO9gOF.png" width="100%"></p>
+#### 3. **Tags**
 
+You can add tags to documents when uploading a new document or by editing an already uploaded one. For more details on how to add tags, check the [Documents](documents) page.
+Tags can help you filter for specific types of documents, such as `Software` or `User Manuals`, and narrow the search to be as accurate as possible.
+
+ <p align="center"><img src="" width="80%"></p>
 
 --- 
 ## Results not helpful?
@@ -61,39 +63,6 @@ Clicking on **Results not helpful** prompts a window where you can add your thou
 ![Feedback box](https://i.imgur.com/V1t3eeb.png)
 
 Our team will get back to you as soon as possible with a solution.
-
----
-## **Filters**
-
-
-Filters can help you narrow your search based on **tags**–depending on the selected machine or product line, **language**, or the **date of creation** of the documents.
-
-
-#### 1. **Tags**
-You can add tags to documents when uploading a new document or by editing an already uploaded one. For more details on how to add tags, check the documents page.
-
-Tags can help you filter for specific types of documents, such as Service or User Manuals, and narrow the search to be as accurate as possible.
-
-![Tags](https://i.imgur.com/BsIkF62.png)
-
-
-#### 2.  **Language** 
-
-You can filter based on the existing languages supported by your organization. The Language that is selected by default is the Language of your system. 
-
-Selecting the tag “All Languages“ will provide results in all languages that are listed in the filter dropdown. Choosing only one Language will show you results in that Language and documents that have been translated from their original Language to your selected filter.
-
-
-
-![Language Filter](https://i.imgur.com/3sEgfAg.png)
-
-
-#### 3. **Time**
-
-Additionally, you can filter the documents based on the **date of creation** of the documents. These filters can be especially useful if you search for the newest version of a Software document.
-
-![Time Filter](https://i.imgur.com/xCrBnEh.png)
-
 
 
 

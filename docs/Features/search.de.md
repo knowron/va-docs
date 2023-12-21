@@ -21,11 +21,11 @@ Die Ergebnisse Ihrer Abfrage werden nach Relevanz und Aktualität priorisiert. D
 
 !!! information "**Übersetzte Ergebnisse** "
       Die automatische Übersetzung wird durch folgende Tag und Banner angezeigt:
-      <p align="center"><img src="https://i.imgur.com/9cot8He.png" width="100%"></p>
+      <p align="center"><img src="https://i.imgur.com/zHCgKRk.png" width="100%"></p>
 
 Die Suchergebnisse werden mit Tags markiert, die die Ursprungssprache des Inhalts sowie den Ort anzeigen, von dem die Antwort extrahiert wurde: **Dokumente**, **Tutorials** oder **Artikel**.
 
-![Diagramm](https://i.imgur.com/H8XwRuL.jpg)
+![Diagramm](https://i.imgur.com/GX03OLZ.png)
 
 ### **Verifizierte Ergebnisse** 
 
@@ -38,13 +38,13 @@ Ein verifiziertes Ergebnis gibt an, dass diese bestimmte Antwort auf die von Ihn
 Extrahierte Antworten sind Antworten auf Ihre Suchanfrage, die als Frage formuliert sind und eine klare, direkte Antwort enthalten. Wie unten zu sehen ist, liefert die Frage "Was ist PLA?" die direkte Definition von PLA in fett gedrucktem Text, um eine bessere Visualisierung zu ermöglichen.
 
 
-![Extracted Answer](https://i.imgur.com/tmxJAt8.png) 
+![Extracted Answer](https://i.imgur.com/rI0oAWW.png) 
 
 Wenn Sie beispielsweise nur nach "PLA" suchen, werden nicht dieselben Ergebnisse angezeigt, da diese Suchanfrage nicht spezifisch genug ist.
 
 !!! tip "Suche: PLA"
         Die Ergebnisse der Suchanfrage "PLA" sind breiter gefächert, da PLA in mehreren Dokumenten und Artikeln erwähnt wird. Daher wird die Definition von PLA nicht als (extrahierte) Antwort angezeigt.
-        <p align="center"><img src="https://i.imgur.com/MwO9gOF.png" width="100%"></p>
+        <p align="center"><img src="https://i.imgur.com/7x0FpbV.png" width="100%"></p>
 ---
 
 ## Sind die Ergebnisse nicht hilfreich?

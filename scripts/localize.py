@@ -95,8 +95,8 @@ replace_pairs = [
     #######################  Search ################### 
 
 
-    # Search Bar EN
-    ("https://i.imgur.com/2LytyUp.png","https://i.imgur.com/OOZAis6.png"),
+    # Search Bar
+    ("https://i.imgur.com/depHqSZ.png","https://i.imgur.com/ceW9eZG.png"),
    
 
     # Result List EN
@@ -105,29 +105,7 @@ replace_pairs = [
     ("https://i.imgur.com/s8gV87t.png","https://i.imgur.com/kzz0K42.png"),
 
     # Translated Results EN
-    ("https://i.imgur.com/SpsQqvY.png","https://i.imgur.com/9cot8He.png"),
-    # Translated Results DE
-    ("https://i.imgur.com/zHCgKRk.png","https://i.imgur.com/9cot8He.png"),
-
-    # Diagramm EN
-    ("https://i.imgur.com/CD1u49W.png","https://i.imgur.com/H8XwRuL.jpg"),
-     # Diagramm DE
-    ("https://i.imgur.com/GX03OLZ.png","https://i.imgur.com/H8XwRuL.jpg"),
-
-    # Verified Result EN
-    ("https://i.imgur.com/ox2ah0e.png","https://i.imgur.com/nSmpzuN.png"),
-    # Verified Result DE
-    ("hhttps://i.imgur.com/6mAYrsA.png","https://i.imgur.com/nSmpzuN.png"),
-
-    # Extracted Result EN
-    ("https://i.imgur.com/GEniWOM.png","https://i.imgur.com/tmxJAt8.png"),
-    # Extracted Result DE
-    ("https://i.imgur.com/rI0oAWW.png","https://i.imgur.com/tmxJAt8.png"),
-
-    # Extracted Result bad example EN
-    ("https://i.imgur.com/7x0FpbV.png","https://i.imgur.com/MwO9gOF.png"),
-    # Extracted Result bad example DE
-    ("https://i.imgur.com/7x0FpbV.png", "https://i.imgur.com/MwO9gOF.png"),
+    ("https://i.imgur.com/W6nVTdU.png","https://i.imgur.com/F48xlTa.png"),
 
     # Results not helpful EN
     ("https://i.imgur.com/UFzgbTV.png","https://i.imgur.com/mlk423q.jpg"),

@@ -47,6 +47,7 @@ This function removes the article from your system
 ### 4. Share
 
 This function facilitates collaboration by allowing you to easily share articles with your colleagues. 
+For my details about permissions, check out [Link Sharing](linksharing).
 
 <p align="center"><img src="https://i.imgur.com/9jIfUot.png" width="100%"></p>
 

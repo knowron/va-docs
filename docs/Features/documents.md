@@ -72,7 +72,7 @@ This function removes the document from your system
 
 ### 5. Share 
 
-This function facilitates collaboration by allowing you to easily share documents with your colleagues. 
+This function facilitates collaboration by allowing you to easily share documents with your colleagues. For my details about permissions, check out [Link Sharing](linksharing).
 
 <p align="center"><img src="https://i.imgur.com/HDEov7H.png" width="80%"></p>
 
