@@ -68,12 +68,16 @@ replace_pairs = [
     ("https://i.imgur.com/rl3dY4M.png","https://i.imgur.com/vUIttp8.png"),
 
     # Docs Preview
+    ("https://i.imgur.com/h0sXFpE.gif","https://i.imgur.com/HCfry0o.gif"),
 
-    ("https://i.imgur.com/h0sXFpE.gif",""),
+    # Docs Delete
+    ("https://i.imgur.com/0b8f81V.gif","https://i.imgur.com/stBe7FW.gif"),
 
-    # Share 
-
+    # Documents Share 
     ("https://i.imgur.com/1ns9qVC.png","https://i.imgur.com/HDEov7H.png"),
+
+    # Documents Download 
+    ("https://i.imgur.com/dVBtEsD.png","https://i.imgur.com/TYc9Qxv.png"),
 
     # Documents Title
     ("https://i.imgur.com/m28R6Pj.png","https://i.imgur.com/T792Jhy.png"),

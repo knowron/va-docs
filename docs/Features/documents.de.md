@@ -13,7 +13,7 @@ Dokumente, die sich auf Ihr Produkt oder Ihre Produktlinie beziehen, stellen ein
 
 Diese Funktion vereinfacht den Zugriff auf das Dokument, indem es in einem Schiebefenster geöffnet wird. Diese Funktion ermöglicht es Ihnen, das Dokument bequem zu überprüfen und zu lesen.
 
-<p align="center"><img src="" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/HCfry0o.gif" width="80%"></p>
 
 ### 2. Herunterladen
 

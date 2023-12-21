@@ -14,17 +14,18 @@ Documents related to your product or product line represent one of the content u
 
 This function simplifies document access by opening it in a sliding tab. This feature allows you to conveniently preview and read the document. 
 
-<p align="center"><img src="" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/HCfry0o.gif" width="80%"></p>
 
 
 ### 2. Download 
 
 This function enables you to save documents directly to your devices
 
+<p align="center"><img src="https://i.imgur.com/TYc9Qxv.png" width="80%"></p>
+
 ### 3. Edit 
 
 This function prompts a dialog where you can edit the Document's title, change the visibility or add tags.
-
 
 <p align="center"><img src="https://i.imgur.com/vUIttp8.png" width="80%"></p>
 
@@ -64,6 +65,10 @@ Once tags have been added to documents, users can filter their search results by
 ### 4. Delete 
 
 This function removes the document from your system
+
+<p align="center"><img src="https://i.imgur.com/stBe7FW.gif" width="100%"></p>
+
+
 
 ### 5. Share 
 
