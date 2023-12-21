@@ -157,7 +157,14 @@ replace_pairs = [
     ("ttps://i.imgur.com/Q4M8Ufs.gif","https://i.imgur.com/1HSh18N.gif"),
 
     # Create Article Template
-    ("",""),
+    ("https://i.imgur.com/Q4M8Ufs.gif","https://i.imgur.com/48Q1x5C.gif"),
+
+    # Create Article + add image
+    ("https://i.imgur.com/NqV0zII.gif","https://i.imgur.com/xQKWR3e.gif"),
+
+
+    # Edit Article
+    ("https://i.imgur.com/h0Hg8Q5.png","https://i.imgur.com/35m73X5.png"),
 
     # Articles Table
     ("https://i.imgur.com/Djfon62.png","https://i.imgur.com/bdKqUUW.png"),
