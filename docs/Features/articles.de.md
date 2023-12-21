@@ -8,7 +8,7 @@ Als Benutzer mit der Rolle **Admin** oder **Editor** können Sie Artikel erstell
 
 Um einen Artikel zu erstellen, müssen Sie nur auf die Schaltfläche `Erstellen` klicken, und der Artikel-Dialog wird geöffnet.
 
-<p align="center"><img src="hhttps://i.imgur.com/1HSh18N.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/1HSh18N.gif" width="100%"></p>
 
 Wir bieten zwei Optionen für die Erstellung Ihres Inhalts an. Sie können entweder unsere vorgefertigte Vorlage namens `Error/Solution Template` verwenden oder Ihren eigenen Inhalt von Grund auf erstellen.
 

@@ -136,7 +136,7 @@ replace_pairs = [
     ######################  Articles ################### 
 
     # Create Article Gif
-    ("ttps://i.imgur.com/Q4M8Ufs.gif","https://i.imgur.com/1HSh18N.gif"),
+    ("https://i.imgur.com/Q4M8Ufs.gif","https://i.imgur.com/1HSh18N.gif"),
 
     # Create Article Template
     ("https://i.imgur.com/Q4M8Ufs.gif","https://i.imgur.com/48Q1x5C.gif"),
