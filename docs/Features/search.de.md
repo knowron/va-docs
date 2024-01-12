@@ -1,86 +1,75 @@
 # Suche
 
-Die Suchfunktion ermöglicht es Ihnen, Fragen zu einer gesamten Produktlinie oder einer bestimmten Maschine zu stellen. Fragen können sich auf alle von Ihnen oder anderen Benutzern erstellten oder hochgeladenen Inhalte beziehen. Diese Inhalte sind in Form von Dokumenten, Tutorials und Artikeln verfügbar, sodass wir Ihnen das wertvollste Ergebnis für Ihre Frage liefern können.
+Die Suchfunktion ermöglicht es Ihnen, Fragen zu einer gesamten Produktlinie oder zu einer bestimmten Maschine in allen von Ihnen oder anderen Benutzern erstellten oder hochgeladenen Inhaltseinheiten zu stellen. Diese Inhalteinheiten sind in Form von [Dokumenten](documents.md), [Tutorials](tutorials.md) oder [Artikeln](articles.md) verfügbar, damit wir Ihnen das wertvollste Ergebnis für Ihre Anfrage liefern können.
 
-![Search Bar](https://i.imgur.com/xxvTMvj.png)
+<p align="center"><img src="https://i.imgur.com/DxAwOmD.png" width="80%"></p>
 
-!!! tip "Verbessere deine Ergebnisse"
-        Wenn Sie Ihre Frage als vollständigen Satz mit "?" am Ende formulieren, verbessern sich die Suchergebnisse im Vergleich zu einer einfachen Abfrage.
+Die generierte Antwort ist ein stochastisches Ergebnis Ihrer Anfrage, unterstützt durch die aufgelisteten Quellen. Dies deutet darauf hin, dass die Antwort auf dieselbe Frage möglicherweise nicht konsistent identische Ergebnisse liefert.
 
-Auf Fragen werden ganz oben verifizierte Antworten angezeigt. Weiter werden aktuellere Dokumente in der Ergebnisliste weiter oben angezeigt. Suchergebnisse sind mit Tags gekennzeichnet, die die Ursprungssprache des Inhalts sowie den Ort anzeigen, von dem die Antwort extrahiert wurde: Dokumente, Tutorials oder Artikel.
+Möchten Sie mehr über [Künstlich generierte Antworten](answers.md) erfahren?
 
-![Results List](https://i.imgur.com/kzz0K42.png)
+<p align="center"><img src="" width="80%"></p>
 
-Indem Sie Ihre Frage als Satz formulieren, fügen Sie mehr Details hinzu und bringen den Algorithmus dazu, die relevanteste Antwort auf Ihre Frage aus der Wissensdatenbank dieser spezifischen Produktlinie oder Maschine abzurufen.
+!!! Tipp "Verbessern Sie Ihre Ergebnisse!"
+     Wenn Sie Ihre Frage als vollständigen Satz mit "?" am Ende formulieren, verbessern sich die Suchergebnisse im Vergleich zu einer einfachen Abfrage.
 
 ---
-
 ## **Suchergebnisse**
 
-Die Ergebnisse Ihrer Abfrage werden nach Relevanz und Aktualität priorisiert. Dies gilt auch dann, wenn die Quelle des Ergebnisses in einer anderen Sprache verfasst ist, nicht in der Sprache der Frage. Einfach ausgedrückt: Wenn Sie eine Frage auf Deutsch stellen, aber das Dokument, in dem die Antwort gefunden wird, auf Englisch geschrieben ist, werden Ihnen die übersetzten Dokumente mit deiner Antwort auf Deutsch angezeigt.
+Die Ergebnisse Ihrer Abfrage werden nach Relevanz und dann nach Aktualität priorisiert. Dies gilt auch, wenn die Quelle des Ergebnisses in einer anderen Sprache als der Abfrage liegt. Einfach ausgedrückt: Wenn Sie eine Frage auf Deutsch stellen, das Dokument, in dem die Antwort gefunden wurde, jedoch auf Englisch ist, werden Ihnen die übersetzten Dokumente mit Ihrer Antwort auf Deutsch angezeigt.
 
-!!! information "**Übersetzte Ergebnisse** "
-      Die automatische Übersetzung wird durch folgende Tag und Banner angezeigt:
-      <p align="center"><img src="https://i.imgur.com/zHCgKRk.png" width="100%"></p>
+!!! Information "**Übersetzte Ergebnisse** "
+     Die automatische Übersetzung wird durch das folgende Tag und Banner angezeigt:
+     <p align="center"><img src="https://i.imgur.com/YegCmA4.png" width="80%"></p>
 
-Die Suchergebnisse werden mit Tags markiert, die die Ursprungssprache des Inhalts sowie den Ort anzeigen, von dem die Antwort extrahiert wurde: **Dokumente**, **Tutorials** oder **Artikel**.
-
-![Diagramm](https://i.imgur.com/GX03OLZ.png)
-
-### **Verifizierte Ergebnisse** 
-
-Ein verifiziertes Ergebnis gibt an, dass diese bestimmte Antwort auf die von Ihnen durchgeführte Suchanfrage von einem Administrator oder Redakteur Ihrer Organisation als korrekt markiert wurde.
-
-
-![Verified Answer](https://i.imgur.com/6mAYrsA.png) 
-
-### **Extrahierte Antwort**
-Extrahierte Antworten sind Antworten auf Ihre Suchanfrage, die als Frage formuliert sind und eine klare, direkte Antwort enthalten. Wie unten zu sehen ist, liefert die Frage "Was ist PLA?" die direkte Definition von PLA in fett gedrucktem Text, um eine bessere Visualisierung zu ermöglichen.
-
-
-![Extracted Answer](https://i.imgur.com/rI0oAWW.png) 
-
-Wenn Sie beispielsweise nur nach "PLA" suchen, werden nicht dieselben Ergebnisse angezeigt, da diese Suchanfrage nicht spezifisch genug ist.
-
-!!! tip "Suche: PLA"
-        Die Ergebnisse der Suchanfrage "PLA" sind breiter gefächert, da PLA in mehreren Dokumenten und Artikeln erwähnt wird. Daher wird die Definition von PLA nicht als (extrahierte) Antwort angezeigt.
-        <p align="center"><img src="https://i.imgur.com/7x0FpbV.png" width="100%"></p>
----
-
-## Sind die Ergebnisse nicht hilfreich?
-
-Wir nehmen Ihren Feedback ernst. Wenn Sie der Meinung sind, dass die Ergebnisse, die Sie für eine bestimmte Anfrage erhalten haben, nicht korrekt oder hilfreich sind, bitten wir Sie, uns über den Kanal **Ergebnisse nicht hilfreich** Feedback zu geben.
-
-![Results not helpful](https://i.imgur.com/mlk423q.jpg)
-
-
-Wenn Sie auf **Ergebnisse nicht hilfreich** klicken, öffnet sich ein Fenster, in dem Sie Ihre Gedanken zu den Ergebnissen Ihrer Suche und wie wir sie verbessern können, hinzufügen können.
-
-![Feedback box](https://i.imgur.com/V1t3eeb.png)
-
-Unser Team wird sich so schnell wie möglich mit einer Lösung bei Ihnen melden.
+Die Ergebnisse einer Suchanfrage sind mit Tags versehen, die die Originalsprache des Inhalts sowie die Quelle der Antwort anzeigen: [Dokumente](documents), [Tutorials](tutorials) oder [Artikel](articles).
 
 ## **Filter**
 
-Filter können Ihnen helfen, Ihre Suche, basierend auf Tags zu verfeinern - je nach ausgewählter Maschine oder Produktlinie, Sprache oder dem Erstellungsdatum der Dokumente.
+Filter können Ihnen helfen, Ihre Suche basierend auf **Tags** – abhängig von der ausgewählten Maschine oder Produktlinie, **Sprache** oder dem **Veröffentlichungsdatum** der Dokumente – einzugrenzen.
 
-### **1. Tags**
-Sie können Tags zu Dokumenten hinzufügen, wenn Sie ein neues Dokument hochladen oder ein bereits hochgeladenes Dokument bearbeiten. Weitere Informationen dazu, wie Sie Tags hinzufügen, finden Sie auf der Dokumentenseite.
+#### 1. **Sprache**
 
-Tags können Ihnen helfen, nach bestimmten Arten von Dokumenten wie Service- oder Benutzerhandbüchern zu filtern und die Suche so genau wie möglich einzugrenzen.
+Sie können basierend auf den vorhandenen Sprachen, die von Ihrer Organisation unterstützt werden, filtern. Die Standardsprache ist die Sprache Ihres Systems.
 
-![Tags](https://i.imgur.com/BsIkF62.png)
+Die Auswahl des Tags "Alle Sprachen" zeigt Ergebnisse in allen Sprachen an, die im Filterdropdown aufgeführt sind. Wenn Sie nur eine Sprache auswählen, werden Ihnen Ergebnisse in dieser Sprache und Dokumente angezeigt, die aus ihrer Originalsprache in Ihren ausgewählten Filter übersetzt wurden.
 
-### **2. Sprache**
+Wenn Sie möchten, dass das System eine Sprache unterstützt, die nicht unseren Standardoptionen entspricht (`Englisch`,`Deutsch`,`Spanisch`,`Chinesisch`), wenden Sie sich bitte an unser [Verkaufsteam](mailto:sales@knowron.com).
 
-Sie können nach den vorhandenen Sprachen filtern, die von Ihrer Organisation unterstützt werden. Die standardmäßig ausgewählte Sprache ist die Sprache Ihres Systems.
+<p align="center"><img src="https://i.imgur.com/6IlcwDO.png" width="80%"></p>
 
-Wenn Sie das Tag "Alle Sprachen" auswählen, werden Ihnen Ergebnisse in allen Sprachen angezeigt, die im Dropdown-Menü aufgeführt sind. Wenn Sie nur eine Sprache auswählen, werden Ihnen nur Ergebnisse in dieser Sprache angezeigt, sowie Dokumente, die aus der Originalsprache in Ihre ausgewählte Sprache übersetzt wurden.
+#### 2. **Veröffentlichungsdatum**
 
-![Language Filter](https://i.imgur.com/3sEgfAg.png)
+Zusätzlich können Sie die Dokumente basierend auf dem **Veröffentlichungsdatum** filtern. Diese Filter können besonders nützlich sein, wenn Sie nach der neuesten Version eines Softwaredokuments suchen.
 
-### **3. Zeit**
+<p align="center"><img src="https://i.imgur.com/gkspfv3.png" width="80%"></p>
 
-Sie können die Dokumente auch basierend auf dem Erstellungsdatum filtern. Diese Filter können besonders nützlich sein, wenn Sie nach der neuesten Version eines Software-Dokuments suchen.
+#### 3. **Tags**
 
-![Time Filter](https://i.imgur.com/xCrBnEh.png)
+Sie können Ihre Suche durch Verwendung von Tags als Filter verfeinern, um sicherzustellen, dass Sie ausschließlich Antworten aus Artikeln oder Dokumenten erhalten, die mit den von Ihnen gewählten Tags oder Tags verbunden sind. Tags sind auch hierarchisch organisiert und ermöglichen die Verwendung mehrerer Ebenen von Tagkategorien wie `Software` oder `Benutzerhandbücher`.
+
+!!! Information "**Wo kann ich Tags hinzufügen?** "
+     Sehen Sie sich an, wie Sie Tags zu [Dokumenten](documents.md) oder [Artikeln](articles.md) hinzufügen können.
+
+<p align="center"><img src="" width="80%"></p>
+
+---
+## Feedback
+
+Wir nehmen Ihr Feedback ernst. Wenn Sie der Meinung sind, dass die Ergebnisse, die Sie für eine bestimmte Abfrage erhalten haben, nicht korrekt oder hilfreich sind, laden wir Sie ein, uns über zwei verschiedene Kanäle Feedback zu geben.
+
+**Ergebnisse nicht hilfreich**
+
+Ein Klick auf `Ergebnisse nicht hilfreich` löst ein Fenster aus, das es Ihnen ermöglicht, den Grund anzugeben, warum Sie glauben, dass die bereitgestellte generative Antwort nicht korrekt ist.
+
+<p align="center"><img src="https://i.imgur.com/FRdYNgK.png" width="80%"></p>
+
+Sie haben die Möglichkeit, aus den von unserem Team bereitgestellten Kontrollkästchen auszuwählen und/oder Ihre eigenen Gedanken zu den Ergebnissen Ihrer Abfrage hinzuzufügen und Vorschläge zur Verbesserung zu machen. Unser Team wird sich so schnell wie möglich mit einer Lösung bei Ihnen melden.
+
+<p align="center"><img src="https://i.imgur.com/jiemEwq.png" width="80%"></p>
+
+**Herunterstufen der generativen Antwort**
+
+Das Herunterstufen der generativen Antwort löst ein Fenster aus, das es Ihnen ermöglicht, Gründe aus einer Liste auszuwählen, die von unserem Team bereitgestellt wird, oder Sie können Ihre eigene Erklärung dafür abgeben, warum Sie glauben, dass die Antwort nicht korrekt ist.
+
+<p align="center"><img src="https://i.imgur.com/M3FruL3.png" width="80%"></p>

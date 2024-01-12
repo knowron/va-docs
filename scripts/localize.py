@@ -94,44 +94,33 @@ replace_pairs = [
   
     #######################  Search ################### 
 
+    ## Ask Question
+    ("https://i.imgur.com/depHqSZ.png","https://i.imgur.com/DxAwOmD.png"),
 
-    # Search Bar
-    ("https://i.imgur.com/depHqSZ.png","https://i.imgur.com/ceW9eZG.png"),
-   
+    ## Translation
+    ("https://i.imgur.com/W6nVTdU.png","https://i.imgur.com/YegCmA4.png"),
 
-    # Result List EN
-    ("https://i.imgur.com/JaUJWFH.png","https://i.imgur.com/kzz0K42.png"),
-    # Result List DE
-    ("https://i.imgur.com/s8gV87t.png","https://i.imgur.com/kzz0K42.png"),
+    ## Language Filter
+    ("https://i.imgur.com/XP1Rjzt.png","https://i.imgur.com/6IlcwDO.png"),
 
-    # Translated Results EN
-    ("https://i.imgur.com/W6nVTdU.png","https://i.imgur.com/F48xlTa.png"),
+    ## Time Filter
+    ("https://i.imgur.com/2O0mNRe.png","https://i.imgur.com/gkspfv3.png"),
 
-    # Results not helpful EN
-    ("https://i.imgur.com/UFzgbTV.png","https://i.imgur.com/mlk423q.jpg"),
-    # Results not helpful
-    ("https://i.imgur.com/icwXGkg.png","https://i.imgur.com/mlk423q.jpg"),
+    ## Tags filter
 
-    # Feedback Box EN
-    ("https://i.imgur.com/XDwSOdu.png","https://i.imgur.com/V1t3eeb.png"),
-    # Feedback Box DE
-    ("https://i.imgur.com/q52nK3B.png","https://i.imgur.com/V1t3eeb.png"),
+    ("https://i.imgur.com/2EeYDkB.png",""),
 
-    # Filters: Tags EN
-    ("https://i.imgur.com/KjkplBs.png","https://i.imgur.com/BsIkF62.png"),
-     # Filters: Tags DE
-    ("https://i.imgur.com/KjkplBs.png","https://i.imgur.com/BsIkF62.png"),
+    ## Feedback: Results not helpful Part 1
 
-    # Filters: Languages EN
-    ("https://i.imgur.com/AyujrBQ.png","https://i.imgur.com/3sEgfAg.png"),
-    # Filters: Languages DE
-    ("https://i.imgur.com/cKzeomC.png","https://i.imgur.com/3sEgfAg.png"),
+    ("https://i.imgur.com/nImrevY.png","https://i.imgur.com/FRdYNgK.png"),
 
-    # Filters: Time
-    ("https://i.imgur.com/kJlRr1E.png","https://i.imgur.com/xCrBnEh.png"),
-    # Filters: Time
-    ("https://i.imgur.com/H0ImR2T.png","https://i.imgur.com/xCrBnEh.png"),
+     ## Feedback: Results not helpful Part 2
 
+    ("https://i.imgur.com/dAcToeD.png","https://i.imgur.com/jiemEwq.png"),
+
+     ## Feedback: Downvote
+
+    ("https://i.imgur.com/eGD8ZVd.png","https://i.imgur.com/M3FruL3.png"),
 
     ######################  Articles ################### 
 

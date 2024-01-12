@@ -55,6 +55,7 @@ markdown_extensions:
 nav:
   - Intro: "index.md"
   - "FAQ": "faq.md"
+  - "Updates": "updates"
 
   - Getting Started:
       - "Virtual Assist App (Mobile)": "Getting Started/quick-start-guide-assistant.md"
