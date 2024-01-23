@@ -304,13 +304,17 @@ replace_pairs = [
     ("https://i.imgur.com/ro4PDcx.png","https://i.imgur.com/Vo6AOmh.png"),
     ("https://i.imgur.com/m48FwjW.gif","https://i.imgur.com/LbSI8kV.gif"),
     ("https://i.imgur.com/jKsjvL2.gif","https://i.imgur.com/ZpPo2JN.gif"),
+    ## Feedback
+    ("https://i.imgur.com/IAJ3PDe.png","https://i.imgur.com/GsuoKLV.png"),
     # History 
-    ("https://i.imgur.com/Xxu7oHp.png",""),
+    ("https://i.imgur.com/Xxu7oHp.png","https://i.imgur.com/oLF0mjr.png"),
 
     ########### FAQs #####################
     
     ## Log in
     ("https://i.imgur.com/UX8V7XZ.png","https://i.imgur.com/kgHm6uz.png"),
+    ## Machine Selection
+    ("https://i.imgur.com/yKOvFFR.png","https://i.imgur.com/1EBP4vW.png"),
     ## Upload Documents
     ("https://i.imgur.com/UEWdM88.png","https://i.imgur.com/SQl80JG.png"),
     ## Search

@@ -62,6 +62,7 @@ Another option is to perform the search in a different language than the system 
 
 For mobile, you have to go to the settings of the application on the top right, click on "Change language" and then select the language you want to use.
 
+<p align="center"><img src="https://i.imgur.com/CLHcaIs.png" width="30%"></p>
 
 ## How do I download a document I have uploaded?
 

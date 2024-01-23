@@ -39,7 +39,7 @@ Finally, the most frequently asked questions are shown. These can be an importan
 
 The search history feature provides an overview of all the searches conducted within the system and assess the effectiveness of the system's responses. This tool is particularly valuable as it grants access to both the queries made and the corresponding answers provided to the user, alongside any feedback provided.
 
-<p align="center"><img src="" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/oLF0mjr.png" width="100%"></p>
 
 In the `User Feedback` column, you can view the feedback given by the user for each answer. Additionally, the `User Comment` column includes any additional comments from the user, along with explanations or clarifications regarding their feedback.
 
@@ -47,7 +47,7 @@ In the `User Feedback` column, you can view the feedback given by the user for e
 
 The feedback feature helps editors to respond to user feedback and contribute expert answers for improved system performance. By selecting `Edit Answer,` users are  redirected to the [Expert Answers](#expert-answers) page, where they can create a response to the user's query.
 
-<p align="center"><img src="https://i.imgur.com/IAJ3PDe.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/GsuoKLV.png" width="100%"></p>
 
 
 The editing page allows for inclusion of detailed answers and also facilitates the attachment of relevant sources such as [articles](articles), [documents](documents), and [tutorials](tutorials) to enhance the credibility of the response.

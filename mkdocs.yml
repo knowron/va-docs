@@ -54,7 +54,7 @@ markdown_extensions:
 
 nav:
   - Intro: "index.md"
-  - "FAQ": "faq.md"
+  - "FAQ": "faqs.md"
   - "Updates": "updates"
 
   - Getting Started:
