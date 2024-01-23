@@ -75,5 +75,5 @@ Falls Sie Ihr Passwort vergessen haben, wählen Sie bitte die entsprechende Opti
  
 Geben Sie hier die E-Mail-Adresse des Kontos ein, das Sie wiederherstellen möchten, und wir senden Ihnen einen Code zu, mit dem Sie wieder Zugang zu Ihrem Konto erhalten und ein neues Passwort festlegen können.
 
-<p align="center"><img src="https://i.imgur.com/puiD8Wa.png" width="70%"></p>
+<p align="center"><img src="https://i.imgur.com/10hlFfM.png" width="70%"></p>
 

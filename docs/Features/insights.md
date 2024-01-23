@@ -19,14 +19,13 @@ The two graphs in this section show you the percentage of questions answered, i.
 Additionally, you can monitor the number of queries searched, or the number of individual questions submitted by users over the past weeks. These will fluctuate with time, but the higher the better. You'll also be able to see the change in these numbers over the last week.
 
 
-### How can I improve my system?
+### Top unanswered questions
 
-This table shows you the top unanswered questions in your knowledge base. You can affect this table by uploading new sources which answer the questions or directly writing an expert answer about it (see below).
+This table shows you the top unanswered questions in your knowledge base. You can affect this table by uploading new sources which answer the questions or directly writing an expert answer about it 
 
 
-<p align="center"><img src="https://i.imgur.com/5QTtUi8.png" width="90%"></p>
+<p align="center"><img src="https://imgur.com/icfwtoT" width="90%"></p>
 
-We use a clustering algorithm to show you an amalgamation of differently phrased questions under the same query so that e.g. "How much does the component weigh?" and "Tell me the component weight" are counted in one go.
 
 ### What are the frequently asked questions?
 
@@ -48,7 +47,7 @@ In the `User Feedback` column, you can view the feedback given by the user for e
 
 The feedback feature helps editors to respond to user feedback and contribute expert answers for improved system performance. By selecting `Edit Answer,` users are  redirected to the [Expert Answers](#expert-answers) page, where they can create a response to the user's query.
 
-<p align="center"><img src="https://i.imgur.com/fkfaw8k.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/IAJ3PDe.png" width="100%"></p>
 
 
 The editing page allows for inclusion of detailed answers and also facilitates the attachment of relevant sources such as [articles](articles), [documents](documents), and [tutorials](tutorials) to enhance the credibility of the response.

@@ -307,6 +307,22 @@ replace_pairs = [
     # History 
     ("https://i.imgur.com/Xxu7oHp.png",""),
 
+    ########### FAQs #####################
+    
+    ## Log in
+    ("https://i.imgur.com/UX8V7XZ.png","https://i.imgur.com/kgHm6uz.png"),
+    ## Upload Documents
+    ("https://i.imgur.com/UEWdM88.png","https://i.imgur.com/SQl80JG.png"),
+    ## Search
+    ("https://i.imgur.com/sSzwMzB.png","https://i.imgur.com/lNhW1ZX.png"),
+    ## Language 1
+    ("https://i.imgur.com/5VxkZGp.png"," https://i.imgur.com/Og51HWt.png "),
+    ## Language 2
+    ("https://i.imgur.com/NYOlzKn.png"," https://i.imgur.com/HIC2qkY.png"),
+    ## Reset password
+    ("https://i.imgur.com/puiD8Wa.png","https://i.imgur.com/10hlFfM.png"),
+    
+
 
     # Links
 
