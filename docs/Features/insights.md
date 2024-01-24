@@ -24,7 +24,7 @@ Additionally, you can monitor the number of queries searched, or the number of i
 This table shows you the top unanswered questions in your knowledge base. You can affect this table by uploading new sources which answer the questions or directly writing an expert answer about it 
 
 
-<p align="center"><img src="https://imgur.com/icfwtoT" width="90%"></p>
+<p align="center"><img src="" width="90%"></p>
 
 
 ### What are the frequently asked questions?
@@ -58,7 +58,7 @@ The `Status` indicates whether an answer has been added to the user's feedback.
 
 Expert Answers: One of the main changes we have introduced is an all-new way to directly and simply answer users' questions.
 
-<p align="center"><img src="https://i.imgur.com/I2XIxyR.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/RYrP58D.gif" width="80%"></p>
 
 Whenever a user submits a feedback about the answer they have received or the search results in front of them, a new feedback item will be created. You can answer these feedback items (or unanswered questions, see above) with an Expert Answer.
 

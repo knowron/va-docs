@@ -50,7 +50,7 @@ The **Search History** and **Feedback** screens have now been moved to be under 
 
 One of the main changes we have introduced is an all-new way to directly and simply answer users' questions.
 
-<p align="center"><img src="https://i.imgur.com/I2XIxyR.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/RYrP58D.gif" width="100%"></p>
 
 Whenever a user submits a feedback about the answer they have received or the search results in front of them, a new **feedback item** will be created. You can answer these feedback items (or unanswered questions, see above) with an **Expert Answer**. 
 
