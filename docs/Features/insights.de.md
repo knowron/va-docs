@@ -20,7 +20,7 @@ Zusätzlich können Sie die Anzahl der durchgeführten Abfragen oder die Anzahl 
 
 Diese Tabelle zeigt Ihnen die top unbeantworteten Fragen in Ihrer Wissensdatenbank. Sie können diese Tabelle beeinflussen, indem Sie neue Quellen hochladen, die die Fragen beantworten, oder direkt eine Expertenantwort dazu verfassen.
 
-<p align="center"><img src="" width="90%"></p>
+<p align="center"><img src="https://i.imgur.com/Kd54e7i.png" width="90%"></p>
 
 ### Was sind die häufig gestellten Fragen?
 

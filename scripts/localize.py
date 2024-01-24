@@ -222,7 +222,7 @@ replace_pairs = [
     # History 
     ("https://i.imgur.com/Xxu7oHp.png","https://i.imgur.com/oLF0mjr.png"),
     ## Top Unasnwered questions
-    ("https://i.imgur.com/SYGokPF.png",""),
+    ("https://i.imgur.com/SYGokPF.png","https://i.imgur.com/Kd54e7i.png"),
     ## Expert Answer
     ("https://i.imgur.com/I2XIxyR.gif","https://i.imgur.com/RYrP58D.gif"),
     

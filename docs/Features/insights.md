@@ -24,7 +24,7 @@ Additionally, you can monitor the number of queries searched, or the number of i
 This table shows you the top unanswered questions in your knowledge base. You can affect this table by uploading new sources which answer the questions or directly writing an expert answer about it 
 
 
-<p align="center"><img src="" width="90%"></p>
+<p align="center"><img src="https://i.imgur.com/Kd54e7i.png" width="90%"></p>
 
 
 ### What are the frequently asked questions?
