@@ -332,6 +332,10 @@ replace_pairs = [
     ("https://i.imgur.com/NYOlzKn.png"," https://i.imgur.com/HIC2qkY.png"),
     ## Reset password
     ("https://i.imgur.com/puiD8Wa.png","https://i.imgur.com/10hlFfM.png"),
+    ## Search uploaded docs
+    ("https://i.imgur.com/fF703fJ.png","https://i.imgur.com/T242eAD.png"),
+    ## Search page
+    ("https://i.imgur.com/7CEiZF8.png","https://i.imgur.com/DK6n4aa.png"),
     
 
 

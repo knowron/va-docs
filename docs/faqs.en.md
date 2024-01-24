@@ -11,7 +11,7 @@
 
 - Once it is created, you will be redirected to the [Search Page](search.md) and all of the ASMPT Virtual Assist functionalities will be available to you. 
 
-<p align="center"><img src="https://i.imgur.com/7CEiZF8.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/DK6n4aa.png" width="80%"></p>
 
  - To upload the files you want to extract, go to documents and upload the files you want to work with.
 
@@ -31,7 +31,7 @@ At the moment, there is no public API. If you are interested in building integra
 
 To view all the documents that have been uploaded in the system, you can go to the tools selection after choosing a product and selecting `All Documents:`
 
-<p align="center"><img src="https://i.imgur.com/fF703fJ.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/T242eAD.png" width="80%"></p>
 
 
 ## Why does my keyword search not work? 
