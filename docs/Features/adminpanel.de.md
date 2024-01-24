@@ -10,5 +10,5 @@ Wenn Ihnen die Rolle des Administrators zugewiesen wurde, haben Sie Zugang zu be
 
 Schließlich können Sie im Verwaltungsbereich auch die Benutzer innerhalb Ihrer Organisation verwalten. Dazu gehört das Hinzufügen neuer Benutzer, das Ändern ihrer Rollen und Berechtigungen und das Entfernen von Benutzern, die nicht mehr in der Organisation tätig sind. Diese Funktion ist wichtig, um die Sicherheit und Integrität der Daten Ihrer Organisation zu gewährleisten.
 
-![User Management]()
+![User Management](https://i.imgur.com/ZT9Q1u1.gif)
 

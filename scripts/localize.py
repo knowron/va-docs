@@ -157,9 +157,8 @@ replace_pairs = [
     ("https://i.imgur.com/EZyvUYZ.gif","https://i.imgur.com/H02gNPV.gif"),
 
     # User management EN
-    ("https://i.imgur.com/4Auw9bG.gif",""),
-     # User management EN
-    ("https://i.imgur.com/ZT9Q1u1.gif",""),
+    ("https://i.imgur.com/4Auw9bG.gif","https://i.imgur.com/S5x6z0W.png"),
+    
 
 
 
@@ -214,6 +213,18 @@ replace_pairs = [
     ("https://i.imgur.com/dYfNNNS.gif","https://i.imgur.com/u973bwk.gif"),
 
 
+    ############### Insights ###########
+    ("https://i.imgur.com/ro4PDcx.png","https://i.imgur.com/Vo6AOmh.png"),
+    ("https://i.imgur.com/m48FwjW.gif","https://i.imgur.com/LbSI8kV.gif"),
+    ("https://i.imgur.com/jKsjvL2.gif","https://i.imgur.com/ZpPo2JN.gif"),
+    ## Feedback
+    ("https://i.imgur.com/IAJ3PDe.png","https://i.imgur.com/GsuoKLV.png"),
+    # History 
+    ("https://i.imgur.com/Xxu7oHp.png","https://i.imgur.com/oLF0mjr.png"),
+    ## Top Unasnwered questions
+    ("https://i.imgur.com/SYGokPF.png",""),
+    ## Expert Answer
+    ("https://i.imgur.com/I2XIxyR.gif","https://i.imgur.com/RYrP58D.gif"),
     
 
     ###########################  Native Assitant ################### 
@@ -300,19 +311,7 @@ replace_pairs = [
      ("https://i.imgur.com/8x1JXJP.png","https://i.imgur.com/XhEc8pN.jpg"),
      ("https://i.imgur.com/5cCT2eY.png","https://i.imgur.com/ucvZ0bq.png"),
      
-    ############### Insights ###########
-    ("https://i.imgur.com/ro4PDcx.png","https://i.imgur.com/Vo6AOmh.png"),
-    ("https://i.imgur.com/m48FwjW.gif","https://i.imgur.com/LbSI8kV.gif"),
-    ("https://i.imgur.com/jKsjvL2.gif","https://i.imgur.com/ZpPo2JN.gif"),
-    ## Feedback
-    ("https://i.imgur.com/IAJ3PDe.png","https://i.imgur.com/GsuoKLV.png"),
-    # History 
-    ("https://i.imgur.com/Xxu7oHp.png","https://i.imgur.com/oLF0mjr.png"),
-    ## Top Unasnwered questions
-    ("https://i.imgur.com/SYGokPF.png",""),
-    ## Expert Answer
-    ("https://i.imgur.com/I2XIxyR.gif","https://i.imgur.com/RYrP58D.gif"),
-
+    
 
 
 
