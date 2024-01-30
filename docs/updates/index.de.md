@@ -6,6 +6,8 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 
 ## 2023
 
+- [Produktupdate V1.18.0](2023/v1.18.0.de.md)
+- [Dezember Update](2023/december_update.de.md)
 - [Update für Ende Januar](2023/late_jan_update.md)
 
 ## 2022

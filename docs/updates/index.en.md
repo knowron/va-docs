@@ -6,7 +6,7 @@ Visit the child pages to learn more!
 
 ## 2023
 
-- [Product Update V1.18.0](2023/v1.18.0.md)
+- [Product Update V1.18.0](2023/v1.18.0.en.md)
 - [December Update](2023/december_update.en.md)
 - [January Update](2023/late_jan_update.md)
 
