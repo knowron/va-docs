@@ -1,4 +1,4 @@
-# Produktupdate Dezember 2023: Einblicke-Dashboard, Expertenantworten und neues Tagsystem
+# Produktupdate Dezember 2023
 
 Herzlich willkommen zum ASMPT Virtual Assist Produktupdate für Dezember 2023! Wir freuen uns, Ihnen aufregende Neuigkeiten mitteilen zu können, um Ihr Erlebnis zu verbessern und zu einem fröhlichen und produktiven Jahr 2024 beizutragen.
 
@@ -7,7 +7,6 @@ Ein Prosit auf einen wunderbaren Jahresabschluss und einen vielversprechenden St
 
 Die Updates beinhalten:
 
-- [Die Expertenantworten-Funktion, um endlich Schluss zu machen mit immer wiederkehrenden Fragen](#expert-answers-say-goodbye-to-answering-the-same-question-over-and-over)
 - [Ein neues hierarchisches Tagsystem, das sich über Dokumente, Artikel und Suche erstreckt](#new-tag-system-is-now-available-for-documents-articles-and-search)
 - [Eine Lightbox-Funktion, um Bilder im Virtual Assist Web leichter zu betrachten](#pictures-can-be-explored-more-easily)
 - [Artikeldrafts zum Speichern Ihres Fortschritts, ohne dass Ihre Arbeit sofort in der Suche erscheint](#article-drafts)
