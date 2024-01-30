@@ -68,12 +68,10 @@ nav:
       - "Features/tutorials.md"
       - "Features/documents.md"
       - "Features/articles.md"
-
-
       - "Features/adminpanel.md"
   - Virtual Assist App Features:
-      - "Features/documents_na.md"
 
+      - "Features/documents_na.md"
       - "Features/logbook.md"
       - "Features/supportscreen.md"
       - "Features/pushnotifications.md"
