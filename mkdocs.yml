@@ -56,6 +56,7 @@ nav:
   - Intro: "index.md"
   - "FAQ": "faqs.md"
   - "Updates": "updates"
+      - "Product Updates v1.18.0": "Updates/v1.18.0.md"
 
   - Getting Started:
       - "Virtual Assist App (Mobile)": "Getting Started/quick-start-guide-assistant.md"
