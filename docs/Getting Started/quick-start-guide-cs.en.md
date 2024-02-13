@@ -2,15 +2,13 @@
 
 This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
-<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"></p>
 
 ---
 
 ## Step 1. Log into the Virtual Assist Web
 
-The Virtual Assist Web is accessible under [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com/).
-
-[Visit the Virtual Assist Web](https://virtualassist.smt.asmpt.com/){ .md-button }
+The Virtual Assist Web is accessible under: [Visit the Virtual Assist Web](https://virtualassist.smt.asmpt.com/){ .md-button }
 
 You only need your email and your ASMPT Virtual Assist password to log onto the system. Your **email** is normally your work email. You can find your **password** in the email you received inviting you to join your organization on ASMPT Virtual Assist (see below).
 
@@ -52,10 +50,10 @@ Below is a sample search interaction for the question `How do I replace the DP d
 
 We can show you results from the following resources:
 
-- [Documents](documents.md)
-- [Tutorials](tutorials.md)
-- [Articles](articles.md)
-- [Expert Answers](insights.md#expert-answers) 
+- Documents
+- Tutorials
+- Articles
+- Expert Answers
 
 In the future, we will also be able to show you results from your machine's logbook and much more!
 
