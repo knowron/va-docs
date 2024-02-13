@@ -51,15 +51,15 @@ replace_pairs = [
     # Log in screen
     ("https://i.imgur.com/h3OoieE.png", "https://i.imgur.com/5I1HipS.png"),
     # Select a product line
-    ("https://i.imgur.com/TfkKWZ3.gif", "https://i.imgur.com/wJy7OjB.gif"),
-    # Upvote
-    ("https://imgur.com/t2tkFxe.gif","https://i.imgur.com/6k68K3K.gif"),
-    # Text feedback CS
-    ("https://i.imgur.com/i44sdhx.gif","https://i.imgur.com/6Nzj6Kc.gif"),
-    # Ask a question CS EN
-    ("https://i.imgur.com/a1M9jUN.gif","https://i.imgur.com/CeziNWT.gif"),
-    # Ask a question CS DE
-    ("https://i.imgur.com/HI3nVYq.gif","https://i.imgur.com/CeziNWT.gif"),
+    ("https://i.imgur.com/HMIItzO.png", "https://i.imgur.com/Jo1FQ1D.png"),
+    # Results not helpful
+    ("https://i.imgur.com/nImrevY.png","https://i.imgur.com/FRdYNgK.png"),
+    ("https://i.imgur.com/jiemEwq.png","https://i.imgur.com/dAcToeD.png"),
+    ## Downvoting the Generative Answer
+    ("https://i.imgur.com/eGD8ZVd.png","https://i.imgur.com/M3FruL3.png"),
+    # Ask a question
+    ("https://i.imgur.com/depHqSZ.png","https://i.imgur.com/DxAwOmD.png"),
+   
 
 
 

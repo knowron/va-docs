@@ -38,7 +38,7 @@ Once logged in, you will see an overview of the product lines that your colleagu
 
 Before you continue, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen.
 
-<p align="center"><img src="https://i.imgur.com/wJy7OjB.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/Jo1FQ1D.png" width="80%"></p>
 
 ---
 
@@ -48,14 +48,14 @@ Now all you have to do is ask what you want to know. Type in the search bar and 
 
 Below is a sample search interaction for the question `How do I replace the DP drive on a CP 20 P2?`
 
-<p align="center"><img src="https://i.imgur.com/CeziNWT.gif
-" width="70%"></p>
+<p align="center"><img src="https://i.imgur.com/DxAwOmD.png" width="70%"></p>
 
 We can show you results from the following resources:
 
-- Documents
-- Tutorials
-- Articles
+- [Documents](documents.md)
+- [Tutorials](tutorials.md)
+- [Articles](articles.md)
+- [Expert Answers](insights.md#expert-answers) 
 
 In the future, we will also be able to show you results from your machine's logbook and much more!
 
@@ -75,22 +75,20 @@ ASMPT Virtual Assist can only get better if you give feedback! Feedback will be 
 
 You can give feedback in one of two ways:
 
-### Use "thumbs-up" to mark results that helped you
+**Results not helpful**
 
-If you found a result that helped you, you can give it a thumbs-up (see below).
+Clicking on `Results not helpful` will trigger a window that allows you to specify the reason you believe the provided Generative Answer is incorrect.
 
-<p align="center"><img src="https://i.imgur.com/6k68K3K.gif
-" width="70%"></p>
+ <p align="center"><img src="https://i.imgur.com/FRdYNgK.png" width="80%"></p>
 
-A thumbs-up takes less than a second and it lets your colleagues know that this will be helpful to them too if they face a similar question. ASMPT Virtual Assist's algorithm will also take it into account: more thumbs-up reactions mean that this result will appear higher in search results in the future.
 
-### Report any missing data for your colleagues to close the knowledge gap
+You have the option to choose from the checkboxes provided by our team and/or add your own thoughts regarding the results to your query, suggesting ways for improvement. Our team will get back to you as soon as possible with a solution.
 
-Sometimes, ASMPT Virtual Assist will not find a suitable answer - or the answer might be slightly off. This can happen particularly due to a very broad query or missing data.
+ <p align="center"><img src="https://i.imgur.com/jiemEwq.png" width="80%"></p>
 
-If you find that the search results are not helping you in the way that you need, you can click on `RESULTS NOT HELPFUL` at the top of the search results and give us details on what you were expecting (see below).
 
-<p align="center"><img src="https://i.imgur.com/6Nzj6Kc.gif
-" width="70%"></p>
+**Downvoting the Generative Answer**
 
-Your colleagues with an editor role, mostly from first-level support or hotline duty will act on your feedback and make sure that the information you need is available to you and your colleagues.
+Downvoting the Generative Answer will prompt a window that enables you to choose reasons from a list provided by our team, or you can submit your own explanation for why you believe the answer is not correct.
+
+ <p align="center"><img src="https://i.imgur.com/M3FruL3.png" width="100%"></p>
