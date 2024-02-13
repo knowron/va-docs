@@ -2,7 +2,7 @@
 
 This page will guide you through all you need to know to start using the **ASMPT Virtual Assist**. If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
-<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"></p>
 
 ---
 
