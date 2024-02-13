@@ -63,7 +63,8 @@ replace_pairs = [
 
 
 
-    #######################  Documents ################### 
+    #######################  Documents ###################################
+    #####################################################################
 
     # Documents page
     ("https://i.imgur.com/Y5GOTyu.png","https://i.imgur.com/QrtEaVR.png"),
@@ -96,8 +97,8 @@ replace_pairs = [
      # Add Tags DE
     ("https://i.imgur.com/vpODjpY.png","https://i.imgur.com/DRUKkNT.jpg"),
   
-    #######################  Search ################### 
-
+    #######################  Search ##################################### 
+    #####################################################################
     ## Ask Question
     ("https://i.imgur.com/depHqSZ.png","https://i.imgur.com/DxAwOmD.png"),
 
@@ -126,7 +127,9 @@ replace_pairs = [
 
     ("https://i.imgur.com/eGD8ZVd.png","https://i.imgur.com/M3FruL3.png"),
 
-    ######################  Articles ################### 
+    ######################  Articles ###################################
+    #####################################################################
+
 
     # Create Article Gif
     ("https://i.imgur.com/Q4M8Ufs.gif","https://i.imgur.com/1HSh18N.gif"),
@@ -153,7 +156,8 @@ replace_pairs = [
     # Share Articles
     ("https://i.imgur.com/AVBDSLs.png","https://i.imgur.com/9jIfUot.png"),
 
-    ######################  Admin Panel ################### 
+    ######################  Admin Panel #################################
+    #####################################################################
 
     # Upload Privacy Policy EN
     ("https://i.imgur.com/4Auw9bG.gif","https://i.imgur.com/H02gNPV.gif"),
@@ -186,7 +190,8 @@ replace_pairs = [
     ("https://i.imgur.com/s9BOpW8.gif", "https://i.imgur.com/PYTYa1F.gif"),
 
 
-    ################### Tutorials ################### 
+    ################### Tutorials ######################################### 
+    #####################################################################
 
     # Step 1 EN
     ("https://i.imgur.com/8z30N8T.gif","https://i.imgur.com/CNlZKs7.gif"),
@@ -215,6 +220,10 @@ replace_pairs = [
     ("https://i.imgur.com/Uccurnr.gif","https://i.imgur.com/u973bwk.gif"),
     # Step 5 DE
     ("https://i.imgur.com/dYfNNNS.gif","https://i.imgur.com/u973bwk.gif"),
+
+    ## Edit Turorials
+    ("https://i.imgur.com/KOwE5Px.gif","https://i.imgur.com/eED75Nx.gif"),
+
 
 
     ############### Insights ###########

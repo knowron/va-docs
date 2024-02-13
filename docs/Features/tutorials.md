@@ -52,3 +52,11 @@ If your Tutorial is ready to be shared with your colleagues just toggle the `Pub
 
 <p align="center"><img src="https://i.imgur.com/u973bwk.gif" width="100%"></p>
 
+
+## Edit Tutorial 
+
+Clicking on an existing tutorial opens a side panel offering you an overview of the context. Clicking on the `Edit` button will open the Tutorial Editor.
+
+<p align="center"><img src="https://i.imgur.com/eED75Nx.gif" width="100%"></p>
+
+

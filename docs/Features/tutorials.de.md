@@ -53,4 +53,8 @@ Wenn Ihr Tutorial bereit ist, mit Ihren Kollegen geteilt zu werden, aktivieren S
 
 <p align="center"><img src="https://i.imgur.com/u973bwk.gif" width="100%"></p>
 
+## Tutorial bearbeiten
 
+Wenn Sie auf ein vorhandenes Tutorial klicken, wird ein Seitenbereich geöffnet, der Ihnen eine Übersicht über den Kontext bietet. Durch Klicken auf die Schaltfläche `Bearbeiten` wird der Tutorial-Editor geöffnet.
+
+<p align="center"><img src="https://i.imgur.com/eED75Nx.gif" width="100%"></p>
