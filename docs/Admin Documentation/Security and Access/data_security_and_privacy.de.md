@@ -4,23 +4,27 @@
 
 **Nur Sie und Mitglieder Ihres Teams** haben Zugang zu den von Ihnen hochgeladenen Dokumenten. Kein anderer Kunde oder Benutzer ohne Autorisierung kann auf sie in irgendeiner Weise zugreifen. Ihre Daten sind bei uns sicher.
 
-## Was sind Ihre Datenschutzrichtlinien?
+## Was sind ihre Datenschutzrichtlinien?
 
 Wir nehmen Cyber-Sicherheit und Datenschutz sehr ernst. Wir sind gemäß DSGVO konform und präsentieren eine Datenschutzerklärung auf prägnante und transparente Weise. Wir bitten um Einwilligung des Benutzers, bevor wir Tracking durchführen, halten Analysen anonym und stellen die Verschlüsselung aller sensiblen Daten sicher. Wir glauben, dass der Aufbau eines robusten Datenschutz- und Sicherheitsprogramms der erste Schritt ist, um das Vertrauen der Kunden in unsere Wertschätzung, Behandlung und den Schutz ihrer Daten zu stärken.
 
 Wir zeigen unseren Kunden auf Anfrage bestehende technische und organisatorische Maßnahmen (TOMs) an und überprüfen sie alle sechs Monate, um sicherzustellen, dass die Liste auf dem neuesten Stand und umfassend ist.
 
-## Sichern Sie Daten?
+## Speichern sie Daten?
+
+Die Tool-Daten werden vollständig innerhalb der EU (Deutschland) gespeichert. Dokumente können über ein Content Delivery Network (CDN) zur Beschleunigung des Ladens bereitgestellt werden. Nur Sie können auf Ihre Daten (auf Kundenebene) und Inhalte zugreifen. Dies gilt auch, wenn neue Produktlinien mit Produkten erstellt werden, die nicht von ASMPT hergestellt werden.
+
+## Sichern sie Daten?
 
 Unser Daten-Backup-Modell bietet eine nahezu Echtzeit-Datenbankreplikation, um sicherzustellen, dass Kundendaten sowohl gesichert als auch auf redundanten und geografisch verteilten Servern verfügbar sind.
 
 Vollständige Backups werden täglich durchgeführt und verschlüsselt in einer Umgebung gespeichert, die physisch vom Primärsystem getrennt ist, um Fehlertoleranz zu gewährleisten.
 
-## Sind Sie DSGVO-konform?
+## Sind sie DSGVO-konform?
 
 Ja, wir sind vollständig DSGVO-konform.
 
-## Wie zuverlässig ist Ihre Infrastruktur?
+## Wie zuverlässig ist ihre Infrastruktur?
 
 Wir setzen unseren Code auf Cloud-Computing-Plattformen der Spitzenklasse wie Amazon Web Services ein, die umfassende Sicherheits- und Compliance-Zertifizierungen unterstützen, einschließlich PCI-DSS, HIPAA/HITECH, FedRAMP, DSGVO, FIPS 140-2 und NIST 800-171.
 

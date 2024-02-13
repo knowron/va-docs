@@ -9,11 +9,13 @@ step to reinforcing customers’ confidence in how we value, treat, and protect 
 
 We are displaying our existing technical and organizational measures (TOMs) to our clients (upon request) and are reviewing them on a 6-month basis in order to ensure the list is up-to-date and comprehensive.
 
+## Do you store data?
+
+The tool data is stored entirely within the EU (Germany). Documents can be delivered through a Content Delivery Network (CDN) to speed up loading. Only you can access your data (client-level) and content. This is also true when creating new product lines with products not manufactured by ASMPT.
+
 ## Do you back up any data?
 
-Our data backup model provides near real-time database replication to ensure customer data is both backed up and available on redundant and geographically dispersed servers. 
-
-Full backups are performed daily and stored encrypted in an environment physically separated from the primary servers to ensure fault tolerance.
+Our data backup model provides near real-time database replication to ensure customer data is both backed up and available on redundant and geographically dispersed servers. Full backups are performed daily and stored encrypted in an environment physically separated from the primary servers to ensure fault tolerance.
 
 ## Are you GDPR compliant?
 

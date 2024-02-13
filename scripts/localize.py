@@ -16,6 +16,10 @@ replace_pairs = [
     ("Epsilon Series", "SIPLACE SX Series"),
     ("mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0A Ich habe keinen Zugriff auf dem System. Schalten Sie mich bitte frei. %0D%0A%0D%0ADanke!", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
     ("mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0AI am unable to access the system. Please provide support.%0D%0A%0D%0AThank you!", "https://smt.asmpt.com/en/products/software-solutions/virtual-assist"),
+    ("The tool data is stored entirely within the EU (Germany). Documents can be delivered through a Content Delivery Network (CDN) to speed up loading. Only you can access your data (client-level).",
+     "The tool data is stored entirely within the EU (Germany). Documents can be delivered through a Content Delivery Network (CDN) to speed up loading. Only you can access your data (client-level) and content. This is also true when creating new product lines with products not manufactured by ASMPT."),
+     ("Der Tool-Daten werden vollständig innerhalb der EU (Deutschland) gespeichert. Dokumente können über ein Content Delivery Network (CDN) zur Beschleunigung des Ladens bereitgestellt werden. Nur Sie können auf Ihre Daten zugreifen (auf Kundenebene).",
+      "Die Tool-Daten werden vollständig innerhalb der EU (Deutschland) gespeichert. Dokumente können über ein Content Delivery Network (CDN) zur Beschleunigung des Ladens bereitgestellt werden. Nur Sie können auf Ihre Daten (auf Kundenebene) und Inhalte zugreifen. Dies gilt auch, wenn neue Produktlinien mit Produkten erstellt werden, die nicht von ASMPT hergestellt werden."),
 
     # Images
     ("imgur.com/EAaxESg", "imgur.com/mL7XYMH"), # Banner image,
