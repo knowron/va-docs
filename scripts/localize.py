@@ -164,10 +164,11 @@ replace_pairs = [
     # Upload Privacy Policy DE
     ("https://i.imgur.com/EZyvUYZ.gif","https://i.imgur.com/H02gNPV.gif"),
 
-    # User management EN
+    # User management 
     ("https://i.imgur.com/4Auw9bG.gif","https://i.imgur.com/S5x6z0W.png"),
     
-
+    # Add new user
+    ("https://i.imgur.com/tBPOMaZ.gif","https://i.imgur.com/mYdRwZq.gif"),
 
 
     #################### Logbook ######################

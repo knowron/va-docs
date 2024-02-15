@@ -8,5 +8,5 @@ If you have been assigned the Admin role, you will have access to certain featur
 ### **User management**
 Finally, the Admin panel also allows you to manage users within your organization. This includes adding new users, modifying their roles and permissions, and removing users who are no longer with the organization. This feature is important for maintaining the security and integrity of your organization's data.
 
-![User Management](https://i.imgur.com/tBPOMaZ.gif)
+![User Management](https://i.imgur.com/mYdRwZq.gif)
 
