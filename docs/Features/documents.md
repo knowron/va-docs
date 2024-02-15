@@ -10,20 +10,20 @@ Documents related to your product or product line represent one of the content u
 
 ## Actions
 
-### 1. Preview 
+### 1. **Preview** 
 
 This function simplifies document access by opening it in a sliding tab. This feature allows you to conveniently preview and read the document. 
 
 <p align="center"><img src="https://i.imgur.com/HCfry0o.gif" width="80%"></p>
 
 
-### 2. Download 
+### 2. **Download**
 
 This function enables you to save documents directly to your devices
 
 <p align="center"><img src="https://i.imgur.com/TYc9Qxv.png" width="80%"></p>
 
-### 3. Edit 
+### 3. **Edit**
 
 This function prompts a dialog where you can edit the Document's title, change the visibility or add tags.
 
@@ -62,7 +62,7 @@ Once tags have been added to documents, users can filter their search results by
 
 ---
 
-### 4. Delete 
+### 4. **Delete**
 
 This function removes the document from your system
 
@@ -81,11 +81,12 @@ This function facilitates collaboration by allowing you to easily share document
 
 There are three Statuses a document can have:
 
-|Status|Description| 
+|Status|Beschreibung| 
 |:---|:---- | 
-| <span style="color:#818589">**PROCESSING**</span> |The document(s) have been uploaded and extracted to the knowledge base| 
-| <span style="color:darkgreen">**EXTRACTED**</span>  | The document(s) are currently being uploaded     |
-|  <span style="color:red">**FAILED**</span>  | The documents have failed to upload        |
+| <span style="color:#818589">**VERARBEITUNG**</span> |Die Dokumente werden derzeit hochgeladen.| 
+| <span style="color:#00008B"> **HOCHGELADEN** </span>  |Die Dokumente wurden hochgeladen.|
+| <span style="color:darkgreen">**EXTRAHIERT**</span>  |Die Dokumente wurden hochgeladen und in die Wissensdatenbank extrahiert.|
+|  <span style="color:red">**FEHLER**</span>  |Die Dokumente konnten nicht hochgeladen werden.|
 
 
 
