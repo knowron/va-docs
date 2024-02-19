@@ -2,6 +2,8 @@
 
 Dokumente, die sich auf Ihr Produkt oder Ihre Produktlinie beziehen, repräsentieren eine der Inhaltskomponenten, die die Wissensdatenbank des Produkts bilden. Als Editor oder Administrator können Sie ein einzelnes Dokument oder einen gesamten Ordner hochladen.
 
+Hier sehen Sie, welche Arten von Dateien unterstützt werden [hier](documents.md#Dateitypen).
+
 ![Dokumentendiagramm](https://i.imgur.com/QrtEaVR.png)
 
 !!! Tipp 
@@ -9,19 +11,19 @@ Dokumente, die sich auf Ihr Produkt oder Ihre Produktlinie beziehen, repräsenti
 
 ## Aktionen
 
-### 1. Vorschau
+### 1. **Vorschau**
 
 Diese Funktion vereinfacht den Zugriff auf das Dokument, indem es in einem Schiebefenster geöffnet wird. Diese Funktion ermöglicht es Ihnen, das Dokument bequem vorab anzuzeigen und zu lesen.
 
 <p align="center"><img src="https://i.imgur.com/HCfry0o.gif" width="80%"></p>
 
-### 2. Herunterladen
+### 2. **Herunterladen**
 
 Diese Funktion ermöglicht es Ihnen, Dokumente direkt auf Ihre Geräte herunterzuladen.
 
 <p align="center"><img src="https://i.imgur.com/TYc9Qxv.png" width="80%"></p>
 
-### 3. Bearbeiten
+### 3. **Bearbeiten**
 
 Diese Funktion öffnet einen Dialog, in dem Sie den Titel des Dokuments bearbeiten, die Sichtbarkeit ändern oder Tags hinzufügen können.
 
@@ -60,13 +62,13 @@ Nachdem Tags zu Dokumenten hinzugefügt wurden, können Benutzer ihre Suchergebn
 
 ---
 
-### 4. Löschen
+### 4. **Löschen**
 
 Diese Funktion entfernt das Dokument aus Ihrem System.
 
 <p align="center"><img src="https://i.imgur.com/stBe7FW.gif" width="100%"></p>
 
-### 5. Teilen
+### 5. **Teilen**
 
 Diese Funktion erleichtert die Zusammenarbeit, indem Sie Dokumente einfach mit Ihren Kollegen teilen können. Für weitere Informationen zu den Berechtigungen besuchen Sie [Link Sharing](linksharing).
 <p align="center"><img src="https://i.imgur.com/HDEov7H.png" width="80%"></p>

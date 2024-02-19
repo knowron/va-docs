@@ -1,6 +1,8 @@
 # Documents
 
-Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor or Admin, you can upload one single document or an entire folder.
+Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor or Admin, you can upload one single file or an entire folder. 
+
+See here what types of files are supported [here](documents.md#FileTypes)
 
 ![Documents Diagram](https://i.imgur.com/QrtEaVR.png)
 
@@ -72,8 +74,7 @@ This function removes the document from your system
 <p align="center"><img src="https://i.imgur.com/stBe7FW.gif" width="100%"></p>
 
 
-
-### 5. Share 
+### 5. **Share** 
 
 This function facilitates collaboration by allowing you to easily share documents with your colleagues. For my details about permissions, check out [Link Sharing](linksharing).
 
