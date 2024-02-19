@@ -73,10 +73,75 @@ Diese Funktion erleichtert die Zusammenarbeit, indem Sie Dokumente einfach mit I
 
 ## **Status**
 
-Ein Dokument kann drei Status haben:
+Ein Dokument kann vier Status haben:
 
 |Status|Beschreibung| 
 |:---|:---- | 
-| <span style="color:#818589">**VERARBEITUNG**</span> |Die Dokumente wurden hochgeladen und in die Wissensdatenbank extrahiert| 
-| <span style="color:darkgreen">**EXTRAHIERT**</span>  | Die Dokumente werden derzeit hochgeladen     |
-|  <span style="color:red">**FEHLER**</span>  | Die Dokumente konnten nicht hochgeladen werden        |
+| <span style="color:#818589">**VERARBEITUNG**</span> |Die Dokumente werden derzeit hochgeladen.| 
+| <span style="color:#00008B"> **HOCHGELADEN** </span>  |Die Dokumente wurden hochgeladen.|
+| <span style="color:darkgreen">**EXTRAHIERT**</span>  |Die Dokumente wurden hochgeladen und in die Wissensdatenbank extrahiert.|
+|  <span style="color:red">**FEHLER**</span>  |Die Dokumente konnten nicht hochgeladen werden.|
+
+## **Dateitypen**
+
+Wir haben unser System erweitert, um eine breite Palette von Dateitypen für den Upload zu unterstützen. Werfen Sie einen Blick auf die Liste unten, um zu sehen, welche Typen jetzt unterstützt werden:
+
+|Erweiterung|Dateitypen|
+|-------|----------|
+|.aac|AAC audio|
+|.apng|Animated Portable Network Graphics (APNG) image|
+|.arc|Archive document (multiple files embedded)|
+|.avif|AVIF image|
+|.avi|AVI: Audio Video Interleave|
+|.azw|Amazon Kindle eBook format|
+|.bmp|Windows OS/2 Bitmap Graphics|
+|.css| Cascading Style Sheets (CSS)|
+|.csv|Comma-separated values (CSV)|
+|.doc|Microsoft Word|
+|.docx|Microsoft Word (OpenXML)|
+|.eot|MS Embedded OpenType fonts|
+|.epub|Electronic publication (EPUB)|
+|.gif|Graphics Interchange Format (GIF)|
+|.htm, .html|HyperText Markup Language (HTML)|
+|.ico|Icon format|
+|.jar|Java Archive (JAR)|
+|.jpeg, .jpg|JPEG images|
+|.jsonld|JSON-LD format|
+|.mid, .midi|Musical Instrument Digital Interface (MIDI)|
+|.mp3|MP3 audio|
+|.mp4|MP4 video|
+|.mpeg|MPEG Video|
+|.mpkg, .pkg|Apple Installer Package|
+|.odp|OpenDocument presentation document|
+|.ods|OpenDocument spreadsheet document|
+|.odt|OpenDocument text document|
+|.oga|OGG audio|
+|.ogv|OGG video|
+|.ogx|OGG|
+|.opus|Opus audio|
+|.otf|OpenType font|
+|.png|Portable Network Graphics|
+|.pdf|Adobe Portable Document Format (PDF)|
+|.ppt|Microsoft PowerPoint|
+|.pptx|Microsoft PowerPoint (OpenXML)|
+|.rtf|Rich Text Format (RTF)|
+|.svg|Scalable Vector Graphics (SVG)|
+|.tif, .tiff|Tagged Image File Format (TIFF)|
+|.ts|MPEG transport stream|
+|.ttf|TrueType Font|
+|.txt|Text, (generally ASCII or ISO 8859-n)|
+|.vsd, .vsdx|Microsoft Visio|
+|.wav|Waveform Audio Format|
+|.weba|WEBM audio|
+|.webm|WEBM video|
+|.webp|WEBP image|
+|.woff|Web Open Font Format (WOFF)|
+|.woff2|Web Open Font Format (WOFF)|
+|.xhtml|XHTML|
+|.xls|Microsoft Excel|
+|.xlsx|Microsoft Excel (OpenXML)|
+|.xml|XML|
+|.3gp|3GPPaudio/video container|
+|.3g2|3GPP2audio/video container|
+|.zip|winrar, 7zip|
+|.rar|winrar, 7zip|
