@@ -92,7 +92,6 @@ Wir haben unser System erweitert, um eine breite Palette von Dateitypen für den
 |-------|----------|
 |.aac|AAC audio|
 |.apng|Animated Portable Network Graphics (APNG) image|
-|.arc|Archive document (multiple files embedded)|
 |.avif|AVIF image|
 |.avi|AVI: Audio Video Interleave|
 |.azw|Amazon Kindle eBook format|
@@ -113,7 +112,6 @@ Wir haben unser System erweitert, um eine breite Palette von Dateitypen für den
 |.mp3|MP3 audio|
 |.mp4|MP4 video|
 |.mpeg|MPEG Video|
-|.mpkg, .pkg|Apple Installer Package|
 |.odp|OpenDocument presentation document|
 |.ods|OpenDocument spreadsheet document|
 |.odt|OpenDocument text document|
@@ -145,5 +143,3 @@ Wir haben unser System erweitert, um eine breite Palette von Dateitypen für den
 |.xml|XML|
 |.3gp|3GPPaudio/video container|
 |.3g2|3GPP2audio/video container|
-|.zip|winrar, 7zip|
-|.rar|winrar, 7zip|

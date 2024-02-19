@@ -101,7 +101,6 @@ We've expanded our system to support a wide range of file types for upload. Take
 |-------|----------|
 |.aac|AAC audio|
 |.apng|Animated Portable Network Graphics (APNG) image|
-|.arc|Archive document (multiple files embedded)|
 |.avif|AVIF image|
 |.avi|AVI: Audio Video Interleave|
 |.azw|Amazon Kindle eBook format|
@@ -115,14 +114,12 @@ We've expanded our system to support a wide range of file types for upload. Take
 |.gif|Graphics Interchange Format (GIF)|
 |.htm, .html|HyperText Markup Language (HTML)|
 |.ico|Icon format|
-|.jar|Java Archive (JAR)|
 |.jpeg, .jpg|JPEG images|
 |.jsonld|JSON-LD format|
 |.mid, .midi|Musical Instrument Digital Interface (MIDI)|
 |.mp3|MP3 audio|
 |.mp4|MP4 video|
 |.mpeg|MPEG Video|
-|.mpkg, .pkg|Apple Installer Package|
 |.odp|OpenDocument presentation document|
 |.ods|OpenDocument spreadsheet document|
 |.odt|OpenDocument text document|
@@ -154,8 +151,6 @@ We've expanded our system to support a wide range of file types for upload. Take
 |.xml|XML|
 |.3gp|3GPPaudio/video container|
 |.3g2|3GPP2audio/video container|
-|.zip|winrar, 7zip|
-|.rar|winrar, 7zip|
 
 
 
