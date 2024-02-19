@@ -2,7 +2,7 @@
 
 Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor or Admin, you can upload one single file or an entire folder. 
 
-See here what types of files are supported [here](documents.md#file-types)
+See here what types of files are supported [here](documents.md#file-types).
 
 ![Documents Diagram](https://i.imgur.com/QrtEaVR.png)
 
