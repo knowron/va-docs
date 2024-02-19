@@ -2,7 +2,7 @@
 
 Dokumente, die sich auf Ihr Produkt oder Ihre Produktlinie beziehen, repräsentieren eine der Inhaltskomponenten, die die Wissensdatenbank des Produkts bilden. Als Editor oder Administrator können Sie ein einzelnes Dokument oder einen gesamten Ordner hochladen.
 
-Hier sehen Sie, welche Arten von Dateien unterstützt werden [hier](documents.md#Dateitypen).
+Hier sehen Sie, welche Arten von Dateien unterstützt werden [hier](documents.de.md#dateitypen).
 
 ![Dokumentendiagramm](https://i.imgur.com/QrtEaVR.png)
 
