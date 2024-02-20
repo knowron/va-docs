@@ -7,7 +7,7 @@ Hier sehen Sie, welche Arten von Dateien unterstützt werden [hier](documents.de
 ![Dokumentendiagramm](https://i.imgur.com/QrtEaVR.png)
 
 !!! Tipp 
-    Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden. Zusätzlich können Sie nach Ihren hochgeladenen Dokumenten basierend auf dem Namen oder Titel suchen.
+    Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden.
 
 ## Aktionen
 

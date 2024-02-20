@@ -8,8 +8,8 @@ See here what types of files are supported [here](documents.md#file-types).
 
 
 !!! tip 
-    Documents can be uploaded as a single file or an entire folder. Additionally you can search for your uploaded documents based on name or title.
-
+    Documents can be uploaded as a single file or an entire folder.
+    
 ## Actions
 
 ### 1. **Preview** 
