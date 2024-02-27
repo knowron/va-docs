@@ -37,6 +37,7 @@ plugins:
       languages:
         en: English
         de: Deutsch
+        zh: 中文
 markdown_extensions:
   - admonition
   - pymdownx.details
