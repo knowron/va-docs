@@ -41,11 +41,19 @@ Jedes Dokument wird standardmäßig mit dem Datum markiert, an dem es im System 
 
 #### **Sichtbarkeit**
 
+<<<<<<< Updated upstream
 Wenn Sie die Sichtbarkeit der Dokumente auf **Privat** setzen, sind sie nur für Benutzer Ihrer Organisation sichtbar. **Öffentliche** Dokumente können von jedem gesehen werden, der Zugriff auf die Produktlinie hat, zu der sie gehören.
+=======
+![Tags]( https://i.imgur.com/0qLxYwh.png)
+>>>>>>> Stashed changes
 
 ![Tag hinzufügen](https://i.imgur.com/i475uTD.png)
 
+<<<<<<< Updated upstream
 #### **Tags**
+=======
+![Add tag](https://i.imgur.com/DRUKkNT.jpg)
+>>>>>>> Stashed changes
 
 Das Hinzufügen von Tags zu einem Dokument ist eine Möglichkeit, es mit relevanten Schlüsselwörtern oder Phrasen zu kategorisieren oder zu kennzeichnen, die den Inhalt beschreiben. Tags erleichtern das Auffinden bestimmter Dokumente, indem sie die Suche basierend auf diesen Tags filtern. Editoren und Administratoren können Tags erstellen, indem sie den Namen des Tags, den Sie in der Tags-Leiste im Dialogfeld `Metadaten bearbeiten` erstellen möchten, eingeben.
 

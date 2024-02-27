@@ -4,6 +4,11 @@ Hallo! Auf dieser Seite versuchen wir, Sie über alle neuen Funktionen und Ände
 
 Besuchen Sie die Unterseiten, um mehr zu erfahren!
 
+## 2024
+
+- [Product Update Virtual Assist Web v1.18.0](2024/product_update_control_suite_v1.19.0.de.md)
+- [Product Update Virtual Assist App v1.10.0](2024/product_update_native_assistant_v1.10.0.de.md)
+
 ## 2023
 
 - [Produktupdate V1.18.0](2023/v1.18.0.de.md)

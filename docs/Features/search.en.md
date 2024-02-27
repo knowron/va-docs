@@ -22,7 +22,28 @@ The results of your query are prioritized by relevancy and then recency. That is
 
 !!! information "**Translated Results** "
       The automated translation will be indicated by the following tag and banner:
+<<<<<<< Updated upstream:docs/Features/search.md
       <p align="center"><img src="https://i.imgur.com/YegCmA4.png" width="80%"></p>
+=======
+      <p align="center"><img src="https://i.imgur.com/SpsQqvY.png" width="100%"></p>
+
+
+Results of a search query are marked with tags indicating the original language of the content, as well as from where the answer was extracted: **documents**, **tutorials**, or **articles**.
+
+![Diagramm](https://i.imgur.com/CD1u49W.png)
+
+### **Verified results** 
+
+A verified result indicates that this particular answer to the search query you performed has been marked by an Admin or Editor from your organization as being correct.
+
+![Verified Answer](https://i.imgur.com/ox2ah0e.png) 
+
+### **Extracted Answer** 
+
+Extracted answers are your responses to your query, formulated as a question with a clear, direct answer. As seen below, asking, `What is the torque for a CPP head?` gives the direct definition of PLA in bold text for better visualization. 
+
+![Extracted Answer](https://i.imgur.com/GEniWOM.png) 
+>>>>>>> Stashed changes:docs/Features/search.en.md
 
 
 Results of a search query are marked with tags indicating the original language of the content, as well as from where was the answer extracted: [documents](documents),  [tutorials](tutorials) or [articles](articles).

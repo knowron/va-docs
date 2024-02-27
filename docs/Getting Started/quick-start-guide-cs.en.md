@@ -2,13 +2,23 @@
 
 This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
+<<<<<<< Updated upstream
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"></p>
+=======
+<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
+>>>>>>> Stashed changes
 
 ---
 
 ## Step 1. Log into the Virtual Assist Web
 
+<<<<<<< Updated upstream
 The Virtual Assist Web is accessible under: [Visit the Virtual Assist Web](https://virtualassist.smt.asmpt.com/){ .md-button }
+=======
+The Virtual Assist Web is accessible under [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com/).
+
+[Visit the Virtual Assist Web](https://virtualassist.smt.asmpt.com/){ .md-button }
+>>>>>>> Stashed changes
 
 You only need your email and your ASMPT Virtual Assist password to log onto the system. Your **email** is normally your work email. You can find your **password** in the email you received inviting you to join your organization on ASMPT Virtual Assist (see below).
 
@@ -80,10 +90,18 @@ Clicking on `Results not helpful` will trigger a window that allows you to speci
  <p align="center"><img src="https://i.imgur.com/FRdYNgK.png" width="80%"></p>
 
 
+<<<<<<< Updated upstream
 You have the option to choose from the checkboxes provided by our team and/or add your own thoughts regarding the results to your query, suggesting ways for improvement. Our team will get back to you as soon as possible with a solution.
+=======
+A thumbs-up takes less than a second and it lets your colleagues know that this will be helpful to them too if they face a similar question. ASMPT Virtual Assist's algorithm will also take it into account: more thumbs-up reactions mean that this result will appear higher in search results in the future.
+>>>>>>> Stashed changes
 
  <p align="center"><img src="https://i.imgur.com/jiemEwq.png" width="80%"></p>
 
+<<<<<<< Updated upstream
+=======
+Sometimes, ASMPT Virtual Assist will not find a suitable answer - or the answer might be slightly off. This can happen particularly due to a very broad query or missing data.
+>>>>>>> Stashed changes
 
 **Downvoting the Generative Answer**
 

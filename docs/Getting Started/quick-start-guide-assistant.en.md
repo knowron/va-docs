@@ -2,11 +2,19 @@
 
 This page will guide you through all you need to know to start using the **ASMPT Virtual Assist**. If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
 
+<<<<<<< Updated upstream
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"></p>
 
 ---
 
 ## **Step 1. Download the Virtual Assist App**
+=======
+<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
+
+---
+
+## Step 1. Download the Virtual Assist App
+>>>>>>> Stashed changes
 
 The assistant is available for both Android and Apple devices in their respective app stores. They are free of charge to download. Simply click on the links below or scan them with your phone.
 
@@ -16,7 +24,11 @@ The assistant is available for both Android and Apple devices in their respectiv
 
 Once you've downloaded the app, simply open it.
 
+<<<<<<< Updated upstream
 ## **Step 2. Log into the Virtual Assist App**
+=======
+## Step 2. Log into the Virtual Assist App
+>>>>>>> Stashed changes
 
 Once you open the Virtual Assist App, you will see the log in screen (see below).
 
@@ -129,7 +141,12 @@ Sometimes, ASMPT Virtual Assist will not find a suitable answer - or the answer 
 
 If you find that the search results are not helping you in the way that you need, you can click on `Results not helpful` at the top of the search results and give us details on what you were expecting (see below).
 
+<<<<<<< Updated upstream
 <p align="center"><img src="https://i.imgur.com/nTcK9ed.gif
 "width="50%"></p>
+=======
+<p align="center"><img src="https://i.imgur.com/nTcK9ed.gif
+" width="70%"></p>
+>>>>>>> Stashed changes
 
 Your colleagues with an editor role, mostly from first-level support or hotline duty will act on your feedback and make sure that the information you need is available to you and your colleagues.

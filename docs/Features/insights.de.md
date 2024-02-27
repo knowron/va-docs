@@ -10,7 +10,11 @@ Durch interaktive Visualisierungen und detaillierte Analysen ermöglicht das Ein
 
 Die Hauptseite des Dashboards beantwortet diese Frage, indem sie den Prozentsatz der beantworteten Fragen, die Gesamtanzahl der Suchen und das eingereichte Nutzerfeedback anzeigt.
 
+<<<<<<< Updated upstream
 ### Wie entwickelt sich mein System im Laufe der Zeit?
+=======
+<p align="center"><img src="https://i.imgur.com/Vo6AOmh.png" width="70%"></p>
+>>>>>>> Stashed changes
 
 Die beiden Diagramme in diesem Abschnitt zeigen Ihnen den Prozentsatz der beantworteten Fragen, d. h. die Fragen, für die ein Benutzer eine generierte Antwort von unserem System sieht. Eine höhere Zahl deutet oft auf ein System hin, das in der Lage ist, Benutzern die benötigten Informationen zu liefern - wir empfehlen, einen Benchmark von etwa 75% anzustreben.
 
@@ -50,7 +54,11 @@ Der `Status` gibt an, ob eine Antwort zum Nutzerfeedback hinzugefügt wurde.
 
 Expertenantworten: Eine der Hauptänderungen, die wir eingeführt haben, ist eine völlig neue Möglichkeit, Benutzerfragen direkt und einfach zu beantworten.
 
+<<<<<<< Updated upstream
 <p align="center"><img src="https://i.imgur.com/RYrP58D.gif" width="80%"></p>
+=======
+<p align="center"><img src="https://i.imgur.com/LbSI8kV.gif" width="100%"></p>
+>>>>>>> Stashed changes
 
 Immer wenn ein Benutzer ein Feedback zu der Antwort abgibt, die er erhalten hat, oder den Suchergebnissen vor sich, wird ein neues Feedback-Element erstellt. Sie können diese Feedback-Elemente (oder unbeantwortete Fragen, siehe oben) mit einer Expertenantwort beantworten.
 
@@ -58,6 +66,10 @@ Expertenantworten sind die beste Möglichkeit, Lücken in Ihrer Wissensdatenbank
 
 Expertenantworten verhalten sich ähnlich wie Artikel: Sie können schnell Informationen schreiben und Bilder oder Links daran anhängen. Die Expertenantwort wird auch in der Suche wie andere Quellen angezeigt, wird aber für die Anfrage, auf die sie ursprünglich geantwortet hat, mit Priorität behandelt.
 
+<<<<<<< Updated upstream
 <p align="center"><img src="https://i.imgur.com/ZpPo2JN.gif" width="90%"></p>
+=======
+<p align="center"><img src="https://i.imgur.com/ZpPo2JN.gif" width="70%"></p>
+>>>>>>> Stashed changes
 
 Expertenantworten können auch Quellen enthalten, die den Benutzer auf andere Artikel oder Dokumente verweisen, die ihm bei der Suche nach einem bestimmten Wert oder Datenpunkt helfen könnten. Beachten Sie, dass die öffentliche Sichtbarkeit einer Expertenantwort je nach den angehängten Quellen variieren kann: Expertenantworten mit privaten Quellen sind automatisch privat!

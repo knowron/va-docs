@@ -3,7 +3,11 @@
 ## How do I get a quick start on the platform?
  - The first step is to go to [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com//productLines) and put the credentials you received via email. 
 
+<<<<<<< Updated upstream:docs/faqs.en.md
 <p align="center"><img src="https://i.imgur.com/kgHm6uz.png" width="40%"></p>
+=======
+The first step is to go to [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com//productLines) and put the credentials you received via email. 
+>>>>>>> Stashed changes:docs/faq.en.md
 
  - After successfully logging in, you will be taken to the products page. You need to create a product, where the documents you upload will be linked.
 
@@ -11,7 +15,11 @@
 
 - Once it is created, you will be redirected to the [Search Page](search.md) and all of the ASMPT Virtual Assist functionalities will be available to you. 
 
+<<<<<<< Updated upstream:docs/faqs.en.md
 <p align="center"><img src="https://i.imgur.com/DK6n4aa.png" width="80%"></p>
+=======
+Once it is created, the tools bar will be expanded with the various functions we offer at ASMPT Virtual Assist. 
+>>>>>>> Stashed changes:docs/faq.en.md
 
  - To upload the files you want to extract, go to documents and upload the files you want to work with.
 
@@ -64,7 +72,17 @@ For mobile, you have to go to the settings of the application on the top right, 
 
 <p align="center"><img src="https://i.imgur.com/CLHcaIs.png" width="30%"></p>
 
+<<<<<<< Updated upstream:docs/faqs.en.md
 ## How do I download a document I have uploaded?
+=======
+## How do I download a document I have uploaded? Subheader from documentation
+
+You need to create a product, where the documents you upload will be linked.
+
+![Machine Selection](https://i.imgur.com/x1TJRP4.png)
+
+Once it is created, the tools bar will be expanded with the various functions we offer at ASMPT Virtual Assist. 
+>>>>>>> Stashed changes:docs/faq.en.md
 
 Downloading a document can be done by accessing the Actions panel within the table and selecting the **Download** option, whether from the `All Documents` tab or the `Documents` tab.
 
@@ -83,5 +101,9 @@ In case you forgot your password, please select the option for this case on the 
  
 Here, please put the email from the account you want to recover, and we will send a one-time password for you to gain access to your account again and set a new password.
 
+<<<<<<< Updated upstream:docs/faqs.en.md
 <p align="center"><img src="https://i.imgur.com/10hlFfM.png" width="50%"></p>
+=======
+<p align="center"><img src="https://i.imgur.com/10hlFfM.png" width="70%"></p>
+>>>>>>> Stashed changes:docs/faq.en.md
 

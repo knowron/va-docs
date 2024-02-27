@@ -49,6 +49,10 @@ The feedback feature helps editors to respond to user feedback and contribute ex
 
 <p align="center"><img src="https://i.imgur.com/GsuoKLV.png" width="100%"></p>
 
+<<<<<<< Updated upstream:docs/Features/insights.md
+=======
+<p align="center"><img src="https://i.imgur.com/LbSI8kV.gif" width="80%"></p>
+>>>>>>> Stashed changes:docs/Features/insights.en.md
 
 The editing page allows for inclusion of detailed answers and also facilitates the attachment of relevant sources such as [articles](articles), [documents](documents), and [tutorials](tutorials) to enhance the credibility of the response.
 
