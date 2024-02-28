@@ -1,12 +1,13 @@
 # ASMPT Virtual Assist Virtual Assist Web 管理员快速入门指南
 
-此页面将指导您完成开始使用 **ASMPT Virtual Assist Virtual Assist Web** 所需的所有信息。如果您需要任何问题或支持，[请直接与我们联系]（https://smt.asmpt.com/en/products/software-solutions/virtual-assist）！
+此页面将指导您完成开始使用 **ASMPT Virtual Assist Virtual Assist Web** 所需的所有信息。如果您需要任何问题或支持，[请直接与我们联系](https://smt.asmpt.com/en/products/software-solutions/virtual-assist）！
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 
 ---
 
 ## <span style=“color：#ac3229”>**产品线** </span>
+
 登录后，您将看到您的主要组织或您的管理员或编辑同事添加的产品线的概述。
 
 **产品线** 代表您的组织支持的机器、工厂或流程，您每天使用这些机器、工厂或流程。产品线为ASMPT虚拟助手系统提供了背景信息，即您问的问题是什么？
@@ -18,8 +19,8 @@
 <p align="center"><img src="https://i.imgur.com/fmzx7Zo.gif" width="90%"></p>
 
 
-!!!提示
-您可以稍后编辑显示名称或为新创建的产品线添加（新）图片。
+!!! tip
+    您可以稍后编辑显示名称或为新创建的产品线添加（新）图片。
 
 
 #### <span style=“color：#172B4D”>**发布还是不发布？</span>
@@ -80,13 +81,14 @@
 
 ---
 ## <span style=“color：#ac3229”>**文章** </span>
+
 文章允许您（管理员）创建自由格式的内容。虽然教程是结构化的，并且有自己的特定目的，但文章允许您编写任何内容，从常见问题到常见问题解决方案，以解决常见问题。文章可以链接到知识库中的任何其他内容。
 
 
 <p align="center"><img src="https://i.imgur.com/69qg47i.gif" width="70%"></p>
 
-!!!提示“您想了解更多关于文章的信息吗？
-如果您想了解更多关于如何创建、编辑或删除文章的信息，请单击此处。
+!!! tip “您想了解更多关于文章的信息吗？
+    如果您想了解更多关于如何创建、编辑或删除文章的信息，请单击此处。
 ---
 
 ## <span style=“color：#ac3229”>**用户管理** <span>
@@ -97,8 +99,8 @@
 选择后，您可以通过单击“添加单个用户”按钮来选择添加单个用户。提供其名字和姓氏、电子邮件地址和角色后，用户将收到一封包含登录凭据的邀请电子邮件。
 
 
-!!!提示
-有关ASMPT虚拟助手平台上提供的角色和权限的详细说明，请参见[此处]（../Admin Documentation/Security and Access/roles_and_permissions.md）
+!!! tip
+    有关ASMPT虚拟助手平台上提供的角色和权限的详细说明，请参见[此处]（../Admin Documentation/Security and Access/roles_and_permissions.md）
 
 
 您可以通过单击“从文件添加”按钮来选择一次添加多个用户。为了方便您，我们添加了一个下载的模板，可以填写用户信息并上传到“用户文件上传”对话框中。
