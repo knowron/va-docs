@@ -51,7 +51,6 @@ Setting the Documents' visibility to **Private** would make them visible to user
 
 Adding tags to a document is a way to categorize or label it with relevant keywords or phrases that describe its content. Tags make it easier to find specific documents by filtering their search based on those tags. Editors and Admins can create tags by typing in the name of the tag you wish to create in the Tags bar from the `Edit Metadata` dialog.
 
-<<<<<<< Updated upstream:docs/Features/documents.md
 
 <p align="center"><img src=" https://i.imgur.com/0qLxYwh.png" width="80%"></p>
 
@@ -60,13 +59,6 @@ If a tag already exists, either previously created by you or your collegues it w
 
 
 <p align="center"><img src="https://i.imgur.com/DRUKkNT.jpg" width="80%"></p>
-=======
-![Tags]( https://i.imgur.com/0qLxYwh.png)
-
-If a tag already exists, either previously created by you or your collegues it will be displyed in the list and can be selected and added to the document's tags. 
-
-![Add tag](https://i.imgur.com/DRUKkNT.jpg)
->>>>>>> Stashed changes:docs/Features/documents.en.md
 
 Once tags have been added to documents, users can filter their search results by selecting one or more tags. This will show them only the documents that match the selected tags, making it easier to find what they are looking for. Tags can also be used to group similar documents together, providing a more organized and efficient way to access information.
 

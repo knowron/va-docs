@@ -1,8 +1,8 @@
 # 角色和权限
 
-!!!提示“需要更多选择？和我们谈谈！
+!!! tip “需要更多选择？和我们谈谈！
 
-ASMPT Virtual Assist的系统旨在为企业客户提供最大的模块化。如果您需要其他角色或一组不同的权限，请告诉我们 - 只需联系 [我们]（https://smt.asmpt.com/en/products/software-solutions/virtual-assist）。
+    ASMPT Virtual Assist的系统旨在为企业客户提供最大的模块化。如果您需要其他角色或一组不同的权限，请告诉我们 - 只需联系 [我们](https://smt.asmpt.com/en/products/software-solutions/virtual-assist）。
 
 ASMPT虚拟助手允许您选择每个用户获得的功能和访问权限。一些用户，例如年轻的同事，将主要**消费**信息，而更有经验的用户将**创建和策划**大量信息。
 
@@ -22,9 +22,9 @@ ASMPT虚拟助手允许您选择每个用户获得的功能和访问权限。一
 
 他们可以读取和写入系统中的所有内容，并可以决定其他用户可以看到的内容。
 
-!!!警告“能力越大，责任越大”
+!!! warning “能力越大，责任越大”
 
-管理员有权访问所有组件和潜在的敏感数据。确保您信任您成为管理员的人！
+    管理员有权访问所有组件和潜在的敏感数据。确保您信任您成为管理员的人！
 
 
 |                      |创建 |编辑 |删除 |查看 |
@@ -76,10 +76,10 @@ ASMPT虚拟助手允许您选择每个用户获得的功能和访问权限。一
 
 ## 如何更改用户角色
 
-!!!警告“只有管理员才能执行此操作”
+!!! warning “只有管理员才能执行此操作”
 
-默认情况下，只有管理员才能更改其他用户的角色。如果您不是管理员，并且需要更改角色，请联系您的经理。
+    默认情况下，只有管理员才能更改其他用户的角色。如果您不是管理员，并且需要更改角色，请联系您的经理。
 
-<p align=“center”>
-<iframe width=“560” height=“315” src=“https://www.youtube.com/embed/vvCPLvc_bmM” title=“编辑用户角色” frameborder=“0” allow=“加速度计; 自动播放; 剪贴板写入; 加密媒体; 陀螺仪; 画中画” allowfullscreen></iframe>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vvCPLvc_bmM" title="Editing users' roles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

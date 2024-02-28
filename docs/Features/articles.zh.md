@@ -6,6 +6,7 @@
 
 作为具有“**管理员**”或“**编辑**”角色的用户，您可以创建、编辑或删除文章。
 要创建文章，您所要做的就是单击“创建”按钮，系统将提示打开“文章”对话框。
+
 <p align="center"><img src="https://i.imgur.com/1HSh18N.gif" width="100%"></p>
 
 我们提供两种创建内容的选项。您可以使用我们的预制模板（称为“错误/解决方案模板”），也可以从头开始创建自己的内容。
@@ -25,25 +26,25 @@
 
 <p align="center"><img src="https://i.imgur.com/bdKqUUW.png" width="100%"></p>
 
-### 1.预览
+### 1. 预览
 
 此功能通过在滑动选项卡中打开文章来简化文章访问。此功能可让您方便地预览和阅读文章。
 
 <p align="center"><img src="https://i.imgur.com/TW6MyCM.gif" width="100%"></p>
 
-### 2.编辑
+### 2. 编辑
 
 此功能会提示一个对话框，您可以在其中编辑文章的文本、更改可见性和添加标签。
 
 <p align="center"><img src="https://i.imgur.com/5ZTiBqo.png" width="100%"></p>
 
-### 3.删除
+### 3. 删除
 
 此函数从系统中删除文章
 
 <p align="center"><img src="https://i.imgur.com/8fW8IPR.png" width="100%"></p>
 
-### 4.共享
+### 4. 共享
 
 此功能允许您轻松地与同事共享文章，从而促进协作。有关权限的详细信息，请查看[链接共享]（链接共享）。
 

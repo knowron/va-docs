@@ -1,6 +1,6 @@
 # 快速入门指南：Virtual Assist 应用（移动端）
 
-此页面将指导您完成开始使用 **ASMPT Virtual Assist** 所需的所有知识。如果您需要任何问题或支持，[请直接与我们联系]（https://smt.asmpt.com/en/products/software-solutions/virtual-assist）！
+此页面将指导您完成开始使用 **ASMPT Virtual Assist** 所需的所有知识。如果您需要任何问题或支持，[请直接与我们联系](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)！
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"></p>
 
@@ -26,7 +26,7 @@
 
     <p align="center"><img src="https://i.imgur.com/QKwIRJ3.png" width="100%"><figcaption>This is where you find your password in the invitation email.</figcaption></p>
 
-如果您忘记了密码，可以在 [virtualassist.smt.asmpt.com]（https://virtualassist.smt.asmpt.com/） 上重置密码。只需单击“忘记密码”，然后按照屏幕上的说明进行操作。
+如果您忘记了密码，可以在[virtualassist.smt.asmpt.com]https://virtualassist.smt.asmpt.com/)上重置密码。只需单击“忘记密码”，然后按照屏幕上的说明进行操作。
 
 如果您没有收到邀请您加入 ASMPT Virtual Assist 的电子邮件，请联系正在使用它的同事或 [在此处请求访问权限]（https://smt.asmpt.com/en/products/software-solutions/virtual-assist）。
 
@@ -78,8 +78,7 @@
 
 结果如下图所示。
 
-<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif
-“ 宽度=”300“></p>
+<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif"width="60%"></p>
 
 ---
 
@@ -88,7 +87,7 @@
 只要有可能，我们就会直接从您的文档中向您展示答案。如果要更深入地研究，可以使用“**搜索屏幕**”上提供的筛选器和其他功能。点击虚拟助手应用程序面板上的“查看更多结果”或从主屏幕中选择“搜索”图标。
 
 <p align="center"><img src="https://i.imgur.com/HOBy2VG.gif
-“ 宽度=”300“></p>
+" width="60%"></p>
 
 我们可以向您展示以下资源的结果：
 
@@ -96,15 +95,13 @@
 -教程
 -文章
 
-将来，我们还将能够向您展示机器日志的结果等等！
+!!! tip "问问题会带来更好的结果。"
 
-!!!提示“提出问题会给你带来更好的结果”
+    ASMPT虚拟助理采用最先进的自然语言处理技术，以理解您要寻找的内容并呈现最相关的结果。如果您将查询形式化为一个问题，它将会带来更好的结果。
 
-ASMPT Virtual Assist 使用最先进的 NLP 来了解您正在寻找的内容并提出最相关的结果。如果将查询表述为**问题**，它将产生**更好的结果**。
+    > Example
 
->示例
-
-而不是“DP 驱动器 CP 20 P2”，而是询问“如何更换 CP 20 P2 上的 DP 驱动器？'
+    与其说DP drive CP 20 P2，不如问：“如何更换 CP 20 P2 上的 DP 驱动器？
 
 ---
 
@@ -119,7 +116,7 @@ ASMPT Virtual Assist 使用最先进的 NLP 来了解您正在寻找的内容并
 如果你发现一个对你有帮助的结果，你可以给它竖起大拇指（见下文）。
 
 <p align="center"><img src="https://i.imgur.com/ycSgnra.gif
-“ width=”70%“></p>
+" width="70%"></p>
 
 竖起大拇指只需不到一秒钟的时间，它会让您的同事知道，如果他们遇到类似的问题，这对他们也会有所帮助。ASMPT虚拟助手的算法也会考虑到这一点：更多的竖起大拇指的反应意味着这个结果在未来的搜索结果中会出现更高的位置。
 
@@ -130,6 +127,6 @@ ASMPT Virtual Assist 使用最先进的 NLP 来了解您正在寻找的内容并
 如果您发现搜索结果没有以您需要的方式为您提供帮助，您可以单击搜索结果顶部的“结果没有帮助”，并向我们提供有关您期望的详细信息（见下文）。
 
 <p align="center"><img src="https://i.imgur.com/nTcK9ed.gif
-“宽度=”50%“></p>
+"width="50%"></p>
 
 您担任编辑角色的同事（主要来自一级支持或热线职责）将根据您的反馈采取行动，并确保您和您的同事可以使用所需的信息。

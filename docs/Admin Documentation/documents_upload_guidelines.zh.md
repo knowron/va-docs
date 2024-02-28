@@ -2,7 +2,7 @@
 
 !!!成功
 
-我们一直在努力寻找更好的方法来阅读和理解您的文档和数据。不要犹豫，[联系我们的销售和支持 team](mailto:asm-support.df@asmpt.com），以探索诸如**光学字符识别（OCR）**，**表解析**和其他类似改进的可能性。
+我们一直在努力寻找更好的方法来阅读和理解您的文档和数据。不要犹豫，[联系我们的销售和支持 team](mailto:asm-support.df@asmpt.com)，以探索诸如**光学字符识别（OCR）**，**表解析**和其他类似改进的可能性。
 
 
 ## ASMPT Virtual Assist 如何利用 NLP 分析文档
@@ -41,4 +41,4 @@ NLP 构成了我们文档分析过程的支柱，使我们能够从广泛的文�
 
 ### 4.非 pdf 文档
 
-在事先与我们的支持团队达成协议后，我们目前支持非 pdf 文档。请再次联系 [我们的销售 team](mailto:asm-support.df@asmpt.com） 了解更多信息。
+在事先与我们的支持团队达成协议后，我们目前支持非 pdf 文档。请再次联系 [我们的销售 team](mailto:asm-support.df@asmpt.com）了解更多信息。

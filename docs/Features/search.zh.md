@@ -1,46 +1,27 @@
 # 搜索
 
 产品线代表您的组织支持的机器、工厂或流程，您每天使用这些机器、工厂或流程。产品线为ASMPT虚拟助手系统提供了背景信息，即您问的问题是什么？在开始搜索之前，您必须选择您感兴趣的产品线。您只需单击它，屏幕左侧的上下文菜单就会展开，您将被带到搜索屏幕。\
-搜索功能允许您在您或其他用户创建或上传的所有内容单元中询问有关整个产品线或特定机器的问题。这些内容单元以 [documents]（documents.md）、[教程]（tutorials.md）、[文章]（articles.md） 或 [expert answers]（insights.md#expert-answers） 的形式出现，因此我们可以为您的查询提供最有价值的结果。
+搜索功能允许您在您或其他用户创建或上传的所有内容单元中询问有关整个产品线或特定机器的问题。这些内容单元以 [文档](documents.zh.md),[教程](tutorials.zh.md), [文章](articles.zh.md） 或 [专家答案](insights.md#expert-answers） 的形式出现，因此我们可以为您的查询提供最有价值的结果。
 
 <p align="center"><img src="https://i.imgur.com/DxAwOmD.png" width="80%"></p>
 
 生成的响应是查询的随机结果，由列出的源支持。这表明同一查询的答案可能不会始终产生相同的结果。
 
-想了解更多关于 [AI 生成的答案]（answers.md）的信息吗？
+想了解更多关于 [AI 生成的答案](answers.zh.md）的信息吗？
 
 <p align=“center”><img src=“” width=“80%”></p>
 
-!!!提示“改善你的结果！
-如果你把你的问题表述成一个完整的句子如果末尾有“？”，则与简单查询相比，搜索结果会有所改善。
+!!! tip "改善你的结果
+      如果你把你的问题表述成一个完整的句子如果末尾有“？”，则与简单查询相比，搜索结果会有所改善。
 
 ---
 ## **搜索结果**
 
 查询结果的优先级按相关性和新近度排序。当结果的来源与查询使用不同的语言时，也适用此方法。简单地说，如果你用德语问一个问题，但找到答案的文档是英文的，结果将向你显示翻译后的文档，其中包含你的德语答案。
 
-!!!信息“**翻译结果** ”
+!!! information "**翻译结果**"
 自动翻译将由以下标签和横幅指示：
-<<<<<<< 更新了上游：docs/Features/search.md
       <p align="center"><img src="https://i.imgur.com/YegCmA4.png" width="80%"></p>
-=======
-      <p align="center"><img src="https://i.imgur.com/SpsQqvY.png" width="100%"></p>
-
-
-搜索查询的结果标有标记，这些标记指示内容的原始语言以及从中提取答案的位置：**文档**、**教程**或**文章**。
-
-![Diagramm](https://i.imgur.com/CD1u49W.png)
-
-### **已验证结果**
-已验证的结果表明，您执行的搜索查询的此特定答案已被您组织的管理员或编辑者标记为正确。
-
-![Verified Answer](https://i.imgur.com/ox2ah0e.png) 
-
-### **提取的答案**
-提取的答案是您对查询的回答，表述为具有清晰、直接答案的问题。如下图所示，如果问“CPP头的扭矩是多少？”，则以粗体字直接定义PLA，以便更好地可视化。
-
-![Extracted Answer](https://i.imgur.com/GEniWOM.png) 
->>>>>>> 隐藏的更改：docs/Features/search.en.md
 
 
 搜索查询的结果标有标签，指示内容的原始语言，以及从何处提取答案：[documents]（文档）、[教程]（教程）或 [articles]（文章）。

@@ -78,8 +78,7 @@ Now all you have to do is ask what you want to know. ASMPT Virtual Assist will t
 
 The results are illustrated below.
 
-<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif
-" width="300"></p>
+<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif"width="60%"></p>
 
 ---
 

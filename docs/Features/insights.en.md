@@ -1,7 +1,6 @@
 
 # Insights
 
-
 The Insights Dashboard makes sure that editors and admins can understand how well their system was performing and were empowered to close the knowledge gaps in their organization.
 
 Through interactive visualizations and detailed analytics, the Insights Dashboard enables editors and administrators to view the impact of their content strategy. It highlights areas of success, allowing them to replicate effective approaches, while also pinpointing potential shortcomings that may contribute to knowledge gaps
@@ -48,11 +47,6 @@ In the `User Feedback` column, you can view the feedback given by the user for e
 The feedback feature helps editors to respond to user feedback and contribute expert answers for improved system performance. By selecting `Edit Answer,` users are  redirected to the [Expert Answers](#expert-answers) page, where they can create a response to the user's query.
 
 <p align="center"><img src="https://i.imgur.com/GsuoKLV.png" width="100%"></p>
-
-<<<<<<< Updated upstream:docs/Features/insights.md
-=======
-<p align="center"><img src="https://i.imgur.com/LbSI8kV.gif" width="80%"></p>
->>>>>>> Stashed changes:docs/Features/insights.en.md
 
 The editing page allows for inclusion of detailed answers and also facilitates the attachment of relevant sources such as [articles](articles), [documents](documents), and [tutorials](tutorials) to enhance the credibility of the response.
 

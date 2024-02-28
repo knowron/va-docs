@@ -11,9 +11,9 @@
 
 <p align="center"><img src="https://i.imgur.com/pAmAHTF.giff" width="30%"></p>
 
-!!!注意
+!!! note 
 
-找不到您面前的机器的序列号？确保机器已在您的 [Virtual Assist Web]（./machineinventory.md） 上创建！
+    找不到您面前的机器的序列号？确保机器已在您的 [Virtual Assist Web](.//machineinventory.zh.md） 上创建！
 
 ### 添加日志条目
 

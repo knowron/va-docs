@@ -3,15 +3,16 @@
 
 ## 如何在 Virtual Assist Web 上分享链接？
 
-### **步骤 1**导航到要共享的资源，无论是文章、教程还是文档。
+### **步骤 1** 导航到要共享的资源，无论是文章、教程还是文档。
 
-### **第 2 步：**
-Look for the "Share" <img src="https://i.imgur.com/EMQaeuo.png" width="6%"></img> icon or option associated with the content you want to distribute.
+### **第 2 步:**
 
-### **第 3 步：**
+请寻找与您想要分发的内容相关联的 `分享` <img src="https://i.imgur.com/EMQaeuo.png" width="6%"></img> 图标或选项。
+
+### **第 3 步:**
 单击“共享”图标，将出现一个对话框
 
-### **第 4 步：**
+### **第 4 步:**
 单击“复制链接”并将链接分发给您的同事
 <p align="center"><img src="https://i.imgur.com/cHpbe5G.gif" width="90%"></p>
 
@@ -28,7 +29,7 @@ Look for the "Share" <img src="https://i.imgur.com/EMQaeuo.png" width="6%"></img
 
 ### **步骤 1：** 导航到要共享的资源，无论是文章、教程还是文档。
 
-### **Step 2:** Click on the  <img src="https://i.imgur.com/eiLSxBv.jpg" width="6%"></img> icon, and distribute the link among your collegues.
+### **Step 2:** 点击 <img src="https://i.imgur.com/eiLSxBv.jpg" width="6%"></img> 图标，并将链接分发给您的同事。
 
 <p align="center"><img src="https://i.imgur.com/6YBUY6z.gif" width="40%"></p>
 
