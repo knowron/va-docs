@@ -1,5 +1,6 @@
 # 常见问题
 
+test
 ## 如何在平台上快速入门？
 - 第一步是转到 [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com//productLines) 并输入您通过电子邮件收到的凭据。
 
