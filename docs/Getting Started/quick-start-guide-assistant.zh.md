@@ -22,15 +22,15 @@
 
 您只需要您的电子邮件和ASMPT Virtual Assist密码即可登录系统。您的 **电子邮件** 通常是您的工作电子邮件。您可以在收到的电子邮件中找到您的**密码**，邀请您在ASMPT虚拟助手上加入您的组织（见下文）。
 
-???信息“需要帮助查找密码或邀请电子邮件？
+??? info "信息“需要帮助查找密码或邀请电子邮件?"
 
-    <p align="center"><img src="https://i.imgur.com/QKwIRJ3.png" width="100%"><figcaption>This is where you find your password in the invitation email.</figcaption></p>
+    <p align="center"><img src="https://i.imgur.com/QKwIRJ3.png" width="100%"><figcaption> 这就是您在邀请邮件中找到密码的位置。</figcaption></p>
 
-如果您忘记了密码，可以在[virtualassist.smt.asmpt.com]https://virtualassist.smt.asmpt.com/)上重置密码。只需单击“忘记密码”，然后按照屏幕上的说明进行操作。
+    如果您忘记了密码，可以在[virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com/)上重置密码。只需单击“忘记密码”，然后按照屏幕上的说明进行操作。
 
-如果您没有收到邀请您加入 ASMPT Virtual Assist 的电子邮件，请联系正在使用它的同事或 [在此处请求访问权限]（https://smt.asmpt.com/en/products/software-solutions/virtual-assist）。
+    如果您没有收到邀请您加入 ASMPT Virtual Assist 的电子邮件，请联系正在使用它的同事或 [在此处请求访问权限](https://smt.asmpt.com/en/products/software-solutions/virtual-assist
 
-获得电子邮件和密码后，只需输入并登录即可！
+    获得电子邮件和密码后，只需输入并登录即可！
 
 <p align=“center”>
     <img src="https://i.imgur.com/BLv8UFT.gif" width="400">

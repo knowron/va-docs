@@ -3,9 +3,9 @@
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 
 ## 什么是 ASMPT 虚拟助手？
-ASMPT Virtual Assist是蓝领工人的私人助理。**我们通过一个简单的搜索界面使组织知识易于访问。 这意味着您只需要 ASMPT Virtual Assist，而不是在 4 或 5 个不同的地方搜索完成工作所需的信息。
+ASMPT Virtual Assist是蓝领工人的私人助理。我们通过一个简单的搜索界面使组织知识易于访问。 这意味着您只需要 ASMPT Virtual Assist，而不是在 4 或 5 个不同的地方搜索完成工作所需的信息。
 
-了解有关 ASMPT 虚拟助手的更多信息 [此处]（https://smt.asmpt.com/en/products/software-solutions/virtual-assist）。
+了解有关 ASMPT 虚拟助手的更多信息 [此处]https://smt.asmpt.com/en/products/software-solutions/virtual-assist
 
 ASMPT Virtual Assist 可在您的手机和网络上使用。
 
