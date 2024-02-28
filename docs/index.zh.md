@@ -8,21 +8,13 @@ ASMPT Virtual Assist是蓝领工人的私人助理。**我们通过一个简单�
 
 ASMPT Virtual Assist 可在您的手机和网络上使用。
 
-!!!注意
-
-我们的文档也有德语版本！
-
-<p align=“center”>
-[Dokumentation auf Deutsch 🇩🇪 ]（https://docs.virtualassist.smt.asmpt.com/de）{ .md-button .md-button--primary }
-</p>
-
 
 ## 开始使用
 
 我们为 Virtual Assist App 和 Virtual Assist Web 准备了快速入门指南，让您在几秒钟内开始使用。
 
-[虚拟助手应用程序]（./Getting%20Started/quick-start-guide-assistant.en.md）{ .md-button .md-button--primary }
-[虚拟助手网页版]（./Getting%20Started/quick-start-guide-cs.en.md）{ .md-button .md-button--primary }
+[Virtual Assist App](./Getting%20Started/quick-start-guide-assistant.en.md){ .md-button .md-button--primary } 
+[Virtual Assist Web](./Getting%20Started/quick-start-guide-cs.en.md){ .md-button .md-button--primary }
 
 ## 为什么要使用ASMPT Virtual Assist？
 

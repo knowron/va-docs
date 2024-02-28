@@ -1,14 +1,16 @@
 # 常见问题
 
 ## 如何在平台上快速入门？
-- 第一步是转到 [virtualassist.smt.asmpt.com]（https://virtualassist.smt.asmpt.com//productLines） 并输入您通过电子邮件收到的凭据。
+- 第一步是转到 [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com//productLines） 并输入您通过电子邮件收到的凭据。
+
 <p align="center"><img src="https://i.imgur.com/kgHm6uz.png" width="40%"></p>
 
 - 成功登录后，您将被带到产品页面。您需要创建一个产品，您上传的文档将被链接。
 
 ![Machine Selection](https://i.imgur.com/1EBP4vW.png)
 
-- 创建后，您将被重定向到 [搜索页面]（search.md），并且所有 ASMPT 虚拟助手功能都将可供您使用。
+- 创建后，您将被重定向到 [搜索页面](search.zh.md），并且所有 ASMPT 虚拟助手功能都将可供您使用。
+
 <p align="center"><img src="https://i.imgur.com/DK6n4aa.png" width="80%"></p>
 
 - 要上传要提取的文件，请转到文档并上传要处理的文件。
@@ -18,7 +20,7 @@
 - 上传文件后，您可以进入搜索工具并询问与您上传的文件相关的任何问题。
 <p align="center"><img src="https://i.imgur.com/lNhW1ZX.png" width="80%"></p>
 
-如需更详细的描述，您可以简单地按照我们的 [Virtual Assist App]（./Getting%20Started/quick-start-guide-assistant.md） 和 [Virtual Assist Web]（./Getting%20Started/quick-start-guide-cs.md） 的快速入门指南进行操作
+如需更详细的描述，您可以简单地按照我们的 [Virtual Assist App](./Getting%20Started/quick-start-guide-assistant.md） 和 [Virtual Assist Web](./Getting%20Started/quick-start-guide-cs.md） 的快速入门指南进行操作
 
 ## API 是如何工作的？
 目前，没有公共 API。如果您对构建集成感兴趣，请与我们的团队联系以获取企业软件包。
@@ -67,7 +69,7 @@ ASMPT Virtual Assist 是一款针对自然语言查询优化的软件产品，�
 
 ## 平台有哪些功能？
 
-请参阅 [我们的文档]（./index.md）。
+请参阅 [我们的文档](./index.zh.md)
 
 ## 我忘记了密码，如何找回密码？
 
