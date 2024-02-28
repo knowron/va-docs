@@ -1,6 +1,6 @@
 # 快速入门指南：虚拟助手 Web （Web）
 
-此页面将指导您完成开始使用 **ASMPT Virtual Assist Virtual Assist Web** 所需的所有信息。如果您需要任何问题或支持，[请直接与我们联系](https://smt.asmpt.com/en/products/software-solutions/virtual-assist）！
+此页面将指导您完成开始使用 **ASMPT Virtual Assist Virtual Assist Web** 所需的所有信息。如果您需要任何问题或支持，[请直接与我们联系](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"></p>
 
