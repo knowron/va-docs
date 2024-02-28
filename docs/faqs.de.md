@@ -1,6 +1,7 @@
 # Häufig gestellte Fragen
 
 ## Wie starte ich schnell auf der Plattform?
+
  - Der erste Schritt besteht darin, zu [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com//productLines) zu gehen und die Anmeldedaten einzugeben, die Sie per E-Mail erhalten haben.
 
 <p align="center"><img src="https://i.imgur.com/kgHm6uz.png" width="40%"></p>
