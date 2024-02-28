@@ -1,7 +1,7 @@
 # 常见问题
 
 ## 如何在平台上快速入门？
-- 第一步是转到 [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com//productLines） 并输入您通过电子邮件收到的凭据。
+- 第一步是转到 [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com//productLines) 并输入您通过电子邮件收到的凭据。
 
 <p align="center"><img src="https://i.imgur.com/kgHm6uz.png" width="40%"></p>
 
@@ -9,17 +9,19 @@
 
 ![Machine Selection](https://i.imgur.com/1EBP4vW.png)
 
-- 创建后，您将被重定向到 [搜索页面](search.zh.md），并且所有 ASMPT 虚拟助手功能都将可供您使用。
+- 创建后，您将被重定向到 [搜索页面](search.zh.md), 并且所有 ASMPT 虚拟助手功能都将可供您使用。
+
 <p align="center"><img src="https://i.imgur.com/DK6n4aa.png" width="80%"></p>
 
-- 要上传要提取的文件，请转到文档并上传要处理的文件。
+- 要上传要提取的文件, 请转到文档并上传要处理的文件。
 
 <p align="center"><img src="https://i.imgur.com/SQl80JG.png" width="80%"></p>
 
 - 上传文件后，您可以进入搜索工具并询问与您上传的文件相关的任何问题。
 <p align="center"><img src="https://i.imgur.com/lNhW1ZX.png" width="80%"></p>
 
-如需更详细的描述，您可以简单地按照我们的 [Virtual Assist App](./Getting%20Started/quick-start-guide-assistant.md） 和 [Virtual Assist Web](./Getting%20Started/quick-start-guide-cs.md） 的快速入门指南进行操作
+如需更详细的描述，您可以简单地按照我们的 [Virtual Assist App](./Getting%20Started/quick-start-guide-assistant.md)  和 [Virtual Assist Web](./Getting%20Started/quick-start-guide-cs.md) 的快速入门指南进行操作
+
 
 ## API 是如何工作的？
 目前，没有公共 API。如果您对构建集成感兴趣，请与我们的团队联系以获取企业软件包。
@@ -36,15 +38,18 @@ ASMPT Virtual Assist 是一款针对自然语言查询优化的软件产品，�
 
 系统仍然支持关键字搜索，但提出详细问题可提供最精确的答案。如果您有要下载的特定文档，可以使用文档屏幕找到它。此功能使您能够轻松访问所需的信息，而无需花时间搜索。
 
-有关我的详细信息，请阅读我们的文档 [AI 生成的答案](answers.md）
+有关我的详细信息，请阅读我们的文档 
+[AI 生成的答案](answers.md)
 
 ## 为什么我的文档中的内容没有被系统正确读取？
 
 在ASMPT Virtual Assist，我们的主要关注点是利用自然语言处理（NLP）来全面分析文档。这涉及广泛处理文本信息，使**文本丰富的数据成为我们特定的专业领域**。
 
-文本贫乏的数据，如图像、表格和电路图，处理起来更具挑战性。阅读我们的 [文档上传指南页面](./Admin%20Documentation/documents_upload_guidelines.md） 以了解更多信息。
+文本贫乏的数据，如图像、表格和电路图，处理起来更具挑战性。阅读我们的 [文档上传指南页面](./Admin%20Documentation/documents_upload_guidelines.md) 以了解更多信息。
 
-请随时联系我们的 [销售和支持 team](mailto:asm-support.df@asmpt.com),以激活 **OCR**（光学字符识别）、**表解析**和其他类似功能等功能，这些功能作为我们高级套餐的一部分提供。
+
+
+请随时联系我们的 [销售和支持团队](mailto:asm-support.df@asmpt.com),以激活 **OCR**（光学字符识别）、**表解析**和其他类似功能等功能，这些功能作为我们高级套餐的一部分提供。
 
 ## 如何更改平台上的语言？
 
@@ -69,7 +74,7 @@ ASMPT Virtual Assist 是一款针对自然语言查询优化的软件产品，�
 
 ## 平台有哪些功能？
 
-请参阅 [我们的文档](./index.md）。
+请参阅 [我们的文档](./index.zh.md).
 
 ## 我忘记了密码，如何找回密码？
 
