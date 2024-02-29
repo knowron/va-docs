@@ -9,7 +9,7 @@
 
 ![Machine Selection](https://i.imgur.com/1EBP4vW.png)
 
-- Once it is created, you will be redirected to the [Search Page](features/search.en.md) and all of the ASMPT Virtual Assist functionalities will be available to you. 
+- Once it is created, you will be redirected to the [Search Page](./Features/search.en.md) and all of the ASMPT Virtual Assist functionalities will be available to you. 
 
 <p align="center"><img src="https://i.imgur.com/DK6n4aa.png" width="80%"></p>
 

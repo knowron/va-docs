@@ -10,7 +10,7 @@
 
 ![Machine Selection](https://i.imgur.com/1EBP4vW.png)
 
-- Sobald es erstellt ist, werden Sie zur [Suchseite](search.md) weitergeleitet, und alle Funktionen von ASMPT Virtual Assist stehen Ihnen zur Verfügung.
+- Sobald es erstellt ist, werden Sie zur [Suchseite](./Features/search.de.md) weitergeleitet, und alle Funktionen von ASMPT Virtual Assist stehen Ihnen zur Verfügung.
 
 <p align="center"><img src="https://i.imgur.com/DK6n4aa.png" width="80%"></p>
 
@@ -40,7 +40,7 @@ ASMPT Virtual Assist ist ein Softwareprodukt, das für natürliche Sprachabfrage
 
 Das System unterstützt immer noch die Stichwortsuche, aber das Stellen von detaillierten Fragen liefert die präzisesten Antworten. Wenn Sie ein bestimmtes Dokument herunterladen möchten, können Sie den Dokumentenbildschirm verwenden, um es zu finden. Diese Funktion ermöglicht es Ihnen, schnell auf die benötigten Informationen zuzugreifen, ohne lange danach suchen zu müssen.
 
-Für weitere Details lesen Sie unsere Dokumentation zu [künstlich generierten Antworten](answers.md).
+Für weitere Details lesen Sie unsere Dokumentation zu [künstlich generierten Antworten](./Features/answers.de.md).
 
 ## Warum wird der Inhalt meines Dokuments vom System nicht korrekt gelesen?
 

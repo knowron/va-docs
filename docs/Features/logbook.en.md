@@ -13,7 +13,7 @@ You **cannot** access the logbook from a Product Line.
 
 !!! note
 
-    Can't find the serial number of the machine standing in front of you? Make sure the machine has been created on your [Virtual Assist Web](machineinventory.en.md)!
+    Can't find the serial number of the machine standing in front of you? Make sure the machine has been created on your [Virtual Assist Web](./machineinventory.md)!
 
 ### Adding a logbook entry
 

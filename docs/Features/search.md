@@ -7,7 +7,7 @@ The search function allows you to ask questions about an entire product line or 
 
 The response generated is a stochastic outcome to your query, supported by the listed sources. This suggests that the answer to the same query may not consistently yield identical results. 
 
-Wanna learn more about [AI Generated Answers](answers.md)?
+Wanna learn more about [AI Generated Answers](./answers.md)?
 
 <p align="center"><img src="" width="80%"></p>
 

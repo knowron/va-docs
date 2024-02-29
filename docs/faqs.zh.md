@@ -9,7 +9,7 @@
 
 ![Machine Selection](https://i.imgur.com/1EBP4vW.png)
 
-- 创建后，您将被重定向到 [搜索页面](features/search.zh.md), 并且所有 ASMPT 虚拟助手功能都将可供您使用。
+- 创建后，您将被重定向到 [搜索页面](./Features/search.zh.md), 并且所有 ASMPT 虚拟助手功能都将可供您使用。
 
 <p align="center"><img src="https://i.imgur.com/DK6n4aa.png" width="80%"></p>
 
@@ -39,7 +39,7 @@ ASMPT Virtual Assist 是一款针对自然语言查询优化的软件产品，�
 系统仍然支持关键字搜索，但提出详细问题可提供最精确的答案。如果您有要下载的特定文档，可以使用文档屏幕找到它。此功能使您能够轻松访问所需的信息，而无需花时间搜索。
 
 有关我的详细信息，请阅读我们的文档 
-[AI 生成的答案](features/answers.md)
+[AI 生成的答案](./Features/answers.zh.md)
 
 ## 为什么我的文档中的内容没有被系统正确读取？
 
