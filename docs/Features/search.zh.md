@@ -25,7 +25,9 @@
       <p align="center"><img src="https://i.imgur.com/YegCmA4.png" width="80%"></p>
 
 
-搜索查询的结果标有标签，指示内容的原始语言，以及从何处提取答案：[documents]（文档）、[教程]（教程）或 [articles]（文章）。
+搜索查询的结果标有标签，指示内容的原始语言，以及从何处提取答案：[文档](documents.zh.md), [教程](tutorials.zh.md), [文章](articles.zh.md)
+
+
 
 ## **过滤器**
 
