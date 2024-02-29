@@ -5,12 +5,9 @@
 ### 🏷️ **分层标签简介**
 我们很高兴地与大家分享，分层标记的强大功能现已在搜索、文档和文章中可用。轻松浏览您的内容，并享受更易于访问的信息过滤方式。使用我们先进的标签系统有效地组织和简化您的搜索。
 
-<p align=“center”><img src=“https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/tags.gif?upscale=true&width=500&upscale=true&name=tags.gif” width=“30%”></p>
 
 ### 📲 **介绍专用技能屏幕**
 为了优化您的体验，我们已将技能重新定位到其专用屏幕，释放了助手面板，以便更轻松地访问教程和故障排除资源。
-
-<p align=“center”><img src=“https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/skills_panel.gif?upscale=true&width=470&upscale=true&name=skills_panel.gif” width=“30%”></p>
 
 ### **还有什么新东西？
 

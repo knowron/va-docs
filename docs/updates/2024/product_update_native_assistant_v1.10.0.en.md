@@ -6,13 +6,10 @@ Here at ASMPT Virtual Assist we've been working on a couple of features and impr
 
 We're excited to share that the power of Hierarchical Tags is now available across Search, Documents, and Articles. Navigate your content easily and enjoy a more accessible way to filter information. Organize and streamline your searches efficiently using our advanced tagging system.
 
- <p align="center"><img src="https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/tags.gif?upscale=true&width=500&upscale=true&name=tags.gif" width="30%"></p>
 
 ### 📲 **Introducing Dedicated Skills Screen**
  
 To optimize your experience, we've relocated skills to their dedicated screen, freeing up the assistant panel for easier access to tutorials and troubleshooting resources.
-
- <p align="center"><img src="https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/skills_panel.gif?upscale=true&width=470&upscale=true&name=skills_panel.gif" width="30%"></p>
 
 ### **What else is new?**
 

@@ -4,9 +4,14 @@
 
 访问子页面以了解更多信息！
 
+## 2024
+
+- [产品更新  Virtual Assist Web v1.18.0](2024/product_update_control_suite_v1.19.0.en.md)
+- [产品更新  Virtual Assist App v1.10.0](2024/product_update_native_assistant_v1.10.0.en.md)
+
 ## 2023
 
-- [产品更新 V1.18.0]（2023/v1.18.0.zhs）
+- [产品更新 V1.18.0] (2023/v1.18.0.zhs.md）
 - [12月更新]（2023/december_update.zh.md）
 - [1月更新]（2023/late_jan_update.md）
 

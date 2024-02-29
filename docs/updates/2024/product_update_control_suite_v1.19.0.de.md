@@ -6,14 +6,6 @@ Wir freuen uns, einige fantastische Updates und Funktionen zu teilen, an denen w
 
 Wir freuen uns, Tutorial-Vorschauen vorzustellen! Jetzt können Sie Tutorials schnell vorab anzeigen oder sie im Vollbildmodus genießen. Unsere mehrsprachige Funktionalität ermöglicht es Ihnen, nahtlos zwischen Sprachregisterkarten zu wechseln, um ein reibungsloseres Erlebnis zu erzielen.
 
-![Tutorial-Vorschauen](https://i.imgur.com/SvE5GgE.gif)
-
-### 🇮🇹 **Benvenuto Italiano!**
-
-Aufregende Neuigkeiten für unsere italienischsprachigen Benutzer! Italienisch ist jetzt Teil unseres Sprachangebots. Sie können Dokumente hochladen, Artikel schreiben oder Tutorials auf Italienisch erstellen und Generative Antworten erhalten, die auf Ihre Sprachpräferenz zugeschnitten sind. Darüber hinaus wurde unsere Benutzeroberfläche ins Italienische übersetzt, um ein intensiveres Erlebnis zu ermöglichen.
-
-![Unterstützung für die italienische Sprache](https://i.imgur.com/f5vd5Ae.gif)
-
 ### **Sofortige Rückmeldung und Verlaufsvorschau**
 
 Mit einem einfachen Klick auf die gewünschte Zeile können Sie sofort den gesamten Inhalt von Rückmeldungen und Verlaufsvorschauen anzeigen. Diese Funktion bietet eine nahtlose und bequeme Möglichkeit, Benutzerfeedback und generierte Antworten für Ihre Produktlinien zu überprüfen und Ihre Reise mit intuitiverer Navigation zu verbessern.
