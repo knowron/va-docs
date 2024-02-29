@@ -48,7 +48,7 @@ Insights Dashboard 确保编辑和管理员能够了解其系统的性能，并�
 
 <p align="center"><img src="https://i.imgur.com/GsuoKLV.png" width="100%"></p>
 
-编辑页面允许包含详细的答案，也有助于附加相关来源，如 [文章](articles)、[文档](documents), 和 [教程](tutorials)，以提高回复的可信度。
+编辑页面允许包含详细的答案，也有助于附加相关来源，如 [文章](articles.zh.md)、[文档](documents.zh.md), 和 [教程](tutorials.zh.md)，以提高回复的可信度。
 
 
 `状态` 表示是否已将答案添加到用户的反馈中。

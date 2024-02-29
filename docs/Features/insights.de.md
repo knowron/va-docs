@@ -42,7 +42,7 @@ Die Feedback-Funktion unterstützt Editoren dabei, auf das Nutzerfeedback zu rea
 
 <p align="center"><img src="https://i.imgur.com/GsuoKLV.png" width="100%"></p>
 
-Die Bearbeitungsseite ermöglicht die Aufnahme von detaillierten Antworten und erleichtert auch das Anhängen relevanter Quellen wie [Artikel](articles), [Dokumente](documents) und [Tutorials](tutorials), um die Glaubwürdigkeit der Antwort zu erhöhen.
+Die Bearbeitungsseite ermöglicht die Aufnahme von detaillierten Antworten und erleichtert auch das Anhängen relevanter Quellen wie [Artikel](articles.de.md), [Dokumente](documents.de.md) und [Tutorials](tutorials.de.md), um die Glaubwürdigkeit der Antwort zu erhöhen.
 
 Der `Status` gibt an, ob eine Antwort zum Nutzerfeedback hinzugefügt wurde.
 
