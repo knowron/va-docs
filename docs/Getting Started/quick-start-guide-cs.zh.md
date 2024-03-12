@@ -8,7 +8,7 @@
 
 ## 步骤 1。登录 Virtual Assist Web
 
-Virtual Assist Web 可通过以下方式访问：[访问 Virtual Assist Web]（https://virtualassist.smt.asmpt.com/{.md-button }
+Virtual Assist Web 可通过以下方式访问：[访问 Virtual Assist Web](https://virtualassist.smt.asmpt.com/){ .md-button }
 
 您只需要您的电子邮件和ASMPT Virtual Assist密码即可登录系统。您的 **电子邮件** 通常是您的工作电子邮件。您可以在收到的电子邮件中找到您的 **密码**，邀请您在ASMPT虚拟助手上加入您的组织（见下文）。
 

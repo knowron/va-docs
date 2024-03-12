@@ -9,8 +9,6 @@ The response generated is a stochastic outcome to your query, supported by the l
 
 Wanna learn more about [AI Generated Answers](answers.md)?
 
-<p align="center"><img src="" width="80%"></p>
-
 !!! tip "Improve your results!"
         If you formulate your question as a complete sentence 
         with "?" at the end, the search results improve compared to a simple query.

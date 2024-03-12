@@ -64,7 +64,7 @@
 
 首先，点击扫描图像。接下来，您可以在提供的字段中键入序列号。或者，您可以直接扫描 ASMPT Virtual Assist 二维码。只需点击相机图标即可启用相机并将其直接指向二维码。该应用程序应该可以快速识别您的机器。
 
-    <p align="center"><img src="https://i.imgur.com/Yif9Xoc.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
+<p align="center"><img src="https://i.imgur.com/Yif9Xoc.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
 
 ---
 
