@@ -9,8 +9,6 @@ Die generierte Antwort ist ein stochastisches Ergebnis Ihrer Anfrage, unterstüt
 
 Möchten Sie mehr über [Künstlich generierte Antworten](answers.md) erfahren?
 
-!!! Tipp "Verbessern Sie Ihre Ergebnisse!"
-     Wenn Sie Ihre Frage als vollständigen Satz mit "?" am Ende formulieren, verbessern sich die Suchergebnisse im Vergleich zu einer einfachen Abfrage.
 
 ---
 ## **Suchergebnisse**

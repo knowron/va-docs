@@ -1,7 +1,6 @@
 # Häufig gestellte Fragen
 
 ## Wie starte ich schnell auf der Plattform?
-
  - Der erste Schritt besteht darin, zu [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com//productLines) zu gehen und die Anmeldedaten einzugeben, die Sie per E-Mail erhalten haben.
 
 <p align="center"><img src="https://i.imgur.com/kgHm6uz.png" width="40%"></p>
@@ -40,7 +39,7 @@ ASMPT Virtual Assist ist ein Softwareprodukt, das für natürliche Sprachabfrage
 
 Das System unterstützt immer noch die Stichwortsuche, aber das Stellen von detaillierten Fragen liefert die präzisesten Antworten. Wenn Sie ein bestimmtes Dokument herunterladen möchten, können Sie den Dokumentenbildschirm verwenden, um es zu finden. Diese Funktion ermöglicht es Ihnen, schnell auf die benötigten Informationen zuzugreifen, ohne lange danach suchen zu müssen.
 
-Für weitere Details lesen Sie unsere Dokumentation zu [künstlich generierten Antworten](./Features/answers.de.md).
+Für weitere Details lesen Sie unsere Dokumentation zu [KI-generierten Antworten](Features/answers.md).
 
 ## Warum wird der Inhalt meines Dokuments vom System nicht korrekt gelesen?
 

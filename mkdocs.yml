@@ -66,6 +66,9 @@ nav:
       - "Virtual Assist Web (Web)": "Getting Started/quick-start-guide-cs.md"
       - "Features/answers.md"
       - "Features/linksharing.md"
+  - Search: 
+      - "Features/search.md"
+      - "Features/language_priority_in_search.md"
   - Virtual Assist Web Features:
       - "Features/insights.md"
       - "Features/tutorials.md"
@@ -81,16 +84,13 @@ nav:
       - "Features/supportscreen.md"
       - "Features/pushnotifications.md"
 
-  - Search: 
-      - "Features/search.md"
-      - "Features/language_priority_in_search.md"
   - Admin:
 
       - Security and Access:
           - "Admin Documentation/Security and Access/product_access_groups.md"
           - "Admin Documentation/Security and Access/roles_and_permissions.md"
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
-copyright: Copyright &copy; 2023 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
+copyright: Copyright &copy; 2024 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
 extra:
   consent:
     title: Cookie consent

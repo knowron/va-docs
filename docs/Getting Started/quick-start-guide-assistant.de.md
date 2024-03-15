@@ -78,8 +78,7 @@ Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. ASMPT Virtual Assi
 
 Die Ergebnisse sind unten dargestellt.
 
-<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif
-" width="300"></p>
+<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif" width="300"></p>
 
 ---
 

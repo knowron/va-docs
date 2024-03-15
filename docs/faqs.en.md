@@ -9,7 +9,7 @@
 
 ![Machine Selection](https://i.imgur.com/1EBP4vW.png)
 
-- Once it is created, you will be redirected to the [Search Page](./Features/search.en.md) and all of the ASMPT Virtual Assist functionalities will be available to you. 
+- Once it is created, you will be redirected to the [Search Page](./Features/search.md) and all of the ASMPT Virtual Assist functionalities will be available to you. 
 
 <p align="center"><img src="https://i.imgur.com/DK6n4aa.png" width="80%"></p>
 
@@ -40,7 +40,7 @@ ASMPT Virtual Assist is a software product optimized for natural language querie
 
 The system still supports keyword search, but asking detailed questions provides the most precise answers. If you have a specific document you want to download, you can use the documents screen to locate it. This feature enables you to easily access the information you need, without having to spend time searching for it.
 
-For my details, read on our documentation on [AI-generated answers](answers.md)
+For my details, read on our documentation on [AI-generated answers](Features/answers.md)
 
 ## Why is the content in my document not being read correctly by the system?
 
