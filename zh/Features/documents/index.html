@@ -1,0 +1,893 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="zh">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../../../icon.png" rel="icon"/>
+<meta content="mkdocs-1.5.3, mkdocs-material-8.5.10" name="generator"/>
+<title>文档 - ASMPT Virtual Assist</title>
+<link href="../../../assets/stylesheets/main.975780f9.min.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/palette.2505c338.min.css" rel="stylesheet"/>
+<meta content="#ef5552" name="theme-color"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-ZWQCQKMBGJ"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-ZWQCQKMBGJ",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-ZWQCQKMBGJ",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+<script>var consent;"undefined"==typeof __md_analytics||(consent=__md_get("__consent"))&&consent.analytics&&__md_analytics()</script>
+<link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            
+                .gscrollbar-fixer { padding-right: 15px; }
+                .gdesc-inner { font-size: 0.75rem; }
+                body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+                body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+                body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+                </style><script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+<body data-md-color-accent="red" data-md-color-primary="red" data-md-color-scheme="default" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#_1">
+          跳转至
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header" data-md-component="header">
+<nav aria-label="页眉" class="md-header__inner md-grid">
+<a aria-label="ASMPT Virtual Assist" class="md-header__button md-logo" data-md-component="logo" href="../../" title="ASMPT Virtual Assist">
+<img alt="logo" src="../../../logo.png"/>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            ASMPT Virtual Assist
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              文档
+            
+          </span>
+</div>
+</div>
+</div>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="选择当前语言" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="../../../Features/documents/" hreflang="en">
+                    English
+                  </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="../../../de/Features/documents/" hreflang="de">
+                    Deutsch
+                  </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="./" hreflang="zh">
+                    中文
+                  </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="搜索" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="搜索" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="查找" class="md-search__options">
+<button aria-label="清空当前内容" class="md-search__icon md-icon" tabindex="-1" title="清空当前内容" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="导航栏" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="ASMPT Virtual Assist" class="md-nav__button md-logo" data-md-component="logo" href="../../" title="ASMPT Virtual Assist">
+<img alt="logo" src="../../../logo.png"/>
+</a>
+    ASMPT Virtual Assist
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../">
+        Intro
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../faqs/">
+        FAQ
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../updates">
+        Updates
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" id="__nav_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_4">
+          Getting Started
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Getting Started" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_4">
+<span class="md-nav__icon md-icon"></span>
+          Getting Started
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Getting%20Started/quick-start-guide-assistant/">
+        Virtual Assist App (Mobile)
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Getting%20Started/quick-start-guide-cs/">
+        Virtual Assist Web (Web)
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../answers/">
+        AI 生成的答案
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../linksharing/">
+        链接共享
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" id="__nav_5" type="checkbox"/>
+<label class="md-nav__link" for="__nav_5">
+          Search
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Search" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_5">
+<span class="md-nav__icon md-icon"></span>
+          Search
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../search/">
+        搜索
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../language_priority_in_search/">
+        搜索中的语言优先级
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6">
+          Virtual Assist Web Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Virtual Assist Web Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+          Virtual Assist Web Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../insights/">
+        洞察
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../tutorials/">
+        教程
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          文档
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        文档
+      </a>
+<nav aria-label="目录" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_2">
+    操作
+  </a>
+<nav aria-label="操作" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#1">
+    1.预览
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2">
+    2.下载
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#3">
+    3.编辑
+  </a>
+<nav aria-label="3.编辑" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_3">
+    标题
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_4">
+    创建日期
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_5">
+    可见性
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_6">
+    标签
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#4">
+    4.删除
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#5">
+    5.共享
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_7">
+    状态
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_8">
+    文件类型
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../articles/">
+        文章
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../adminpanel/">
+        管理面板
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7">
+          Virtual Assist App Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Virtual Assist App Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+          Virtual Assist App Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../documents_na/">
+        文档
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../logbook/">
+        日志
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../supportscreen/">
+        支持
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../pushnotifications/">
+        推送通知
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" id="__nav_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8">
+          Admin
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Admin" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_8">
+<span class="md-nav__icon md-icon"></span>
+          Admin
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1" id="__nav_8_1" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8_1">
+          Security and Access
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Security and Access" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_8_1">
+<span class="md-nav__icon md-icon"></span>
+          Security and Access
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/product_access_groups/">
+        产品访问组
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/roles_and_permissions/">
+        角色和权限
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/data_security_and_privacy/">
+        数据安全和隐私常见问题
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="目录" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_2">
+    操作
+  </a>
+<nav aria-label="操作" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#1">
+    1.预览
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#2">
+    2.下载
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#3">
+    3.编辑
+  </a>
+<nav aria-label="3.编辑" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_3">
+    标题
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_4">
+    创建日期
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_5">
+    可见性
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_6">
+    标签
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#4">
+    4.删除
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#5">
+    5.共享
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_7">
+    状态
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_8">
+    文件类型
+  </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1 id="_1">文档<a class="headerlink" href="#_1" title="Permalink">⚓︎</a></h1>
+<p>与您的产品或产品线相关的文档表示构成产品知识库的内容单元之一。作为编辑者或管理员，您可以上传单个文件或整个文件夹。</p>
+<p>在页面底部查看支持的文件类型 </p>
+<p><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/QrtEaVR.png"><img alt="Documents Diagram" src="https://i.imgur.com/QrtEaVR.png"/></a></p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>文档可以作为单个文件或整个文件夹上传。</p>
+</div>
+<h2 id="_2">操作<a class="headerlink" href="#_2" title="Permalink">⚓︎</a></h2>
+<h3 id="1">1.<strong>预览</strong><a class="headerlink" href="#1" title="Permalink">⚓︎</a></h3>
+<p>此功能通过在滑动选项卡中打开文档来简化文档访问。此功能可让您方便地预览和阅读文档。</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/HCfry0o.gif"><img src="https://i.imgur.com/HCfry0o.gif" width="80%"/></a></p>
+<h3 id="2">2.<strong>下载</strong><a class="headerlink" href="#2" title="Permalink">⚓︎</a></h3>
+<p>此功能使您能够将文档直接保存到您的设备</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/TYc9Qxv.png"><img src="https://i.imgur.com/TYc9Qxv.png" width="80%"/></a></p>
+<h3 id="3">3.<strong>编辑</strong><a class="headerlink" href="#3" title="Permalink">⚓︎</a></h3>
+<p>此功能会提示一个对话框，您可以在其中编辑文档的标题、更改可见性或添加标签。</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/vUIttp8.png"><img src="https://i.imgur.com/vUIttp8.png" width="0%"/></a></p>
+<h4 id="_3"><strong>标题</strong><a class="headerlink" href="#_3" title="Permalink">⚓︎</a></h4>
+<p>您可以编辑文档的“<strong>标题</strong>”，该“标题”将显示在搜索结果中，但原始“<strong>文件名</strong>”也会显示在“文档”表格中。</p>
+<p><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/T792Jhy.png"><img alt="Table" src="https://i.imgur.com/T792Jhy.png"/></a></p>
+<h4 id="_4"><strong>创建日期</strong><a class="headerlink" href="#_4" title="Permalink">⚓︎</a></h4>
+<p>默认情况下，每个文档都标有上传到系统的日期。您也可以将日期更改为文档的实际创建日期。</p>
+<h4 id="_5"><strong>可见性</strong><a class="headerlink" href="#_5" title="Permalink">⚓︎</a></h4>
+<p>将文档的可见性设置为“<strong>私有</strong>”将使它们仅对组织中的用户可见。<strong>公开</strong>文档可供有权访问其所属产品线的任何人查看。</p>
+<p><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/i475uTD.png"><img alt="Add tag" src="https://i.imgur.com/i475uTD.png"/></a></p>
+<h4 id="_6"><strong>标签</strong><a class="headerlink" href="#_6" title="Permalink">⚓︎</a></h4>
+<p>向文档添加标签是一种使用描述其内容的相关关键字或短语对其进行分类或标记的方法。标签通过根据这些标签过滤搜索，可以更轻松地查找特定文档。编辑者和管理员可以通过在“编辑元数据”对话框的标签栏中输入要创建的标签名称来创建标签。</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href=" https://i.imgur.com/0qLxYwh.png"><img src=" https://i.imgur.com/0qLxYwh.png" width="80%"/></a></p>
+<p>如果一个标签已经存在，无论是之前由您还是您的同事创建的，它将被显示在列表中，并且可以选择并添加到文档的标签中。</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/DRUKkNT.jpg"><img src="https://i.imgur.com/DRUKkNT.jpg" width="80%"/></a></p>
+<p>将标签添加到文档后，用户可以通过选择一个或多个标签来筛选其搜索结果。这将仅向他们显示与所选标签匹配的文档，从而更容易找到他们要查找的内容。标签还可用于将相似的文档组合在一起，从而提供更有条理、更有效的方式来访问信息。</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>您也可以在上传后编辑文档的元数据。您所要做的就是单击“文档”表格的“操作”部分中的编辑按钮 <img alt="✏" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/svg/270f.svg" title=":pencil2:"/></p>
+</div>
+<hr/>
+<h3 id="4">4.<strong>删除</strong><a class="headerlink" href="#4" title="Permalink">⚓︎</a></h3>
+<p>此功能从系统中删除文档</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/stBe7FW.gif"><img src="https://i.imgur.com/stBe7FW.gif" width="100%"/></a></p>
+<h3 id="5">5.<strong>共享</strong><a class="headerlink" href="#5" title="Permalink">⚓︎</a></h3>
+<p>此功能允许您轻松地与同事共享文档，从而促进协作。有关权限的详细信息，请查看[链接共享]（链接共享）。</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/HDEov7H.png"><img src="https://i.imgur.com/HDEov7H.png" width="80%"/></a></p>
+<h2 id="_7"><strong>状态</strong><a class="headerlink" href="#_7" title="Permalink">⚓︎</a></h2>
+<p>文档可以有三种状态：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">状态</th>
+<th style="text-align: left;">描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><span style="“color：#818589”"><strong>处理</strong></span></td>
+<td style="text-align: left;">文档目前正在上传中。</td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="“color：#00008B”"><strong>已上传</strong></span></td>
+<td style="text-align: left;">文件已上传。</td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="“color：darkgreen”"><strong>提取</strong></span></td>
+<td style="text-align: left;">这些文档已上传并提取到知识数据库中。</td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="“color：red”"><strong>错误</strong></span></td>
+<td style="text-align: left;">无法上传文档。</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_8"><strong>文件类型</strong><a class="headerlink" href="#_8" title="Permalink">⚓︎</a></h2>
+<p>我们扩展了系统，以支持多种上传文件类型。请查看下面的列表，了解现在支持哪些类型：</p>
+<table>
+<thead>
+<tr>
+<th>扩展</th>
+<th>文件类型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>.AAC</td>
+<td>AAC音频</td>
+</tr>
+<tr>
+<td>.APNG</td>
+<td>动画可移植网络图形 （APNG） 图像</td>
+</tr>
+<tr>
+<td>.阿维夫</td>
+<td>AVIF图片</td>
+</tr>
+<tr>
+<td>.avi</td>
+<td>AVI：音视频交错</td>
+</tr>
+<tr>
+<td>.AZW</td>
+<td>亚马逊 Kindle 电子书格式</td>
+</tr>
+<tr>
+<td>.BMP</td>
+<td>Windows OS/2 位图图形</td>
+</tr>
+<tr>
+<td>.云服务器</td>
+<td>级联样式表 （CSS）</td>
+</tr>
+<tr>
+<td>.csv</td>
+<td>逗号分隔值 （CSV）</td>
+</tr>
+<tr>
+<td>.文档</td>
+<td>Microsoft Word</td>
+</tr>
+<tr>
+<td>.DOCX</td>
+<td>Microsoft Word （OpenXML）</td>
+</tr>
+<tr>
+<td>.eot</td>
+<td>MS Embedded OpenType 字体</td>
+</tr>
+<tr>
+<td>.epub</td>
+<td>电子出版物 （EPUB）</td>
+</tr>
+<tr>
+<td>.GIF动图</td>
+<td>图形交换格式 （GIF）</td>
+</tr>
+<tr>
+<td>.htm， .html</td>
+<td>超文本标记语言 （HTML）</td>
+</tr>
+<tr>
+<td>.ICO</td>
+<td>图标格式</td>
+</tr>
+<tr>
+<td>.JPEG、.jpg</td>
+<td>JPEG图片</td>
+</tr>
+<tr>
+<td>.jsonld</td>
+<td>JSON-LD格式</td>
+</tr>
+<tr>
+<td>.mid， .midi</td>
+<td>乐器数字接口（MIDI）</td>
+</tr>
+<tr>
+<td>.mp3</td>
+<td>MP3音频</td>
+</tr>
+<tr>
+<td>.mp4</td>
+<td>MP4视频</td>
+</tr>
+<tr>
+<td>.mpeg</td>
+<td>MPEG视频</td>
+</tr>
+<tr>
+<td>.ODP</td>
+<td>OpenDocument演示文档</td>
+</tr>
+<tr>
+<td>.消耗臭氧层物质</td>
+<td>OpenDocument 电子表格文档</td>
+</tr>
+<tr>
+<td>.ODT</td>
+<td>OpenDocument 文本文档</td>
+</tr>
+<tr>
+<td>.男鹿</td>
+<td>OGG音频</td>
+</tr>
+<tr>
+<td>.OGV</td>
+<td>OGG视频</td>
+</tr>
+<tr>
+<td>.OGX</td>
+<td>OGG</td>
+</tr>
+<tr>
+<td>.作品</td>
+<td>Opus 音频</td>
+</tr>
+<tr>
+<td>.OTF</td>
+<td>OpenType字体</td>
+</tr>
+<tr>
+<td>.png</td>
+<td>便携式网络显卡</td>
+</tr>
+<tr>
+<td>.PDF格式</td>
+<td>Adobe 可移植文档格式 （PDF）</td>
+</tr>
+<tr>
+<td>.PPT</td>
+<td>Microsoft PowerPoint</td>
+</tr>
+<tr>
+<td>.PPTX</td>
+<td>Microsoft PowerPoint （OpenXML）</td>
+</tr>
+<tr>
+<td>.RTF</td>
+<td>RTF 格式 （RTF）</td>
+</tr>
+<tr>
+<td>.SVG</td>
+<td>可缩放矢量图形 （SVG）</td>
+</tr>
+<tr>
+<td>.TIF， .tiff</td>
+<td>标记图像文件格式 （TIFF）</td>
+</tr>
+<tr>
+<td>.ts</td>
+<td>MPEG传输流</td>
+</tr>
+<tr>
+<td>.TTF</td>
+<td>TrueType字体</td>
+</tr>
+<tr>
+<td>.TXT</td>
+<td>文本（通常为 ASCII 或 ISO 8859-n）</td>
+</tr>
+<tr>
+<td>.VSD，.vsdx</td>
+<td>Microsoft Visio</td>
+</tr>
+<tr>
+<td>.挥</td>
+<td>波形音频格式</td>
+</tr>
+<tr>
+<td>.weba</td>
+<td>WEBM音频</td>
+</tr>
+<tr>
+<td>.webm</td>
+<td>WEBM视频</td>
+</tr>
+<tr>
+<td>.网页</td>
+<td>WEBP图片</td>
+</tr>
+<tr>
+<td>.沃夫</td>
+<td>Web 开放字体格式 （WOFF）</td>
+</tr>
+<tr>
+<td>.WOFF2</td>
+<td>Web 开放字体格式 （WOFF）</td>
+</tr>
+<tr>
+<td>.xhtml</td>
+<td>XHTML</td>
+</tr>
+<tr>
+<td>.XLS</td>
+<td>Microsoft Excel</td>
+</tr>
+<tr>
+<td>.XLSX</td>
+<td>Microsoft Excel （OpenXML）</td>
+</tr>
+<tr>
+<td>.xml</td>
+<td>XML</td>
+</tr>
+<tr>
+<td>.3GP</td>
+<td>3GPP音视频容器</td>
+</tr>
+<tr>
+<td>.3g2</td>
+<td>3GPP2音视频容器</td>
+</tr>
+</tbody>
+</table>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<nav aria-label="页脚" class="md-footer__inner md-grid">
+<a aria-label="上一页: 教程" class="md-footer__link md-footer__link--prev" href="../tutorials/" rel="prev">
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</div>
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                上一页
+              </span>
+              教程
+            </div>
+</div>
+</a>
+<a aria-label="下一页: 文章" class="md-footer__link md-footer__link--next" href="../articles/" rel="next">
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                下一页
+              </span>
+              文章
+            </div>
+</div>
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
+</div>
+</a>
+</nav>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+<div class="md-copyright__highlight">
+      Copyright © 2024 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
+</div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+<div class="md-social">
+<a class="md-social__link" href="https://www.linkedin.com/company/knowron/" rel="noopener" target="_blank" title="ASMPT Virtual Assist on LinkedIn">
+<svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>
+</a>
+<a class="md-social__link" href="mailto:&lt;asm-support.df@asmpt.com&gt;" rel="noopener" target="_blank" title="">
+<svg viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48H48zM0 176v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V176L294.4 339.2a63.9 63.9 0 0 1-76.8 0L0 176z"></path></svg>
+</a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<div class="md-consent" data-md-component="consent" hidden="" id="__consent">
+<div class="md-consent__overlay"></div>
+<aside class="md-consent__inner">
+<form class="md-consent__form md-grid md-typeset" name="consent">
+<h4>Cookie consent</h4>
+<p>Our website uses cookies, which are small text files,  to distinguish you from other users and provide you  with a good experience when you browse our website.  You can allow all or manage them individually. You can find further details of our cookies here: <a href="https://smt.asmpt.com/en/products/software-solutions/virtual-assist/privacy-policy">Privacy policy</a></p>
+<input class="md-toggle" id="__settings" type="checkbox"/>
+<div class="md-consent__settings">
+<ul class="task-list">
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="Imgur" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Imgur
+        <label>
+</label></label></li>
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="analytics" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Google Analytics
+        <label>
+</label></label></li>
+</ul>
+</div>
+<div class="md-consent__controls">
+<button class="md-button md-button--primary">同意</button>
+<button class="md-button md-button--primary" type="reset">拒绝</button>
+<label class="md-button" for="__settings">管理设定</label>
+</div>
+</form>
+</aside>
+</div>
+<script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
+<script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.sections", "toc.follow"], "search": "../../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.config.lang": "ja", "search.config.pipeline": "trimmer, stemmer", "search.config.separator": "[\\s\\-\uff0c\u3002]+", "search.placeholder": "\u641c\u7d22", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version.title": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}}</script>
+<script src="../../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+<script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+</html>
