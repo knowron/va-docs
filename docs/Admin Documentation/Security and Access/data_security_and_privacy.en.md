@@ -23,9 +23,8 @@ Yes, we are fully GDPR compliant.
 
 ## How reliable is your infrastructure?
 
-We deploys our code on top tier cloud computing platforms such as Amazon Web Services that supports comprehensive security and compliance certifications, including PCI-DSS, HIPAA/HITECH, FedRAMP, GDPR, FIPS 140-2, and NIST 800-171. 
+We deploy our code on top-tier cloud computing platforms such as Amazon Web Services that support comprehensive security and compliance certifications, including PCI-DSS, HIPAA/HITECH, FedRAMP, GDPR, FIPS 140-2, and NIST 800-171.
 
-The data-center is located within Europe for EU customers and their data. For network security, systems are behind virtual private cloud where only certain IP’s are allowed to access the system.
+The data center is located within Europe for EU customers and their data. For network security, systems are behind a virtual private cloud where only certain IPs are allowed to access the system.
 
-All server and network components are continuously monitored by internal staff and by the colocation providers. Access to each system, network device, and application is limited to authorized personnel, and login details within the event logs are
-reviewed on a continual basis.
+All server and network components are continuously monitored by internal staff and by the colocation providers. Access to each system, network device, and application is limited to authorized personnel, and login details within the event logs are reviewed continually.

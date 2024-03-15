@@ -1,4 +1,4 @@
-# Update-Index
+# Updates 
 
 Hallo! Auf dieser Seite versuchen wir, Sie über alle neuen Funktionen und Änderungen im ASMPT Virtual Assist und in der Virtual Assist Web auf dem Laufenden zu halten.
 
@@ -6,8 +6,8 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 
 ## 2024
 
-- [Product Update Virtual Assist Web v1.18.0](2024/product_update_control_suite_v1.19.0.de.md)
-- [Product Update Virtual Assist App v1.10.0](2024/product_update_native_assistant_v1.10.0.de.md)
+- [Produktupdate Virtual Assist Web v1.18.0](2024/product_update_control_suite_v1.19.0.de.md)
+- [Produktupdate Virtual Assist App v1.10.0](2024/product_update_native_assistant_v1.10.0.de.md)
 
 ## 2023
 

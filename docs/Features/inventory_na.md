@@ -1,6 +1,7 @@
 # Inventory
 
-The `Inventory` function is meant to give you an overview of the machines you have downloaded, which you can always access when offline.
+The 'Inventory' function is meant to give you an overview of the machines you have downloaded, which you can always access when offline.
+
 
 <p align="center"><img src="https://i.imgur.com/1TiFLda.jpg" width="40%"></p>
 

@@ -68,17 +68,22 @@ nav:
       - "Features/linksharing.md"
   - Virtual Assist Web Features:
       - "Features/insights.md"
-      - "Features/search.md"
       - "Features/tutorials.md"
       - "Features/documents.md"
       - "Features/articles.md"
+
+
       - "Features/adminpanel.md"
   - Virtual Assist App Features:
       - "Features/documents_na.md"
+
       - "Features/logbook.md"
       - "Features/supportscreen.md"
       - "Features/pushnotifications.md"
 
+  - Search: 
+      - "Features/search.md"
+      - "Features/language_priority_in_search.md"
   - Admin:
 
       - Security and Access:

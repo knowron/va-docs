@@ -29,13 +29,16 @@ They can read and write everything in the system and can make decisions about wh
 
 |                       | Create | Edit | Delete | View |
 |-----------------------|--------|------|--------|------|
+| **Insights Dashboard**    |✅|✅|✅|✅|
 | **Search**                |➖|➖|➖|✅|
 | **Tutorials**             |✅|✅|✅|✅|
 | **Documents**             |✅|✅|✅|✅|
 | **Troubleshooting**       |✅|✅|✅|✅|
 | **Product Lines**         |✅|✅|✅|✅|
+| **Machine Inventory**     |✅|✅|✅|✅|
+| **Logbook**               |✅|✅|✅|✅|
 | **Users**                 |✅|✅|✅|✅|
-| **Search Feedback Loops** |✅|✅|✅|✅|
+
 
 ### Editor
 
@@ -48,13 +51,17 @@ Editors are **not** entitled to change global settings, or invite other colleagu
 
 |                       | Create | Edit | Delete | View |
 |-----------------------|--------|------|--------|------|
+| **Insights Dashboard**    |✅|✅|✅|✅|
 | **Search**                |➖|➖|➖|✅|
 | **Tutorials**             |✅|✅|✅|✅|
 | **Documents**             |✅|✅|✅|✅|
 | **Troubleshooting**       |✅|✅|✅|✅|
 | **Product Lines**         |✅|✅|✅|✅|
+| **Machine Inventory**     |✅|✅|✅|✅|
+| **Logbook**               |✅|✅|✅|✅|
 | **Users**                 |❌|❌|❌|❌|
-| **Search Feedback Loops** |✅|✅|✅|✅|
+
+
 
 ### Viewer
 
@@ -66,13 +73,17 @@ They can see all **content units** (tutorials, troubleshooting, documents and pr
 
 |                       | Create | Edit | Delete | View |
 |-----------------------|--------|------|--------|------|
+| **Insights Dashboard**    |❌|❌|❌|❌|
 | **Search**                |➖|➖|➖|✅|
 | **Tutorials**             |❌|❌|❌|✅|
 | **Documents**             |❌|❌|❌|✅|
 | **Troubleshooting**       |❌|❌|❌|✅|
 | **Product Lines**         |❌|❌|❌|✅|
+| **Machine Inventory**     |❌|❌|❌|✅|
+| **Logbook**               |❌|❌|❌|❌|
 | **Users**                 |❌|❌|❌|❌|
-| **Search Feedback Loops** |❌|❌|❌|✅|
+
+
 
 ## How to change a users' role
 
