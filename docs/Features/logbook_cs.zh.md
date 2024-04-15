@@ -4,11 +4,11 @@
 
 ## 如何开始使用机器日志
 您可以先简单地导航到侧边菜单中的“日志”图标。
-<p align="center"><img src="https://i.imgur.com/bKFk3ht.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/VIWwq3D.gif" width="80%"></p>
 
 或者，在选择计算机后，您可以通过单击“计算机清单”页面上的任一按钮来访问特定计算机的日志条目或直接创建日志条目。您可以在 [其功能页面](./machineinventory.md) 中找到有关使用计算机清单的更多信息。
 
-<p align="center"><img src="https://i.imgur.com/i8QIb6W.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/NOAHSdM.gif" width="80%"></p>
 
 ### 查看日志条目
 
@@ -30,7 +30,7 @@
 
 <p align=“center”>
 <视频控件自动播放宽度=“100%”>
-        <source src="https://i.imgur.com/T5EOnQU.mp4" type="video/mp4"> 
+        <source src="https://i.imgur.com/RIytQBk.mp4" type="video/mp4"> 
 </video>
 </p>
 

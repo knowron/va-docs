@@ -180,6 +180,11 @@ replace_pairs = [
     #
     ("https://i.imgur.com/NETD64k.gif","https://i.imgur.com/kHjpJQo.gif"),
 
+    ("https://i.imgur.com/T5EOnQU.mp4", "https://i.imgur.com/RIytQBk.mp4",
+     ),
+     ("https://i.imgur.com/i8QIb6W.gif", "https://i.imgur.com/NOAHSdM.gif"),
+     ("https://i.imgur.com/bKFk3ht.gif", "https://i.imgur.com/VIWwq3D.gif")
+
     
     #################### Machine Inventory ######################
 

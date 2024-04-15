@@ -6,11 +6,11 @@
 ## Erste Schritte mit dem Maschinenlogbuch
 Sie können beginnen, indem Sie einfach zum "Logbuch"-Symbol in Ihrem Seitenmenü navigieren. 
 
-<p align="center"><img src="https://i.imgur.com/bKFk3ht.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/VIWwq3D.gif" width="80%"></p>
 
 Alternativ können Sie auf die Logbucheinträge einer bestimmten Maschine zugreifen oder direkt einen Logbucheintrag erstellen, indem Sie auf eine der beiden Schaltflächen auf der Seite Maschineninventar klicken, nachdem Sie Ihre Maschine ausgewählt haben. Weitere Informationen zur Verwendung des Maschineninventars finden Sie auf der [Funktionsseite](./machineinventory.md).
 
-<p align="center"><img src="https://i.imgur.com/i8QIb6W.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/NOAHSdM.gif" width="80%"></p>
 
 ### Logbucheinträge einsehen
 
@@ -32,7 +32,7 @@ Wählen Sie anschließend einfach eine Kategorie, einen Titel und eine Beschreib
 
 <p align="center">
     <Video steuert die automatische Wiedergabe width="100%">
-        <source src="https://i.imgur.com/T5EOnQU.mp4" type="video/mp4"> 
+        <source src="https://i.imgur.com/RIytQBk.mp4" type="video/mp4"> 
     </video>
 </p>
 

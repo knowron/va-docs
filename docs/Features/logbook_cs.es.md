@@ -6,11 +6,11 @@
 ## Cómo empezar con el libro de registro de la máquina
 Puede comenzar simplemente navegando hasta el icono del "libro de registro" en su menú lateral. 
 
-<p align="center"><img src="https://i.imgur.com/bKFk3ht.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/VIWwq3D.gif" width="80%"></p>
 
 Alternativamente, puede acceder a las entradas del libro de registro de una máquina específica o crear directamente las entradas del libro de registro haciendo clic en cualquiera de los botones de la página Inventario de máquinas, después de haber seleccionado su máquina. Encontrará más información sobre el uso del inventario de máquinas en [su página de características](./machineinventory.md).
 
-<p align="center"><img src="https://i.imgur.com/i8QIb6W.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/NOAHSdM.gif" width="80%"></p>
 
 ### Visualización de las entradas del libro de registro
 
@@ -32,7 +32,7 @@ Después, sólo tienes que seleccionar una categoría, un título y una descripc
 
 <p align="center">
     < controles de video autoplay width="100%">
-        <source src="https://i.imgur.com/T5EOnQU.mp4" type="video/mp4"> 
+        <source src="https://i.imgur.com/RIytQBk.mp4" type="video/mp4"> 
     </video>
 </p>
 

@@ -6,11 +6,11 @@
 ## How to get started with the machine logbook
 You can start by simply navigating to the “logbook” icon in your side menu. 
 
-<p align="center"><img src="https://i.imgur.com/bKFk3ht.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/VIWwq3D.gif" width="80%"></p>
 
 Alternatively, you can access a specific machine’s logbook entries or directly create a logbook entries by clicking on either button on the Machine Inventory page, after you have selected your machine. You will find more information about using the Machine Inventory in [its feature page](./machineinventory.md).
 
-<p align="center"><img src="https://i.imgur.com/i8QIb6W.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/NOAHSdM.gif" width="80%"></p>
 
 ### Viewing logbook entries
 
@@ -32,7 +32,7 @@ Afterwards, just select a category, title and description for your logbook entry
 
 <p align="center">
     <video controls autoplay width="100%">
-        <source src="https://i.imgur.com/T5EOnQU.mp4" type="video/mp4"> 
+        <source src="https://i.imgur.com/RIytQBk.mp4" type="video/mp4"> 
     </video>
 </p>
 

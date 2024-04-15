@@ -6,11 +6,11 @@
 ## Come iniziare con il registro della macchina
 Puoi iniziare semplicemente navigando fino all'icona "diario di bordo" nel menu laterale. 
 
-<p align="center"><img src="https://i.imgur.com/bKFk3ht.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/VIWwq3D.gif" width="80%"></p>
 
 In alternativa, è possibile accedere alle voci del registro di una macchina specifica o creare direttamente una voce del registro facendo clic su uno dei pulsanti nella pagina Inventario macchina, dopo aver selezionato la macchina. Ulteriori informazioni sull'utilizzo dell'inventario macchine sono disponibili nella [relativa pagina delle funzionalità](./machineinventory.md).
 
-<p align="center"><img src="https://i.imgur.com/i8QIb6W.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/NOAHSdM.gif" width="80%"></p>
 
 ### Visualizzazione delle voci del registro
 
@@ -32,7 +32,7 @@ Successivamente, basta selezionare una categoria, un titolo e una descrizione pe
 
 <p align="center">
     <controlli video autoplay width="100%">
-        <source src="https://i.imgur.com/T5EOnQU.mp4" type="video/mp4"> 
+        <source src="https://i.imgur.com/RIytQBk.mp4" type="video/mp4"> 
     </video>
 </p>
 
