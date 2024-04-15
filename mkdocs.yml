@@ -18,6 +18,12 @@ theme:
       - name: 中文
         link: /zh/
         lang: zh
+      - name: Italiano
+        link: /it/
+        lang: it
+      - name: Español
+        link: /es/
+        lang: es
   features:
     - navigation.indexes
     - navigation.sections
@@ -41,6 +47,8 @@ plugins:
         en: English
         de: Deutsch
         zh: 中文
+        it: Italiano
+        es: Español
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -69,6 +77,8 @@ nav:
   - Search: 
       - "Features/search.md"
       - "Features/language_priority_in_search.md"
+  - Features:
+      - "Features/logbook.md"
   - Virtual Assist Web Features:
       - "Features/insights.md"
       - "Features/tutorials.md"
@@ -80,7 +90,7 @@ nav:
   - Virtual Assist App Features:
       - "Features/documents_na.md"
 
-      - "Features/logbook.md"
+      - "Features/logbook_na.md"
       - "Features/supportscreen.md"
       - "Features/pushnotifications.md"
 
