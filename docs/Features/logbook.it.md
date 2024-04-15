@@ -4,7 +4,7 @@ Il registro digitale funge da **registrazione storica del ciclo di vita di una m
 
 Il diario di bordo digitale consente agli utenti di **creare voci specifiche per le singole macchine**, dove possono condividere contenuti testuali e video per tutti i loro colleghi in officina.
 
-<p align="center"><img src="https://i.imgur.com/anQCIgh.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/oGLLojE.png" width="80%"></p>
 
 ## Come iniziare con il registro della macchina
 Il diario di bordo è disponibile sia per [web](./logbook_cs.md) che per [app mobile](./logbook_na.md). Puoi visitare le pagine corrispondenti per uno sguardo più approfondito su come utilizzarli.
