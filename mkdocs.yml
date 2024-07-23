@@ -24,6 +24,9 @@ theme:
       - name: Español
         link: /es/
         lang: es
+      - name: Polski
+        link: /pl/
+        lang: pl
   features:
     - navigation.indexes
     - navigation.sections
@@ -49,17 +52,16 @@ plugins:
         zh: 中文
         it: Italiano
         es: Español
+        pl: Polski
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
   - md_in_html
-  - attr_list
   - toc:
       permalink: ⚓︎
       permalink_title: Permalink
-  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -74,17 +76,22 @@ nav:
       - "Virtual Assist Web (Web)": "Getting Started/quick-start-guide-cs.md"
       - "Features/answers.md"
       - "Features/linksharing.md"
+      - "Tips to get started": "Getting Started/tips-to-get-started.md"
   - Search: 
       - "Features/search.md"
       - "Features/language_priority_in_search.md"
   - Features:
       - "Features/logbook.md"
+      - "Features/ai_powered_reports.md"
   - Virtual Assist Web Features:
       - "Features/insights.md"
+      - "Features/factory_layout.md"
       - "Features/tutorials.md"
       - "Features/documents.md"
       - "Features/logbook_cs.md"
-      - "Features/articles.md"
+      - Articles:
+        - "Features/Articles/index.md"
+        - "Features/Articles/article_voice_capture.md"
 
 
       - "Features/adminpanel.md"
@@ -96,11 +103,11 @@ nav:
       - "Features/pushnotifications.md"
 
   - Admin:
-
       - Security and Access:
           - "Admin Documentation/Security and Access/product_access_groups.md"
           - "Admin Documentation/Security and Access/roles_and_permissions.md"
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
+
 copyright: Copyright &copy; 2024 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
 extra:
   consent:

@@ -374,6 +374,12 @@ replace_pairs = [
     ("https://apps.apple.com/at/app/knowron-assistant/id1585382448", "https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842"),
 
 
+    # Factory Layout
+    ("https://i.imgur.com/wUyHK0m.gif", "https://i.imgur.com/dy1sXoB.gif"),
+    ("https://i.imgur.com/9c28RuT.gif", "https://i.imgur.com/T6hMz2r.gif"),
+    ("https://i.imgur.com/nbD6uK3.gif", "https://i.imgur.com/2J6nJHQ.gif"),
+    ("https://i.imgur.com/V0Hl8D5.gif", "https://i.imgur.com/cF5LNo3.png"),
+
     # YML config
     ("site_name: KNOWRON", "site_name: Virtual Assist Docs"),
     ("primary: deep orange", "primary: red"),
@@ -389,6 +395,7 @@ replace_pairs = [
     ]
 
 ignore = [".github", "site", ".git"]
+KNOWRON_only_files = ["ai_powered_reports"]
 
 exceptions = [""]
 
@@ -443,6 +450,10 @@ def localize():
         for name in files:
             full_filepath = os.path.join(path, name)
             filename, file_extension = os.path.splitext(full_filepath)
+            if any(word in filename for word in KNOWRON_only_files):
+                # Delete file and continue
+                os.remove(full_filepath)
+                continue
             if (file_extension == ".md" or file_extension=="yml") and not should_be_ignored(path):
                 print("Processing " +filename + "...")
                 replace(full_filepath)
