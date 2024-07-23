@@ -10,7 +10,7 @@ Wenn Sie eine Anfrage an unser System stellen, ist die Sprache Ihrer Anfrage ent
 - **Antwortsprache**: Wenn die Erkennung erfolgreich ist und die erkannte Sprache eine unserer **unterstützten Sprachen** ist, werden wir auf Ihre Anfrage in dieser Sprache antworten.
 
 
-## Schritt 2: Rückgriff auf die UI-Sprache
+## Schritt 2: Rückgriff auf die User Interface (UI)-Sprache
 
 - **Bedingung**: Wenn das System **die Sprache Ihrer Anfrage nicht mit Sicherheit erkennen kann**, gehen wir zum nächsten Schritt über.
 

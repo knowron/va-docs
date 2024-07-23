@@ -12,7 +12,7 @@ When you submit a query to our system, the language used in your query is crucia
 - **Response Language**: If detection is successful and the detected language is one of our **supported languages**, we will respond to your query in that language.
 
 
-## Step 2: Fallback to UI Language
+## Step 2: Fallback to User Interface (UI) Language
 
 
 - **Condition**: If the system **cannot detect the language** of your query with confidence, we proceed to the next step.

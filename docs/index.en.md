@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
 
-ASMPT Virtual Assist is the personal assistant for blue collar workers. **We make organizational knowledge easy to access through one simple search interface.** This means that instead of searching in 4 or 5 different places for the information that you need to get your job done, you only need ASMPT Virtual Assist.
+ASMPT Virtual Assist is the personal assistant for blue collar workers. **We make organizational knowledge easy to access through one simple search interface.** Instead of searching in multiple places for the information you need, just use ASMPT Virtual Assist.
 
 ASMPT Virtual Assist is available on your phone and on the web.
 
@@ -34,7 +34,7 @@ With ASMPT Virtual Assist, there's no question anymore - find everything in one 
 
 **Lightning fast access to your information**
 
-Take out your phone, ask a question with your own words and get the right answer, all in 5 seconds flat. ASMPT Virtual Assist frees your time for the work that matters most.
+Ask a question in your own words from your phone, laptop, or tablet and get the right answer, all in 5 seconds flat. ASMPT Virtual Assist frees your time for the work that matters most.
 
 **ASMPT Virtual Assist answers your questions**
 
@@ -47,3 +47,16 @@ You're an expert in your field, but a little help is always good. Follow step-by
 **Your questions reach the right person every time**
 
 In the event you don't find anything that will help you do your job, your colleagues in technical documentation or first level support should find out so that it doesn't happen again. ASMPT Virtual Assist will let them know.
+
+**Revolutionize Your Service Operations with Digital Twins**
+
+Create digital twins of your factory layout with ASMPT Virtual Assist, ensuring all assembly line data is accessible from one place. Optimize efficiency with real-time access to machine documentation and seamless communication, enhancing operations and preventing unplanned downtime.
+
+**Enhance Operations with a Digital Logbook**
+
+The digital logbook allows users to create machine-specific entries, sharing text and video content with colleagues on the shop floor. Enable your team to stay informed about processes and maintenance through a digital twin, ensuring no information is lost in paperwork or shift changes. 
+
+**Effortless Content Creation with Voice-Based Knowledge Capture**
+
+The Voice Input feature is designed for blue-collar workers to enable hands-free data entry through accurate AI-driven voice technology. Integrating industry-specific templates, it streamlines the capture and documentation of field expertise. 
+

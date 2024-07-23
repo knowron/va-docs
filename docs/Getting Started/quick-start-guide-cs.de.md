@@ -38,7 +38,7 @@ Nach dem Anmelden sehen Sie eine Übersicht über die Produktlinien, die Ihre Ko
 
 Bevor Sie fortfahren können, müssen Sie auswählen, an welcher Produktlinie Sie interessiert sind. Sie müssen einfach darauf klicken, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird sich entfalten, und Sie werden zum Suchbildschirm geleitet.
 
-<p align="center"><img src="https://i.imgur.com/Jo1FQ1D.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/8mwTHUW.png" width="80%"></p>
 
 ---
 
@@ -46,7 +46,7 @@ Bevor Sie fortfahren können, müssen Sie auswählen, an welcher Produktlinie Si
 
 Jetzt müssen Sie nur noch fragen, was Sie wissen möchten. Geben Sie etwas in die Suchleiste ein und drücken Sie die Eingabetaste. ASMPT Virtual Assist wird dann Ihre gesamte Wissensdatenbank durchsuchen und Ihnen die relevantesten Ergebnisse anzeigen.
 
-Unten finden Sie eine Beispiel-Interaktion für die Suche nach der Frage `Bei welcher Luftfeuchtigkeit kann der Drucker verwendet werden?`
+Unten finden Sie eine Beispiel-Interaktion für die Suche nach der Frage `Was ist 3D Drücken?`
 
 <p align="center"><img src="https://i.imgur.com/DxAwOmD.png" width="70%"></p>
 
@@ -54,7 +54,7 @@ Wir können Ihnen Ergebnisse aus folgenden Ressourcen anzeigen:
 
 - [Dokumenten](documents.md)
 - [Tutorials](tutorials.md)
-- [Artikeln](articles.md)
+- [Artikeln](../Features/Articles/index.md)
 - [Expertenantworten](insights.md#expert-answers) 
 
 In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und vielem mehr anzeigen können!
@@ -92,3 +92,7 @@ Sie haben die Möglichkeit, aus den von unserem Team bereitgestellten Kontrollk�
 Das Herabstufen der Generativen Antwort löst ein Fenster aus, das es Ihnen ermöglicht, Gründe aus einer von unserem Team bereitgestellten Liste auszuwählen, oder Sie können Ihre eigene Erklärung dafür abgeben, warum Sie glauben, dass die Antwort nicht korrekt ist.
 
  <p align="center"><img src="https://i.imgur.com/M3FruL3.png" width="80%"></p>
+
+ **Hochstufen der Generierten Antwort**
+
+Positive Rückmeldungen durch ein Daumen-hoch-Signal verbessern signifikant die Relevanz und Priorität von Dokumenten in zukünftigen Suchen. Wenn Nutzer angeben, dass ein Dokument wertvoll ist, priorisieren unsere Algorithmen es, verbessern die Sichtbarkeit und stellen sicher, dass hochwertige Inhalte für alle Nutzer leicht zugänglich bleiben.

@@ -1,7 +1,7 @@
 
 # Insights
 
-The Insights Dashboard makes sure that editors and admins can understand how well their system was performing and were empowered to close the knowledge gaps in their organization.
+The Insights Dashboard ensures that editors and admins can understand how well their system is performing and empowers them to close the knowledge gaps in their organization.
 
 Through interactive visualizations and detailed analytics, the Insights Dashboard enables editors and administrators to view the impact of their content strategy. It highlights areas of success, allowing them to replicate effective approaches, while also pinpointing potential shortcomings that may contribute to knowledge gaps
 
@@ -48,7 +48,8 @@ The feedback feature helps editors to respond to user feedback and contribute ex
 
 <p align="center"><img src="https://i.imgur.com/GsuoKLV.png" width="100%"></p>
 
-The editing page allows for inclusion of detailed answers and also facilitates the attachment of relevant sources such as [articles](articles.en.md), [documents](documents.en.md), and [tutorials](tutorials.en.md) to enhance the credibility of the response.
+
+The editing page allows for inclusion of detailed answers and also facilitates the attachment of relevant sources such as [articles](./Articles/index.en.md), [documents](documents.md), and [tutorials](tutorials.md) to enhance the credibility of the response.
 
 The `Status` indicates whether an answer has been added to the user's feedback. 
 

@@ -3,6 +3,9 @@
 
     El libro de registro de la máquina también está disponible para [web](./logbook_cs.md). Para obtener más información general sobre la función de libro de registro, visite nuestra [página de características](./logbook.md).
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <iframe width="340" height="600" src="https://www.loom.com/embed/17772bd8e28b45b092d499f6e647c498?sid=ff39838d-0114-4f02-8516-360875222f02" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ## Cómo empezar con el libro de registro de la máquina
 Primero, escanee la máquina a cuyo libro de registro desea acceder. Puede hacerlo escaneando el código QR adjunto o escribiendo el número de serie. A continuación, basta con pulsar el icono "Cuaderno de bitácora" :material-history: debajo de la imagen del producto.

@@ -4,7 +4,7 @@ Dokumente, die sich auf Ihr Produkt oder Ihre Produktlinie beziehen, repräsenti
 
 Hier sehen Sie, welche Arten von Dateien unterstützt werden [hier](documents.de.md#dateitypen).
 
-![Dokumentendiagramm](https://i.imgur.com/QrtEaVR.png)
+![Dokumentendiagramm](https://i.imgur.com/g7UdYgZ.png)
 
 !!! Tipp 
     Dokumente können als einzelne Datei oder als gesamter Ordner hochgeladen werden.
@@ -15,13 +15,13 @@ Hier sehen Sie, welche Arten von Dateien unterstützt werden [hier](documents.de
 
 Diese Funktion vereinfacht den Zugriff auf das Dokument, indem es in einem Schiebefenster geöffnet wird. Diese Funktion ermöglicht es Ihnen, das Dokument bequem vorab anzuzeigen und zu lesen.
 
-<p align="center"><img src="https://i.imgur.com/HCfry0o.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/CkhOC3v.gif" width="80%"></p>
 
 ### 2. **Herunterladen**
 
 Diese Funktion ermöglicht es Ihnen, Dokumente direkt auf Ihre Geräte herunterzuladen.
 
-<p align="center"><img src="https://i.imgur.com/TYc9Qxv.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/vURLboF.png" width="80%"></p>
 
 ### 3. **Bearbeiten**
 
@@ -33,7 +33,7 @@ Diese Funktion öffnet einen Dialog, in dem Sie den Titel des Dokuments bearbeit
 
 Sie können den **Titel** des Dokuments bearbeiten, der in den Suchergebnissen angezeigt wird, obwohl auch der ursprüngliche **Dateiname** in der Dokumententabelle angezeigt wird.
 
-![Tabelle](https://i.imgur.com/T792Jhy.png)
+![Tabelle](https://i.imgur.com/YHMNpY3.png)
 
 #### **Erstellungsdatum**
 
@@ -66,12 +66,13 @@ Nachdem Tags zu Dokumenten hinzugefügt wurden, können Benutzer ihre Suchergebn
 
 Diese Funktion entfernt das Dokument aus Ihrem System.
 
-<p align="center"><img src="https://i.imgur.com/stBe7FW.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/qDPaeBH.gif" width="100%"></p>
 
 ### 5. **Teilen**
 
 Diese Funktion erleichtert die Zusammenarbeit, indem Sie Dokumente einfach mit Ihren Kollegen teilen können. Für weitere Informationen zu den Berechtigungen besuchen Sie [Link Sharing](linksharing).
-<p align="center"><img src="https://i.imgur.com/HDEov7H.png" width="80%"></p>
+
+<p align="center"><img src="https://i.imgur.com/CesfqkI.png" width="80%"></p>
 
 ## **Status**
 

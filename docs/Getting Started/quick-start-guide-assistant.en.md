@@ -78,7 +78,7 @@ Now all you have to do is ask what you want to know. ASMPT Virtual Assist will t
 
 The results are illustrated below.
 
-<p align="center"><img src="https://i.imgur.com/XUkQLiO.gif" width="300"></p>
+<p align="center"><img src="https://i.imgur.com/mLXLc5T.gif" width="300"></p>
 
 ---
 
@@ -86,7 +86,7 @@ The results are illustrated below.
 
 Whenever we can, we will show you answers straight from your documentation. If you want to delve deeper, you can use filters and other features, available on the **Search Screen**. Tap on "See more Results" on the Virtual Assist App Panel or select the "Search" icon from the homescreen.
 
-<p align="center"><img src="https://i.imgur.com/HOBy2VG.gif
+<p align="center"><img src="https://i.imgur.com/5fHpzch.gif
 " width="300"></p>
 
 We can show you results from the following resources:
@@ -94,6 +94,7 @@ We can show you results from the following resources:
 - Documents
 - Tutorials
 - Articles
+- Expert Answers
 
 In the future, we will also be able to show you results from your machine's logbook and much more!
 

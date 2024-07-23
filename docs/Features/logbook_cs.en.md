@@ -3,6 +3,9 @@
 
     The machine logbook is also available for [mobile](./logbook_na.md). For more general information on the logbook feature, visit our [feature page](./logbook.md).
 
+<div style="position: relative; padding-bottom: 59.08096280087527%; height: 0;"><iframe src="https://www.loom.com/embed/bd49664e0da841b081df5fecf5495e2b?sid=0b8683e8-6499-4472-bf42-f8360e451105" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 ## How to get started with the machine logbook
 You can start by simply navigating to the “logbook” icon in your side menu. 
 
@@ -14,7 +17,7 @@ Alternatively, you can access a specific machine’s logbook entries or directly
 
 ### Viewing logbook entries
 
-Simply click on one of the logbook entries to see it. It will open on a side panel, similarly to how [articles](./articles.md) work.
+Simply click on one of the logbook entries to see it. It will open on a side panel, similarly to how [articles](./Articles/index.md) work.
 
 You can also use the filters to search for specific text or the date of the logbook entry to narrow things down.
 
@@ -42,4 +45,6 @@ You can attach any image or video file from our supported [list of file types](.
 
 ## Deleting and editing logbook entries
 
-Coming soon!
+You can edit or delete preciously created entries by clicking on the side panel and deciding if you change the previous content or delete an entry in the logbook.
+
+<p align="center"><img src="https://i.imgur.com/AGI9BmZ.gif" width="80%"></p>

@@ -7,11 +7,13 @@ Link Sharing ist ein leistungsstolzes Werkzeug, das entwickelt wurde, um die Kom
 ### Schritt 1: 
 Navigieren Sie zu der Ressource, die Sie teilen möchten, sei es ein Artikel, ein Tutorial oder ein Dokument.
 ### Schritt 2: 
-Suchen Sie nach dem "Teilen"-Symbol oder der Option, die mit dem Inhalt verbunden ist, den Sie verteilen möchten.
+Suchen Sie nach dem "Teilen"-Symbol <img src="https://i.imgur.com/EMQaeuo.png" width="3%"></img> oder der Option, die mit dem Inhalt verbunden ist, den Sie verteilen möchten.
 ### Schritt 3:
 Klicken Sie auf das "Teilen"-Symbol, und ein Dialogfenster wird erscheinen.
 ### Schritt 4: 
 Klicken Sie auf "Link kopieren" und teilen Sie den Link mit Ihren Kollegen.
+
+<p align="center"><img src="https://i.imgur.com/Wfs7GXJ.gif" width="90%"></p>
 
 ## Freigabeberechtigungen
 Unsere Plattform arbeitet mit einem rollenbasierten Zugriffssystem, das bedeutet, dass jedem Teammitglied spezifische Rollen mit vordefinierten Berechtigungen zugewiesen werden. Die Link Sharing-Funktion ist auf diejenigen Teammitglieder beschränkt, die die entsprechenden Berechtigungen haben, um auf Inhalte im Zusammenhang mit einer Produktlinie zuzugreifen und sie anzusehen.

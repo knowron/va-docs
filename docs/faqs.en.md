@@ -25,13 +25,13 @@ For a more detailed description, you can simply follow our quick start guides fo
 
 ## How does the API work? 
 
-At the moment, there is no public API. If you are interested in building integrations, please get in contact with our team for the enterprise package.
+At the moment, there is no public API. If you are interested in building integrations, please get in contact with our team with [support@knowron.com](mailto:support@knowron.com) for the enterprise package.
 
-## How do I search the uploaded documents?
+## How do I access the uploaded documents?
 
 To view all the documents that have been uploaded in the system, you can go to the tools selection after choosing a product and selecting `All Documents:`
 
-<p align="center"><img src="https://i.imgur.com/T242eAD.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/IhHamNN.png" width="90%"></p>
 
 
 ## Why does my keyword search not work? 
@@ -68,20 +68,19 @@ For mobile, you have to go to the settings of the application on the top right, 
 
 Downloading a document can be done by accessing the Actions panel within the table and selecting the **Download** option, whether from the `All Documents` tab or the `Documents` tab.
 
-<p align="center"><img src="https://i.imgur.com/NkcdoSV.png" width="80%"></p>
-
+<p align="center"><img src="https://i.imgur.com/XkMXsQv.png" width="90%"></p>
 
 ## What functions are available in the platform?
 
-See [our documentation](./index.md).
+See [our documentation](./index.md) for a detailed breakdown of our features and their descriptions.
 
 ## I forgot my password, how do I retrieve it?
 
-In case you forgot your password, please select the option for this case on the login menu. 
+In case you forgot your password, please select the option for this case on the [login menu of the Virtual Assist Web](https://virtualassist.smt.asmpt.com/). Here, please put the email from the account you want to recover, and we will send a one-time password for you to gain access to your account again and set a new password.
 
-<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="50%"></p>
- 
-Here, please put the email from the account you want to recover, and we will send a one-time password for you to gain access to your account again and set a new password.
+<p align="center"><img src="https://i.imgur.com/pNODVOv.gif" width="100%"></p>
 
-<p align="center"><img src="https://i.imgur.com/10hlFfM.png" width="50%"></p>
+Here's a video guiding you through it:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b8c1a93065294bb38513e0f4e623db04?sid=684b7475-6c4c-4e7d-aa3d-78de4ee8e23d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

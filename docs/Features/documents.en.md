@@ -4,7 +4,7 @@ Documents related to your product or product line represent one of the content u
 
 See here what types of files are supported [here](documents.md#file-types).
 
-![Documents Diagram](https://i.imgur.com/QrtEaVR.png)
+![Documents Diagram](https://i.imgur.com/g7UdYgZ.png)
 
 
 !!! tip 
@@ -16,14 +16,14 @@ See here what types of files are supported [here](documents.md#file-types).
 
 This function simplifies document access by opening it in a sliding tab. This feature allows you to conveniently preview and read the document. 
 
-<p align="center"><img src="https://i.imgur.com/HCfry0o.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/CkhOC3v.gif" width="80%"></p>
 
 
 ### 2. **Download**
 
 This function enables you to save documents directly to your devices
 
-<p align="center"><img src="https://i.imgur.com/TYc9Qxv.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/vURLboF.png" width="80%"></p>
 
 ### 3. **Edit**
 
@@ -35,7 +35,7 @@ This function prompts a dialog where you can edit the Document's title, change t
 
 You can edit the document's **Title**, which will be displayed in the search results, although the original **File name** will also be shown in the Documents table. 
 
-![Table](https://i.imgur.com/T792Jhy.png)
+![Table](https://i.imgur.com/YHMNpY3.png)
 
 #### **Date created**
 
@@ -71,14 +71,14 @@ Once tags have been added to documents, users can filter their search results by
 
 This function removes the document from your system
 
-<p align="center"><img src="https://i.imgur.com/stBe7FW.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/qDPaeBH.gif" width="100%"></p>
 
 
 ### 5. **Share** 
 
 This function facilitates collaboration by allowing you to easily share documents with your colleagues. For my details about permissions, check out [Link Sharing](linksharing).
 
-<p align="center"><img src="https://i.imgur.com/HDEov7H.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/CesfqkI.png" width="80%"></p>
 
 
 ## **Status** 

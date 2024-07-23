@@ -1,24 +1,24 @@
-# 快速入门指南：虚拟助手 Web （Web）
+# 快速入门指南：Virtual Assist Web （Web）
 
-此页面将指导您完成开始使用 **ASMPT Virtual Assist Virtual Assist Web** 所需的所有信息。如果您需要任何问题或支持，[请直接与我们联系](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)
+本页将指导您了解开始使用**ASMPT Virtual Assist控制套件**所需的所有知识。如果您需要任何问题或支持，[请 directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist 联系我们）！
 
 <p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"></p>
 
 ---
 
-## 步骤 1。登录 Virtual Assist Web
+## 步骤 1。登录控制套件
 
-Virtual Assist Web 可通过以下方式访问：[访问 Virtual Assist Web](https://virtualassist.smt.asmpt.com/){ .md-button }
+控制套件可通过以下方式访问：[访问控制套件]（https://virtualassist.smt.asmpt.com/）{ .md-button }
 
-您只需要您的电子邮件和ASMPT Virtual Assist密码即可登录系统。您的 **电子邮件** 通常是您的工作电子邮件。您可以在收到的电子邮件中找到您的 **密码**，邀请您在ASMPT虚拟助手上加入您的组织（见下文）。
+您只需要您的电子邮件和 ASMPT Virtual Assist 密码即可登录系统。您的**电子邮件**通常是您的工作电子邮件。您可以在收到的电子邮件中找到您的**密码**，邀请您加入您的ASMPT Virtual Assist组织（见下文）。
 
-??? info "需要帮助查找密码或邀请电子邮件"
+???信息“需要帮助查找密码或邀请电子邮件？
 
-    <p align="center"> <img src="https://i.imgur.com/QKwIRJ3.png" width="100%"><figcaption>This is where you find your password in the invitation email.</figcaption></p>
+    <p align="center"><img src="https://i.imgur.com/QKwIRJ3.png" width="100%"><figcaption>This is where you find your password in the invitation email.</figcaption></p>
 
-    如果您忘记了密码，可以在 [virtualassist.smt.asmpt.com](https://virtualassist.smt.asmpt.com/） 上重置密码。只需单击“忘记密码”，然后按照屏幕上的说明进行操作。
+如果您忘记了密码，可以直接在 [virtualassist.smt.asmpt.com]（https://virtualassist.smt.asmpt.com/） 上重置密码。只需单击“忘记密码”，然后按照屏幕上的说明进行操作。
 
-    如果您没有收到邀请您加入 ASMPT Virtual Assist 的电子邮件，请联系正在使用它的同事或 [在此处请求访问权限](https://smt.asmpt.com/en/products/software-solutions/virtual-assist）。
+如果您尚未收到邀请您加入 ASMPT Virtual Assist 的电子邮件，请联系正在使用它的同事或 [在此处请求访问]（mailto:ali@knowron.com？subject=Request for Access&body=Hi，%0D%0A%0D%0AI 无法访问系统。请提供支持。%0D%0A%0D%0A欢迎您！
 
 获得电子邮件和密码后，只需输入并登录即可！
 
@@ -32,7 +32,7 @@ Virtual Assist Web 可通过以下方式访问：[访问 Virtual Assist Web](htt
 
 登录后，您将看到同事创建的产品线的概述。
 
-**产品线**代表您的组织支持的机器、工厂或流程，您每天使用这些机器、工厂或流程。产品线为ASMPT虚拟助手系统提供了背景信息，即您问的问题是什么？
+**产品线** 代表您的组织支持的机器、工厂或流程，您每天使用这些机器、工厂或流程。产品线可以提供ASMPT Virtual Assist系统的背景信息，即您在问什么问题？
 
 在继续之前，您必须选择您感兴趣的产品线。您只需单击它，屏幕左侧的上下文菜单就会展开，您将被带到搜索屏幕。
 
@@ -42,9 +42,9 @@ Virtual Assist Web 可通过以下方式访问：[访问 Virtual Assist Web](htt
 
 ## 第 3 步。问一个问题
 
-现在你所要做的就是问你想知道什么。在搜索栏中输入并按回车键。然后，ASMPT虚拟助手将遍历您的整个知识库，并向您显示最相关的结果。
+现在你所要做的就是问你想知道什么。在搜索栏中输入内容，然后按 Enter。然后，ASMPT Virtual Assist将遍历您的整个知识库，并向您展示最相关的结果。
 
-以下是“如何更换 CP 20 P2 上的 DP 驱动器？
+下面是“打印机可以在什么湿度下使用？
 
 <p align="center"><img src="https://i.imgur.com/DxAwOmD.png" width="70%"></p>
 
@@ -55,27 +55,27 @@ Virtual Assist Web 可通过以下方式访问：[访问 Virtual Assist Web](htt
 -文章
 - 专家解答
 
-将来，我们还将能够向您展示机器日志的结果等等！
+将来，我们还将能够向您展示您机器日志的结果等等！
 
 !!!提示“提出问题会给你带来更好的结果”
 
-ASMPT Virtual Assist 使用最先进的 NLP 来了解您正在寻找的内容并提出最相关的结果。如果将查询表述为**问题**，它将产生**更好的结果**。
+ASMPT Virtual Assist使用最先进的NLP来了解您正在寻找的内容并带来最相关的结果。如果将查询表述为“问题”，则会产生“更好的结果”。
 
 >示例
 
-不要问“DP 驱动器 CP 20 P2”，而是问“如何更换 CP 20 P2 上的 DP 驱动器？
+不要问“打印机湿度”，而是问“打印机可以在什么湿度下使用？
 
 ---
 
 ## 第 4 步。提供反馈
 
-只有提供反馈，ASMPT虚拟助手才能变得更好！搜索算法将考虑反馈，甚至会帮助您的同事为组织中的每个人创建更好的内容。
+只有您提供反馈，ASMPT Virtual Assist才能变得更好！搜索算法将考虑反馈，甚至可以帮助您的同事为组织中的每个人创建更好的内容。
 
 您可以通过以下两种方式之一提供反馈：
 
 **结果没有帮助**
 
-单击“结果没有帮助”将触发一个窗口，允许您指定您认为提供的生成答案不正确的原因。
+单击“结果无用”将触发一个窗口，允许您指定您认为提供的生成答案不正确的原因。
 
  <p align="center"><img src="https://i.imgur.com/FRdYNgK.png" width="80%"></p>
 

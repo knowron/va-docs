@@ -4,11 +4,11 @@ Link Sharing is a powerful tool designed to streamline communication and foster 
 
 ## How to share a link on Virtual Assist Web?
 
-### **Step 1** 
+### **Step 1:** 
 Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
 
 ### **Step 2:**
-Look for the "Share" <img src="https://i.imgur.com/EMQaeuo.png" width="6%"></img> icon or option associated with the content you want to distribute.
+Look for the "Share" <img src="https://i.imgur.com/EMQaeuo.png" width="3%"></img> icon or option associated with the content you want to distribute.
 
 ### **Step 3:**
 Click on the "Share" icon, and a dialog box will appear
@@ -16,7 +16,7 @@ Click on the "Share" icon, and a dialog box will appear
 ### **Step 4:**
 Click on "Copy Link" and distribute the link among your collegues 
 
-<p align="center"><img src="https://i.imgur.com/cHpbe5G.gif" width="90%"></p>
+<p align="center"><img src="https://i.imgur.com/Wfs7GXJ.gif" width="90%"></p>
 
 
 ## Sharing permissions 
@@ -30,9 +30,11 @@ This ensures only authorized individuals can participate in knowledge-sharing, p
 
 ## How to share a link on the Virtual Assist App?
 
-### **Step 1:** Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
+### **Step 1:** 
+Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
 
-### **Step 2:** Click on the  <img src="https://i.imgur.com/eiLSxBv.jpg" width="6%"></img> icon, and distribute the link among your collegues.
+### **Step 2:** 
+Click on the  <img src="https://i.imgur.com/eiLSxBv.jpg" width="3%"></img> icon, and distribute the link among your collegues.
 
 <p align="center"><img src="https://i.imgur.com/6YBUY6z.gif" width="40%"></p>
 

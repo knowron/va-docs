@@ -1,4 +1,4 @@
-# Push notifications 
+# Push Notifications 
 
 
 ### What are push notifications?

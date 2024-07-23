@@ -3,6 +3,8 @@
 
     Das Maschinenlogbuch ist auch für [mobile](./logbook_na.md) verfügbar. Weitere allgemeine Informationen zur Logbuch-Funktion finden Sie auf unserer [Feature-Seite](./logbook.md).
 
+<div style="position: relative; padding-bottom: 59.08096280087527%; height: 0;"><iframe src="https://www.loom.com/embed/bd49664e0da841b081df5fecf5495e2b?sid=0b8683e8-6499-4472-bf42-f8360e451105" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Erste Schritte mit dem Maschinenlogbuch
 Sie können beginnen, indem Sie einfach zum "Logbuch"-Symbol in Ihrem Seitenmenü navigieren. 
 
@@ -14,7 +16,7 @@ Alternativ können Sie auf die Logbucheinträge einer bestimmten Maschine zugrei
 
 ### Logbucheinträge einsehen
 
-Klicken Sie einfach auf einen der Logbucheinträge, um ihn zu sehen. Es wird in einem Seitenbereich geöffnet, ähnlich wie [articles](./articles.md).
+Klicken Sie einfach auf einen der Logbucheinträge, um ihn zu sehen. Es wird in einem Seitenbereich geöffnet, ähnlich wie [articles](./Articles/index.md).
 
 Sie können die Filter auch verwenden, um nach einem bestimmten Text oder dem Datum des Logbucheintrags zu suchen, um die Dinge einzugrenzen.
 
@@ -42,4 +44,6 @@ Sie können jede Bild- oder Videodatei aus unserer unterstützten [Liste der Dat
 
 ## Logbucheinträge löschen und bearbeiten
 
-Demnächst!
+Sie können bereits erstellte Einträge bearbeiten oder löschen, indem Sie auf das Seitenpanel klicken und entscheiden, ob Sie den vorherigen Inhalt ändern oder einen Eintrag im Logbuch löschen möchten.
+
+<p align="center"><img src="https://i.imgur.com/AGI9BmZ.gif" width="80%"></p>

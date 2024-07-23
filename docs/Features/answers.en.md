@@ -10,26 +10,26 @@ Here are a few examples of why you didn't get the desired answer and how to fix 
 
 #### Your query was asked too broadly and no answer can be formulated from the top results.
 
- <p align="center"><img src="https://i.imgur.com/nBP5YAx.png" width="100%"></p>
+ <p align="center"><img src="https://i.imgur.com/iSuXI5T.png" width="100%"></p>
 
 To obtain accurate information, we recommend narrowing down your search by using more specific keywords or phrases related to your query. Refining your search criteria will help generate relevant results tailored to your needs.
 
 Formulating the query **as a question** and adding specific details will result in a generative answer:
 
- <p align="center"><img src="https://i.imgur.com/UCXLTSH.png" width="100%"></p>
+ <p align="center"><img src="https://i.imgur.com/Xnt2bfa.png" width="100%"></p>
 
 
 #### The information you are looking for is not found in the documents provided
 
 In some instances, it is possible that not all documents related to a specific product or product line have been uploaded by your organization. If you come across missing documents, please click on the `Notify` button, and we will promptly make the requested documents available for you.
  
- <p align="center"><img src="https://i.imgur.com/sWnOeQ5.png" width="100%"></p>
+ <p align="center"><img src="https://i.imgur.com/uPc7s54.png" width="100%"></p>
 
 #### You were looking for something that is in an image
 
-Our current system does not support image recognition for extracting text from images. Our expertise lies in natural language processing and tasks centered around textual data. 
+Our current system does not support image recognition for extracting text from images. Our expertise lies in natural language processing and tasks centered around textual data. We also offer Object Character Recognition (OCR) to work with screenshots and documentations based on images, to extract the different text on it. For more information, please contact [support@knowron.com](mailto:support@knowron.com).
 
- <p align="center"><img src="https://i.imgur.com/Vn18LIp.png" width="100%"></p>
+ <p align="center"><img src="https://i.imgur.com/2EZ3CG5.png" width="100%"></p>
 
 As it can be seen in this example the answer to the query `What is included in the basic support plan?` leads to a piece of text from an image. Since the system cannot identify text in images, there is no generated answer provided for this query. 
 

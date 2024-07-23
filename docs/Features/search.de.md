@@ -1,7 +1,8 @@
 # Suche
 
 Produktlinien repräsentieren die Maschinen, Anlagen oder Prozesse, die Ihre Organisation unterstützt, mit denen Sie täglich arbeiten. Produktlinien dienen dazu, dem ASMPT Virtual Assist-System Kontext zu geben - d.h. worum geht es bei Ihren Fragen? Bevor Sie mit Ihrer Suche beginnen, müssen Sie auswählen, an welcher Produktlinie Sie interessiert sind. Sie müssen einfach darauf klicken, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird sich entfalten, und Sie werden zum Suchbildschirm geleitet.
-Die Suchfunktion ermöglicht es Ihnen, Fragen zu einer gesamten Produktlinie oder zu einer bestimmten Maschine in allen von Ihnen oder anderen Benutzern erstellten oder hochgeladenen Inhaltseinheiten zu stellen. Diese Inhalteinheiten sind in Form von [Dokumenten](documents.de.md), [Tutorials](tutorials.de.md), [Artikeln](articles.de.md) oder [Expertenantworten](insights.de.md#expertenantworten) verfügbar, damit wir das wertvollste Ergebnis für Ihre Anfrage liefern können.
+
+Die Suchfunktion ermöglicht es Ihnen, Fragen zu einer gesamten Produktlinie oder zu einer bestimmten Maschine in allen von Ihnen oder anderen Benutzern erstellten oder hochgeladenen Inhaltseinheiten zu stellen. Diese Inhalteinheiten sind in Form von [Dokumenten](documents.de.md), [Tutorials](tutorials.de.md), [Artikeln](./Articles/index.md) oder [Expertenantworten](insights.de.md#expertenantworten) verfügbar, damit wir das wertvollste Ergebnis für Ihre Anfrage liefern können.
 
 <p align="center"><img src="https://i.imgur.com/DxAwOmD.png" width="80%"></p>
 
@@ -46,10 +47,13 @@ Zusätzlich können Sie die Dokumente basierend auf dem **Veröffentlichungsdatu
 Sie können Ihre Suche durch Verwendung von Tags als Filter verfeinern, um sicherzustellen, dass Sie ausschließlich Antworten aus Artikeln oder Dokumenten erhalten, die mit den von Ihnen gewählten Tags oder Tags verbunden sind. Tags sind auch hierarchisch organisiert und ermöglichen die Verwendung mehrerer Ebenen von Tagkategorien wie `Software` oder `Benutzerhandbücher`.
 
 !!! Information "**Wo kann ich Tags hinzufügen?** "
-     Sehen Sie sich an, wie Sie Tags zu [Dokumenten](documents.md) oder [Artikeln](articles.md) hinzufügen können.
+    Hier finden Sie, wie Sie Tags zu [Dokumenten](documents.md) oder [Artikeln](./Articles/index.md) hinzufügen können.
 
-<p align="center"><img src="" width="80%"></p>
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/PiGX4g8.mp4" type="video/mp4">
+    </video>
+</div>
 ---
 ## Feedback
 
@@ -70,3 +74,7 @@ Sie haben die Möglichkeit, aus den von unserem Team bereitgestellten Kontrollk�
 Das Herunterstufen der generativen Antwort löst ein Fenster aus, das es Ihnen ermöglicht, Gründe aus einer Liste auszuwählen, die von unserem Team bereitgestellt wird, oder Sie können Ihre eigene Erklärung dafür abgeben, warum Sie glauben, dass die Antwort nicht korrekt ist.
 
 <p align="center"><img src="https://i.imgur.com/M3FruL3.png" width="80%"></p>
+
+**Hochstufen der Generativen Antwort**
+
+Durch das Hochstufen der Generativen Antwort helfen Sie uns zu verstehen, dass die bereitgestellten Informationen nützlich und genau waren. Dieses Feedback unterstützt unser Team dabei, qualitativ hochwertige Antworten zu erkennen und das System kontinuierlich zu verbessern. Diese Interaktion trägt dazu bei, dass das Dokument in zukünftigen Suchen relevanter wird und mehr Sichtbarkeit in zukünftigen Interaktionen erhält.

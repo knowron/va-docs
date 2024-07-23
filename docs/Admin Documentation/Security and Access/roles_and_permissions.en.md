@@ -91,6 +91,4 @@ They can see all **content units** (tutorials, troubleshooting, documents and pr
 
     By default, only admins can change other users' roles. If you are not an admin and require a role change, please contact your manager.
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vvCPLvc_bmM" title="Editing users' roles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<p align="center"><img src="https://i.imgur.com/CdsfoEC.gif" width="100%"></p>

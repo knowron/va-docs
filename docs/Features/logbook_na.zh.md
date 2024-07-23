@@ -2,6 +2,9 @@
 !!!注意
     机器日志也可用于 [web](./logbook_cs.md)。有关日志功能的更多一般信息，请访问我们的 [功能页面](./logbook.md)。
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <iframe width="340" height="600" src="https://www.loom.com/embed/17772bd8e28b45b092d499f6e647c498?sid=ff39838d-0114-4f02-8516-360875222f02" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ## 如何开始使用机器日志
 首先，扫描要访问其日志的计算机。您可以通过扫描随附的二维码或输入序列号来执行此操作。之后，只需点击产品图片下方的“日志” :material-history: 图标即可！

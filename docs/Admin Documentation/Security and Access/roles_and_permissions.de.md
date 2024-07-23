@@ -76,6 +76,4 @@ Sie können alle **Inhaltseinheiten** (Anleitungen, Fehlersuche, Dokumente und P
 
     Standardmäßig können nur Administratoren die Rollen anderer Benutzer ändern. Wenn Sie kein Administrator sind und eine Rollenänderung benötigen, wenden Sie sich bitte an Ihren Manager.
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vvCPLvc_bmM" title="Editing users' roles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<p align="center"><img src="https://i.imgur.com/CdsfoEC.gif" width="100%"></p>

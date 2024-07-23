@@ -3,6 +3,9 @@
 
     Il registro della macchina è disponibile anche per il [web](./logbook_cs.md). Per informazioni più generali sulla funzione del registro, visita la nostra [pagina delle funzionalità](./logbook.md).
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <iframe width="340" height="600" src="https://www.loom.com/embed/17772bd8e28b45b092d499f6e647c498?sid=ff39838d-0114-4f02-8516-360875222f02" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ## Come iniziare con il registro della macchina
 Innanzitutto, eseguire la scansione della macchina a cui si desidera accedere al registro. Puoi farlo scansionando il codice QR ad esso allegato o digitando il numero di serie. Successivamente, tocca semplicemente l'icona "Registro" :material-history: sotto l'immagine del prodotto!

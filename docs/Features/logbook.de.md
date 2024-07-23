@@ -4,7 +4,11 @@ Das digitale Logbuch dient als **historische Aufzeichnung des Lebenszyklus einer
 
 Das digitale Logbuch ermöglicht es den Benutzern, **maschinenspezifische Einträge zu erstellen**, in denen sie Text- und Videoinhalte für alle ihre Kollegen in der Werkstatt freigeben können.
 
-<p align="center"><img src="https://i.imgur.com/oGLLojE.png" width="80%"></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/ZSVQ7Ja.mp4" type="video/mp4">
+    </video>
+</div>
 
 ## Erste Schritte mit dem Maschinenlogbuch
 Das Logbuch ist sowohl für die [web](./logbook_cs.md) als auch für die [mobile App](./logbook_na.md) verfügbar. Sie können die entsprechenden Seiten besuchen, um einen tieferen Einblick in die Verwendung zu erhalten.

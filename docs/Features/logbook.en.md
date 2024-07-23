@@ -4,7 +4,11 @@ The digital logbook serves as a **historical record of a machine's lifecycle**. 
 
 The digital logbook allows users to **create entries specific to individual machines**, where they can share text and video content for all their colleagues in the shop floor.
 
-<p align="center"><img src="https://i.imgur.com/oGLLojE.png" width="80%"></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/ZSVQ7Ja.mp4" type="video/mp4">
+    </video>
+</div>
 
 ## How to get started with the machine logbook
 The logbook is available for both the [web](./logbook_cs.md) and the [mobile app](./logbook_na.md). You can visit the corresponding pages for a more in-depth look at how to use them.

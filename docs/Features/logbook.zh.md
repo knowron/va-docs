@@ -4,7 +4,11 @@
 
 数字日志允许用户**创建特定于单个机器的条目**，他们可以在车间为所有同事共享文本和视频内容。
 
-<p align="center"><img src="https://i.imgur.com/oGLLojE.png" width="80%"></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/ZSVQ7Ja.mp4" type="video/mp4">
+    </video>
+</div>
 
 ## 如何开始使用机器日志
 日志可用于 [web](./logbook_cs.md) 和 [移动应用程序](./logbook_na.md)。您可以访问相应的页面，更深入地了解如何使用它们。
