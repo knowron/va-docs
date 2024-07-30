@@ -5,7 +5,7 @@ Articles allow you, editors and admins, to create free-form content. While Tutor
 ## How to create an Article?
 
 As an user with the **Admin** or **Editor** role you can create, edit or delete Articles.
-To create an Article, all you have to do is click on the `Create` button and the Articles dialog will be prompted open. 
+To create an Article, all you have to do is click on the `Create` button and the Articles dialog will be opened. 
 
 <p align="center"><img src="https://i.imgur.com/1HSh18N.gif" width="100%"></p>
 
