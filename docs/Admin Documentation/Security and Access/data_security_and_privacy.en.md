@@ -21,6 +21,12 @@ Our data backup model provides near real-time database replication to ensure cus
 
 Yes, we are fully GDPR compliant.
 
+## Are You ISO 27001 Certified?
+
+Yes, our company is ISO 27001 certified. This certification confirms our commitment to implementing and maintaining robust information security management systems.
+
+For further details on our security measures, please contact our team.
+
 ## How reliable is your infrastructure?
 
 We deploy our code on top-tier cloud computing platforms such as Amazon Web Services that support comprehensive security and compliance certifications, including PCI-DSS, HIPAA/HITECH, FedRAMP, GDPR, FIPS 140-2, and NIST 800-171.

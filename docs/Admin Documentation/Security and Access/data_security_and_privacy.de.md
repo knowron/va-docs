@@ -20,6 +20,10 @@ Unser Daten-Backup-Modell bietet eine nahezu Echtzeit-Datenbankreplikation, um s
 
 Vollständige Backups werden täglich durchgeführt und verschlüsselt in einer Umgebung gespeichert, die physisch vom Primärsystem getrennt ist, um Fehlertoleranz zu gewährleisten.
 
+## Sind Sie ISO 27001 zertifiziert?
+
+Ja, unser Unternehmen ist nach ISO 27001 zertifiziert. Diese Zertifizierung bestätigt unser Engagement für die Umsetzung und Aufrechterhaltung robuster Informationssicherheitsmanagementsysteme.
+
 ## Sind sie DSGVO-konform?
 
 Ja, wir sind vollständig DSGVO-konform.
