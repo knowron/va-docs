@@ -83,7 +83,6 @@ nav:
       - "Features/language_priority_in_search.md"
   - Features:
       - "Features/logbook.md"
-      - "Features/ai_powered_reports.md"
   - Virtual Assist Web Features:
       - "Features/insights.md"
       - "Features/factory_layout.md"
