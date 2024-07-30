@@ -368,6 +368,11 @@ replace_pairs = [
     ("<arturo@knowron.com>", "[us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)"),
     ("ask@knowron.com", "asm-support.df@asmpt.com"),
     ("arturo@knowron.com", "asm-support.df@asmpt.com"),
+    ("support@knowron.com", "asm-support.df@asmpt.com"),
+    ("sales@knowron.com", "asm-support.df@asmpt.com"),
+    ("ali@knowron.com", "asm-support.df@asmpt.com"),
+    ("feedback@knowron.com", "asm-support.df@asmpt.com"),
+
     
     ("https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron", "https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant"),
     ("https://apps.apple.com/en-us/app/knowron-assistant/id1585382448", "https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842"),
@@ -391,6 +396,8 @@ replace_pairs = [
     ("      - \"Features/charts.md\"", ""),
     ("      - \"Admin Documentation/subtenancy.md\"", ""),
     ("      - \"Features/inventory_na.md\"", ""),
+    ("https://www.linkedin.com/company/knowron/", "https://www.linkedin.com/company/asmpt-smt-solutions/"),
+    ("dev_addr: 127.0.0.1:8001", "dev_addr: 127.0.0.1:8006"),
     
     ]
 

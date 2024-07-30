@@ -1,4 +1,5 @@
 site_name: ASMPT Virtual Assist
+dev_addr: 127.0.0.1:8006
 theme:
   name: material
   language: en
@@ -128,7 +129,7 @@ extra:
     
   social:
         - icon: fontawesome/brands/linkedin
-          link: https://www.linkedin.com/company/knowron/
+          link: https://www.linkedin.com/company/asmpt-smt-solutions/
           name: ASMPT Virtual Assist on LinkedIn
         - icon: fontawesome/solid/envelope
           link: mailto:<asm-support.df@asmpt.com>
