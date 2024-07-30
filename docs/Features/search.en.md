@@ -1,7 +1,8 @@
 #  Search
 
-Product lines represent the machines, plants or processes your organization supports which you work with every day. Product lines are there to give the ASMPT Virtual Assist system context - i.e. what are you asking questions about? Before you start with your search, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen. \
-The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of [documents](documents.md), [tutorials](tutorials.md), [articles](articles.md) or [expert answers](insights.md#expert-answers) so we can get you the most valuable result for your query.
+Product lines represent the machines, plants or processes your organization supports which you work with every day. Product lines are there to give the ASMPT Virtual Assist system context - i.e. what are you asking questions about? Before you start with your search, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen. 
+
+The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of [documents](documents.md), [tutorials](tutorials.md), [articles](./Articles/index.md) or [expert answers](insights.md#expert-answers) so we can get you the most valuable result for your query.
 
 <p align="center"><img src="https://i.imgur.com/DxAwOmD.png" width="80%"></p>
 
@@ -9,9 +10,12 @@ The response generated is a stochastic outcome to your query, supported by the l
 
 Wanna learn more about [AI Generated Answers](answers.md)?
 
-!!! tip "Improve your results!"
-        If you formulate your question as a complete sentence 
-        with "?" at the end, the search results improve compared to a simple query.
+--- 
+## **Cross-Product Search**
+
+Cross-Product Search enhances the precision and efficiency of information retrieval across your knowledge database. This feature allows users to focus their queries within specific product categories or groups, ensuring more relevant search results and quicker access to specific items. By defining the search scope to include specific groups or machines, users can streamline the process of finding necessary information, reducing the need to sift through irrelevant data or identify the right machine.
+
+In addition to product-specific searches, Cross-Product Search can scan through all your documents, making it easier to locate essential information. This feature simplifies information search, making it faster and more intuitive, thereby enhancing the overall user experience.
 
 ---
 ##  **Search Results**
@@ -20,28 +24,7 @@ The results of your query are prioritized by relevancy and then recency. That is
 
 !!! information "**Translated Results** "
       The automated translation will be indicated by the following tag and banner:
-<<<<<<< Updated upstream:docs/Features/search.md
       <p align="center"><img src="https://i.imgur.com/YegCmA4.png" width="80%"></p>
-=======
-      <p align="center"><img src="https://i.imgur.com/SpsQqvY.png" width="100%"></p>
-
-
-Results of a search query are marked with tags indicating the original language of the content, as well as from where the answer was extracted: **documents**, **tutorials**, or **articles**.
-
-![Diagramm](https://i.imgur.com/CD1u49W.png)
-
-### **Verified results** 
-
-A verified result indicates that this particular answer to the search query you performed has been marked by an Admin or Editor from your organization as being correct.
-
-![Verified Answer](https://i.imgur.com/ox2ah0e.png) 
-
-### **Extracted Answer** 
-
-Extracted answers are your responses to your query, formulated as a question with a clear, direct answer. As seen below, asking, `What is the torque for a CPP head?` gives the direct definition of PLA in bold text for better visualization. 
-
-![Extracted Answer](https://i.imgur.com/GEniWOM.png) 
->>>>>>> Stashed changes:docs/Features/search.en.md
 
 
 Results of a search query are marked with tags indicating the original language of the content, as well as from where was the answer extracted: [documents](documents),  [tutorials](tutorials) or [articles](articles).
@@ -57,7 +40,7 @@ You can filter based on the existing languages supported by your organization. T
 
 Selecting the tag “All Languages“ will provide results in all languages that are listed in the filter dropdown. Choosing only one Language will show you results in that Language and documents that have been translated from their original Language to your selected filter.
 
-IIf you wish for the system to support a language other than our default options(`English`,`German`, `Spanish`, `Chinese`), please reach out to our [sales team](mailto:sales@knowron.com).
+IIf you wish for the system to support a language other than our default options(`English`,`German`, `Spanish`, `Chinese`), please reach out to our [sales team](mailto:asm-support.df@asmpt.com).
 
 
 <p align="center"><img src="https://i.imgur.com/6IlcwDO.png" width="80%"></p>
@@ -73,9 +56,8 @@ Additionally, you can filter the documents based on the **publication date** of 
 You can refine your search by using tags as filters, ensuring that you receive responses exclusively from articles or documents associated with the specific tag or tags you've chosen. Additionally, tags are organized in a hierarchical structure, enabling the use of multiple levels of tag categories such as `Software` or `User Manuals`.
 
 !!! information "**Where can I add tags?** "
-      Check out how to add tags to [Documents](documents.md) or [Articles](articles.md)
+      Check out how to add tags to [Documents](documents.md) or [Articles](./Articles/index.md)
 
- <p align="center"><img src="" width="80%"></p>
 
 --- 
 ## Feedback
@@ -100,5 +82,8 @@ Downvoting the Generative Answer will prompt a window that enables you to choose
 
  <p align="center"><img src="https://i.imgur.com/M3FruL3.png" width="80%"></p>
 
+**Upvoting the Generative Answer**
+
+Upvoting the Generative Answer helps us understand that the provided information was useful and accurate. This feedback assists our team in recognizing high-quality responses and continuously improving the system. This interaction will make the document more relevant in future searches and will give it more visibility in future interactions.
 
 

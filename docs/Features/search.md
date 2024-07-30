@@ -32,7 +32,7 @@ You can filter based on the existing languages supported by your organization. T
 
 Selecting the tag “All Languages“ will provide results in all languages that are listed in the filter dropdown. Choosing only one Language will show you results in that Language and documents that have been translated from their original Language to your selected filter.
 
-IIf you wish for the system to support a language other than our default options(`English`,`German`, `Spanish`, `Chinese`), please reach out to our [sales team](mailto:sales@knowron.com).
+IIf you wish for the system to support a language other than our default options(`English`,`German`, `Spanish`, `Chinese`), please reach out to our [sales team](mailto:asm-support.df@asmpt.com).
 
 
 <p align="center"><img src="https://i.imgur.com/6IlcwDO.png" width="80%"></p>
@@ -50,7 +50,6 @@ You can refine your search by using tags as filters, ensuring that you receive r
 !!! information "**Where can I add tags?** "
       Check out how to add tags to [Documents](documents.md) or [Articles](articles.md)
 
- <p align="center"><img src="" width="80%"></p>
 
 --- 
 ## Feedback
