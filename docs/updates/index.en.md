@@ -6,7 +6,14 @@ Visit the child pages to learn more!
 
 ## 2024
 
-- [Product Update Virtual Assist Web v1.18.0](2024/product_update_control_suite_v1.19.0.en.md)
+### Virtual Assist Web
+- [Product Update Virtual Assist Web v1.31.0](2024/product_update_control_suite_v1.31.0.en.md)
+- [Product Update Virtual Assist Web v1.30.0](2024/product_update_control_suite_v1.30.0.en.md)
+- [Product Update Virtual Assist Web v1.19.0](2024/product_update_control_suite_v1.19.0.en.md)
+
+### Virtual Assist App
+- [Product Update Virtual Assist App v1.13.0](2024/product_update_native_assistant_v1.13.0.en.md)
+- [Product Update Virtual Assist App v1.12.0](2024/product_update_native_assistant_v1.12.0.en.md)
 - [Product Update Virtual Assist App v1.10.0](2024/product_update_native_assistant_v1.10.0.en.md)
 
 ## 2023
