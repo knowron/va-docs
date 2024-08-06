@@ -1,4 +1,4 @@
-# Tips to Get started
+# Tips to Get Started
 
 ### **Looking for a file?**
 
