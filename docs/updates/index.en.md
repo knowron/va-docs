@@ -7,6 +7,7 @@ Visit the child pages to learn more!
 ## 2024
 
 ### Virtual Assist Web
+- [Product Update Virtual Assist Web v1.34.0](2024/product_update_control_suite_v1.34.0.en.md)
 - [Product Update Virtual Assist Web v1.33.0](2024/product_update_control_suite_v1.33.0.en.md)
 - [Product Update Virtual Assist Web v1.31.0](2024/product_update_control_suite_v1.31.0.en.md)
 - [Product Update Virtual Assist Web v1.30.0](2024/product_update_control_suite_v1.30.0.en.md)

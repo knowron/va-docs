@@ -77,7 +77,7 @@ nav:
       - "Virtual Assist Web (Web)": "Getting Started/quick-start-guide-cs.md"
       - "Features/answers.md"
       - "Features/linksharing.md"
-      - "Tips to get started": "Getting Started/tips-to-get-started.md"
+      - "Getting Started/tips-to-get-started.md"
   - Search: 
       - "Features/search.md"
       - "Features/language_priority_in_search.md"

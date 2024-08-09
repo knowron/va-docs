@@ -7,6 +7,7 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 ## 2024
 
 ### Virtual Assist Web
+- [Produktupdate Virtual Assist Web v1.34.0](2024/product_update_control_suite_v1.34.0.de.md)
 - [Produktupdate Virtual Assist Web v1.33.0](2024/product_update_control_suite_v1.33.0.de.md)
 - [Produktupdate Virtual Assist Web v1.31.0](2024/product_update_control_suite_v1.31.0.de.md)
 - [Produktupdate Virtual Assist Web v1.30.0](2024/product_update_control_suite_v1.30.0.de.md)
