@@ -1,3 +1,5 @@
+# Product Update Virtual Assist App V1.10.0
+
 ## Product Update on Virtual Assist App: Hierarchical Tags & Bug fixes
 
 Here at ASMPT Virtual Assist we've been working on a couple of features and improvements we think will make your life and that of your colleagues easier!

@@ -1,3 +1,5 @@
+# Product Update Virtual Assist App V1.13.0
+
 ## Virtual Assist App Update: Advanced Audio Capture Enhancements
 
 We’re thrilled to announce exciting improvements to the audio capture functionality within the Virtual Assist App mobile app. These updates are designed to elevate the quality of voice interactions and streamline the way audio data is integrated into your reports. The latest enhancements focus on providing a more reliable and seamless audio capture experience.

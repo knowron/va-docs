@@ -1,3 +1,5 @@
+# Product Update Virtual Assist Web V1.30.0
+
 ## Product Update on Virtual Assist Web: Logbook Update, Voice Capture in Articles, and Fixes!
 
 We’re excited to share a range of new features and improvements that will enhance your experience with Virtual Assist Web. From new functionalities to important fixes, our latest updates are designed to streamline your workflow and improve usability. Here's a rundown of what’s new!

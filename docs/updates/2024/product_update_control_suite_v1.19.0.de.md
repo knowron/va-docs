@@ -1,3 +1,5 @@
+# Produktupdate Virtual Assist Web V1.19.0
+
 ## Produktupdate: Verbesserungen und neue Funktionen in Virtual Assist Web
 
 Wir freuen uns, einige fantastische Updates und Funktionen zu teilen, an denen wir bei ASMPT Virtual Assist gearbeitet haben! Diese Verbesserungen sollen Ihren Workflow optimieren und Ihr Erlebnis in Virtual Assist Web verbessern.

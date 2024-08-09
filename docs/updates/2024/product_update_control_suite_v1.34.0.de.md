@@ -1,3 +1,5 @@
+# Produktupdate Virtual Assist Web V1.34.0
+
 ## Produkt-Update für Virtual Assist Web: Verbesserte Produktlinien-Filter, Wissensdatenbank und neue Tutorial-Funktionen
 
 Wir freuen uns, Ihnen mehrere wichtige Updates vorstellen zu können, die Ihre Benutzererfahrung verbessern und Ihren Arbeitsablauf optimieren. Dieses Release enthält neue Funktionen für Produktlinien-Filter, Verbesserungen der Tutorial-Oberfläche und eine neue Wissensdatenbank, die darauf abzielt, Ihre Interaktionen mit der Virtual Assist Web intuitiver und effizienter zu gestalten. Nachfolgend finden Sie eine detaillierte Übersicht der Neuerungen und Verbesserungen!

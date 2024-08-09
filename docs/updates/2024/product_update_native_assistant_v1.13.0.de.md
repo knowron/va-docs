@@ -1,3 +1,5 @@
+# Produktupdate Virtual Assist App V1.13.0
+
 ## Virtual Assist App Update: Verbesserte Audioaufnahme
 
 Wir freuen uns, spannende Verbesserungen an der Audioaufnahmefunktionalität der Virtual Assist App Mobile App bekannt zu geben. Diese Updates wurden entwickelt, um die Qualität der Sprachinteraktionen zu erhöhen und die Integration von Audiodaten in Ihre Berichte zu optimieren. Die neuesten Verbesserungen konzentrieren sich darauf, ein zuverlässigeres und nahtloseres Audioaufnahmeerlebnis zu bieten.

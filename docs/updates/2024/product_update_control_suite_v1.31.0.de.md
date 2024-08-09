@@ -1,3 +1,5 @@
+# Produktupdate Virtual Assist Web V1.31.0
+
 ## Produktupdate für Virtual Assist Web: Neue Produktlinien-Detailkarte, verbesserte Sprachfunktionen und optimierte Filter
 
 Wir freuen uns, eine Reihe von Updates vorzustellen, die Ihre Erfahrung mit Virtual Assist Web verbessern werden. Diese Verbesserungen umfassen neue Funktionen zur Anzeige von Produktdetails, erweiterte Sprachfunktionen, verbesserte Such- und Filteroptionen sowie eine erweiterte Lokalisierungsunterstützung. Hier ist eine detaillierte Übersicht der Neuerungen und Verbesserungen!

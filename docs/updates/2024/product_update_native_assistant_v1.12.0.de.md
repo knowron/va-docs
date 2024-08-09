@@ -1,3 +1,5 @@
+# Produktupdate Virtual Assist App V1.12.0
+
 ## Virtual Assist App Update: Neue Seiten, Verbesserte Berichtsfunktionen und Optimierte Funktionalität
 
 Wir freuen uns, eine Reihe neuer Funktionen und Verbesserungen für die Virtual Assist App Mobile App vorzustellen. Dieses Update umfasst die Erstellung neuer Seiten, Verbesserungen bei der Berichterstellung und -überprüfung sowie verschiedene Fehlerbehebungen. Hier ist eine detaillierte Übersicht über die Neuerungen und Verbesserungen!

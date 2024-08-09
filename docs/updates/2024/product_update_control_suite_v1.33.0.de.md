@@ -1,3 +1,5 @@
+# Produktupdate Virtual Assist Web V1.33.0
+
 ## Produkt-Update in Virtual Assist Web: Produktübergreifende Suche, Französisch-Unterstützung und Benutzer-Onboarding-Überarbeitung
 
 Wir freuen uns, mehrere wirkungsvolle Updates in der Virtual Assist Web ankündigen zu können. Diese Verbesserungen zielen darauf ab, das Benutzererlebnis mit neuen Funktionen zur Filterung von Dokumenten, Sprachunterstützung und Benutzer-Onboarding durch UserGuiding zu verbessern. Hier ist eine detaillierte Übersicht über die Neuerungen und Verbesserungen!

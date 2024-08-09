@@ -1,3 +1,5 @@
+# Produktupdate Virtual Assist Web V1.30.0
+
 ## Produkt-Update für Virtual Assist Web: Logbuch-Update, Sprachaufnahmen in Artikeln und Fehlerbehebungen!
 
 Wir freuen uns, eine Reihe neuer Funktionen und Verbesserungen vorzustellen, die Ihr Erlebnis mit Virtual Assist Web verbessern werden. Von neuen Funktionalitäten bis hin zu wichtigen Fehlerbehebungen sind unsere neuesten Updates darauf ausgelegt, Ihre Arbeitsabläufe zu optimieren und die Benutzerfreundlichkeit zu verbessern. Hier ein Überblick über die Neuheiten!
