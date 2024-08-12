@@ -8,6 +8,8 @@ Wir freuen uns, Ihnen mehrere wichtige Updates vorstellen zu können, die Ihre B
 
 Wir haben neue Produktlinien-Filter eingeführt, die zu den Expertenantworten, Feedback und Suchverlauf hinzugefügt wurden. Diese Verbesserung ermöglicht es Redakteuren, relevante Informationen einfacher zu finden, indem sie nach verschiedenen Produktlinien filtern. Diese Funktion verbessert die Durchsuchbarkeit und stellt sicher, dass die relevantesten Inhalte schnell zugänglich sind, was Zeit spart und die Produktivität steigert.
 
+<p align="center" style="padding: 20px;"><img src="https://i.imgur.com/yhKn1Mu.png" width="80%"></p>
+
 ### 📚 **Einführung der Wissensdatenbank: Zentraler Zugriff auf Informationen**
 
 Wir freuen uns, die neue Wissensdatenbank in der Virtual Assist Web vorzustellen, die einen zentralen und effizienten Zugriff auf Wissen ermöglicht. Die Wissensdatenbank bündelt verschiedene Ressourcen, einschließlich Artikel, Tutorials und Dokumente über verschiedene Produktlinien hinweg, an einem leicht zugänglichen Ort.
@@ -24,7 +26,7 @@ Wir freuen uns, die neue Wissensdatenbank in der Virtual Assist Web vorzustellen
 
 3. **Hochladen und Verwalten von Dokumenten:**
    Die Wissensdatenbank umfasst auch die Möglichkeit, Dokumente direkt in diesem Abschnitt hochzuladen und zu verwalten. Dadurch wird sichergestellt, dass alle relevanten Materialien organisiert und leicht zugänglich sind, was die Dokumentenverwaltung vereinfacht.
-   <p align="center"  style="padding: 20px;"><img src="https://i.imgur.com/apMXHV6.gif" width="80%"></p>
+   <p align="center"  style="padding: 20px;"><img src="https://i.imgur.com/HTLRqnZ.gif" width="80%"></p>
 
 ### 🎓 **Standardisierte Tutorial-Oberfläche mit Filterleiste**
 
@@ -32,7 +34,6 @@ Wir haben wesentliche Verbesserungen im Tutorial-Bereich vorgenommen und ihn nä
 
 ### 🏭 **Verbesserungen im Fabriklayout**
 
-Wir haben zwei wesentliche Updates im Bereich des Fabriklayouts vorgenommen, um die Benutzerfreundlichkeit zu verbessern. Erstens wurde die Zielseite nach der Erstellung eines Logbuch-Eintrags basierend auf dem Benutzerfeedback neu gestaltet, um ein intuitiveres Erlebnis zu gewährleisten. Zweitens wurde die Schaltfläche zur Erstellung einer Linie an eine prominentere Position verschoben, damit sie leichter zugänglich ist, insbesondere wenn mehrere Linien vorhanden sind.
-
+Wir haben zwei wichtige Aktualisierungen im Bereich “Factory Layout” vorgenommen, um die Benutzerfreundlichkeit zu verbessern. Erstens wurde der Navigationsfluss der Zielseite nach dem Erstellen eines Logbucheintrags basierend auf dem Nutzerfeedback geändert, um eine intuitivere Erfahrung nach dem Erstellen eines Eintrags zu gewährleisten. Dies wird die Nutzung und Interaktion mit dem Logbuch für alle unsere Nutzer fördern. Zweitens wurde der Button zur Erstellung von Produktionslinien an eine prominentere Stelle verschoben, um den Zugriff zu erleichtern, insbesondere wenn mehrere Linien vorhanden sind.
 
 
