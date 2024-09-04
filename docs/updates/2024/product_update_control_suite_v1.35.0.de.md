@@ -16,6 +16,12 @@ Wir freuen uns, die neue Funktion der maschinenspezifischen Dokumentsuche bekann
 
 <p align="center" style="padding: 20px;"><img src="https://i.imgur.com/T5wWuqH.png" width="40%"></p>
 
+### 🗂️ Schichtberichte für eine verbesserte Kommunikation
+
+Wir haben eine neue Funktion eingeführt, die es Benutzern ermöglicht, **Schichtberichte** zu speichern. Diese funktionieren ähnlich wie Logbucheinträge, sind jedoch speziell mit einer Montagelinie verknüpft. Schichtberichte ermöglichen es den Benutzern, wichtige Ereignisse während ihrer Schicht zu protokollieren und zu speichern, wodurch wichtige Informationen an einem zentralen Ort festgehalten werden. Dies erleichtert die Kommunikation von wichtigen schichtbezogenen Updates an Kollegen, verbessert die Teamkoordination insgesamt und sorgt dafür, dass alle in Echtzeit über das Geschehen informiert sind.
+
+<p align="center" style="padding: 20px;"><img src="https://i.imgur.com/XzAtXhC.png" width="100%"></p>
+
 ### 🆕 Verbesserte Verwaltung von Testnutzern
 
 Die Verwaltung von Testnutzern ist jetzt einfacher und effizienter mit unserem aktualisierten Testmanagement-Prozess. Testversionen laufen automatisch 30 Tage nach dem ersten Login eines Benutzers ab, anstatt ab dem Erstellungsdatum der Instanz. Diese Verbesserungen erleichtern es, Testnutzer in langfristige Kunden umzuwandeln und stellen sicher, dass die Zeit, die sie auf der Plattform verbringen, voll genutzt werden kann, um die Funktionen von ASMPT kennenzulernen.
