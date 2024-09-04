@@ -18,9 +18,9 @@ We’re excited to announce the new machine-specific document search feature. Us
 
 ### 🗂️ Shift Reports for Enhanced Communication
 
-We’ve introduced a new feature allowing users to save **Shift Reports**, which function similarly to logbook entries but are specifically linked to an assembly line. Shift Reports enable users to log and store key events that occur during their specific shifts, ensuring important information is captured in a centralized location. This makes it easier to communicate critical shift-related updates to peers and colleagues, improving overall team coordination and keeping everyone informed of what’s happening in real-time.
+We’ve introduced a new type of logbook entry: **Shift Reports**. These reports are designed to capture information specific to assembly lines and entire factories. With **Shift Reports**, technicians, operators, and shift managers can log and store key events from their shifts in a centralized location. This allows other managers to quickly get an overview of the status in just seconds from the logbook screen.
 
-<p align="center"  style="padding: 20px;"><img src="https://i.imgur.com/XzAtXhC.png" width="100%"></p>
+<p align="center"  style="padding: 20px;"><img src="https://i.imgur.com/yP3hPmD.png" width="100%"></p>
 
 ### 🆕 Streamlined Trial User Management
 
