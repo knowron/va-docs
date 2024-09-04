@@ -1,5 +1,7 @@
 # Product Update Virtual Assist Web V1.31.0
 
+### Released on: 01.07.2024
+
 ## Product Update on Virtual Assist Web: New Product Line Details Card, Enhanced Voice Features, and Improved Filters
 
 We’re excited to share a range of updates designed to enhance your experience with Virtual Assist Web. These improvements include new features for viewing product details, enhanced voice capabilities, better search and filtering options, and expanded localization support. Here’s a detailed overview of what’s new and improved!

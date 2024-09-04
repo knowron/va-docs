@@ -7,6 +7,7 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 ## 2024
 
 ### Virtual Assist Web
+- [Produktupdate Virtual Assist Web v1.35.0](2024/product_update_control_suite_v1.35.0.de.md)
 - [Produktupdate Virtual Assist Web v1.34.0](2024/product_update_control_suite_v1.34.0.de.md)
 - [Produktupdate Virtual Assist Web v1.33.0](2024/product_update_control_suite_v1.33.0.de.md)
 - [Produktupdate Virtual Assist Web v1.31.0](2024/product_update_control_suite_v1.31.0.de.md)
@@ -17,14 +18,3 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 - [Produktupdate Virtual Assist App v1.13.0](2024/product_update_native_assistant_v1.13.0.de.md)
 - [Produktupdate Virtual Assist App v1.12.0](2024/product_update_native_assistant_v1.12.0.de.md)
 - [Produktupdate Virtual Assist App v1.10.0](2024/product_update_native_assistant_v1.10.0.de.md)
-
-## 2023
-
-- [Produktupdate V1.18.0](2023/v1.18.0.de.md)
-- [Dezember Update](2023/december_update.de.md)
-- [Update für Ende Januar](2023/late_jan_update.md)
-
-## 2022
-
-- [Aktualisierung für Ende Dezember](2022/2022-late-dec-update.md)
-- [Aktualisierung für Anfang Dezember](2022/2022-early_dec_updated.md)

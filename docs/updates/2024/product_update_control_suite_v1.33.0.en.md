@@ -1,4 +1,6 @@
-# Product Update Virtual Assist Web V1.3e.0
+# Product Update Virtual Assist Web V1.33.0
+
+### Released on: 02.08.2024
 
 ## Product Update on Virtual Assist Web: Cross-Product Search, French Language Support, and User Onboarding revamp
 

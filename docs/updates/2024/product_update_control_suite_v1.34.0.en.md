@@ -1,5 +1,7 @@
 # Product Update Virtual Assist Web V1.34.0
 
+### Released on: 14.08.2024
+
 ## Product Update on Virtual Assist Web: Enhanced Product Line Filters, Knowledge Base Section, and New Tutorial Features
 
 We’re excited to announce several key updates to improve the search interaction and information management. This release includes new features for product line filtering, enhancements to the tutorials interface, and a new Knowledge Base section, all aimed at making your interactions with Virtual Assist Web more intuitive and efficient. Below is a detailed overview of what’s new and improved!
