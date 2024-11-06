@@ -16,18 +16,6 @@ theme:
       - name: Deutsch
         link: /de/
         lang: de
-      - name: 中文
-        link: /zh/
-        lang: zh
-      - name: Italiano
-        link: /it/
-        lang: it
-      - name: Español
-        link: /es/
-        lang: es
-      - name: Polski
-        link: /pl/
-        lang: pl
   features:
     - navigation.indexes
     - navigation.sections
@@ -50,10 +38,6 @@ plugins:
       languages:
         en: English
         de: Deutsch
-        zh: 中文
-        it: Italiano
-        es: Español
-        pl: Polski
 markdown_extensions:
   - admonition
   - pymdownx.details
