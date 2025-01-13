@@ -2,7 +2,7 @@
 
 Herzlich willkommen zum ASMPT Virtual Assist Produktupdate für Dezember 2023! Wir freuen uns, Ihnen aufregende Neuigkeiten mitteilen zu können, um Ihr Erlebnis zu verbessern und zu einem fröhlichen und produktiven Jahr 2024 beizutragen.
 
-In festlicher Stimmung senden wir herzliche Feiertagsgrüße an alle und freuen uns über die Vielfalt der Festlichkeiten und Traditionen, die diese Jahreszeit so besonders machen. Wie immer laden wir Sie ein, Ihre Gedanken mit uns zu teilen unter [feedback@knowron.com](mailto:feedback@knowron.com).
+In festlicher Stimmung senden wir herzliche Feiertagsgrüße an alle und freuen uns über die Vielfalt der Festlichkeiten und Traditionen, die diese Jahreszeit so besonders machen. Wie immer laden wir Sie ein, Ihre Gedanken mit uns zu teilen unter [asm-support.df@asmpt.com](mailto:asm-support.df@asmpt.com).
 Ein Prosit auf einen wunderbaren Jahresabschluss und einen vielversprechenden Start ins Jahr 2024! 🥂
 
 Die Updates beinhalten:

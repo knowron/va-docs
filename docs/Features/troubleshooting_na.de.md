@@ -25,10 +25,10 @@ Nachdem Sie die Fehlerdiagnose aufgerufen haben, sehen Sie eine Reihe von Fragen
 
 Die Diagnose gibt Ihnen in der Regel auch Hinweise darauf, was Sie zur Fehlerbehebung tun können. Dies kann geschehen in Form von:
 
-- einem Tutorial
-- eines Artikels
-- ein Dokument in Ihrer Wissensdatenbank
-- die Kontaktdaten vom Support-Team Ihrer Service-Organisation
+- Tutorials
+- Artikel
+- Dokumente in Ihrer Wissensdatenbank
+- Kontaktdaten vom Support-Team Ihrer Service-Organisation
 
 <p align="center">
     <img src="https://i.imgur.com/lMmR6Az.gif" width="300">

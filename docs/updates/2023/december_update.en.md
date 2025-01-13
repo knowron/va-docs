@@ -3,7 +3,7 @@
 
 Hello! Welcome to the ASMPT Virtual Assist product update for December 2023. We're thrilled to share some exciting updates with you before the year comes to a close, aiming to enhance your experience and contribute to a joyful and productive 2024 for you and your colleagues. 
 
-In the spirit of celebration, we extend warm holiday wishes to everyone, embracing the diversity of festivities and traditions that make this season special. As always, we invite you to share your thoughts with us at [feedback@knowron.com](mailto:feedback@knowron.com). 
+In the spirit of celebration, we extend warm holiday wishes to everyone, embracing the diversity of festivities and traditions that make this season special. As always, we invite you to share your thoughts with us at [asm-support.df@asmpt.com](mailto:asm-support.df@asmpt.com). 
 Cheers to a wonderful end of the year and a promising start to 2024! 🥂
 
 

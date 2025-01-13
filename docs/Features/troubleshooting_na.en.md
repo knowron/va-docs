@@ -24,10 +24,10 @@ After accessing troubleshooting, you will see a series of questions that try to 
 
 The diagnosis will also normally link you to what to do about it. This can be in the form of:
 
-- a tutorial
-- an article
-- a document in your knowledge base
-- the contact details of the support team of your service organization
+- Tutorials
+- Articles
+- Documents in your knowledge base
+- Contact details of the support team of your service organization
 
 <p align="center">
     <img src="https://i.imgur.com/lMmR6Az.gif" width="300">
