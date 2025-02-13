@@ -10,6 +10,7 @@ Every user has a **role**. This role determines what actions they can take and e
 
 - [Admin](#admin)
 - [Editor](#editor)
+- [Contributor](#contributor)
 - [Viewer](#viewer)
 
 For every system component, we have **permissions** that determine whether a role can execute a given action. Every one of the roles listed above will have a unique combinations of permissions. See below for more information on each of the roles.
@@ -31,9 +32,10 @@ They can read and write everything in the system and can make decisions about wh
 |-----------------------|--------|------|--------|------|
 | **Insights Dashboard**    |✅|✅|✅|✅|
 | **Search**                |➖|➖|➖|✅|
+| **Articles**              |✅|✅|✅|✅|
 | **Tutorials**             |✅|✅|✅|✅|
 | **Documents**             |✅|✅|✅|✅|
-| **Troubleshooting**       |✅|✅|✅|✅|
+| **Expert Answers**        |✅|✅|✅|✅|
 | **Product Lines**         |✅|✅|✅|✅|
 | **Machine Inventory**     |✅|✅|✅|✅|
 | **Logbook**               |✅|✅|✅|✅|
@@ -44,7 +46,7 @@ They can read and write everything in the system and can make decisions about wh
 
 Editors are **content managers**. They are often more first-level support engineers experienced field service engineers that can provide a lot of value with their expertise. They are interested in making sure that their colleagues get the right information at the right time 
 
-They can create, edit and read all **content units** (tutorials, troubleshooting, documents and product lines). They can also create feedback loops to make search better.
+They can create, edit and read all **content units** (tutorials, documents and product lines). They can also create feedback loops to make search better.
 
 Editors are **not** entitled to change global settings, or invite other colleagues onto the platform. They also cannot change any other users' settings.
 
@@ -53,12 +55,31 @@ Editors are **not** entitled to change global settings, or invite other colleagu
 |-----------------------|--------|------|--------|------|
 | **Insights Dashboard**    |✅|✅|✅|✅|
 | **Search**                |➖|➖|➖|✅|
+| **Articles**              |✅|✅|✅|✅|
 | **Tutorials**             |✅|✅|✅|✅|
 | **Documents**             |✅|✅|✅|✅|
-| **Troubleshooting**       |✅|✅|✅|✅|
-| **Product Lines**         |✅|✅|✅|✅|
+| **Expert Answers**        |✅|✅|✅|✅|
+| **Product Lines**         |❌|✅|❌|✅|
 | **Machine Inventory**     |✅|✅|✅|✅|
 | **Logbook**               |✅|✅|✅|✅|
+| **Users**                 |❌|❌|❌|❌|
+
+
+### Contributor
+
+Contributors are viewer users with **advanced access rights for contetn creation**. They are often production line workers who can upload new tutorial or article drafts which have to be validated by an editor or admin. Only then are these drafts published. 
+
+|                       | Create | Edit | Delete | View |
+|-----------------------|--------|------|--------|------|
+| **Insights Dashboard**    |❌|❌|❌|❌|
+| **Search**                |➖|➖|➖|✅|
+| **Articles**              |🟧 (only drafts)|🟧 (only drafts & if owner)|🟧 (only drafts & if owner)|✅|
+| **Tutorials**             |🟧 (only drafts)|🟧 (only drafts & if owner)|🟧 (only drafts & if owner)|✅|
+| **Documents**             |❌|❌|❌|✅|
+| **Expert Answers**        |❌|❌|❌|✅|
+| **Product Lines**         |❌|❌|❌|✅|
+| **Machine Inventory**     |❌|❌|❌|✅|
+| **Logbook**               |✅|✅ (if owner)|✅ (if owner)|✅|
 | **Users**                 |❌|❌|❌|❌|
 
 
@@ -67,7 +88,7 @@ Editors are **not** entitled to change global settings, or invite other colleagu
 
 Viewers are **normal users**. They are the bulk of ASMPT Virtual Assist's user base. They are often service engineer and field technicians that need access to information fast. They don't always have the time or the expertise to create or change content, so they are not allowed to.
 
-They can see all **content units** (tutorials, troubleshooting, documents and product lines) as well as, of course, search.
+They can see all **content units** (tutorials, documents and product lines) as well as, of course, search.
 
 
 
@@ -75,12 +96,13 @@ They can see all **content units** (tutorials, troubleshooting, documents and pr
 |-----------------------|--------|------|--------|------|
 | **Insights Dashboard**    |❌|❌|❌|❌|
 | **Search**                |➖|➖|➖|✅|
+| **Articles**              |❌|❌|❌|✅|
 | **Tutorials**             |❌|❌|❌|✅|
 | **Documents**             |❌|❌|❌|✅|
-| **Troubleshooting**       |❌|❌|❌|✅|
+| **Expert Answers**        |❌|❌|❌|✅|
 | **Product Lines**         |❌|❌|❌|✅|
 | **Machine Inventory**     |❌|❌|❌|✅|
-| **Logbook**               |❌|❌|❌|❌|
+| **Logbook**               |✅|✅ (if owner)|✅ (if owner)|✅|
 | **Users**                 |❌|❌|❌|❌|
 
 
@@ -91,6 +113,4 @@ They can see all **content units** (tutorials, troubleshooting, documents and pr
 
     By default, only admins can change other users' roles. If you are not an admin and require a role change, please contact your manager.
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vvCPLvc_bmM" title="Editing users' roles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<p align="center"><img src="https://i.imgur.com/CdsfoEC.gif" width="100%"></p>

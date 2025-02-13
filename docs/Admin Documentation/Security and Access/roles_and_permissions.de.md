@@ -10,7 +10,8 @@ Jeder Benutzer hat eine **Rolle**. Diese Rolle bestimmt, welche Aktionen sie dur
 
 - [Admin](#admin)
 - [Editor](#editor)
-- [Betrachter](#viewer)
+- [Contributor](#contributor)
+- [Viewer](#viewer)
 
 Für jede Systemkomponente gibt es **Berechtigungen**, die festlegen, ob eine Rolle eine bestimmte Aktion ausführen darf. Jede der oben aufgeführten Rollen hat eine einzigartige Kombination von Berechtigungen. Im Folgenden finden Sie weitere Informationen zu den einzelnen Rollen.
 
@@ -26,49 +27,76 @@ Sie können alles im System lesen und schreiben und können entscheiden, was and
 
     Admins haben Zugang zu allen Komponenten und potenziell sensiblen Daten. Vergewissern Sie sich, dass Sie der Person, die Sie zum Administrator ernennen, vertrauen!
 
-| | Erstellen | Bearbeiten | Löschen | Anzeigen |
-|-----------------------|--------|------|--------|------|
-| **Suchen** |➖|➖|➖|✅|
-| **Anleitungen** |✅|✅|✅|✅|
-| **Dokumente** |✅|✅|✅|✅|
-| **Fehlerbehebung** |✅|✅|✅|✅|
-| **Produktlinien** |✅|✅|✅|✅|
-| **Benutzer** |✅|✅|✅|✅|
-| **Suche Feedback-Schleifen** |✅|✅|✅|✅|
+|                         | Erstellen | Bearbeiten | Löschen | Anzeigen |
+|-------------------------|-----------|-----------|---------|----------|
+| **Insights-Dashboard**  | ✅        | ✅        | ✅      | ✅        |
+| **Suche**               | ➖        | ➖        | ➖      | ✅        |
+| **Artikel**             | ✅        | ✅        | ✅      | ✅        |
+| **Tutorials**           | ✅        | ✅        | ✅      | ✅        |
+| **Dokumente**           | ✅        | ✅        | ✅      | ✅        |
+| **Expertenantworten**   | ✅        | ✅        | ✅      | ✅        |
+| **Produktlinien**       | ✅        | ✅        | ✅      | ✅        |
+| **Maschinenbestand**    | ✅        | ✅        | ✅      | ✅        |
+| **Logbuch**             | ✅        | ✅        | ✅      | ✅        |
+| **Benutzer**            | ✅        | ✅        | ✅      | ✅        |
 
-### Redakteur
+### Editor
 
-Redakteure sind **Inhaltsmanager**. Sie sind oft eher Support-Ingenieure der ersten Ebene, erfahrene Außendiensttechniker, die mit ihrem Fachwissen einen großen Beitrag leisten können. Sie sind daran interessiert, dass ihre Kollegen die richtigen Informationen zur richtigen Zeit erhalten. 
+Editors sind **Inhaltsmanager**. Sie sind oft eher Support-Ingenieure der ersten Ebene, erfahrene Außendiensttechniker, die mit ihrem Fachwissen einen großen Beitrag leisten können. Sie sind daran interessiert, dass ihre Kollegen die richtigen Informationen zur richtigen Zeit erhalten. 
 
-Sie können alle **Inhaltseinheiten** (Anleitungen, Fehlersuche, Dokumente und Produktlinien) erstellen, bearbeiten und lesen. Sie können auch Feedback-Schleifen erstellen, um die Suche zu verbessern.
+Sie können alle **Inhaltseinheiten** (Anleitungen, Dokumente und Produktlinien) erstellen, bearbeiten und lesen. Sie können auch Feedback-Schleifen erstellen, um die Suche zu verbessern.
 
-Redakteure sind **nicht** berechtigt, globale Einstellungen zu ändern oder andere Kollegen auf die Plattform einzuladen. Sie können auch keine Einstellungen anderer Benutzer ändern.
+Editors sind **nicht** berechtigt, globale Einstellungen zu ändern oder andere Kollegen auf die Plattform einzuladen. Sie können auch keine Einstellungen anderer Benutzer ändern.
 
-| | Erstellen | Bearbeiten | Löschen | Anzeigen |
-|-----------------------|--------|------|--------|------|
-| **Suchen** |➖|➖|➖|✅|
-| **Anleitungen** |✅|✅|✅|✅|
-| **Dokumente** |✅|✅|✅|✅|
-| **Fehlerbehebung** |✅|✅|✅|✅|
-| **Produktlinien** |✅|✅|✅|✅|
-| **Benutzer** |❌|❌|❌|❌|
-| **Suche Feedback-Schleifen** |✅|✅|✅|✅|
+|                         | Erstellen | Bearbeiten | Löschen | Anzeigen |
+|-------------------------|-----------|-----------|---------|----------|
+| **Insights-Dashboard**  | ✅        | ✅        | ✅      | ✅        |
+| **Suche**               | ➖        | ➖        | ➖      | ✅        |
+| **Artikel**             | ✅        | ✅        | ✅      | ✅        |
+| **Tutorials**           | ✅        | ✅        | ✅      | ✅        |
+| **Dokumente**           | ✅        | ✅        | ✅      | ✅        |
+| **Expertenantworten**   | ✅        | ✅        | ✅      | ✅        |
+| **Produktlinien**       | ❌        | ✅        | ❌      | ✅        |
+| **Maschinenbestand**    | ✅        | ✅        | ✅      | ✅        |
+| **Logbuch**             | ✅        | ✅        | ✅      | ✅        |
+| **Benutzer**            | ❌        | ❌        | ❌      | ❌        |
 
-### Betrachter
+### Contributor
 
-Admins sind **normale Benutzer**. Sie machen den Großteil der ASMPT Virtual Assist Nutzer aus. Sie sind oft Service-Ingenieure und Außendiensttechniker, die schnell auf Informationen zugreifen müssen. Sie haben nicht immer die Zeit oder das Fachwissen, um Inhalte zu erstellen oder zu ändern, daher ist es ihnen nicht erlaubt.
+Contributors sind Viewer-Nutzer mit **erweiterten Rechten zur Inhaltserstellung**. Häufig handelt es sich um Mitarbeitende in der Produktion, die neue Entwürfe für Tutorials oder Artikel hochladen können. Diese Entwürfe müssen jedoch von einem Editor oder Admin validiert werden, bevor sie veröffentlicht werden.
 
-Sie können alle **Inhaltseinheiten** (Anleitungen, Fehlersuche, Dokumente und Produktlinien) sehen und natürlich auch suchen.
+|                         | Erstellen        | Bearbeiten                         | Löschen                            | Anzeigen |
+|-------------------------|------------------|------------------------------------|-------------------------------------|----------|
+| **Insights-Dashboard**  | ❌              | ❌                                  | ❌                                   | ❌        |
+| **Search**              | ➖              | ➖                                  | ➖                                   | ✅        |
+| **Articles**            | 🟧 (nur Entwürfe) | 🟧 (nur Entwürfe & wenn Besitzer)   | 🟧 (nur Entwürfe & wenn Besitzer)    | ✅        |
+| **Tutorials**           | 🟧 (nur Entwürfe) | 🟧 (nur Entwürfe & wenn Besitzer)   | 🟧 (nur Entwürfe & wenn Besitzer)    | ✅        |
+| **Documents**           | ❌              | ❌                                  | ❌                                   | ✅        |
+| **Expert Answers**      | ❌              | ❌                                  | ❌                                   | ✅        |
+| **Product Lines**       | ❌              | ❌                                  | ❌                                   | ✅        |
+| **Machine Inventory**   | ❌              | ❌                                  | ❌                                   | ✅        |
+| **Logbook**             | ✅              | ✅ (wenn Besitzer)                  | ✅ (wenn Besitzer)                   | ✅        |
+| **Users**               | ❌              | ❌                                  | ❌                                   | ❌        |
 
-| | Erstellen | Bearbeiten | Löschen | Anzeigen |
-|-----------------------|--------|------|--------|------|
-| **Suchen** |➖|➖|➖|✅|
-| **Anleitungen** |❌|❌|❌|✅|
-| **Dokumente** |❌|❌|❌|✅|
-| **Fehlerbehebung** |❌|❌|❌|✅|
-| **Produktlinien** |❌|❌|❌|✅|
-| **Benutzer** |❌|❌|❌|❌|
-| **Suche Feedback-Schleifen** |❌|❌|❌|✅|
+
+### Viewer
+
+Viewers sind **normale Benutzer**. Sie machen den Großteil der ASMPT Virtual Assist Nutzer aus. Sie sind oft Service-Ingenieure und Außendiensttechniker, die schnell auf Informationen zugreifen müssen. Sie haben nicht immer die Zeit oder das Fachwissen, um Inhalte zu erstellen oder zu ändern, daher ist es ihnen nicht erlaubt.
+
+Sie können alle **Inhaltseinheiten** (Anleitungen, Dokumente und Produktlinien) sehen und natürlich auch suchen.
+
+|                         | Erstellen | Bearbeiten           | Löschen             | Anzeigen |
+|-------------------------|-----------|----------------------|---------------------|----------|
+| **Insights-Dashboard**  | ❌        | ❌                   | ❌                  | ❌        |
+| **Suche**               | ➖        | ➖                   | ➖                  | ✅        |
+| **Artikel**             | ❌        | ❌                   | ❌                  | ✅        |
+| **Tutorials**           | ❌        | ❌                   | ❌                  | ✅        |
+| **Dokumente**           | ❌        | ❌                   | ❌                  | ✅        |
+| **Expertenantworten**   | ❌        | ❌                   | ❌                  | ✅        |
+| **Produktlinien**       | ❌        | ❌                   | ❌                  | ✅        |
+| **Maschinenbestand**    | ❌        | ❌                   | ❌                  | ✅        |
+| **Logbuch**             | ✅        | ✅ (wenn Besitzer)    | ✅ (wenn Besitzer)   | ✅        |
+| **Benutzer**            | ❌        | ❌                   | ❌                  | ❌        |
 
 ## Wie man die Rolle eines Benutzers ändert
 
@@ -76,6 +104,4 @@ Sie können alle **Inhaltseinheiten** (Anleitungen, Fehlersuche, Dokumente und P
 
     Standardmäßig können nur Administratoren die Rollen anderer Benutzer ändern. Wenn Sie kein Administrator sind und eine Rollenänderung benötigen, wenden Sie sich bitte an Ihren Manager.
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vvCPLvc_bmM" title="Editing users' roles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<p align="center"><img src="https://i.imgur.com/CdsfoEC.gif" width="100%"></p>
