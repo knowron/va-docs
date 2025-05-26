@@ -1,6 +1,6 @@
 # Ask Assistant
 
-Die **Ask Assistant**-Funktion ist Ihr Zugang zu KI-gestütztem Wissensmanagement auf der KNOWRON-Plattform. Sie ermöglicht Ihnen, präzise und detaillierte Antworten auf Ihre Fragen zu erhalten. Wenn Sie ihre Fähigkeiten kennen und effektiv nutzen, steigern Sie Ihre Produktivität und finden in kürzester Zeit die relevantesten Informationen.
+Die **Ask Assistant**-Funktion ist Ihr Zugang zu KI-gestütztem Wissensmanagement auf der Virtual Assist. Sie ermöglicht Ihnen, präzise und detaillierte Antworten auf Ihre Fragen zu erhalten. Wenn Sie ihre Fähigkeiten kennen und effektiv nutzen, steigern Sie Ihre Produktivität und finden in kürzester Zeit die relevantesten Informationen.
 
 <p align="center">
     <img src="https://i.imgur.com/6o7r2ML.gif" width="80%">
@@ -19,22 +19,14 @@ Starten Sie ein Gespräch mit dem Assistant. Er kann Ihnen helfen, ein bestimmte
 !!! note
     Beispielanfrage: „Schreiben Sie eine E-Mail, in der Sie das oben Genannte erklären. Schreiben Sie sie bitte auf Portugiesisch.“
 
-<p align="center">
-    <img src="https://i.imgur.com/xEPcmC4.gif" width="80%">
-</p>
-
 ### 2. **Search**
 
-Der Assistant kann auf sämtliche Ressourcen zugreifen, die auf der KNOWRON-Plattform hochgeladen wurden. Das bedeutet, dass alle Dokumente, Artikel, Tutorials, Expertenantworten und Logbucheinträge über Chat-Interaktionen gefunden werden können.
+Der Assistant kann auf sämtliche Ressourcen zugreifen, die auf der Virtual Assist hochgeladen wurden. Das bedeutet, dass alle Dokumente, Artikel, Tutorials, Expertenantworten und Logbucheinträge über Chat-Interaktionen gefunden werden können.
 
 Wenn Sie eine Frage stellen oder die Suche manuell aktivieren, durchsucht der Assistant alle verfügbaren Wissensquellen und liefert die bestmögliche Antwort. Diese Antwort enthält zudem Quellenangaben, damit Sie nachvollziehen können, woher die Informationen stammen.
 
 !!! note
     Beispielanfrage: „Hat diese Maschine kürzlich einen Kopfwechsel erhalten?“
-
-<p align="center">
-    <img src="https://i.imgur.com/TU109Sr.gif" width="80%">
-</p>
 
 ### 3. **Document Match**
 
@@ -45,9 +37,6 @@ Ziel ist, dass Sie von einem zentralen Ort aus auf Informationen zugreifen könn
 !!! note
     Beispielanfrage: „Zeig mir die Konformitätserklärung“
 
-<p align="center">
-    <img src="https://i.imgur.com/LwEBykm.gif" width="80%">
-</p>
 
 ---
 
