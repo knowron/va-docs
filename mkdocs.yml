@@ -62,7 +62,8 @@ nav:
       - "Features/answers.md"
       - "Features/linksharing.md"
       - "Getting Started/tips-to-get-started.md"
-  - Search: 
+  - Search:
+      - "Features/ask_assistant.md"
       - "Features/search.md"
       - "Features/language_priority_in_search.md"
   - Features:
