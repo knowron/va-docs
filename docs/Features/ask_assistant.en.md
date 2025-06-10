@@ -2,9 +2,7 @@
 
 The **Ask Assistant** feature is your gateway to leveraging AI-driven knowledge management in Virtual Assist. It enables you to interact with the system to find accurate and detailed answers to your queries. By understanding its capabilities and using it effectively, you can maximize your productivity and access the most relevant information in no time.
 
-<p align="center">
-    <img src="https://i.imgur.com/6o7r2ML.gif" width="80%">
-</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/9048602c9ad1428d91b8b2ecd020daef?sid=bb7a7179-475e-402e-a12e-92cb823d4e5b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
@@ -18,6 +16,10 @@ Start a conversation with the assistant. It can help you reach a specific asset,
 !!! note
     Example Query: “Write an email explaining the above. Write it in Portuguese please.”
 
+<p align="center">
+    <img src="https://i.imgur.com/RkOgqIK.gif" width="80%">
+</p>
+
 ### 2. **Search**
 The Assistant can access the different resources uploaded to Virtual Assist. This means that all documents, articles, tutorials, expert answers and the logbook entries can be found through chat interactions.
 
@@ -26,6 +28,10 @@ When asking a question or manually activating the Search skill manually, the Ass
 !!! note
     Example Query: “Did this machine get a head replacement recently?”
 
+<p align="center">
+    <img src="https://i.imgur.com/4Xawb6S.gif" width="80%">
+</p>
+
 ### 3. **Document Match**
 Sometimes you might not need a full answer from the Assistant, but you need to access a document quickly. For this reason we enabled the Document Match skill. This means that when asking the assistant for a specific document title or telling it to show a specific document, it will perform a smart document search, and show the matches it found. 
 
@@ -33,6 +39,10 @@ The goal is to ensure you can access information from a single place and for the
 
 !!! note
     Example Query: “Let me get the conformity declaration”
+
+<p align="center">
+    <img src="https://i.imgur.com/PoozHlP.gif" width="80%">
+</p>
 
 ---
 

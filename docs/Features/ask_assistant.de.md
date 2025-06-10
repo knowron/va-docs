@@ -2,9 +2,7 @@
 
 Die **Ask Assistant**-Funktion ist Ihr Zugang zu KI-gestütztem Wissensmanagement auf der Virtual Assist. Sie ermöglicht Ihnen, präzise und detaillierte Antworten auf Ihre Fragen zu erhalten. Wenn Sie ihre Fähigkeiten kennen und effektiv nutzen, steigern Sie Ihre Produktivität und finden in kürzester Zeit die relevantesten Informationen.
 
-<p align="center">
-    <img src="https://i.imgur.com/6o7r2ML.gif" width="80%">
-</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e4da35e7fbf443a587b67f36e66e4008?sid=63814a68-9e63-4b56-85f6-9da7adb9b7c8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
@@ -19,6 +17,10 @@ Starten Sie ein Gespräch mit dem Assistant. Er kann Ihnen helfen, ein bestimmte
 !!! note
     Beispielanfrage: „Schreiben Sie eine E-Mail, in der Sie das oben Genannte erklären. Schreiben Sie sie bitte auf Portugiesisch.“
 
+<p align="center">
+    <img src="https://i.imgur.com/dwXz4QW.gif" width="80%">
+</p>
+
 ### 2. **Search**
 
 Der Assistant kann auf sämtliche Ressourcen zugreifen, die auf der Virtual Assist hochgeladen wurden. Das bedeutet, dass alle Dokumente, Artikel, Tutorials, Expertenantworten und Logbucheinträge über Chat-Interaktionen gefunden werden können.
@@ -28,6 +30,10 @@ Wenn Sie eine Frage stellen oder die Suche manuell aktivieren, durchsucht der As
 !!! note
     Beispielanfrage: „Hat diese Maschine kürzlich einen Kopfwechsel erhalten?“
 
+<p align="center">
+    <img src="https://i.imgur.com/IEOvbec.gif" width="80%">
+</p>
+
 ### 3. **Document Match**
 
 Manchmal brauchen Sie keine vollständige Antwort, sondern möchten schnell ein Dokument öffnen. Dafür gibt es den Document-Match-Skill: Wenn Sie den Assistant nach einem Dokumenttitel fragen oder ihn auffordern, ein bestimmtes Dokument anzuzeigen, führt er eine intelligente Dokumentensuche durch und zeigt passende Treffer an.
@@ -36,6 +42,10 @@ Ziel ist, dass Sie von einem zentralen Ort aus auf Informationen zugreifen könn
 
 !!! note
     Beispielanfrage: „Zeig mir die Konformitätserklärung“
+
+<p align="center">
+    <img src="https://i.imgur.com/p1lH28v.gif" width="80%">
+</p>
 
 
 ---
