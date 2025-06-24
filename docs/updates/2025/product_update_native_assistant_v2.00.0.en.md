@@ -1,5 +1,7 @@
 # Product Update Virtual Assist App V2.00.0
 
+### Released on: 26.06.2025
+
 ## 📱 Virtual Assist App Redesign: A More Intuitive & Asset-Centric Experience
 
 We’ve redesigned the Virtual Assist app to provide a **more seamless, efficient, and asset-focused** experience. The new design introduces a **structured tab bar** for better navigation, giving you quick access to essential features. With this update, finding information, managing assets, and interacting with the Ask Assistant has never been easier.
