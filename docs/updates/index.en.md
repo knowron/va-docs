@@ -4,6 +4,14 @@ Hello! In this page, we try to keep you up-to-date for all the features and chan
 
 Visit the child pages to learn more!
 
+## 2025
+
+### Virtual Assist Web
+- [Product Update Virtual Assist Web v2.00.0](2025/product_update_control_suite_v2.00.0.en.md)
+
+### Virtual Assist App
+- [Product Update Virtual Assist App v2.00.0](2025/product_update_native_assistant_v2.00.0.en.md)
+
 ## 2024
 
 ### Virtual Assist Web
