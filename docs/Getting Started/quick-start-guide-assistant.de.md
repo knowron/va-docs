@@ -94,6 +94,7 @@ Wir können Ihnen Ergebnisse aus den folgenden Quellen zeigen:
 - Dokumente
 - Tutorials
 - Artikel
+- Experten Antworten
 
 In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und vieles mehr zeigen können!
 

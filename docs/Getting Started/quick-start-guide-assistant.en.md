@@ -94,6 +94,7 @@ We can show you results from the following resources:
 - Documents
 - Tutorials
 - Articles
+- Expert Answers
 
 In the future, we will also be able to show you results from your machine's logbook and much more!
 
