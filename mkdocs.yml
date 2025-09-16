@@ -16,6 +16,7 @@ theme:
       - name: Deutsch
         link: /de/
         lang: de
+
   features:
     - navigation.indexes
     - navigation.sections
@@ -50,6 +51,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
   - Intro: "index.md"
@@ -63,11 +69,12 @@ nav:
       - "Features/linksharing.md"
       - "Getting Started/tips-to-get-started.md"
   - Search:
-      - "Features/ask_assistant.md"
+      - "Features/ask_assistant.md" 
       - "Features/search.md"
       - "Features/language_priority_in_search.md"
   - Features:
       - "Features/logbook.md"
+      - "Features/ai_powered_reports.md"
   - Virtual Assist Web Features:
       - "Features/insights.md"
       - "Features/factory_layout.md"
@@ -93,7 +100,7 @@ nav:
           - "Admin Documentation/Security and Access/roles_and_permissions.md"
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
 
-copyright: Copyright &copy; 2024 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
+copyright: Copyright &copy; 2025 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
 extra:
   consent:
     title: Cookie consent
