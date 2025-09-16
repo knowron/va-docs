@@ -75,7 +75,7 @@ If you don't yet have a ASMPT Customer Portal account, you can **create one toda
 ---
 
 ## Need help?
-If you have questions or run into issues, contact **Support** at [support@knowron.com](mailto:asm-support.df@asmpt.com) or your ASMPT representative. We’re here to help.
+If you have questions or run into issues, contact [**Support**](mailto:asm-support.df@asmpt.com) or your ASMPT representative. We’re here to help.
 
 Thanks for using Virtual Assist!
 
