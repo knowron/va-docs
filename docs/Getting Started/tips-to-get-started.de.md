@@ -16,7 +16,7 @@ Gehen Sie zu Suche und finden Sie Antworten auf Ihre Fragen
 
 <p align="left"><img src="https://i.imgur.com/ddPjlko.gif" width="90%"></p>
 
-[Mehr Information über Suche](https://docs.virtualassist.smt.asmpt.com/de/Features/search/){ .md-button }
+[Mehr Information über produktübergreifende Suche](https://docs.virtualassist.smt.asmpt.com/de/Features/search/#produktubergreifende-suche){ .md-button }
 ___________________
 
 ### **Haben Sie eine Frage zu einem bestimmten Produkt?**
@@ -25,3 +25,4 @@ Wählen Sie das Produkt aus und durchsuchen Sie die Produktkarte
 
 <p align="left"><img src="https://i.imgur.com/DXea13y.gif" width="90%"></p>
 
+[Mehr Information über produktspezifische Suche](https://docs.virtualassist.smt.asmpt.com/de/Features/search/){ .md-button }

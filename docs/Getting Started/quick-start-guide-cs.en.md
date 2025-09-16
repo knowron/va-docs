@@ -8,7 +8,9 @@ This page will guide you through all you need to know to start using the **ASMPT
 
 ## Step 1. Log into the Virtual Assist Web
 
-The Virtual Assist Web is accessible under: [Visit the Virtual Assist Web](https://virtualassist.smt.asmpt.com/){ .md-button }
+The Virtual Assist Web is accessible under:
+
+ [Visit the Virtual Assist Web](https://virtualassist.smt.asmpt.com/){ .md-button }
 
 You only need your email and your ASMPT Virtual Assist password to log onto the system. Your **email** is normally your work email. You can find your **password** in the email you received inviting you to join your organization on ASMPT Virtual Assist (see below).
 
@@ -36,7 +38,7 @@ Once logged in, you will see an overview of the product lines that your colleagu
 
 Before you continue, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen.
 
-<p align="center"><img src="https://i.imgur.com/Jo1FQ1D.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/8mwTHUW.png" width="80%"></p>
 
 ---
 
@@ -44,16 +46,16 @@ Before you continue, you have to select what product line you are interested in.
 
 Now all you have to do is ask what you want to know. Type in the search bar and press enter. ASMPT Virtual Assist will then go through your entire knowledge base and show you the most relevant results.
 
-Below is a sample search interaction for the question `How do I replace the DP drive on a CP 20 P2?`
+Below is a sample search interaction for the question `what is 3d printing?`
 
 <p align="center"><img src="https://i.imgur.com/DxAwOmD.png" width="70%"></p>
 
 We can show you results from the following resources:
 
-- Documents
-- Tutorials
-- Articles
-- Expert Answers
+- [Documents](documents.md)
+- [Tutorials](tutorials.md)
+- [Articles](../Features/Articles/index.md)
+- [Expert Answers](insights.md#expert-answers) 
 
 In the future, we will also be able to show you results from your machine's logbook and much more!
 
@@ -90,3 +92,7 @@ You have the option to choose from the checkboxes provided by our team and/or ad
 Downvoting the Generative Answer will prompt a window that enables you to choose reasons from a list provided by our team, or you can submit your own explanation for why you believe the answer is not correct.
 
  <p align="center"><img src="https://i.imgur.com/M3FruL3.png" width="100%"></p>
+
+**Upvoting the Generative Answer**
+
+Positive feedback through a thumbs up significantly enhances the relevance and priority of documents in future searches. When users indicate a document is valuable, our algorithms prioritize it, improving visibility and ensuring high-quality content remains easily accessible for all users.
