@@ -1,0 +1,708 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../../../icon.png" rel="icon"/>
+<meta content="mkdocs-1.6.1, mkdocs-material-8.5.10" name="generator"/>
+<title>Virtual Assist App (Mobile) - ASMPT Virtual Assist</title>
+<link href="../../../assets/stylesheets/main.975780f9.min.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/palette.2505c338.min.css" rel="stylesheet"/>
+<meta content="#ef5552" name="theme-color"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-ZWQCQKMBGJ"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-ZWQCQKMBGJ",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-ZWQCQKMBGJ",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+<script>var consent;"undefined"==typeof __md_analytics||(consent=__md_get("__consent"))&&consent.analytics&&__md_analytics()</script>
+<link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            
+                .gscrollbar-fixer { padding-right: 15px; }
+                .gdesc-inner { font-size: 0.75rem; }
+                body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+                body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+                body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+                </style><script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+<body data-md-color-accent="red" data-md-color-primary="red" data-md-color-scheme="default" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#kurzanleitung-fur-den-virtual-assist-app-mobile">
+          Zum Inhalt
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header" data-md-component="header">
+<nav aria-label="Kopfzeile" class="md-header__inner md-grid">
+<a aria-label="ASMPT Virtual Assist" class="md-header__button md-logo" data-md-component="logo" href="../../" title="ASMPT Virtual Assist">
+<img alt="logo" src="../../../logo.png"/>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            ASMPT Virtual Assist
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Virtual Assist App (Mobile)
+            
+          </span>
+</div>
+</div>
+</div>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="Sprache wechseln" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="../../../Getting%20Started/quick-start-guide-assistant/" hreflang="en">
+                    English
+                  </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="./" hreflang="de">
+                    Deutsch
+                  </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Suche" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Suche" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="Suche" class="md-search__options">
+<button aria-label="Zurücksetzen" class="md-search__icon md-icon" tabindex="-1" title="Zurücksetzen" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="ASMPT Virtual Assist" class="md-nav__button md-logo" data-md-component="logo" href="../../" title="ASMPT Virtual Assist">
+<img alt="logo" src="../../../logo.png"/>
+</a>
+    ASMPT Virtual Assist
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../">
+        Intro
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../faqs/">
+        FAQ
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../updates">
+        Updates
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" id="__nav_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_4">
+          Getting Started
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Getting Started" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_4">
+<span class="md-nav__icon md-icon"></span>
+          Getting Started
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Virtual Assist App (Mobile)
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        Virtual Assist App (Mobile)
+      </a>
+<nav aria-label="Inhaltsverzeichnis" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-1-herunterladen-des-asmpt-virtual-assists">
+    Schritt 1. Herunterladen des ASMPT Virtual Assists
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-2-sich-in-die-asmpt-virtual-assist-virtual-assist-web-einloggen">
+    Schritt 2. Sich in die ASMPT Virtual Assist Virtual Assist Web einloggen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-3-eine-produktlinie-auswahlen">
+    Schritt 3. Eine Produktlinie auswählen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-4-eine-frage-stellen">
+    Schritt 4. Eine Frage stellen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-5-suchseite-aufrufen">
+    Schritt 5. Suchseite aufrufen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-6-feedback-geben">
+    Schritt 6. Feedback geben
+  </a>
+<nav aria-label="Schritt 6. Feedback geben" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#verwenden-sie-daumen-hoch-um-hilfreiche-ergebnisse-zu-markieren">
+    Verwenden Sie "Daumen hoch", um hilfreiche Ergebnisse zu markieren
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#melden-sie-ihren-kollegen-alle-fehlenden-daten-damit-sie-die-wissenslucke-schlieen-konnen">
+    Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../quick-start-guide-cs/">
+        Virtual Assist Web (Web)
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/answers/">
+        KI-generierte Antworten
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/linksharing/">
+        Link Sharing
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../tips-to-get-started/">
+        Tipps für den Einstieg
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" id="__nav_5" type="checkbox"/>
+<label class="md-nav__link" for="__nav_5">
+          Search
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Search" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_5">
+<span class="md-nav__icon md-icon"></span>
+          Search
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/ask_assistant/">
+        Ask Assistant
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/search/">
+        Suche
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/language_priority_in_search/">
+        Sprachpriorität bei der Suche
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6">
+          Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+          Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/logbook/">
+        Logbuch
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Features/ai_powered_reports.md">
+        None
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7">
+          Virtual Assist Web Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Virtual Assist Web Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+          Virtual Assist Web Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/insights/">
+        Einblicke
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/factory_layout/">
+        Fabrik-Layout
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/tutorials/">
+        Tutorials
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/documents/">
+        Dokumente
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/logbook_cs/">
+        Logbuch im Web
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_6" id="__nav_7_6" type="checkbox"/>
+<div class="md-nav__link md-nav__link--index">
+<a href="../../Features/Articles/">Articles</a>
+<label for="__nav_7_6">
+<span class="md-nav__icon md-icon"></span>
+</label>
+</div>
+<nav aria-label="Articles" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_7_6">
+<span class="md-nav__icon md-icon"></span>
+          Articles
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Features/Articles/article_voice_capture.md">
+        None
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/adminpanel/">
+        Verwaltungsbereich
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" id="__nav_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8">
+          Virtual Assist App Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Virtual Assist App Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_8">
+<span class="md-nav__icon md-icon"></span>
+          Virtual Assist App Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/documents_na/">
+        Dokumente
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/logbook_na/">
+        Fahrtenbuch auf dem Handy
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/supportscreen/">
+        Support
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/pushnotifications/">
+        Push-Benachrichtigungen
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" id="__nav_9" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9">
+          Admin
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Admin" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_9">
+<span class="md-nav__icon md-icon"></span>
+          Admin
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9_1" id="__nav_9_1" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9_1">
+          Security and Access
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Security and Access" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_9_1">
+<span class="md-nav__icon md-icon"></span>
+          Security and Access
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/product_access_groups/">
+        Produktzugriffsgruppen
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/roles_and_permissions/">
+        Rollen und Berechtigungen
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/data_security_and_privacy/">
+        FAQs zu Datensicherheit und Datenschutz
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Inhaltsverzeichnis" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-1-herunterladen-des-asmpt-virtual-assists">
+    Schritt 1. Herunterladen des ASMPT Virtual Assists
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-2-sich-in-die-asmpt-virtual-assist-virtual-assist-web-einloggen">
+    Schritt 2. Sich in die ASMPT Virtual Assist Virtual Assist Web einloggen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-3-eine-produktlinie-auswahlen">
+    Schritt 3. Eine Produktlinie auswählen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-4-eine-frage-stellen">
+    Schritt 4. Eine Frage stellen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-5-suchseite-aufrufen">
+    Schritt 5. Suchseite aufrufen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-6-feedback-geben">
+    Schritt 6. Feedback geben
+  </a>
+<nav aria-label="Schritt 6. Feedback geben" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#verwenden-sie-daumen-hoch-um-hilfreiche-ergebnisse-zu-markieren">
+    Verwenden Sie "Daumen hoch", um hilfreiche Ergebnisse zu markieren
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#melden-sie-ihren-kollegen-alle-fehlenden-daten-damit-sie-die-wissenslucke-schlieen-konnen">
+    Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1 id="kurzanleitung-fur-den-virtual-assist-app-mobile">Kurzanleitung für den Virtual Assist App (Mobile)<a class="headerlink" href="#kurzanleitung-fur-den-virtual-assist-app-mobile" title="Permalink">⚓︎</a></h1>
+<p>Diese Seite führt Sie durch alles, was Sie wissen müssen, um den <strong>ASMPT Virtual Assist</strong> zu benutzen. Wenn Sie Fragen haben oder Unterstützung benötigen, <a href="https://smt.asmpt.com/en/products/software-solutions/virtual-assist">wenden Sie sich bitte direkt an uns</a>!</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/mL7XYMH.png"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"/></a></p>
+<hr/>
+<h2 id="schritt-1-herunterladen-des-asmpt-virtual-assists">Schritt 1. Herunterladen des ASMPT Virtual Assists<a class="headerlink" href="#schritt-1-herunterladen-des-asmpt-virtual-assists" title="Permalink">⚓︎</a></h2>
+<p>Der ASMPT Virtual Assist Virtual Assist App ist sowohl für Android- als auch für Apple-Geräte in den jeweiligen App-Stores verfügbar. Der Download ist kostenlos. Klicken Sie einfach auf die unten stehenden Links oder scannen Sie sie mit Ihrem Smartphone.</p>
+<table>
+<thead>
+<tr>
+<th><p align="center">Google Play Store</p></th>
+<th><p align="center">Apple App Store</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/2TxG0UL.jpg"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%"/></a><a class="md-button" href="https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant">Herunterladen</a></p></td>
+<td><p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/9TNW7li.jpg"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%"/></a><a class="md-button" href="https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842">Herunterladen</a></p></td>
+</tr>
+</tbody>
+</table>
+<p>Öffnen Sie nach dem Download die App.</p>
+<h2 id="schritt-2-sich-in-die-asmpt-virtual-assist-virtual-assist-web-einloggen">Schritt 2. Sich in die ASMPT Virtual Assist Virtual Assist Web einloggen<a class="headerlink" href="#schritt-2-sich-in-die-asmpt-virtual-assist-virtual-assist-web-einloggen" title="Permalink">⚓︎</a></h2>
+<p>Sobald Sie den ASMPT Virtual Assist öffnen, sehen Sie den Login-Bildschirm (siehe unten).</p>
+<p>Sie brauchen nur Ihre E-Mail-Adresse und Ihr ASMPT Virtual Assist-Passwort, um sich in das System einzuloggen. Ihre <strong>E-Mail</strong> ist normalerweise Ihre Arbeits-E-Mail. Ihr <strong>Passwort</strong> finden Sie in der E-Mail, die Sie erhalten haben, um Ihrer Organisation auf ASMPT Virtual Assist beizutreten (siehe unten).</p>
+<details class="info">
+<summary>Finden Sie Ihr Passwort oder Ihre E-Mail nicht?</summary>
+<p><p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/QKwIRJ3.png"><img src="https://i.imgur.com/QKwIRJ3.png" width="100%"/></a><figcaption>Hier finden Sie Ihr Passwort in der Einladungs-E-Mail.</figcaption></p></p>
+<p>Wenn Sie Ihr Passwort vergessen haben, können Sie es direkt auf <a href="https://virtualassist.smt.asmpt.com/">virtualassist.smt.asmpt.com</a> zurücksetzen. Klicken Sie einfach auf "Forgot password" und folgen Sie den Anweisungen auf dem Bildschirm.</p>
+<p>Wenn Sie keine E-Mail erhalten haben, in der Sie zu ASMPT Virtual Assist eingeladen werden, wenden Sie sich bitte an Ihre Kollegen, die damit arbeiten, oder <a href="https://smt.asmpt.com/en/products/software-solutions/virtual-assist">schreiben Sie uns an</a>.</p>
+</details>
+<p>Wenn Sie Ihre E-Mail und Ihr Passwort haben, geben Sie sie einfach ein und melden Sie sich an!</p>
+<p align="center">
+<a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/BLv8UFT.gif"><img src="https://i.imgur.com/BLv8UFT.gif" width="400"/></a>
+</p>
+<p>Beachten Sie, wie Sie den Zugang anfordern können, wenn Sie noch keinen Zugang zur Anwendung durch Ihre Organisation erhalten haben.</p>
+<hr/>
+<h2 id="schritt-3-eine-produktlinie-auswahlen">Schritt 3. Eine Produktlinie auswählen<a class="headerlink" href="#schritt-3-eine-produktlinie-auswahlen" title="Permalink">⚓︎</a></h2>
+<p>Nach der Anmeldung sehen Sie unseren Startbildschirm, auf dem Sie aufgefordert werden, ein Gerät zu scannen oder die Seriennummer des Geräts einzugeben, das vor Ihnen steht.</p>
+<p>Wenn Sie noch keine Seriennummer oder keinen Maschinen-QR-Code haben, können Sie auch direkt eine Produktlinie auswählen.</p>
+<p><strong>Produktlinien</strong> stehen für die Maschinen, Anlagen oder Prozesse, die Ihr Unternehmen betreibt und mit denen Sie jeden Tag arbeiten. Produktlinien sind dazu da, dem ASMPT Virtual Assist System einen Kontext zu geben - d.h. worüber stellen Sie Fragen?</p>
+<p>Bevor Sie fortfahren, müssen Sie die Produktlinie auswählen, die für Sie relevant ist. Sie können auf das Scan-Bild und dann auf das Produktfeld oben auf dem Bildschirm tippen. Alternativ können Sie auch direkt auf dem Startbildschirm auf Produkte tippen.</p>
+<p>Sie befinden sich nun auf dem Bildschirm "Produkte". Wählen Sie einfach eines aus der Liste aus, zum Beispiel: "SIPLACE SX Series".</p>
+<p>Sie können die untenstehenden Anweisungen befolgen.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/Ozm0iJz.png"><img src="https://i.imgur.com/Ozm0iJz.png" width="100%"/></a></p>
+<p>Wenn Sie eine Seriennummer oder einen Maschinen-QR-Code haben, ist es einfacher. Siehe unten.</p>
+<details class="info">
+<summary>Haben Sie bereits eine Seriennummer oder einen Maschinen-QR-Code?</summary>
+<p>Wenn Sie bereits eine Seriennummer oder einen ASMPT Virtual Assist QR-Code haben, bedeutet das, dass Ihre Organisation schon etwas länger mit ASMPT Virtual Assist arbeitet. Das ist großartig! Alle Ihre Maschinendaten sollten nun für Sie verfügbar sein.</p>
+<p>Tippen Sie zunächst auf das Scan-Bild. Anschließend können Sie die Seriennummer in das dafür vorgesehene Feld eingeben. Alternativ können Sie auch direkt einen ASMPT Virtual Assist QR-Code scannen. Tippen Sie einfach auf das Kamerasymbol, um die Kamera zu aktivieren und richten Sie sie direkt auf den QR-Code. Die App sollte Ihr Gerät schnell identifizieren.</p>
+<p><p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/viecoHm.png"><img src="https://i.imgur.com/viecoHm.png" width="100%"/></a><figcaption>Scanning a QR code.</figcaption></p></p>
+</details>
+<hr/>
+<h2 id="schritt-4-eine-frage-stellen">Schritt 4. Eine Frage stellen<a class="headerlink" href="#schritt-4-eine-frage-stellen" title="Permalink">⚓︎</a></h2>
+<p>Sie haben nun Zugriff auf die gesamte Dokumentation für die von Ihnen gewählte Produktlinie. Jetzt können Sie eine Frage stellen.</p>
+<p>Tippen Sie auf das Tastatursymbol am unteren Rand Ihres Bildschirms. Damit wird unser Virtual Assist Appen-Panel angezeigt, in das Sie eingeben können, was Sie wissen möchten. Sie können auch das Mikrofon-Symbol verwenden, um Ihre Frage direkt mit der Sprache zu stellen.</p>
+<p>Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. ASMPT Virtual Assist durchsucht dann Ihre gesamte Wissensdatenbank und zeigt Ihnen die wichtigsten Ergebnisse an. Versuchen Sie <code>Was ist PLA?</code>.</p>
+<p>Die Ergebnisse sind unten dargestellt.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/XUkQLiO.gif"><img src="https://i.imgur.com/XUkQLiO.gif" width="300"/></a></p>
+<hr/>
+<h2 id="schritt-5-suchseite-aufrufen">Schritt 5. Suchseite aufrufen<a class="headerlink" href="#schritt-5-suchseite-aufrufen" title="Permalink">⚓︎</a></h2>
+<p>Wenn möglich, zeigen wir Ihnen Antworten direkt aus Ihrer Dokumentation. Wenn Sie tiefer eintauchen möchten, können Sie Filter und andere Funktionen verwenden, die auf der <strong>Suchseite</strong> verfügbar sind. Tippen Sie auf "Mehr Ergebnisse sehen" im Virtual Assist Appen-Panel oder wählen Sie das Symbol "Suchen" auf dem Startbildschirm.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/HOBy2VG.gif
+"><img src="https://i.imgur.com/HOBy2VG.gif
+" width="300"/></a></p>
+<p>Wir können Ihnen Ergebnisse aus den folgenden Quellen zeigen:</p>
+<ul>
+<li>Dokumente</li>
+<li>Tutorials</li>
+<li>Artikel</li>
+<li>Experten Antworten</li>
+</ul>
+<p>In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und vieles mehr zeigen können!</p>
+<div class="admonition tip">
+<p class="admonition-title">Durch das Stellen von Fragen erhalten Sie bessere Ergebnisse</p>
+<p>ASMPT Virtual Assist nutzt modernstes NLP, um zu verstehen, wonach Sie suchen, und um Ihnen die relevantesten Ergebnisse zu liefern. Wenn Sie Ihre Anfrage als <strong>Frage</strong> formulieren, werden Sie <strong>bessere Ergebnisse</strong> erhalten.</p>
+<blockquote>
+<p>Beispiel</p>
+</blockquote>
+<p>Anstatt <code>DP drive CP 20 P2</code> zu suchen, fragen Sie <code>How do I replace the DP drive on a CP 20 P2?</code></p>
+</div>
+<hr/>
+<h2 id="schritt-6-feedback-geben">Schritt 6. Feedback geben<a class="headerlink" href="#schritt-6-feedback-geben" title="Permalink">⚓︎</a></h2>
+<p>ASMPT Virtual Assist kann nur besser werden, wenn Sie uns Feedback geben! Das Feedback wird für den Suchalgorithmus berücksichtigt und hilft sogar Ihren Kollegen, bessere Inhalte für alle in Ihrer Organisation zu erstellen.</p>
+<p>Sie können Ihr Feedback auf zwei Arten abgeben:</p>
+<h3 id="verwenden-sie-daumen-hoch-um-hilfreiche-ergebnisse-zu-markieren">Verwenden Sie "Daumen hoch", um hilfreiche Ergebnisse zu markieren<a class="headerlink" href="#verwenden-sie-daumen-hoch-um-hilfreiche-ergebnisse-zu-markieren" title="Permalink">⚓︎</a></h3>
+<p>Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit einem Daumen hoch bewerten (siehe unten).</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/ycSgnra.gif
+"><img src="https://i.imgur.com/ycSgnra.gif
+" width="70%"/></a></p>
+<p>Ein "Daumen hoch" dauert weniger als eine Sekunde und lässt Ihre Kollegen wissen, dass dies auch für sie hilfreich sein wird, wenn sie eine ähnliche Frage haben. Der Algorithmus von ASMPT Virtual Assist wird dies ebenfalls berücksichtigen: mehr "Daumen hoch"-Reaktionen bedeuten, dass dieses Ergebnis in Zukunft weiter oben in den Suchergebnissen erscheinen wird.</p>
+<h3 id="melden-sie-ihren-kollegen-alle-fehlenden-daten-damit-sie-die-wissenslucke-schlieen-konnen">Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.<a class="headerlink" href="#melden-sie-ihren-kollegen-alle-fehlenden-daten-damit-sie-die-wissenslucke-schlieen-konnen" title="Permalink">⚓︎</a></h3>
+<p>Es kann vorkommen, dass ASMPT Virtual Assist keine passende Antwort findet - oder dass die Antwort leicht daneben liegt. Dies kann vor allem durch eine sehr breite Abfrage oder fehlende Daten geschehen.</p>
+<p>Wenn Sie feststellen, dass die Suchergebnisse Ihnen nicht so weiterhelfen, wie Sie es brauchen, können Sie oben in den Suchergebnissen auf <code>Ergebnisse nicht hilfreich</code> klicken und uns mitteilen, was Sie erwartet haben (siehe unten).</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/nTcK9ed.gif
+"><img src="https://i.imgur.com/nTcK9ed.gif
+" width="70%"/></a></p>
+<p>Ihre Kollegen mit Editor-Rolle, meist aus dem First-Level-Support oder dem Hotlinedienst, werden auf Ihr Feedback reagieren und dafür sorgen, dass die von Ihnen benötigten Informationen für Sie und Ihre Kollegen verfügbar sind.</p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<nav aria-label="Fußzeile" class="md-footer__inner md-grid">
+<a aria-label="Zurück: FAQ" class="md-footer__link md-footer__link--prev" href="../../faqs/" rel="prev">
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</div>
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Zurück
+              </span>
+              FAQ
+            </div>
+</div>
+</a>
+<a aria-label="Weiter: Virtual Assist Web (Web)" class="md-footer__link md-footer__link--next" href="../quick-start-guide-cs/" rel="next">
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Weiter
+              </span>
+              Virtual Assist Web (Web)
+            </div>
+</div>
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
+</div>
+</a>
+</nav>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+<div class="md-copyright__highlight">
+      Copyright © 2025 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
+</div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+<div class="md-social">
+<a class="md-social__link" href="https://www.linkedin.com/company/asmpt-smt-solutions/" rel="noopener" target="_blank" title="ASMPT Virtual Assist on LinkedIn">
+<svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>
+</a>
+<a class="md-social__link" href="mailto:&lt;asm-support.df@asmpt.com&gt;" rel="noopener" target="_blank" title="">
+<svg viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48H48zM0 176v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V176L294.4 339.2a63.9 63.9 0 0 1-76.8 0L0 176z"></path></svg>
+</a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<div class="md-consent" data-md-component="consent" hidden="" id="__consent">
+<div class="md-consent__overlay"></div>
+<aside class="md-consent__inner">
+<form class="md-consent__form md-grid md-typeset" name="consent">
+<h4>Cookie consent</h4>
+<p>Our website uses cookies, which are small text files,  to distinguish you from other users and provide you  with a good experience when you browse our website.  You can allow all or manage them individually. You can find further details of our cookies here: <a href="https://smt.asmpt.com/en/products/software-solutions/virtual-assist/privacy-policy">Privacy policy</a></p>
+<input class="md-toggle" id="__settings" type="checkbox"/>
+<div class="md-consent__settings">
+<ul class="task-list">
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="Imgur" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Imgur
+        <label>
+</label></label></li>
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="analytics" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Google Analytics
+        <label>
+</label></label></li>
+</ul>
+</div>
+<div class="md-consent__controls">
+<button class="md-button md-button--primary">Akzeptieren</button>
+<button class="md-button md-button--primary" type="reset">Ablehnen</button>
+<label class="md-button" for="__settings">Einstellungen</label>
+</div>
+</form>
+</aside>
+</div>
+<script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
+<script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.sections", "toc.follow"], "search": "../../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.config.lang": "de", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Suche", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version.title": "Version ausw\u00e4hlen"}}</script>
+<script src="../../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+<script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+</html>

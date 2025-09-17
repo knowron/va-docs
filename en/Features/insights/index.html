@@ -1,0 +1,625 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../../../icon.png" rel="icon"/>
+<meta content="mkdocs-1.6.1, mkdocs-material-8.5.10" name="generator"/>
+<title>Insights - ASMPT Virtual Assist</title>
+<link href="../../../assets/stylesheets/main.975780f9.min.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/palette.2505c338.min.css" rel="stylesheet"/>
+<meta content="#ef5552" name="theme-color"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-ZWQCQKMBGJ"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-ZWQCQKMBGJ",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-ZWQCQKMBGJ",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+<script>var consent;"undefined"==typeof __md_analytics||(consent=__md_get("__consent"))&&consent.analytics&&__md_analytics()</script>
+<link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            
+                .gscrollbar-fixer { padding-right: 15px; }
+                .gdesc-inner { font-size: 0.75rem; }
+                body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+                body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+                body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+                </style><script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+<body data-md-color-accent="red" data-md-color-primary="red" data-md-color-scheme="default" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#insights">
+          Skip to content
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="ASMPT Virtual Assist" class="md-header__button md-logo" data-md-component="logo" href="../../" title="ASMPT Virtual Assist">
+<img alt="logo" src="../../../logo.png"/>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            ASMPT Virtual Assist
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Insights
+            
+          </span>
+</div>
+</div>
+</div>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="Select language" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="../../../Features/insights/" hreflang="en">
+                    English
+                  </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="../../../de/Features/insights/" hreflang="de">
+                    Deutsch
+                  </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" title="Clear" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="ASMPT Virtual Assist" class="md-nav__button md-logo" data-md-component="logo" href="../../" title="ASMPT Virtual Assist">
+<img alt="logo" src="../../../logo.png"/>
+</a>
+    ASMPT Virtual Assist
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../">
+        Intro
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../faqs/">
+        FAQ
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../updates">
+        Updates
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" id="__nav_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_4">
+          Getting Started
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Getting Started" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_4">
+<span class="md-nav__icon md-icon"></span>
+          Getting Started
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Getting%20Started/quick-start-guide-assistant/">
+        Virtual Assist App (Mobile)
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Getting%20Started/quick-start-guide-cs/">
+        Virtual Assist Web (Web)
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../answers/">
+        AI-generated answers
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../linksharing/">
+        Link Sharing
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Getting%20Started/tips-to-get-started/">
+        Tips to Get Started
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" id="__nav_5" type="checkbox"/>
+<label class="md-nav__link" for="__nav_5">
+          Search
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Search" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_5">
+<span class="md-nav__icon md-icon"></span>
+          Search
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ask_assistant/">
+        Ask Assistant
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../search/">
+        Search
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../language_priority_in_search/">
+        Language Priority in Search
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6">
+          Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+          Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../logbook/">
+        Logbook
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Features/ai_powered_reports.md">
+        None
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7">
+          Virtual Assist Web Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Virtual Assist Web Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+          Virtual Assist Web Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Insights
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        Insights
+      </a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#what-is-the-current-status-of-my-system">
+    What is the current status of my system?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#how-is-my-system-progressing-over-time">
+    How is my system progressing over time?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#top-unanswered-questions">
+    Top unanswered questions
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#what-are-the-frequently-asked-questions">
+    What are the frequently asked questions?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#history">
+    History
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#feedback">
+    Feedback
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#expert-answers">
+    Expert Answers
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../factory_layout/">
+        Factory Layout
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../tutorials/">
+        Tutorials
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../documents/">
+        Documents
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../logbook_cs/">
+        Logbook on Web
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_6" id="__nav_7_6" type="checkbox"/>
+<div class="md-nav__link md-nav__link--index">
+<a href="../Articles/">Articles</a>
+<label for="__nav_7_6">
+<span class="md-nav__icon md-icon"></span>
+</label>
+</div>
+<nav aria-label="Articles" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_7_6">
+<span class="md-nav__icon md-icon"></span>
+          Articles
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Features/Articles/article_voice_capture.md">
+        None
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../adminpanel/">
+        Admin Panel
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" id="__nav_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8">
+          Virtual Assist App Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Virtual Assist App Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_8">
+<span class="md-nav__icon md-icon"></span>
+          Virtual Assist App Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../documents_na/">
+        Documents
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../logbook_na/">
+        Logbook on Mobile
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../supportscreen/">
+        Support
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../pushnotifications/">
+        Push notifications
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" id="__nav_9" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9">
+          Admin
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Admin" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_9">
+<span class="md-nav__icon md-icon"></span>
+          Admin
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9_1" id="__nav_9_1" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9_1">
+          Security and Access
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Security and Access" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_9_1">
+<span class="md-nav__icon md-icon"></span>
+          Security and Access
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/product_access_groups/">
+        Product Access Groups
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/roles_and_permissions/">
+        Roles and Permissions
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/data_security_and_privacy/">
+        Data Security and Privacy FAQs
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#what-is-the-current-status-of-my-system">
+    What is the current status of my system?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#how-is-my-system-progressing-over-time">
+    How is my system progressing over time?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#top-unanswered-questions">
+    Top unanswered questions
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#what-are-the-frequently-asked-questions">
+    What are the frequently asked questions?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#history">
+    History
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#feedback">
+    Feedback
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#expert-answers">
+    Expert Answers
+  </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1 id="insights">Insights<a class="headerlink" href="#insights" title="Permalink">⚓︎</a></h1>
+<p>The Insights Dashboard makes sure that editors and admins can understand how well their system was performing and were empowered to close the knowledge gaps in their organization.</p>
+<p>Through interactive visualizations and detailed analytics, the Insights Dashboard enables editors and administrators to view the impact of their content strategy. It highlights areas of success, allowing them to replicate effective approaches, while also pinpointing potential shortcomings that may contribute to knowledge gaps</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/Vo6AOmh.png"><img src="https://i.imgur.com/Vo6AOmh.png" width="90%"/></a></p>
+<h3 id="what-is-the-current-status-of-my-system">What is the current status of my system?<a class="headerlink" href="#what-is-the-current-status-of-my-system" title="Permalink">⚓︎</a></h3>
+<p>The main page of the dashboard answers this question by showing the percentage of questions answered, total searches and submitted user feedback.</p>
+<h3 id="how-is-my-system-progressing-over-time">How is my system progressing over time?<a class="headerlink" href="#how-is-my-system-progressing-over-time" title="Permalink">⚓︎</a></h3>
+<p>The two graphs in this section show you the percentage of questions answered, i.e. the questions for which a user sees a generated answer from our system. A higher number is often indicative of a system capable of serving users the information they need - we recommend targeting a benchmark of around 75%.</p>
+<p>Additionally, you can monitor the number of queries searched, or the number of individual questions submitted by users over the past weeks. These will fluctuate with time, but the higher the better. You'll also be able to see the change in these numbers over the last week.</p>
+<h3 id="top-unanswered-questions">Top unanswered questions<a class="headerlink" href="#top-unanswered-questions" title="Permalink">⚓︎</a></h3>
+<p>This table shows you the top unanswered questions in your knowledge base. You can affect this table by uploading new sources which answer the questions or directly writing an expert answer about it </p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/Kd54e7i.png"><img src="https://i.imgur.com/Kd54e7i.png" width="90%"/></a></p>
+<h3 id="what-are-the-frequently-asked-questions">What are the frequently asked questions?<a class="headerlink" href="#what-are-the-frequently-asked-questions" title="Permalink">⚓︎</a></h3>
+<p>Finally, the most frequently asked questions are shown. These can be an important barometer in understanding whether users are finding what they need, regardless of whether they are receiving a generated answer from our system or not.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/pVJYTkj.png"><img src="https://i.imgur.com/pVJYTkj.png" width="90%"/></a></p>
+<h2 id="history"><strong>History</strong><a class="headerlink" href="#history" title="Permalink">⚓︎</a></h2>
+<p>The search history feature provides an overview of all the searches conducted within the system and assess the effectiveness of the system's responses. This tool is particularly valuable as it grants access to both the queries made and the corresponding answers provided to the user, alongside any feedback provided.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/oLF0mjr.png"><img src="https://i.imgur.com/oLF0mjr.png" width="100%"/></a></p>
+<p>In the <code>User Feedback</code> column, you can view the feedback given by the user for each answer. Additionally, the <code>User Comment</code> column includes any additional comments from the user, along with explanations or clarifications regarding their feedback.</p>
+<h2 id="feedback"><strong>Feedback</strong><a class="headerlink" href="#feedback" title="Permalink">⚓︎</a></h2>
+<p>The feedback feature helps editors to respond to user feedback and contribute expert answers for improved system performance. By selecting <code>Edit Answer,</code> users are  redirected to the <a href="#expert-answers">Expert Answers</a> page, where they can create a response to the user's query.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/GsuoKLV.png"><img src="https://i.imgur.com/GsuoKLV.png" width="100%"/></a></p>
+<p>The editing page allows for inclusion of detailed answers and also facilitates the attachment of relevant sources such as <a href="../articles/">articles</a>, <a href="../documents/">documents</a>, and <a href="../tutorials/">tutorials</a> to enhance the credibility of the response.</p>
+<p>The <code>Status</code> indicates whether an answer has been added to the user's feedback. </p>
+<h2 id="expert-answers"><strong>Expert Answers</strong><a class="headerlink" href="#expert-answers" title="Permalink">⚓︎</a></h2>
+<p>Expert Answers: One of the main changes we have introduced is an all-new way to directly and simply answer users' questions.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/RYrP58D.gif"><img src="https://i.imgur.com/RYrP58D.gif" width="80%"/></a></p>
+<p>Whenever a user submits a feedback about the answer they have received or the search results in front of them, a new feedback item will be created. You can answer these feedback items (or unanswered questions, see above) with an Expert Answer.</p>
+<p>Expert answers are the best way to close gaps in your knowledge base. Think of them as similar to a dynamic FAQ list: an editor answer a user's query and any subsequent query that is similar will see the Expert Answer as one of the top sources.</p>
+<p>Expert answers behave much like articles: you can quickly write information and attach images or links to it. The expert answer will also show up on search like other sources, but it will be treated with priority for the query which it answered originally.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/ZpPo2JN.gif"><img src="https://i.imgur.com/ZpPo2JN.gif" width="90%"/></a></p>
+<p>Expert answers can also contain sources, which refer the user to other articles or documents which might help them look up a specific value or data point. Please note that the public visibility of an expert answer might change based on the sources attached: expert answers with private sources are automatically private!</p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<nav aria-label="Footer" class="md-footer__inner md-grid">
+<a aria-label="Previous: Logbook" class="md-footer__link md-footer__link--prev" href="../logbook/" rel="prev">
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</div>
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Previous
+              </span>
+              Logbook
+            </div>
+</div>
+</a>
+<a aria-label="Next: Factory Layout" class="md-footer__link md-footer__link--next" href="../factory_layout/" rel="next">
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Next
+              </span>
+              Factory Layout
+            </div>
+</div>
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
+</div>
+</a>
+</nav>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+<div class="md-copyright__highlight">
+      Copyright © 2025 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
+</div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+<div class="md-social">
+<a class="md-social__link" href="https://www.linkedin.com/company/asmpt-smt-solutions/" rel="noopener" target="_blank" title="ASMPT Virtual Assist on LinkedIn">
+<svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>
+</a>
+<a class="md-social__link" href="mailto:&lt;asm-support.df@asmpt.com&gt;" rel="noopener" target="_blank" title="">
+<svg viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48H48zM0 176v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V176L294.4 339.2a63.9 63.9 0 0 1-76.8 0L0 176z"></path></svg>
+</a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<div class="md-consent" data-md-component="consent" hidden="" id="__consent">
+<div class="md-consent__overlay"></div>
+<aside class="md-consent__inner">
+<form class="md-consent__form md-grid md-typeset" name="consent">
+<h4>Cookie consent</h4>
+<p>Our website uses cookies, which are small text files,  to distinguish you from other users and provide you  with a good experience when you browse our website.  You can allow all or manage them individually. You can find further details of our cookies here: <a href="https://smt.asmpt.com/en/products/software-solutions/virtual-assist/privacy-policy">Privacy policy</a></p>
+<input class="md-toggle" id="__settings" type="checkbox"/>
+<div class="md-consent__settings">
+<ul class="task-list">
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="Imgur" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Imgur
+        <label>
+</label></label></li>
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="analytics" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Google Analytics
+        <label>
+</label></label></li>
+</ul>
+</div>
+<div class="md-consent__controls">
+<button class="md-button md-button--primary">Accept</button>
+<button class="md-button md-button--primary" type="reset">Reject</button>
+<label class="md-button" for="__settings">Manage settings</label>
+</div>
+</form>
+</aside>
+</div>
+<script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
+<script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.sections", "toc.follow"], "search": "../../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+<script src="../../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+<script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+</html>

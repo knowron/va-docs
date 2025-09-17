@@ -1,0 +1,622 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../../../icon.png" rel="icon"/>
+<meta content="mkdocs-1.6.1, mkdocs-material-8.5.10" name="generator"/>
+<title>Virtual Assist Web (Web) - ASMPT Virtual Assist</title>
+<link href="../../../assets/stylesheets/main.975780f9.min.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/palette.2505c338.min.css" rel="stylesheet"/>
+<meta content="#ef5552" name="theme-color"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-ZWQCQKMBGJ"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-ZWQCQKMBGJ",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-ZWQCQKMBGJ",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+<script>var consent;"undefined"==typeof __md_analytics||(consent=__md_get("__consent"))&&consent.analytics&&__md_analytics()</script>
+<link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            
+                .gscrollbar-fixer { padding-right: 15px; }
+                .gdesc-inner { font-size: 0.75rem; }
+                body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+                body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+                body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+                </style><script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+<body data-md-color-accent="red" data-md-color-primary="red" data-md-color-scheme="default" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#schnellstartanleitung-virtual-assist-web-web">
+          Zum Inhalt
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header" data-md-component="header">
+<nav aria-label="Kopfzeile" class="md-header__inner md-grid">
+<a aria-label="ASMPT Virtual Assist" class="md-header__button md-logo" data-md-component="logo" href="../../" title="ASMPT Virtual Assist">
+<img alt="logo" src="../../../logo.png"/>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            ASMPT Virtual Assist
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Virtual Assist Web (Web)
+            
+          </span>
+</div>
+</div>
+</div>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="Sprache wechseln" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="../../../Getting%20Started/quick-start-guide-cs/" hreflang="en">
+                    English
+                  </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="./" hreflang="de">
+                    Deutsch
+                  </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Suche" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Suche" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="Suche" class="md-search__options">
+<button aria-label="Zurücksetzen" class="md-search__icon md-icon" tabindex="-1" title="Zurücksetzen" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="ASMPT Virtual Assist" class="md-nav__button md-logo" data-md-component="logo" href="../../" title="ASMPT Virtual Assist">
+<img alt="logo" src="../../../logo.png"/>
+</a>
+    ASMPT Virtual Assist
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../">
+        Intro
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../faqs/">
+        FAQ
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../updates">
+        Updates
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" id="__nav_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_4">
+          Getting Started
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Getting Started" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_4">
+<span class="md-nav__icon md-icon"></span>
+          Getting Started
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../quick-start-guide-assistant/">
+        Virtual Assist App (Mobile)
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Virtual Assist Web (Web)
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        Virtual Assist Web (Web)
+      </a>
+<nav aria-label="Inhaltsverzeichnis" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-1-melden-sie-sich-bei-der-virtual-assist-web-an">
+    Schritt 1. Melden Sie sich bei der Virtual Assist Web an
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-2-wahlen-sie-eine-produktlinie-aus">
+    Schritt 2. Wählen Sie eine Produktlinie aus
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-3-stellen-sie-eine-frage">
+    Schritt 3. Stellen Sie eine Frage
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-4-feedback-geben">
+    Schritt 4. Feedback geben
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/answers/">
+        KI-generierte Antworten
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/linksharing/">
+        Link Sharing
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../tips-to-get-started/">
+        Tipps für den Einstieg
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" id="__nav_5" type="checkbox"/>
+<label class="md-nav__link" for="__nav_5">
+          Search
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Search" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_5">
+<span class="md-nav__icon md-icon"></span>
+          Search
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/ask_assistant/">
+        Ask Assistant
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/search/">
+        Suche
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/language_priority_in_search/">
+        Sprachpriorität bei der Suche
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6">
+          Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+          Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/logbook/">
+        Logbuch
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Features/ai_powered_reports.md">
+        None
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7">
+          Virtual Assist Web Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Virtual Assist Web Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+          Virtual Assist Web Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/insights/">
+        Einblicke
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/factory_layout/">
+        Fabrik-Layout
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/tutorials/">
+        Tutorials
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/documents/">
+        Dokumente
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/logbook_cs/">
+        Logbuch im Web
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_6" id="__nav_7_6" type="checkbox"/>
+<div class="md-nav__link md-nav__link--index">
+<a href="../../Features/Articles/">Articles</a>
+<label for="__nav_7_6">
+<span class="md-nav__icon md-icon"></span>
+</label>
+</div>
+<nav aria-label="Articles" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_7_6">
+<span class="md-nav__icon md-icon"></span>
+          Articles
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Features/Articles/article_voice_capture.md">
+        None
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/adminpanel/">
+        Verwaltungsbereich
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" id="__nav_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8">
+          Virtual Assist App Features
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Virtual Assist App Features" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_8">
+<span class="md-nav__icon md-icon"></span>
+          Virtual Assist App Features
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/documents_na/">
+        Dokumente
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/logbook_na/">
+        Fahrtenbuch auf dem Handy
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/supportscreen/">
+        Support
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Features/pushnotifications/">
+        Push-Benachrichtigungen
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" id="__nav_9" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9">
+          Admin
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Admin" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_9">
+<span class="md-nav__icon md-icon"></span>
+          Admin
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9_1" id="__nav_9_1" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9_1">
+          Security and Access
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Security and Access" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_9_1">
+<span class="md-nav__icon md-icon"></span>
+          Security and Access
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/product_access_groups/">
+        Produktzugriffsgruppen
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/roles_and_permissions/">
+        Rollen und Berechtigungen
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Admin%20Documentation/Security%20and%20Access/data_security_and_privacy/">
+        FAQs zu Datensicherheit und Datenschutz
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Inhaltsverzeichnis" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-1-melden-sie-sich-bei-der-virtual-assist-web-an">
+    Schritt 1. Melden Sie sich bei der Virtual Assist Web an
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-2-wahlen-sie-eine-produktlinie-aus">
+    Schritt 2. Wählen Sie eine Produktlinie aus
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-3-stellen-sie-eine-frage">
+    Schritt 3. Stellen Sie eine Frage
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schritt-4-feedback-geben">
+    Schritt 4. Feedback geben
+  </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1 id="schnellstartanleitung-virtual-assist-web-web">Schnellstartanleitung: Virtual Assist Web (Web)<a class="headerlink" href="#schnellstartanleitung-virtual-assist-web-web" title="Permalink">⚓︎</a></h1>
+<p>Diese Seite führt Sie durch alles, was Sie wissen müssen, um die <strong>ASMPT Virtual Assist Virtual Assist Web</strong> zu verwenden. Wenn Sie Fragen haben oder Unterstützung benötigen, <a href="https://smt.asmpt.com/en/products/software-solutions/virtual-assist">kontaktieren Sie uns bitte direkt</a>!</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/mL7XYMH.png"><img src="https://i.imgur.com/mL7XYMH.png" width="70%"/></a></p>
+<hr/>
+<h2 id="schritt-1-melden-sie-sich-bei-der-virtual-assist-web-an">Schritt 1. Melden Sie sich bei der Virtual Assist Web an<a class="headerlink" href="#schritt-1-melden-sie-sich-bei-der-virtual-assist-web-an" title="Permalink">⚓︎</a></h2>
+<p>Die Virtual Assist Web ist unter <a href="https://virtualassist.smt.asmpt.com/">virtualassist.smt.asmpt.com</a> erreichbar.</p>
+<p><a class="md-button" href="https://virtualassist.smt.asmpt.com/">Besuchen Sie die Virtual Assist Web</a></p>
+<p>Sie benötigen nur Ihre E-Mail-Adresse und Ihr ASMPT Virtual Assist-Passwort, um sich im System anzumelden. Ihre <strong>E-Mail-Adresse</strong> ist normalerweise Ihre Arbeits-E-Mail. Ihr <strong>Passwort</strong> finden Sie in der E-Mail, die Sie erhalten haben, um Sie zur Teilnahme an Ihrer Organisation auf ASMPT Virtual Assist einzuladen (siehe unten).</p>
+<details class="info">
+<summary>Hilfe beim Finden Ihres Passworts oder Einladungs-E-Mails benötigt?</summary>
+<p><p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/QKwIRJ3.png"><img src="https://i.imgur.com/QKwIRJ3.png" width="100%"/></a><figcaption>Hier finden Sie Ihr Passwort in der Einladungs-E-Mail.</figcaption></p></p>
+<p>Wenn Sie sich nicht an Ihr Passwort erinnern, können Sie es direkt auf <a href="https://virtualassist.smt.asmpt.com/">virtualassist.smt.asmpt.com</a> zurücksetzen. Klicken Sie einfach auf "Passwort vergessen" und folgen Sie den Anweisungen auf dem Bildschirm.</p>
+<p>Wenn Sie keine E-Mail erhalten haben, die Sie zur Nutzung von ASMPT Virtual Assist einlädt, wenden Sie sich bitte an Ihre Kollegen, die damit arbeiten, oder <a href="mailto:asm-support.df@asmpt.com?subject=Anfrage für Zugang&amp;body=Hallo,%0D%0A%0D%0AIch kann nicht auf das System zugreifen. Bitte um Unterstützung.%0D%0A%0D%0ADanke!">fordern Sie hier Zugang an</a>.</p>
+</details>
+<p>Nachdem Sie Ihre E-Mail-Adresse und Ihr Passwort haben, geben Sie sie einfach ein und melden Sie sich an!</p>
+<p align="center">
+<a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/5I1HipS.png"><img src="https://i.imgur.com/5I1HipS.png" width="70%"/></a>
+</p>
+<hr/>
+<h2 id="schritt-2-wahlen-sie-eine-produktlinie-aus">Schritt 2. Wählen Sie eine Produktlinie aus<a class="headerlink" href="#schritt-2-wahlen-sie-eine-produktlinie-aus" title="Permalink">⚓︎</a></h2>
+<p>Nach dem Anmelden sehen Sie eine Übersicht über die Produktlinien, die Ihre Kollegen erstellt haben.</p>
+<p><strong>Produktlinien</strong> repräsentieren die Maschinen, Anlagen oder Prozesse, die Ihre Organisation unterstützt und mit denen Sie täglich arbeiten. Produktlinien dienen dazu, dem ASMPT Virtual Assist-System Kontext zu geben - d.h. worum geht es bei Ihren Fragen?</p>
+<p>Bevor Sie fortfahren können, müssen Sie auswählen, an welcher Produktlinie Sie interessiert sind. Sie müssen einfach darauf klicken, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird sich entfalten, und Sie werden zum Suchbildschirm geleitet.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/8mwTHUW.png"><img src="https://i.imgur.com/8mwTHUW.png" width="80%"/></a></p>
+<hr/>
+<h2 id="schritt-3-stellen-sie-eine-frage">Schritt 3. Stellen Sie eine Frage<a class="headerlink" href="#schritt-3-stellen-sie-eine-frage" title="Permalink">⚓︎</a></h2>
+<p>Jetzt müssen Sie nur noch fragen, was Sie wissen möchten. Geben Sie etwas in die Suchleiste ein und drücken Sie die Eingabetaste. ASMPT Virtual Assist wird dann Ihre gesamte Wissensdatenbank durchsuchen und Ihnen die relevantesten Ergebnisse anzeigen.</p>
+<p>Unten finden Sie eine Beispiel-Interaktion für die Suche nach der Frage <code>Was ist 3D Drücken?</code></p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/DxAwOmD.png"><img src="https://i.imgur.com/DxAwOmD.png" width="70%"/></a></p>
+<p>Wir können Ihnen Ergebnisse aus folgenden Ressourcen anzeigen:</p>
+<ul>
+<li><a href="documents.md">Dokumenten</a></li>
+<li><a href="tutorials.md">Tutorials</a></li>
+<li><a href="../../Features/Articles/">Artikeln</a></li>
+<li><a href="insights.md#expert-answers">Expertenantworten</a> </li>
+</ul>
+<p>In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und vielem mehr anzeigen können!</p>
+<div class="admonition tip">
+<p class="admonition-title">Durch das Stellen von Fragen erhalten Sie bessere Ergebnisse</p>
+<p>ASMPT Virtual Assist verwendet modernste NLP, um zu verstehen, wonach Sie suchen, und die relevantesten Ergebnisse anzuzeigen. Wenn Sie Ihre Anfrage als <strong>Frage</strong> formulieren, erhalten Sie <strong>bessere Ergebnisse</strong>.</p>
+<blockquote>
+<p>Beispiel</p>
+</blockquote>
+<p>Statt <code>Drucker Luftfeuchtigkeit</code> fragen Sie <code>Bei welcher Luftfeuchtigkeit kann der Drucker verwendet werden?</code></p>
+</div>
+<hr/>
+<h2 id="schritt-4-feedback-geben">Schritt 4. Feedback geben<a class="headerlink" href="#schritt-4-feedback-geben" title="Permalink">⚓︎</a></h2>
+<p>ASMPT Virtual Assist kann nur besser werden, wenn Sie Feedback geben! Feedback wird beim Suchalgorithmus berücksichtigt und hilft sogar Ihren Kollegen, bessere Inhalte für alle in Ihrer Organisation zu erstellen.</p>
+<p>Sie können Feedback auf zwei Arten geben:</p>
+<p><strong>Ergebnisse nicht hilfreich</strong></p>
+<p>Durch Klicken auf <code>Ergebnisse nicht hilfreich</code> wird ein Fenster ausgelöst, das es Ihnen ermöglicht, den Grund anzugeben, warum Sie glauben, dass die bereitgestellte Generative Antwort falsch ist.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/FRdYNgK.png"><img src="https://i.imgur.com/FRdYNgK.png" width="80%"/></a></p>
+<p>Sie haben die Möglichkeit, aus den von unserem Team bereitgestellten Kontrollkästchen auszuwählen und/oder Ihre eigenen Gedanken zu den Ergebnissen Ihrer Abfrage hinzuzufügen und Verbesserungsvorschläge zu machen. Unser Team wird sich so schnell wie möglich mit einer Lösung bei Ihnen melden.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/jiemEwq.png"><img src="https://i.imgur.com/jiemEwq.png" width="80%"/></a></p>
+<p><strong>Herabstufen der Generativen Antwort</strong></p>
+<p>Das Herabstufen der Generativen Antwort löst ein Fenster aus, das es Ihnen ermöglicht, Gründe aus einer von unserem Team bereitgestellten Liste auszuwählen, oder Sie können Ihre eigene Erklärung dafür abgeben, warum Sie glauben, dass die Antwort nicht korrekt ist.</p>
+<p align="center"><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="https://i.imgur.com/M3FruL3.png"><img src="https://i.imgur.com/M3FruL3.png" width="80%"/></a></p>
+<p><strong>Hochstufen der Generierten Antwort</strong></p>
+<p>Positive Rückmeldungen durch ein Daumen-hoch-Signal verbessern signifikant die Relevanz und Priorität von Dokumenten in zukünftigen Suchen. Wenn Nutzer angeben, dass ein Dokument wertvoll ist, priorisieren unsere Algorithmen es, verbessern die Sichtbarkeit und stellen sicher, dass hochwertige Inhalte für alle Nutzer leicht zugänglich bleiben.</p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<nav aria-label="Fußzeile" class="md-footer__inner md-grid">
+<a aria-label="Zurück: Virtual Assist App (Mobile)" class="md-footer__link md-footer__link--prev" href="../quick-start-guide-assistant/" rel="prev">
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</div>
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Zurück
+              </span>
+              Virtual Assist App (Mobile)
+            </div>
+</div>
+</a>
+<a aria-label="Weiter: KI-generierte Antworten" class="md-footer__link md-footer__link--next" href="../../Features/answers/" rel="next">
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Weiter
+              </span>
+              KI-generierte Antworten
+            </div>
+</div>
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
+</div>
+</a>
+</nav>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+<div class="md-copyright__highlight">
+      Copyright © 2025 @ ASMPT Virtual Assist GmbH - <a href="#__consent">Change cookie settings</a>
+</div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+<div class="md-social">
+<a class="md-social__link" href="https://www.linkedin.com/company/asmpt-smt-solutions/" rel="noopener" target="_blank" title="ASMPT Virtual Assist on LinkedIn">
+<svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>
+</a>
+<a class="md-social__link" href="mailto:&lt;asm-support.df@asmpt.com&gt;" rel="noopener" target="_blank" title="">
+<svg viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48H48zM0 176v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V176L294.4 339.2a63.9 63.9 0 0 1-76.8 0L0 176z"></path></svg>
+</a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<div class="md-consent" data-md-component="consent" hidden="" id="__consent">
+<div class="md-consent__overlay"></div>
+<aside class="md-consent__inner">
+<form class="md-consent__form md-grid md-typeset" name="consent">
+<h4>Cookie consent</h4>
+<p>Our website uses cookies, which are small text files,  to distinguish you from other users and provide you  with a good experience when you browse our website.  You can allow all or manage them individually. You can find further details of our cookies here: <a href="https://smt.asmpt.com/en/products/software-solutions/virtual-assist/privacy-policy">Privacy policy</a></p>
+<input class="md-toggle" id="__settings" type="checkbox"/>
+<div class="md-consent__settings">
+<ul class="task-list">
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="Imgur" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Imgur
+        <label>
+</label></label></li>
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="analytics" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Google Analytics
+        <label>
+</label></label></li>
+</ul>
+</div>
+<div class="md-consent__controls">
+<button class="md-button md-button--primary">Akzeptieren</button>
+<button class="md-button md-button--primary" type="reset">Ablehnen</button>
+<label class="md-button" for="__settings">Einstellungen</label>
+</div>
+</form>
+</aside>
+</div>
+<script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
+<script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.indexes", "navigation.sections", "toc.follow"], "search": "../../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.config.lang": "de", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Suche", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version.title": "Version ausw\u00e4hlen"}}</script>
+<script src="../../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+<script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+</html>
