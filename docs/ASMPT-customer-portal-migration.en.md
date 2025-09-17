@@ -58,7 +58,7 @@ If you don't yet have a ASMPT Customer Portal account, you can **create one toda
 **A:** Nothing breaks. You can keep using your current Virtual Assist login for now. We’ll share advance notice before portal sign-in becomes required. The ASMPT Customer Portal comes with a number of advantages, so we encourage all users to create an account - its free!
 
 **Q: Who can see and manage licenses?**  
-**A:** License and user management will move to the ASMPT Customer Portal, where organization admins can view and assign Virtual Assist licenses.
+**A:** License management will be handled within Virtual Assist - any admin will be able to assign licenses to other users in the platform. Creation and deletion of users, will happen with the ASMPT Customer Portal
 
 **Q: What’s included in the “limited version” for unlicensed users?**  
 **A:** Unlicensed users can sign in with their portal account to explore a restricted set of Virtual Assist capabilities. Free users will be able to view all available ASMPT documentation. 
